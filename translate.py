@@ -55,7 +55,7 @@ class TranslationEngine:
         if not stripped:
             return None
 
-        # 1. Check exact phrase glossary
+        # 1. Exact phrase glossary
         if stripped in EXACT_PHRASE_GLOSSARY:
             return EXACT_PHRASE_GLOSSARY[stripped]
 
@@ -67,7 +67,17 @@ class TranslationEngine:
                 if is_valid:
                     return translated
 
-        # 3. Check token-masked exact phrase lookup
+        # 3. Check with trailing punctuation removed (. ! ?)
+        if stripped[-1] in (".", "!", "?") and len(stripped) > 2:
+            punc = stripped[-1]
+            base = stripped[:-1].strip()
+            if base in EXACT_PHRASE_GLOSSARY:
+                cand = EXACT_PHRASE_GLOSSARY[base] + punc
+                is_valid, _ = self.shield.verify_tokens(stripped, cand)
+                if is_valid:
+                    return cand
+
+        # 4. Token-masked exact phrase lookup
         masked, token_map = self.shield.mask(stripped)
         untokenized_clean = masked
         for marker in token_map.keys():
@@ -120,21 +130,21 @@ class TranslationEngine:
                 trailing_ws = original_text[len(original_text.rstrip()) :]
                 return f"{leading_ws}{candidate}{trailing_ws}"
 
-        # 5. Check if wrapped in ~s~...~s~
-        if stripped.startswith("~s~") and (stripped.endswith("~s~") or stripped.endswith("~s~.")):
-            has_trailing_period = stripped.endswith("~s~.")
-            inner = stripped[3:-3] if not has_trailing_period else stripped[3:-4]
-            inner_candidate = self._match_and_translate_phrase(inner)
-            if inner_candidate is not None:
-                reconstructed = (
-                    f"~s~{inner_candidate}~s~." if has_trailing_period else f"~s~{inner_candidate}~s~"
-                )
-                is_valid, _ = self.shield.verify_tokens(stripped, reconstructed)
-                if is_valid:
-                    self.cache[stripped] = reconstructed
-                    leading_ws = original_text[: len(original_text) - len(original_text.lstrip())]
-                    trailing_ws = original_text[len(original_text.rstrip()) :]
-                    return f"{leading_ws}{reconstructed}{trailing_ws}"
+        # 5. Check if wrapped in ~s~...~s~ (or with punctuation like ~s~. or ~s~!)
+        if stripped.startswith("~s~"):
+            for end_marker in ("~s~", "~s~.", "~s~!", "~s~?"):
+                if stripped.endswith(end_marker):
+                    inner = stripped[3 : -len(end_marker)]
+                    trailing_punc = end_marker[3:]
+                    inner_candidate = self._match_and_translate_phrase(inner)
+                    if inner_candidate is not None:
+                        reconstructed = f"~s~{inner_candidate}~s~{trailing_punc}"
+                        is_valid, _ = self.shield.verify_tokens(stripped, reconstructed)
+                        if is_valid:
+                            self.cache[stripped] = reconstructed
+                            leading_ws = original_text[: len(original_text) - len(original_text.lstrip())]
+                            trailing_ws = original_text[len(original_text.rstrip()) :]
+                            return f"{leading_ws}{reconstructed}{trailing_ws}"
 
         # If not confidently translatable yet, safely return original text
         return original_text

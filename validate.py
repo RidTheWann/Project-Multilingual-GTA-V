@@ -1,23 +1,31 @@
 #!/usr/bin/env python3
 """
-GTA V Localization Validation Suite.
-Compares original .oxt files in locales/original/ with translated files in locales/id/.
-Guarantees absolute LHS key identity, structural integrity, and token preservation.
+GTA V Localization Validation & Quality Assurance Suite.
+Strictly verifies:
+1. Absolute LHS key identity (indentation, key name, spacing before '=')
+2. Key count, ordering, and 0 missing/added keys
+3. Exact token, placeholder, markup, and escape sequence parity
+4. File encoding (UTF-8 with BOM) and CRLF line endings
+5. Quality Assurance heuristics (duplicate words, abnormal length ratios, untranslated English)
 """
 
 import os
 import sys
 import glob
 import json
+import re
 import argparse
-from typing import List, Dict, Tuple, Any
+from typing import List, Dict, Tuple, Any, Set
 
 from tools.token_shield import TokenShield
 
 shield = TokenShield()
 
+# Regex to detect consecutive duplicated words (e.g. "dan dan", "ke ke", "di di")
+DUPLICATE_WORDS_REGEX = re.compile(r"\b([a-zA-Z]{3,})\s+\1\b", re.IGNORECASE)
+
 class LocalizationValidator:
-    def __init__(self, original_dir: str, translated_dir: str):
+    def __init__(self, original_dir: str = "locales/original", translated_dir: str = "locales/id"):
         self.original_dir = original_dir
         self.translated_dir = translated_dir
 
@@ -38,17 +46,17 @@ class LocalizationValidator:
             errors.append(f"File does not exist: {filepath}")
             return headers, entries, errors
 
-        # 1. Byte-level checks: Encoding (BOM) & Line Endings
         with open(filepath, "rb") as bf:
             raw = bf.read()
 
+        # 1. Byte-level checks: Encoding (BOM) & Line Endings
         if not raw.startswith(b"\xef\xbb\xbf"):
             errors.append("Encoding Error: Missing UTF-8 BOM (0xEF 0xBB 0xBF)")
 
         if b"\r\n" not in raw and len(raw) > 30:
             errors.append("Line Ending Error: File does not use CRLF line endings")
 
-        # 2. Text parsing
+        # 2. Text decoding
         try:
             content = raw.decode("utf-8-sig")
         except UnicodeDecodeError as e:
@@ -84,6 +92,7 @@ class LocalizationValidator:
                     errors.append(f"Line {line_no}: Missing '=' delimiter: {repr(line)}")
                     continue
 
+                # Split STRICTLY on the first '='
                 parts = line.split("=", 1)
                 prefix = parts[0] + "="
                 key_name = parts[0].strip()
@@ -99,7 +108,6 @@ class LocalizationValidator:
 
                 entries.append((prefix, key_name, val_text))
             else:
-                # Outside block and not Version header
                 errors.append(f"Line {line_no}: Content outside braces: {repr(line)}")
 
         return headers, entries, errors
@@ -113,6 +121,7 @@ class LocalizationValidator:
             "status": "PASS",
             "errors": [],
             "warnings": [],
+            "qa_warnings": [],
             "total_entries": 0,
             "translated_entries": 0,
             "identical_entries": 0,
@@ -132,12 +141,11 @@ class LocalizationValidator:
             result["status"] = "FAIL"
             result["errors"].extend(trans_errs)
 
-        # Compare headers
+        # Header check
         if orig_headers != trans_headers:
             result["status"] = "FAIL"
             result["errors"].append(f"Header mismatch: Expected {orig_headers}, got {trans_headers}")
 
-        # Compare entry counts
         result["total_entries"] = len(orig_entries)
         if len(orig_entries) != len(trans_entries):
             result["status"] = "FAIL"
@@ -146,11 +154,11 @@ class LocalizationValidator:
             )
             return result
 
-        # Strict Left-Hand-Side & Key Order Validation
+        # Strict Key & LHS Matching + Token & QA Checks
         for idx, ((orig_prefix, orig_key, orig_val), (trans_prefix, trans_key, trans_val)) in enumerate(
             zip(orig_entries, trans_entries)
         ):
-            # 1. Check EXACT key equality
+            # 1. Exact key equality
             if orig_key != trans_key:
                 result["status"] = "FAIL"
                 result["errors"].append(
@@ -158,26 +166,48 @@ class LocalizationValidator:
                 )
                 continue
 
-            # 2. Check EXACT prefix (indentation and spacing before '=')
+            # 2. Exact LHS prefix equality (indentation and spacing before '=')
             if orig_prefix != trans_prefix:
                 result["status"] = "FAIL"
                 result["errors"].append(
-                    f"Entry {idx + 1} ({orig_key}): LHS indentation or spacing mismatch! "
+                    f"Entry {idx + 1} ({orig_key}): LHS prefix mismatch! "
                     f"Original {repr(orig_prefix)} != Translated {repr(trans_prefix)}"
                 )
 
-            # 3. Check Token and Placeholder preservation
+            # 3. Token & placeholder parity
             is_valid, token_errs = shield.verify_tokens(orig_val, trans_val)
             if not is_valid:
                 result["status"] = "FAIL"
                 for terr in token_errs:
                     result["errors"].append(f"Entry {idx + 1} ({orig_key}): {terr}")
 
-            # 4. Check Translation Status Metrics
-            if orig_val.strip() == trans_val.strip():
+            # 4. Translation status tracking
+            orig_clean = orig_val.strip()
+            trans_clean = trans_val.strip()
+
+            if orig_clean == trans_clean:
                 result["identical_entries"] += 1
             else:
                 result["translated_entries"] += 1
+
+                # QA Heuristic 1: Accidental duplicate words (e.g. "dan dan", "ke ke")
+                dup_match = DUPLICATE_WORDS_REGEX.search(trans_clean)
+                if dup_match:
+                    result["qa_warnings"].append(
+                        f"Entry {idx + 1} ({orig_key}): Possible duplicate word '{dup_match.group(0)}'"
+                    )
+
+                # QA Heuristic 2: Extreme length ratio anomaly (> 3.5x longer or < 0.25x shorter on long strings)
+                if len(orig_clean) > 25:
+                    ratio = len(trans_clean) / len(orig_clean)
+                    if ratio > 3.5:
+                        result["qa_warnings"].append(
+                            f"Entry {idx + 1} ({orig_key}): Suspiciously long translation ({len(trans_clean)} vs {len(orig_clean)} chars)"
+                        )
+                    elif ratio < 0.25:
+                        result["qa_warnings"].append(
+                            f"Entry {idx + 1} ({orig_key}): Suspiciously short translation ({len(trans_clean)} vs {len(orig_clean)} chars)"
+                        )
 
         if result["errors"]:
             result["status"] = "FAIL"
@@ -186,14 +216,17 @@ class LocalizationValidator:
 
     def validate_all(self, target_files: List[str] = None) -> Dict[str, Any]:
         if not target_files:
-            # Check all translated files currently present in translated_dir
-            trans_files = [os.path.basename(f) for f in glob.glob(os.path.join(self.translated_dir, "*.oxt"))]
-            if not trans_files:
-                print(f"No translated .oxt files found in {self.translated_dir} to validate.")
-                return {"summary": {"total_files": 0, "passed": 0, "failed": 0}, "results": []}
-            files_to_check = sorted(trans_files)
+            orig_files = set(os.path.basename(f) for f in glob.glob(os.path.join(self.original_dir, "*.oxt")))
+            trans_files = set(os.path.basename(f) for f in glob.glob(os.path.join(self.translated_dir, "*.oxt")))
+
+            missing_in_target = orig_files - trans_files
+            unexpected_in_target = trans_files - orig_files
+
+            files_to_check = sorted(list(trans_files))
         else:
             files_to_check = target_files
+            missing_in_target = set()
+            unexpected_in_target = set()
 
         results = []
         passed = 0
@@ -201,6 +234,7 @@ class LocalizationValidator:
         total_orig_entries = 0
         total_trans_entries = 0
         total_identical = 0
+        total_qa_warnings = 0
 
         for f in files_to_check:
             res = self.validate_pair(f)
@@ -212,25 +246,29 @@ class LocalizationValidator:
             total_orig_entries += res["total_entries"]
             total_trans_entries += res["translated_entries"]
             total_identical += res["identical_entries"]
+            total_qa_warnings += len(res["qa_warnings"])
 
         summary = {
             "total_files": len(files_to_check),
             "passed": passed,
             "failed": failed,
+            "missing_in_target": len(missing_in_target),
+            "unexpected_in_target": len(unexpected_in_target),
             "total_entries": total_orig_entries,
             "translated_entries": total_trans_entries,
             "identical_entries": total_identical,
+            "total_qa_warnings": total_qa_warnings,
         }
 
         return {"summary": summary, "results": results}
 
 def main():
-    parser = argparse.ArgumentParser(description="GTA V Localization Validator")
+    parser = argparse.ArgumentParser(description="GTA V Localization Validator & QA Suite")
     parser.add_argument("--original-dir", default="locales/original", help="Path to original .oxt directory")
     parser.add_argument("--translated-dir", default="locales/id", help="Path to translated .oxt directory")
-    parser.add_argument("--files", nargs="*", help="Specific files to validate (e.g. prolog.oxt abgail2.oxt)")
+    parser.add_argument("--files", nargs="*", help="Specific files to validate")
     parser.add_argument("--report", default="reports/validation_report.json", help="Path to output JSON report")
-    parser.add_argument("--quiet", action="store_true", help="Minimal console output")
+    parser.add_argument("--qa", action="store_true", help="Print detailed QA warnings")
     args = parser.parse_args()
 
     validator = LocalizationValidator(args.original_dir, args.translated_dir)
@@ -242,15 +280,18 @@ def main():
 
     summary = audit["summary"]
     print("=" * 60)
-    print("GTA V LOCALIZATION VALIDATION AUDIT")
+    print("GTA V LOCALIZATION VALIDATION & QA AUDIT")
     print("=" * 60)
-    print(f"Files Evaluated:    {summary['total_files']}")
-    print(f"Passed:             {summary['passed']}")
-    print(f"Failed:             {summary['failed']}")
-    print(f"Total Entries:      {summary['total_entries']}")
-    print(f"Translated:         {summary['translated_entries']}")
-    print(f"Identical / Untrans:{summary['identical_entries']}")
-    print(f"Report Generated:   {args.report}")
+    print(f"Files Evaluated:       {summary['total_files']}")
+    print(f"Passed:                {summary['passed']}")
+    print(f"Failed:                {summary['failed']}")
+    print(f"Missing in target:     {summary['missing_in_target']}")
+    print(f"Unexpected in target:  {summary['unexpected_in_target']}")
+    print(f"Total Entries:         {summary['total_entries']}")
+    print(f"Translated Entries:    {summary['translated_entries']}")
+    print(f"Identical / Untrans:   {summary['identical_entries']}")
+    print(f"QA Warnings:           {summary['total_qa_warnings']}")
+    print(f"Audit Report:          {args.report}")
     print("=" * 60)
 
     if summary["failed"] > 0:
@@ -265,6 +306,11 @@ def main():
         sys.exit(1)
     else:
         print("\nAll validation checks PASSED. Absolute LHS key integrity verified.")
+        if args.qa and summary["total_qa_warnings"] > 0:
+            print("\nQA Warnings Summary:")
+            for res in audit["results"]:
+                for qw in res["qa_warnings"][:5]:
+                    print(f"  [{res['filename']}] {qw}")
         sys.exit(0)
 
 if __name__ == "__main__":
