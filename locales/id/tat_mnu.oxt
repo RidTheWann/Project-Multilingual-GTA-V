@@ -18,7 +18,7 @@
 	0xB75A5A5C = Dragons and Skull
 	0xC680C7B0 = Torso - Stomach
 	0xE5183E27 = Skull and Serpent
-	0xEBC551C9 = Sorry - you already have this item.
+	0xEBC551C9 = Maaf - kamu sudah memiliki item ini.
 	TAT_AFF = Maaf - kamu tidak mampu membeli item ini.
 	TAT_BUY = Item telah dibeli.
 	TAT_BUYDLC = ~a~ item purchased.
@@ -217,7 +217,7 @@
 	TAT_TRV_34 = Impotent Rage
 	TAT_UNLOCK = This item will unlock when you reach Rank ~1~.
 	TAT_UNLOCK_M = New items have been unlocked.
-	TAT_UNLOCK_N = This item has just been unlocked.
+	TAT_UNLOCK_N = Item ini baru saja terbuka.
 	TAT_ZONE_0 = Torso
 	TAT_ZONE_1 = Head
 	TAT_ZONE_2 = Left Arm

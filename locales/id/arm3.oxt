@@ -31,7 +31,7 @@
 	ARM3_CAR2 = ~s~Get back in the ~b~car.~s~
 	ARM3_DEST = ~s~Take the car to the ~y~dealership.~s~
 	ARM3_FAIL = ~s~Misi Gagal~s~
-	ARM3_FCOPSALERT = ~s~The Cops were alerted.~s~
+	ARM3_FCOPSALERT = ~s~Polisi disiagakan.~s~
 	ARM3_FDISRUPT = ~s~Simeon's deal was disrupted.~s~
 	ARM3_FEXP = ~s~The dealership was trashed.~s~
 	ARM3_FIND = ~s~Find a way into the house.~s~

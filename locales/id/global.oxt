@@ -124,7 +124,7 @@
 	0x007A9488 = Search the building for the maintenance outfits.
 	0x007BE83F = Bike Service
 	0x007DAFF8 = Security Door
-	0x007DE37E = MISSION PASSED
+	0x007DE37E = MISI BERHASIL
 	0x007F032D = Middle Aged
 	0x0082AC2C = Hunt the Beast will begin shortly. Press ~INPUT_CONTEXT~ to have a chance of becoming the Beast. If you or your President become the Beast, you will be removed from the Motorcycle Club.
 	0x0083B10B = Purple Smoke
@@ -186,7 +186,7 @@
 	0x00C6FDFE = IAA underground entrance was not located
 	0x00C20B61 = View In Mission Creator
 	0x00C20E67 = Complete all Lowrider missions
-	0x00C75C5B = Lose the Cops
+	0x00C75C5B = Lolos dari kejaran Polisi
 	0x00C50478 = Task: Getaway Vehicle
 	0x00C94935 = Kimble Hill Drive
 	0x00CB2655 = You can't enter the Penthouse Garage or Casino Parking Lot while on call. You can cancel this via the Quick Join app on the phone.
@@ -327,7 +327,7 @@
 	0x016E8D10 = Press ~INPUT_VEH_CIN_CAM~ to focus on the cat.
 	0x016E69C6 = Front Fenders
 	0x016F735F = Deliver weapons in a Duster 300-H for Oscar as part of Arms Trafficking to unlock the trade price for this vehicle.
-	0x016FD8DE = Respray
+	0x016FD8DE = Cat Ulang
 	0x01708814 = Purchase of this Salvage Yard has been canceled.
 	0x017180CC = Collect the golfing equipment and run over the target with a golf buggy.
 	0x0173D8D4 = Heavy Sniper Mk II Thermal Scope
@@ -440,7 +440,7 @@
 	0x01F9E4BD = The targets were protected
 	0x01F26CD0 = A rival player
 	0x01F66ECE = You can't enter the Auto Shop with the Mobile Operations Center.
-	0x01FAFB1E = MISSION PASSED
+	0x01FAFB1E = MISI BERHASIL
 	0x01FBC278 = View information about your weapons.
 	0x01FC3456 = You can't enter The Vinewood Club Garage while selling vehicles from a Warehouse.
 	0x01FFAAE6 = Lime Green
@@ -2019,7 +2019,7 @@
 	0x08E85CB8 = Okay, lose the cops then bring it in.
 	0x08EA4A1D = Friends 5,418,932
 	0x08EFC7AA = High Back Leather Chair
-	0x08F0354D = Business
+	0x08F0354D = Bisnis
 	0x08F05DDC = Humpy Pink
 	0x08F05FA9 = Press ~INPUT_CONTEXT~ to access reception services.
 	0x08F7ADB3 = You delivered a Dinghy.
@@ -2576,7 +2576,7 @@
 	0x0B59A311 = Go to ~a~.
 	0x0B60B108 = HSW: Del Perro Beach
 	0x0B61EF61 = You have been invited to a Job. Lose your Wanted Level to join.
-	0x0B63B73B = Respray
+	0x0B63B73B = Cat Ulang
 	0x0B65E95D = Los Santos Triads
 	0x0B68A822 = Wigwam Sweater
 	0x0B69C4D2 = Sprunk
@@ -2629,7 +2629,7 @@
 	0x0B169926 = You visited all Locations in Director Mode.
 	0x0B189450 = Please note: Your chosen tint will be installed after you complete the Auto Shop setup.
 	0x0B211835 = Lime Green headlights
-	0x0B318281 = Lose the Cops
+	0x0B318281 = Lolos dari kejaran Polisi
 	0x0B342678 = When driving a Faction Custom Donk hold ~INPUT_VEH_HYDRAULICS_CONTROL_TOGGLE~ and move ~INPUTGROUP_VEH_HYDRAULICS_CONTROL~ to activate the hydraulics.
 	0x0B396244 = Find a new session for you to join and start playing in.
 	0x0B435848 = Steal a mysterious artifact currently in the possession of Merryweather.
@@ -2936,7 +2936,7 @@
 	0x0CE1E453 = ULP - Intelligence
 	0x0CE2CE64 = PREP: PILOT
 	0x0CE3C008 = Search for a Galaxy Super Yacht at the last known GPS coordinates.
-	0x0CE3F5B6 = MASKS
+	0x0CE3F5B6 = TOPENG
 	0x0CE5AB2D = You can't enter the Hands On Car Wash with the RC Bandito.
 	0x0CE21E22 = Hey, Tom Connors here. I just wanted you to know I've rarely seen Ms Baker so impressed with someone, and I've been trying for a while now. If you ever need more work, I have no doubt she could find a well-paid use for you. Give her a call sometime.
 	0x0CE29B0D = El Gordo Lighthouse
@@ -3074,7 +3074,7 @@
 	0x0D362584 = No Crash Challenge
 	0x0D432487 = Hold ~INPUT_FRONTEND_RIGHT~ to view the different sets of goods.
 	0x0D480811 = Complete all Casino Story Missions as Leader to earn $100,000 and a bonus item.
-	0x0D536062 = ~HUD_COLOUR_WHITE~MISSION PASSED
+	0x0D536062 = ~HUD_COLOUR_WHITE~MISI BERHASIL
 	0x0D628545 = Dealer Hand~n~~a~
 	0x0D637522 = Use ~INPUT_SCRIPT_LEFT_AXIS_X~ to change pose.~n~Press ~INPUT_FRONTEND_X~ to watch DJ live stream.~n~Press ~INPUT_FRONTEND_RIGHT~ to stand up.
 	0x0D655811 = Vapid Caracara (Armored)
@@ -3446,7 +3446,7 @@
 	0x0F6BEF5F = Your Cocaine Lockup is no longer producing Cocaine. The technician assigned to accrue Cocaine is no longer assigned. Check the warehouse management page to reassign him.
 	0x0F6CD149 = You don't own this business.
 	0x0F6D97E4 = Triathlon
-	0x0F6D1793 = Business Casual
+	0x0F6D1793 = Bisnis Santai
 	0x0F6E5CB7 = Master Bedroom
 	0x0F6E6CD4 = Ducktail Spoiler
 	0x0F7ACBCD = ~a~ destroyed the DH-7 Iron Mule.
@@ -4277,7 +4277,7 @@
 	0x1CD85CF2 = Delivery Bike
 	0x1CD87C43 = Cavalcade XL
 	0x1CD375B2 = The Gangbanger Robbery Masks
-	0x1CD625CA = Lose the Cops.
+	0x1CD625CA = Lolos dari kejaran Polisi.
 	0x1CD68324 = Purple Classic Racing Suit
 	0x1CDA3A46 = Altruists
 	0x1CDA74AF = The Kosatka is a driveable submarine that can be equipped with guided missiles, moon pool vehicles, and sonar to detect underwater hidden caches. It also gives you access to The Cayo Perico Heist as a Boss via the control room Planning Screen.
@@ -5201,7 +5201,7 @@
 	0x2AF5E460 = ~a~ collected the client.
 	0x2AF71B92 = Accept the invite to Record A Studios ~BLIP_MUSIC_STUDIO~ to watch an exclusive recording session by Dr. Dre and Anderson .Paak.
 	0x2AF164B7 = Keypad
-	0x2AF32511 = RESPRAY
+	0x2AF32511 = CAT ULANG
 	0x2AFA318C = Black
 	0x2AFD177D = Fat (Male)
 	0x2AFD9799 = You collected an Air-Freight Shipment.
@@ -5552,7 +5552,7 @@
 	0x2C538687 = This has to be it.
 	0x2C609260 = Press ~INPUT_CONTEXT~ to buzz the Agency.
 	0x2C647116 = Shotgun fitted for slugs only. Make sure the next thing to pass through their mind after "they can't hit me with a shotgun at this range" is a lump of semi-molten lead.
-	0x2C653630 = MISSION PASSED
+	0x2C653630 = MISI BERHASIL
 	0x2C667720 = HVY Apocalypse Scarab
 	0x2C677311 = Moss Vent
 	0x2C742722 = The house security will become alerted if you enter their field of vision.
@@ -6430,7 +6430,7 @@
 	0x3A30C437 = Spend between GTA$3,000,000 and GTA$4,000,000.
 	0x3A30E2BC = Collect the ~HUD_COLOUR_YELLOW~checkpoints.~s~
 	0x3A40C3F2 = Player Text Messages
-	0x3A44AC19 = Lose the Cops.
+	0x3A44AC19 = Lolos dari kejaran Polisi.
 	0x3A44FD8E = THIS LABEL NEEDS TO BE HERE !!!
 	0x3A54FE4A = Enter the ~HUD_COLOUR_YELLOW~bail office.~s~
 	0x3A66B8A4 = Wait for your ~v~team~s~ to lose the Cops.
@@ -6466,7 +6466,7 @@
 	0x3A577E9D = NICKNAME
 	0x3A635E28 = Previous Space
 	0x3A653F69 = Happy Holidays from Rockstar! You have been awarded:~n~Minigun Sweater~n~Festive Lights Bodysuit~n~Minigun + Ammo~n~Firework Launcher~n~20 x Firework Rockets~n~Full Snacks~n~Full Armor~n~25 x Sticky Bombs~n~25 x Grenades~n~5 x Proximity Mines~n~10 x Molotovs
-	0x3A663DEA = 8th Place
+	0x3A663DEA = Peringkat 8
 	0x3A738F85 = The ~a~ was not delivered on time
 	0x3A966B1F = Do you have what it takes to be the next big thing? Smile, because you could be on GTA Online TV.
 	0x3A997F1E = 5/6 (x0.834)
@@ -6815,7 +6815,7 @@
 	0x3C050309 = Brute refutes bribery claims, donates to animal shelter.
 	0x3C058B45 = All Exit
 	0x3C0671AA = Lose the cops before delivering the Heist Prep Equipment.
-	0x3C06EEE2 = Windows
+	0x3C06EEE2 = Kaca
 	0x3C099809 = Transform Series
 	0x3C0C01A7 = Break into the ~a~.
 	0x3C0F882B = Empty Cockpit
@@ -6962,7 +6962,7 @@
 	0x3CAC25F7 = Eliminate Tony's head of security ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ and search him for the control codes.
 	0x3CACDE83 = La Puerta
 	0x3CAE1198 = Exterior Side Entrance
-	0x3CAF427C = 7th Place
+	0x3CAF427C = Peringkat 7
 	0x3CAF4318 = Well I'll Be!
 	0x3CAFF95E = Remove tracker
 	0x3CB06B30 = Mati
@@ -10160,7 +10160,7 @@
 	0x5F9B7D2F = Destroy all the jammers marked on the map to reveal the location of the Cargo.
 	0x5F9BC62B = ~a~ loaded the Supplies.
 	0x5F9CDB01 = AXIS LRY
-	0x5F9D8858 = 4th Place
+	0x5F9D8858 = Peringkat 4
 	0x5F9F2118 = You can't access Higgins Helitours while wearing the Ballistic Equipment.
 	0x5F12BB21 = We can't keep this truck in the yard, but I know where we can. Head to this drop off and my guy will keep it safe until the halftime show.
 	0x5F15C0DA = Tujuan
@@ -10311,7 +10311,7 @@
 	0x5FE59152 = GREAT OCEAN HIGHWAY, LAGO ZANCUDO
 	0x5FE72586 = Ms. Baker
 	0x5FEAAB0D = Get the Meth
-	0x5FEB5D3B = MASKS
+	0x5FEB5D3B = TOPENG
 	0x5FED4CB7 = Change the color of the lights in the LS Car Meet space.
 	0x5FEE2991 = Invention Court
 	0x5FEEE3C8 = Take on Series A Funding.
@@ -10402,7 +10402,7 @@
 	0x6A45EA7D = ~a~~s~ eliminated a Lieutenant.
 	0x6A47D759 = ~a~ destroyed LSPD equipment.
 	0x6A48E7DA = You collected the radio tracker.
-	0x6A50CA66 = MISSION PASSED
+	0x6A50CA66 = MISI BERHASIL
 	0x6A51AF64 = Crevis announces sponsorship of mountain climbing perverts.
 	0x6A54A453 = Drive one of the test rides for 120 minutes inside the Test Track.
 	0x6A54AD40 = Cage
@@ -10888,7 +10888,7 @@
 	0x6CB76A96 = The Mammoth Patriot is now available on southernsanandreassuperautos.com, along with a range of new mods purchasable from LS Customs.
 	0x6CB96FBE = You have been awarded the following chameleon body paints:~n~~a~~n~~a~~n~Visit an appropriate mod shop or vehicle workshop to apply one of these body paints.
 	0x6CB261FB = Assault Rifles
-	0x6CB97887 = Pants
+	0x6CB97887 = Celana
 	0x6CBCF85F = Popular Street
 	0x6CBD3384 = Race to the Fleeca on ~HUD_COLOUR_YELLOW~Vespucci Boulevard.
 	0x6CBF5A1B = Champagne Hoodie
@@ -10973,7 +10973,7 @@
 	0x6D2ACEBA = Get ~1~ kill with the Stone Hatchet in GTA Online to unlock a GTA$ reward and exclusive access to this weapon in Red Dead Redemption 2.
 	0x6D2B2EA0 = ~a~~s~ collected Sessanta's car.
 	0x6D2E7F5A = There are no other players available to join in a private Test Track.
-	0x6D2EDE84 = Aim
+	0x6D2EDE84 = Bidikan
 	0x6D3A5722 = The Clucker
 	0x6D3ACC07 = DEFENSES
 	0x6D3B9D03 = Grindy
@@ -11051,7 +11051,7 @@
 	0x6D720B62 = Press ~INPUT_DROP_AMMO~ to drop ammo. ~n~
 	0x6D725FD2 = Elevator Key
 	0x6D735FF2 = Querying Rockstar Games. Please wait...
-	0x6D772A10 = Armor Upgrade 80%
+	0x6D772A10 = Peningkatan Pelindung 80%
 	0x6D862AF2 = Sweet! Next heli's loaded up for the next delivery.
 	0x6D876C33 = Find the evidence.
 	0x6D959E1F = Gold JC Helmet
@@ -11906,7 +11906,7 @@
 	0x7B4F8DC5 = The target was eliminated
 	0x7B4FBBB5 = Complete 10 jobs at the Hands On Car Wash, Smoke on the Water, or Higgins Helitours
 	0x7B4FCFC5 = You successfully delivered the ~a~
-	0x7B5A95D1 = Shoes
+	0x7B5A95D1 = Sepatu
 	0x7B5C3709 = Avoid acting suspiciously near Bolingbroke Penitentiary. Prison guards will be alerted if you aim at them or use unsilenced weapons.
 	0x7B5E3DA0 = @rockford_captain67 First the overcooked duck breast, now thanks to some terrorists blowing up a boat at the Port of South Los Santos the Yacht Club wants to install an xray machine. What next...women in the clubhouse? #havingabadday
 	0x7B5ED146 = 8
@@ -12002,7 +12002,7 @@
 	0x7BA994B2 = Trevor
 	0x7BA1199A = Franklin: A street hustler looking for real opportunities and serious money.
 	0x7BA1874F = Sell Special Cargo
-	0x7BA9291F = Brakes
+	0x7BA9291F = Rem
 	0x7BAA2BB2 = Cobble Vent
 	0x7BACEF93 = ~a~~s~ delivered the explosives.
 	0x7BB04716 = Grapeseed
@@ -12678,7 +12678,7 @@
 	0x7EBB25E8 = View the options available to you as Sergeant-at-Arms of the Motorcycle Club.
 	0x7EBE0FC5 = Retrieve the ~b~van.
 	0x7EBE1D64 = The Jester
-	0x7EBF46E3 = 2nd Place
+	0x7EBF46E3 = Juara 2
 	0x7EC4CD3D = An error has occurred. You don't have enough cash. The setup cost is $~1~.
 	0x7EC6E099 = You delivered the ~a~.
 	0x7EC6F6B7 = TRACKER
@@ -13404,7 +13404,7 @@
 	0x8C0A8A5F = Complete a Club Management mission
 	0x8C0CFE7D = Destroy rival Nightclub vehicles ~HUD_COLOUR_RED~~BLIP_BAT_RIVAL_CLUB~~s~ to earn cash, RP and increase the popularity of ~a~.
 	0x8C1A4F70 = ~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the security van.
-	0x8C1AF2BE = MASKS
+	0x8C1AF2BE = TOPENG
 	0x8C1C1F17 = Emperor
 	0x8C1E960A = Your purchased games can be placed around the Arcade via the Arcade Management section of the Interaction Menu or when sat at the arcade laptop.
 	0x8C1F2A40 = Run around and do cool stuff.
@@ -13424,7 +13424,7 @@
 	0x8C4B3E58 = Stolen Comet recovered
 	0x8C4D2000 = control tower
 	0x8C4DC382 = LEFT ALT
-	0x8C5CE21E = 1st Place
+	0x8C5CE21E = Juara 1
 	0x8C5D87EC = Summary of Bets
 	0x8C5E05F4 = Agency
 	0x8C5E87D5 = Skill Awards
@@ -13585,7 +13585,7 @@
 	0x8CF472DA = ~ws~~ws~~ws~
 	0x8CF771E7 = The Standby
 	0x8CF1895D = DockTease.com
-	0x8CF3081F = Business
+	0x8CF3081F = Bisnis
 	0x8CF20578 = Dark Red
 	0x8CFA70DE = Help your team to take out the ~a~.
 	0x8CFB02B7 = PLAY WAGER
@@ -13871,7 +13871,7 @@
 	0x8E4B94D4 = Deliver the container to the ~HUD_COLOUR_YELLOW~Casino.~s~
 	0x8E4BF56E = You have to unlock all Job types to join a random Playlist.
 	0x8E4C8701 = You are using the South Turret.~n~Use ~INPUT_SNIPER_ZOOM~ to zoom in/out. ~n~Press ~INPUT_ATTACK~ to fire the cannon. ~n~Press ~INPUT_SCRIPT_LT~ to fire the machine gun. ~n~Press ~INPUT_SCRIPT_RRIGHT~ to go back. ~n~Press ~INPUT_FRONTEND_LB~ or ~INPUT_FRONTEND_RB~ to switch cameras.
-	0x8E4CD6F6 = Business
+	0x8E4CD6F6 = Bisnis
 	0x8E4D029B = Invite players to your Auto Shop.
 	0x8E4F8033 = Win 20 Deathmatches
 	0x8E5A0BF5 = Alta
@@ -15388,7 +15388,7 @@
 	0x9EB40232 = Wavy Bob Brown
 	0x9EB91286 = ~a~ were stolen and taken to a police station
 	0x9EB93225 = Help take the ~HUD_COLOUR_BLUE~friends~s~ to the ~HUD_COLOUR_YELLOW~Nightclub.~s~
-	0x9EBB3515 = Lose the Cops.
+	0x9EBB3515 = Lolos dari kejaran Polisi.
 	0x9EBE83A0 = Hack into the laptops ~HUD_COLOUR_GREEN~~BLIP_LAPTOP~~s~ upstairs to locate the target.
 	0x9EC6ACB8 = @FRUIT Fruitpad 6 announced! Available in 2 months! Lines already forming at Fruit stores. Get in line now!
 	0x9EC8DF1C = Press ~INPUT_CONTEXT~ to order table service.
@@ -15584,7 +15584,7 @@
 	0x9FB22D42 = BOULEVARD DEL PERRO<br>ROCKFORD HILLS<br>LOS SANTOS
 	0x9FB30EA9 = Collect ~HUD_COLOUR_BLUE~Miranda Cowan.~s~
 	0x9FB50DC9 = Unavailable while you have the Kosatka active.
-	0x9FB94F2C = Replay
+	0x9FB94F2C = Putar Ulang
 	0x9FB705BC = Help take the ~HUD_COLOUR_BLUE~high rollers~s~ to the Casino.
 	0x9FB939C0 = Purchase Technical Aqua from warstock-cache-and-carry.com to unlock this VIP Work.
 	0x9FB11864 = Source Animal Materials for your Hangar.
@@ -15598,7 +15598,7 @@
 	0x9FC19792 = Target: Ornamental Egg
 	0x9FCC90B8 = ~a~~s~ exited the Business Supplies vehicle.
 	0x9FCCB1AA = Lowrider Envy
-	0x9FCE3DA6 = Casual
+	0x9FCE3DA6 = Santai
 	0x9FCF56FC = OF
 	0x9FCFB84C = security van
 	0x9FD0F79E = The Vault Nightclub
@@ -17930,7 +17930,7 @@
 	0x37EB3C01 = Central Los Santos Medical Center
 	0x37ECC713 = Register as a Boss to access the touchscreen computer.~n~~INPUT_CONTEXT~ SecuroServ CEO~n~~INPUT_CONTEXT_SECONDARY~ Motorcycle Club President~n~~n~~INPUT_FRONTEND_X~ Access the Master Control Terminal.
 	0x37EDBCA1 = The ~a~ was lost
-	0x37EE0D7D = FAILED
+	0x37EE0D7D = GAGAL
 	0x37EE5FDE = Enter the back of the ~HUD_COLOUR_BLUE~van.~s~
 	0x37F0FA0F = Create New Project
 	0x37F0FCB2 = Is that ou who started a fire near my crib?
@@ -18249,7 +18249,7 @@
 	0x41DD0B75 = Win 10 Challenges against another player in the Ammu-Nation Shooting Range
 	0x41DD851B = Gerald's Last Play
 	0x41DE1AA0 = Increasing your reputation level will unlock access to exclusive clothing items at the Merch Shop ~BLIP_CLOTHES_STORE~ as well as new vehicle trade prices and modifications that can be installed at the Mod Shop ~BLIP_CAR_MOD_SHOP~
-	0x41DEA2D2 = Outfits
+	0x41DEA2D2 = Pakaian
 	0x41E0CD0F = ENEMY MC SCORE
 	0x41E1A9BC = Press ~INPUT_CONTEXT~ to play Last Dose - This is an Intervention.
 	0x41E1CB7D = VIP
@@ -18272,7 +18272,7 @@
 	0x41F1E6BB = Nailgun Ammo has rapid fire when ~INPUT_SCRIPT_RT~/~INPUT_FRONTEND_ACCEPT~ is held.~n~Shoot the Ammo Pickup to equip the weapon.
 	0x41F6E485 = Warstock Cache & Carry
 	0x41F51B98 = The Fugitive is the go-to cruiser for law enforcement and those that want to pretend they are law enforcement. The gas mileage isn't so great, but cops mostly sit with the car idling anyway.
-	0x41F67FF8 = Business
+	0x41F67FF8 = Bisnis
 	0x41F78FE4 = 4 new items
 	0x41F2392D = SecuroServ
 	0x41F4428D = Wait for ~HUD_COLOUR_BLUE~Tyler~s~ to enter the vehicle.
@@ -18418,7 +18418,7 @@
 	0x43DE04DF = You currently own this style.
 	0x43E06645 = Collectible set of vintage posters
 	0x43E0A3B9 = ~a~ is modding an aircraft.
-	0x43E4F591 = Business
+	0x43E4F591 = Bisnis
 	0x43E7BDA5 = While in the Spectator Box you can use activities or spectate the remaining players.
 	0x43E9C92B = No messages
 	0x43E760FC = Purchase the Art Studio for any of your Mansions from prixluxuryrealestate.com to gain access to The Kortz Center Heist.
@@ -20742,7 +20742,7 @@
 	0x71D1DC39 = The Stalked
 	0x71D9FCAD = The Race to Point Challenge has started. Compete against your Motorcycle Club to reach the race destination first to earn cash and RP.
 	0x71D28E4F = Pink Ape
-	0x71D42CC5 = 3rd Place
+	0x71D42CC5 = Juara 3
 	0x71D53AAC = Friend's Nightclub
 	0x71D74B66 = ~a~Beat the par time in ~1~ Junk Energy Time Trials
 	0x71D432A6 = ~a~~s~ delivered the trailer
@@ -20937,7 +20937,7 @@
 	0x74A62807 = the Sultan RS
 	0x74AA3FB7 = Owner has engaged Autopilot
 	0x74AA6B57 = You should be on the target. Take out the fighters and hit the cargo planes until the bay doors open up.
-	0x74AC2F09 = Lose the Cops.
+	0x74AC2F09 = Lolos dari kejaran Polisi.
 	0x74AC5C54 = Remember the APC is sitting on Warstock awaiting purchase at the "I know somebody that knows somebody" discount price.
 	0x74ACFD6C = Hold ~INPUT_FRONTEND_LB~ to detonate the RC Bandito.
 	0x74AF8A98 = Failed to join a crew session.
@@ -21363,7 +21363,7 @@
 	0x79AC1FFF = Hold To Sprint
 	0x79AC3DCB = Complete the Elite Challenge for The Kortz Center Heist
 	0x79AD9AC7 = This Special Vehicle needs to be delivered to the Garage in your Nightclub first.
-	0x79ADB770 = Armor Upgrade 100%
+	0x79ADB770 = Peningkatan Pelindung 100%
 	0x79AE2F71 = Rockstar Candidate Missions
 	0x79B0345E = Dinghy unavailable while you have the Mobile Operations Center active.
 	0x79B1A9CA = You no longer have access to this Hangar as you have traded it in.
@@ -21771,7 +21771,7 @@
 	0x83E70600 = Enter the ~HUD_COLOUR_BLUE~delivery van.~s~
 	0x83EA2AB1 = Press ~INPUT_CONTEXT~ to play Arm Wrestling.
 	0x83EA7B55 = TECH MASK SET
-	0x83EA42EC = Lose the Cops.
+	0x83EA42EC = Lolos dari kejaran Polisi.
 	0x83EAC277 = Cold Shoulder
 	0x83EC47C4 = Break into a secure warehouse and steal sonar equipment that can help locate Tony McTony's submarine.~n~~n~Requirement:~n~Mandatory
 	0x83ED55A0 = The garage is locked so you'll need to take these guys down until you find the key.
@@ -21900,7 +21900,7 @@
 	0x85A790A8 = Loadout 4
 	0x85A29345 = drop-off
 	0x85AAB043 = ~1~ of ~1~ vault lasers delivered
-	0x85AD55EB = Lose the Cops.
+	0x85AD55EB = Lolos dari kejaran Polisi.
 	0x85AE8BFC = Find the reporter at one of the ~a~.
 	0x85AE49D9 = Press ~INPUT_CONTEXT~ to spin the Arena War Wheel for $~1~.
 	0x85AE3614 = Your new Yacht is now available.
@@ -22786,7 +22786,7 @@
 	0x95D0033C = THIS LABEL NEEDS TO BE HERE !!
 	0x95D08D22 = Vinewood Police Station
 	0x95D0CA4B = 2/3 (x0.667)
-	0x95D2F636 = Lose the Cops
+	0x95D2F636 = Lolos dari kejaran Polisi
 	0x95D3F291 = ~a~ destroyed the control panel.
 	0x95D4C17B = Press ~INPUT_CONTEXT~ to set up The Cayo Perico Heist.
 	0x95D45D72 = Missions
@@ -22854,7 +22854,7 @@
 	0x96B5DAD6 = Menu Tab Left
 	0x96B6EA22 = Tidak Ada
 	0x96B683A3 = Rival players know that your CEO carries Special Cargo.
-	0x96B27681 = 6th Place
+	0x96B27681 = Peringkat 6
 	0x96B41893 = Zancudo Rd
 	0x96BA0D14 = You can't enter the Mansion while acquiring a vehicle for a Warehouse.
 	0x96BC921B = Press ~INPUT_CONTEXT~ to buzz the Salvage Yard.
@@ -23238,7 +23238,7 @@
 	0x113EBA20 = Sell 111 crates of Cargo in one Sell mission
 	0x113F4BA7 = Peter Dreyfuss
 	0x113F6E33 = Ally
-	0x114A48AF = Business
+	0x114A48AF = Bisnis
 	0x114A85CA = Pass the Parcel
 	0x114A3576 = Home 3
 	0x114B67C7 = Auto Shop Businesses
@@ -23648,7 +23648,7 @@
 	0x188E079B = RESTARTING
 	0x188EA1BC = Go to the Appearance section of the Interaction Menu to deactivate the night vision mode of your mask.
 	0x188EDD16 = Ruff Weld
-	0x188FB8FF = OUTFITS
+	0x188FB8FF = PAKAIAN
 	0x189ABDEF = Go to the ~HUD_COLOUR_YELLOW~control tower.
 	0x189BCAE7 = This Personal Aircraft does not have Bomb Bay Controls.
 	0x189C3A7F = Security Pass
@@ -23807,7 +23807,7 @@
 	0x217CBEA2 = Boat
 	0x217D53B8 = An armor shipment was destroyed.
 	0x217DCBC3 = Trading Places Remix Beast 7
-	0x217FAC9F = Casual
+	0x217FAC9F = Santai
 	0x218A91BD = Wait for the team to change into the security gear.
 	0x218A91F7 = Complete The Lost Contract as leader to earn $75,000.
 	0x218ACCB7 = ~HUD_COLOUR_RED~Red~s~
@@ -24297,7 +24297,7 @@
 	0x320E2109 = Target
 	0x320F42AC = SELECT FROM AVAILABLE LIVERIES TO ORDER
 	0x321DA4E2 = Help deliver the sonar to the ~HUD_COLOUR_YELLOW~Garment Factory.~s~
-	0x322B02DB = MASKS
+	0x322B02DB = TOPENG
 	0x322B85B5 = Convenience Store
 	0x322C7F7A = Participate in Extraction
 	0x322C49EB = Complete the Khanjali Setup mission in The Doomsday Heist as the Heist leader to unlock the Trade Price for this vehicle.
@@ -25327,7 +25327,7 @@
 	0x519F9603 = Equipment added:~n~Malware~n~Thermal Charges
 	0x520A1030 = ~s~The Ballistic Equipment gives you increased health and access to a Minigun with unlimited ammo. However you are unable to move as fast, access your weapons or enter vehicles.
 	0x520BFB49 = Palomino Ave
-	0x520DCDC9 = Business
+	0x520DCDC9 = Bisnis
 	0x520DE2CA = ~a~~s~ destroyed the Phantom Wedge
 	0x520E95B1 = Yellow Athletic Shoes
 	0x520F5C6F = Dark Woodland Vent
@@ -26039,7 +26039,7 @@
 	0x653B3CEA = Weapon of Choice has started. Take out the target ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ using the method requested to earn cash and RP.
 	0x653CC7DC = You collected the client.
 	0x653CDE42 = A VIP Membership is required to play High Limit. Purchase a Penthouse from www.thediamondcasinoandresort.com to become a VIP member.
-	0x653F784E = MISSION PASSED
+	0x653F784E = MISI BERHASIL
 	0x654ABA79 = Take out the corrupt agents ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ and recover an FIB security pass.
 	0x654AD3B0 = Press ~INPUT_CONTEXT~ to cut open the container.
 	0x654BE6F2 = Short Exhausts
@@ -26615,7 +26615,7 @@
 	0x759A1EDA = Happy Holidays from Rockstar! You have been awarded:~n~Neon Festive Lights Bodysuit~n~Firework Launcher~n~20 x Firework Rockets~n~Full Snacks~n~Full Armor
 	0x759A9241 = CALC
 	0x759ADDEF = Purchase the Bedroom expansion from www.thediamondcasinoandresort.com to access this area.
-	0x759BA82A = Lose the Cops
+	0x759BA82A = Lolos dari kejaran Polisi
 	0x759DD90D = The ~a~ was destroyed
 	0x760A2ED1 = Scruffy
 	0x760A30F3 = Collect the satchel charges from the trunk of the Emperor ~HUD_COLOUR_BLUE~~BLIP_GETAWAY_CAR~~s~.
@@ -26711,7 +26711,7 @@
 	0x779E88A8 = ~a~~HUD_COLOUR_WHITE~ voted to end.
 	0x780B060F = Custom Oil Tank ~1~
 	0x780B81C0 = Search the warehouse for the cab keys to the Los Santos Panic truck.
-	0x780CA6E2 = RESPRAY
+	0x780CA6E2 = CAT ULANG
 	0x780CE32B = You don't have enough money to buy Higgins Helitours.
 	0x780DCA27 = Some Acid has been destroyed.
 	0x780DE520 = Go to the Merryweather ~y~lockup.~s~
@@ -27261,7 +27261,7 @@
 	0x877DBCED = <C>~a~</C> ~s~collected product.
 	0x877F31DF = Unavailable while on a motorcycle.
 	0x877FE666 = Dress up for some golf and hop in a caddy. Clients are gonna throw in a bonus if you just run her down with the cart and keep it moving.
-	0x878C71F2 = Lose the Cops.
+	0x878C71F2 = Lolos dari kejaran Polisi.
 	0x878CB461 = Complete a Casino Story Mission without losing a life and earn $50,000.
 	0x878EA612 = ~BLIP_INFO_ICON~ Press ~INPUT_FRONTEND_SOCIAL_CLUB~ and ~INPUT_FRONTEND_SOCIAL_CLUB_SECONDARY~ to open Rockstar Games and see your Profile, Friends, Crews, and the GTAV Store.
 	0x878F0652 = Vinewood Hates You!
@@ -27305,7 +27305,7 @@
 	0x884FA211 = You have not Nominated any Races.
 	0x885C8BA1 = Richman Mansion
 	0x885D6180 = Season's Greetings
-	0x885E075B = Business
+	0x885E075B = Bisnis
 	0x885FCB46 = LEFT BRACKET
 	0x886CDC84 = New vehicles are now available to purchase on the following websites:~n~- southernsanandreassuperautos.com~n~- legendarymotorsport.net~n~- warstock-cache-and-carry.com
 	0x886CE9D5 = Your video could not be found on YouTube in order to publish to Rockstar Games.
@@ -27314,7 +27314,7 @@
 	0x886E7843 = A sale is active on this Pegasus service.~n~Tell the Executive Assistant to send a Helicopter to your location.
 	0x887D08D3 = You don't have enough money in your wallet to cover the wager for this Challenge.
 	0x887DB0C4 = Ranch Gray Jeans
-	0x887DD4FB = Sports
+	0x887DD4FB = Olahraga
 	0x887E8E59 = Shitzu Tee
 	0x887E2657 = You cannot use the Avenger's CCTV while in a Hangar.
 	0x887EA7F2 = Light Woodland Vent
@@ -27432,7 +27432,7 @@
 	0x908C62DC = The Intriguer
 	0x908CEB2C = Heist
 	0x908EFE2C = Leopard Bustier
-	0x909A748B = Lose the Cops.
+	0x909A748B = Lolos dari kejaran Polisi.
 	0x909B5591 = Perth St
 	0x909C3505 = BIOGRAPHY
 	0x909DB92F = Are you sure you want to quit this Organization and found a Motorcycle Club? Passive Mode is disabled when playing as an MC President.
@@ -27446,7 +27446,7 @@
 	0x910F4413 = LIKE CHEETAH
 	0x911BD8AD = Hope Eclipsed!
 	0x911CFDDE = ~a~~s~ assassinated the Cofounder.
-	0x911D28A8 = Business
+	0x911D28A8 = Bisnis
 	0x911DB3FA = Judgment Call
 	0x911E743F = Loops
 	0x912BDC23 = You delivered the IAA Pass.
@@ -28078,7 +28078,7 @@
 	0x1661AF6E = Smuggler
 	0x1668AA10 = Smoke on the Water
 	0x1677B5C7 = You have not bought a Personal Aircraft.
-	0x1681CC3F = WHEELS
+	0x1681CC3F = RODA
 	0x1686FFDA = Time remaining before you can spin the Lucky Wheel: ~a~
 	0x1687B8F9 = ~a~~n~~n~~a~~n~~n~~a~
 	0x1689A034 = You completed The Humane Labs Raid and Series A Funding as Heist Leader or Crew.
@@ -28231,7 +28231,7 @@
 	0x2116F057 = Use the Sightseer app to locate the final drop-off. Press ~INPUT_FRONTEND_UP~ to open your phone and select the app.
 	0x2119F879 = New media unlocked:~n~CircoLoco Records~n~Black EP
 	0x2127C591 = Artwork by Gunter Merrill
-	0x2128BC5A = Checkpoint missed.
+	0x2128BC5A = Titik pemeriksaan terlewat.
 	0x2129F70C = Bullhead loses legal case - stocks down.
 	0x2135BDE5 = ~BLIP_INFO_ICON~ Don't leave Los Santos for too long. Your character stats will degrade over time!
 	0x2143F4F2 = In the world of tactical air support, bigger is better, right? Wrong. The next time one of your business associates arranges to meet you in the bathroom of a crack den in Banning, they could swing open the stall door to find you hovering over the bowl in one of these beauties. Throw in a machine-gun and you're going into these negotiations with a serious edge.
@@ -28683,7 +28683,7 @@
 	0x3463FFFB = security shipments
 	0x3470F090 = ~a~ collected King Tiny.
 	0x3471EC09 = RETICLE HOODIE
-	0x3473F4C6 = Lose the Cops.
+	0x3473F4C6 = Lolos dari kejaran Polisi.
 	0x3483A25F = 9
 	0x3490E2E7 = Downtown Vinewood
 	0x3493B498 = Darnell Bros Garment Factory Equipment
@@ -29448,7 +29448,7 @@
 	0x5804BDC5 = Relaxing in your spa will improve your mental state.
 	0x5806DE22 = Garage: Bay City Ave 45
 	0x5812C130 = Stay unarmed so the Vagos don't notice you until they reach the grave.
-	0x5813D1B1 = MISSION PASSED
+	0x5813D1B1 = MISI BERHASIL
 	0x5818B882 = Gang Wanted Bikers 2
 	0x5818FCCC = The drop-off ~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~~s~ is located on the top floor of the parking garage.
 	0x5819A178 = Your Save Game could not be read due to corrupt data.~n~Try uploading the Save Game again.~n~A new game will now be started.
@@ -30673,7 +30673,7 @@
 	0x9514A944 = TAXI DEPARTURE
 	0x9516C458 = F9
 	0x9519D4A7 = I'm not worried coz that time is UNBEATABLE. Enjoy wasting your life LOSER
-	0x9520E988 = Lose the Cops.
+	0x9520E988 = Lolos dari kejaran Polisi.
 	0x9522B774 = Infiltration Equipment
 	0x9523CE78 = Custom racks.
 	0x9523DEFA = Machine Gun
@@ -31263,7 +31263,7 @@
 	0x28980CEA = You can select the Fast-track option to complete your current Research project and unlock it, making it available for purchase. The cost of fast-tracking will depend on the Research time remaining.
 	0x29007F2B = ~a~~s~ assassinated the Tech Entrepreneur.
 	0x29011D2B = The Personal Quarters will become accessible once the Arcade is set up.
-	0x29039B25 = 5th Place
+	0x29039B25 = Peringkat 5
 	0x29049ED8 = Enter the ~HUD_COLOUR_YELLOW~lockup.~s~
 	0x29324A75 = Split Ten
 	0x29487E29 = Exit the Ruiner 2000 before it explodes.
@@ -32135,7 +32135,7 @@
 	0x71856B13 = Press ~INPUT_FRONTEND_LEFT~ to attack.
 	0x71927C98 = Avi Schwartzman
 	0x71951B9A = eCola Varsity
-	0x72064BAA = Sports
+	0x72064BAA = Olahraga
 	0x72072FE6 = Green Scarf
 	0x72139FC6 = Register as a Boss to access the laptop and begin Oscar Guzman Flies Again.~n~~INPUT_CONTEXT~ SecuroServ VIP~n~~INPUT_CONTEXT_SECONDARY~ Motorcycle Club President
 	0x72242E4D = Access the ~HUD_COLOUR_YELLOW~roof.~s~
@@ -32407,7 +32407,7 @@
 	0x85349EDE = BET MULTIPLIER
 	0x85414D7B = Seaside Stripes Chute
 	0x85428BA8 = ~a~ tripped the alarm.
-	0x85445A45 = WINNER
+	0x85445A45 = PEMENANG
 	0x85550DF3 = Slaughter It!
 	0x85624AD6 = Matte Lime Green
 	0x85674E43 = Blue WCC DJ Pooh Tee
@@ -32432,7 +32432,7 @@
 	0x86253F12 = Search the ~HUD_COLOUR_YELLOW~area~s~ for the limo.
 	0x86420FDE = Gray Digital Hockey
 	0x86457FE1 = You need to be on foot to deploy the surveillance drone.
-	0x86468E10 = Masks
+	0x86468E10 = Topeng
 	0x86538AE3 = HOMING MISSILES
 	0x86618EDA = Primo Custom
 	0x86625F47 = Phone Navigate
@@ -32443,7 +32443,7 @@
 	0x86796E3B = ~s~You need a motorcycle to take part in Caged In.
 	0x86886B79 = Target vehicles to steal will change weekly. These can be sold to Yusuf or salvaged for parts.
 	0x86923E29 = Retro White Wall
-	0x86959D44 = Business
+	0x86959D44 = Bisnis
 	0x86985DB0 = Motorcycle Club
 	0x87035FF6 = FORTIFIED
 	0x87073F4B = SOUTH CENTRAL LEAK
@@ -32599,7 +32599,7 @@
 	0x93857E95 = You can't enter the Hangar with this vehicle.
 	0x93871C92 = ~a~ ~s~collected all cargo crates
 	0x93872AE5 = Gruesome Talons
-	0x93914BEC = Business
+	0x93914BEC = Bisnis
 	0x93935A0A = ~a~~a~
 	0x93947A67 = Collect ~HUD_COLOUR_BLUE~King Tiny.~s~
 	0x93982C7E = Minute
@@ -32924,7 +32924,7 @@
 	0x237583B1 = Private Military getaway vehicle
 	0x239221BC = Keluar dari Permainan
 	0x240017DD = Focus on the ~HUD_COLOUR_YELLOW~landmark.~s~
-	0x240260B2 = Lose the Cops.
+	0x240260B2 = Lolos dari kejaran Polisi.
 	0x244500F1 = Send the photo to Sessanta.
 	0x244881C8 = You are about to download your previous save game. If no free slots are available, your oldest manual save game will be overwritten.~n~Choosing to download will also end your current game session. All unsaved progress will be lost.~n~Do you wish to continue?
 	0x245499BF = Nowhere Rd
@@ -33243,7 +33243,7 @@
 	0x506998B2 = Jackpot! ~n~You win ~1~ Chips.
 	0x507777A4 = The target has been transferred to the Transporter ~HUD_COLOUR_BLUE~~BLIP_OFFICE_TRANSPORTER~~s~
 	0x508189AE = Boom then bust for VOM as stocks remain unsteady.
-	0x508441B1 = MASKS
+	0x508441B1 = TOPENG
 	0x509232D8 = Rockets can only be fired by a co-pilot on this Job.
 	0x509438FE = ~BLIP_INFO_ICON~ Keep an eye on your Project Size Limit in the Project Menu. If you're short on space, try deleting any unneeded clips or markers.
 	0x509572EF = The limousine ~HUD_COLOUR_BLUE~~BLIP_LIMO~~s~ will take you to The Diamond Casino & Resort. Place a waypoint on the pause map to be taken to another location.
@@ -34501,7 +34501,7 @@
 	0x8913072E = Hard
 	0x8916916E = Are you sure you want to enter the Rockstar Editor? All unsaved progress will be lost.
 	0x8919495B = Casino Staff (Male)
-	0x8928316C = Hats
+	0x8928316C = Topi
 	0x8934464F = Kraff be praised! You are an eclipse over the empty desert of independent thought. Zondar, you are ready to transcend the gateway of all that is known. As long as you bring $10,000 with you.
 	0x8937674D = Local
 	0x8953859B = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_20/IE_TEXTVECH_20' vspace='0' width='252' height='150'/> ~nrt~
@@ -35121,7 +35121,7 @@
 	0x48375575 = ENEMIES REMAINING
 	0x48453057 = Safe
 	0x48458466 = Press ~a~ to pick up.
-	0x48537334 = Lose the Cops.
+	0x48537334 = Lolos dari kejaran Polisi.
 	0x48631447 = Invite player
 	0x48648383 = Purchase the Spa expansion from www.thediamondcasinoandresort.com to access this area.
 	0x48720996 = ~a~ destroyed an engine.
@@ -35289,7 +35289,7 @@
 	0x59839940 = No other users have exported videos to browse.
 	0x59983152 = Mark this Member for death.
 	0x60035013 = Navy Skinny Tie
-	0x60172887 = Accessories
+	0x60172887 = Aksesori
 	0x60397469 = Sunday
 	0x60482722 = Go to the ~HUD_COLOUR_YELLOW~Merryweather depot.~s~
 	0x60729780 = This Challenge cannot run as you don't have enough Bodyguards in your Organization.
@@ -36043,7 +36043,7 @@
 	0xA0FC1F3E = Blue Leather Jacket
 	0xA0FC7D15 = SELECT INTERIOR
 	0xA0FCD72F = Everon
-	0xA0FF4E0B = Business
+	0xA0FF4E0B = Bisnis
 	0xA1A0B704 = Adjusts the quality of shadows from vehicle headlights. Enables volumetric lighting effects for some local light sources.
 	0xA1A0F4D5 = Luxury
 	0xA1A2AD4D = You stole Heist Prep Equipment from a rival
@@ -36594,7 +36594,7 @@
 	0xA7D822A5 = The leading realtor in Los Santos and Blaine County.
 	0xA7D14390 = An evil wizard has kidnapped Grog and stolen him away to a terrifying fortress. Now Thog must fight through enchanted forests, ghastly swamps, labyrinths of decay and battle terrifying enemies to rescue his brother with only his mighty sword and magical engorging potions found along the way.
 	0xA7D65538 = Take on assignments for Martin Madrazo, from infiltrating LSPD holding cells to launching an assault on Merryweather HQ as you seek to silence a few names on his hit list.
-	0xA7DB6C7C = WINNER
+	0xA7DB6C7C = PEMENANG
 	0xA7DF2251 = Press ~INPUT_CONTEXT~ to observe the Orbital Cannon.
 	0xA7DFC7E6 = agent
 	0xA7DFD48B = The Union Depository Contract
@@ -37646,7 +37646,7 @@
 	0xA5801E5E = Sculpture by Gaspar Losa
 	0xA5883BDE = Peaceful St
 	0xA5936B50 = North Door
-	0xA5966A48 = Masks
+	0xA5966A48 = Topeng
 	0xA5981CAA = Hey, the alarm system was disabled! Was that you? Clever, clever... Get in there and grab what you can!
 	0xA6006E0E = The owner can serve cocktails at this location.
 	0xA6022BBE = Alert
@@ -37836,7 +37836,7 @@
 	0xA109184C = Allow Vehicle Speed Boosts
 	0xA113363C = Invite to Hands On Car Wash has been sent to all players.
 	0xA126159B = Invest in personal quarters so you can skip the commute, launch straight into underground life, and have a place to change your pants while the apocalypse rages overhead.
-	0xA134448C = Lose the Cops.
+	0xA134448C = Lolos dari kejaran Polisi.
 	0xA134449A = Dangerous Encounters
 	0xA138396A = BUSINESS RESUPPLY
 	0xA148462E = Mint Green headlights
@@ -38137,7 +38137,7 @@
 	0xAAA0DEFB = Press ~INPUT_CONTEXT~ to steal the surveillance drone.
 	0xAAA1C5AE = Owner has requested all to leave The Freakshop.
 	0xAAA1C232 = Tan Strappy
-	0xAAA1FE62 = Pants
+	0xAAA1FE62 = Celana
 	0xAAA5B06A = ~a~~s~ destroyed Heist Prep Equipment.
 	0xAAA8CD43 = Backstage Entrance
 	0xAAA9EB0B = Press ~a~ to activate the missile lock-on jammer.
@@ -38219,7 +38219,7 @@
 	0xAAF2C74C = AIRSTRIP
 	0xAAF4D6D3 = Help the vehicle get to the ~HUD_COLOUR_YELLOW~~a~.~s~
 	0xAAF8A990 = Before running a benchmark test, the game will create a restore point. Once the benchmark test has ended you will be returned to this point. Do you want to continue?
-	0xAAF24FAD = MISSION PASSED
+	0xAAF24FAD = MISI BERHASIL
 	0xAAF364A3 = Declasse Apocalypse Brutus
 	0xAAF2620E = La Puerta
 	0xAAFA81C6 = Steal the vehicle containing the data drives
@@ -38346,7 +38346,7 @@
 	0xAB981B93 = ELYSIAN ISLAND NIGHTCLUB
 	0xAB2401BF = No weapons can be manufactured until you acquire the necessary supplies. Are you sure you want to restart the business?
 	0xAB3980C6 = You successfully delivered ~a~
-	0xAB4374A2 = MASKS
+	0xAB4374A2 = TOPENG
 	0xAB6616FF = You need a Law Enforcement vehicle to start Dispatch Work.
 	0xAB7169D0 = Trading Places Remix Juggernaut 0
 	0xAB7854FC = For a limited time only, the following vehicles are available for members to borrow or purchase at an exclusive discount at The Vinewood Car Club:~n~~a~~n~~a~~n~~a~~n~~a~~n~~a~~n~~a~~n~~a~~n~~a~~n~~a~~n~~a~
@@ -38518,7 +38518,7 @@
 	0xAC22DB4D = Turns out the last drop is over a restricted area. Get ready for heavy resistance - and expect law enforcement.
 	0xAC26AA97 = 5 seconds
 	0xAC29BE23 = Enter the ~HUD_COLOUR_BLUE~truck cab.~s~
-	0xAC32C450 = Lose the Cops.
+	0xAC32C450 = Lolos dari kejaran Polisi.
 	0xAC36BCED = Ruiner 2000
 	0xAC39E086 = Break into the ~HUD_COLOUR_YELLOW~military lockup.~s~
 	0xAC48CBF8 = Union Road
@@ -38975,7 +38975,7 @@
 	0xAE63D4C6 = 1561 San Vitas Street
 	0xAE71D937 = ~BLIP_INFO_ICON~ Don't mess with the hair! Only hats that can be worn with your current style can be purchased at the clothes store. Get a haircut if you want to see what other styles are available.
 	0xAE72B4A6 = Complete 10 Heist Preps as part of The Kortz Center Heist.
-	0xAE72C2F9 = Press ~INPUT_VEH_CIN_CAM~ to toggle cinematic camera.
+	0xAE72C2F9 = Tekan ~INPUT_VEH_CIN_CAM~ untuk beralih ke kamera sinematik.
 	0xAE78F27C = Bad Beat
 	0xAE80BDF3 = Attack an Armored Truck
 	0xAE83C7D4 = Playing Card Collection
@@ -39010,7 +39010,7 @@
 	0xAE18226B = It ain't all guns and thuggin' in LS yo, you wanna prove your skills without racking up the kills go challenge another playa to some Darts or some Arm-wrestling.
 	0xAE26435F = Custom front fender.
 	0xAE36988F = Go to the ~a~.
-	0xAE43356B = Sports
+	0xAE43356B = Olahraga
 	0xAE43702F = 3 new items
 	0xAE48166D = Dax
 	0xAE51975F = The guards will be alerted and call for backup if you enter their cone of vision.
@@ -39232,7 +39232,7 @@
 	0xAF5047EC = Franklin C
 	0xAF6145CC = Toros
 	0xAF7361B3 = ~a~ destroyed a Maverick.
-	0xAF8039CE = Lose the Cops.
+	0xAF8039CE = Lolos dari kejaran Polisi.
 	0xAF11293B = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_14/IE_TEXTVECH_14' vspace='0' width='252' height='150'/> ~nrt~
 	0xAF43547F = Your ~a~ will be delivered to the Underground Garage in your Warehouse shortly.
 	0xAF55573E = Villain
@@ -39556,7 +39556,7 @@
 	0xB1B51AD6 = building
 	0xB1B64D73 = Smuggler's Run Plaque
 	0xB1B68ACF = The Cargo Ship Robbery
-	0xB1B80A79 = RESPRAY
+	0xB1B80A79 = CAT ULANG
 	0xB1B961EB = Wingman
 	0xB1B978B3 = To leave the Garage, walk to the exit or be a passenger in the owner's vehicle when they drive out.
 	0xB1B4491F = Peluru ~1~
@@ -39599,7 +39599,7 @@
 	0xB1DD81AD = The Bureau Raid
 	0xB1DFACF2 = @quimbatterer Ladies – let's get on the same page here. If I don't reply to the first "Did you get my text?" text, don't send another one. Got it? xxxx #needybitches
 	0xB1E0560B = CLUBHOUSE MISSION
-	0xB1E1F0EE = MISSION PASSED
+	0xB1E1F0EE = MISI BERHASIL
 	0xB1E4AD2A = The number of players on each team should match the Team Balance Ratio. Add or remove players until this says 'None'.
 	0xB1E12D39 = A game of Street Crimes has already been started. Please wait for the next round.
 	0xB1E119B3 = The trailer ~HUD_COLOUR_BLUE~~BLIP_TRAILER~~s~ has been moved to a more suitable location.
@@ -39895,7 +39895,7 @@
 	0xB5AC3977 = Are you sure you'd like to assign this technician to accrue ~a~?
 	0xB5ACF8FC = Apt: Tinsel Towers 29
 	0xB5ADDF16 = Put this Biker Business to work for you as a Biker President. Manufacture cash and sell it to eager buyers for a profit. You can access your Biker Business from the desktop in your Biker Clubhouse.
-	0xB5AE65A8 = LOSER
+	0xB5AE65A8 = KALAH
 	0xB5B8A9FF = View all players in your Party.
 	0xB5B59BE1 = biker
 	0xB5B85E0F = Unavailable while on this job.
@@ -40039,7 +40039,7 @@
 	0xB7A8FDB8 = The ~a~ were not delivered
 	0xB7A49BBA = Steal a set of infiltration suits that can provide nightvision and the ability to rappel down the elevator shaft.
 	0xB7A5838E = Confirm service cost of $~1~. The customer will reimburse this cost and you will receive an additional payment of up to $~1~ upon delivery.
-	0xB7A6028A = MISSION PASSED
+	0xB7A6028A = MISI BERHASIL
 	0xB7A8034A = Los Santos Drug Wars Plaque
 	0xB7ABA508 = Eberhard Van
 	0xB7AD323E = Tom Connors' Car
@@ -40065,7 +40065,7 @@
 	0xB7C5F0A6 = As a leader, complete The Cayo Perico Heist Finale using this as the approach vehicle to unlock the Trade Price.
 	0xB7C5F4BB = Client rescued
 	0xB7C7A6D8 = Your Personal Vehicle doesn't have a neon kit.
-	0xB7C8D73D = MISSION PASSED
+	0xB7C8D73D = MISI BERHASIL
 	0xB7C9CB1E = The Cops were alerted
 	0xB7C9D22D = Eclipse Towers, 31
 	0xB7C33E9F = Thank you for your order Mr. Philips, your new ~a~ has been delivered to your garage.
@@ -40936,7 +40936,7 @@
 	0xB613DD73 = @aubreymunch I haven't been outside for 14 years.
 	0xB616B766 = Indigo, White Socks
 	0xB619E51B = Go to ~HUD_COLOUR_YELLOW~Paleto Bay.~s~
-	0xB620ED8E = MISSION PASSED
+	0xB620ED8E = MISI BERHASIL
 	0xB621D16C = ~a~~s~ have started Diamond Shopping. Steal the diamonds ~HUD_COLOUR_RED~~BLIP_BAT_HACK_JEWEL~~s~ and deliver them to the drop-off to earn cash and RP.
 	0xB625AD48 = You already have an active Dinghy.
 	0xB626C4AB = Buy Garage?
@@ -41394,7 +41394,7 @@
 	0xB267335A = Eyesore
 	0xB275817D = ~a~~s~ destroyed Supplies.
 	0xB290025F = Auto-Resume Recording
-	0xB292855A = Engine
+	0xB292855A = Mesin
 	0xB298882C = The Slink
 	0xB305547C = ~HUD_COLOUR_WHITE~Wants to recruit you.~n~~n~- Other Members: ~1~ ~n~- Business(es): ~1~
 	0xB312658B = This vehicle must be detached to start delivery.
@@ -41769,7 +41769,7 @@
 	0xBAD33C56 = You can't enter the Agency while selling goods from a Hangar.
 	0xBAD53F85 = A request has timed out. Please check your connection and try again.
 	0xBAD116CE = Press ~INPUT_CONTEXT~ to collect the WM 29 Pistol.
-	0xBAD498A4 = Business
+	0xBAD498A4 = Bisnis
 	0xBAD910E9 = Basement Level 1
 	0xBAD47616 = ~INPUT_CONTEXT_SECONDARY~~s~ Rob
 	0xBADB2805 = Strap on a Stunt Suit and get ready for a series of electrifying Stunt Races, custom-built for the Rocket Voltic, the Ruiner 2000, and the Blazer Aqua.
@@ -42161,7 +42161,7 @@
 	0xBC1901CD = In order to purchase this vehicle at the Trade Price, you must fulfill the following criteria:~n~- Complete ~1~ Club Management missions as a Boss.~n~
 	0xBC2064A4 = The selected clip has become corrupt and has been removed from the project.
 	0xBC5731E2 = Big breakthrough! Confession letter confirmed! In a recent interview, Ira Richards - son of movie maker Solomon Richards – claimed he remembers his grandfather David Richards in a drunken stupor one time ranting about a confession that had to be torn up and hidden throughout Los Santos in the late 1970s as insurance to protect those who knew too much.
-	0xBC6280A6 = PANTS
+	0xBC6280A6 = CELANA
 	0xBC6890F8 = Congratulations on the purchase of your new Bail Office!
 	0xBC7392B0 = Matte Black Off-road
 	0xBC7424FF = An MC President has sent you an invite to join their Motorcycle Club. Accept invites using the Job List on your phone.
@@ -42440,7 +42440,7 @@
 	0xBDBDF577 = Riding with the President +~1~RP
 	0xBDBEC097 = HVY Scarab Skull Cross w/ Spears set
 	0xBDC1DF1B = You are already using this location.
-	0xBDC4CD78 = FAILED
+	0xBDC4CD78 = GAGAL
 	0xBDC34DC0 = Help deliver the ~a~ to the ~HUD_COLOUR_YELLOW~Hangar.
 	0xBDC6123E = TAN OVERCOAT
 	0xBDC32243 = Attacker XII
@@ -42725,7 +42725,7 @@
 	0xBF4B1BC0 = Your unlocked research projects are displayed here. Highlight any unlocked modifications to see further details on where to purchase and install them. Assigned staff will continue to select a new research project from those that are still locked.
 	0xBF4B6145 = ENEMY KILLS ~a~
 	0xBF4CB0E7 = Use your computer ~BLIP_LAPTOP~ or the newly installed Darnell Inc. app on your phone to begin new jobs for Jodi.
-	0xBF4D1ECB = Lights
+	0xBF4D1ECB = Lampu
 	0xBF4D5725 = Cognoscenti
 	0xBF4E26E1 = SUPPLIES DELIVERED
 	0xBF5CEBC5 = Happy Holidays! You have been awarded full sets of Body Armor.
@@ -42740,7 +42740,7 @@
 	0xBF7A7E2A = Are you sure you want to use ~a~ approach for this heist?
 	0xBF7A1498 = Albany Vintage Tee
 	0xBF7D89BC = Move everyone from current location to Office Garage 3.
-	0xBF7E7525 = RESPRAY
+	0xBF7E7525 = CAT ULANG
 	0xBF8C90B2 = East Vinewood
 	0xBF8E222A = Complete Race And Chase with all vehicle types.
 	0xBF8E855E = Power Station
@@ -43078,7 +43078,7 @@
 	0xC0AE501D = INVITE TO LS CAR MEET
 	0xC0AFF6AE = Crash Site
 	0xC0B1F66B = Go to the Merryweather ~y~lockup.~s~
-	0xC0B3A6C5 = Sports
+	0xC0B3A6C5 = Olahraga
 	0xC0B31BF8 = Direct Delivery
 	0xC0B99AA8 = VIP WORK OVER
 	0xC0B949A0 = dealers
@@ -43794,7 +43794,7 @@
 	0xC8D164D4 = Unavailable while near a Vehicle.
 	0xC8D1292F = GOODS DELIVERED
 	0xC8D5754F = Criminal Enterprise Starter Pack
-	0xC8D8768D = Lose the Cops.
+	0xC8D8768D = Lolos dari kejaran Polisi.
 	0xC8D55976 = A heavy drug user in the 1970s with a twisted mind and an obsession with the macabre as art?
 	0xC8D91537 = Numbered 8
 	0xC8DA5787 = THIS LABEL NEEDS TO BE HERE !!!
@@ -43976,7 +43976,7 @@
 	0xC19A776D = Festive Surprise 2016
 	0xC19DA165 = The Defender
 	0xC19E4D50 = Revolver Poker Table
-	0xC19E63AC = Doors
+	0xC19E63AC = Pintu
 	0xC20A53D8 = Destroy a supply of the enemy's weapons at a scrapyard in the Grand Senora Desert and steal the Khanjali tank.
 	0xC20A71AB = Go to your Office ~BLIP_OFFICE~ to access the Vehicle Cargo update on your computer.
 	0xC20AC573 = You are logged out of Rockstar Games, you will be unable to access network features until you log back in.
@@ -44727,7 +44727,7 @@
 	0xC993C736 = Millenials
 	0xC994B05D = Declasse Brutus Gassed Up Bar
 	0xC997BB33 = Bad news, boss. The seller got into some trouble with the Vagos and well... The truck isn't going to be there. It's being chopped for parts right now, get over there before they find out what they've got.
-	0xC997E906 = Lose the Cops.
+	0xC997E906 = Lolos dari kejaran Polisi.
 	0xC1015F6A = ~INPUT_SCRIPT_LEFT_AXIS_X~ Change pose.~n~~INPUT_VEH_CIN_CAM~ Toggle cinematic camera.~n~~INPUT_SCRIPT_RIGHT_AXIS_X~ Rotate camera.~n~~INPUT_FRONTEND_RIGHT~ Stand up.
 	0xC1043D2E = ~a~ destroyed the Transporter.
 	0xC1144B9F = Are you sure you want to start ~a~?~n~All unsaved progress will be lost.
@@ -45512,7 +45512,7 @@
 	0xCB24B762 = Cocaine Lockup
 	0xCB24CB77 = Fire It Up - Lamar
 	0xCB25DAC8 = You can't renovate your Agency while players are playing "Race And Chase".
-	0xCB29C78F = Business
+	0xCB29C78F = Bisnis
 	0xCB30EE5A = Sculpture by Ed Armbruster
 	0xCB34DE61 = ~INPUT_VEH_HANDBRAKE~ + ~PAD_B~
 	0xCB36CC4F = LIQUID ASSETS
@@ -45561,7 +45561,7 @@
 	0xCB8672D4 = You no longer have access to this Nightclub Warehouse as you became a CEO.
 	0xCB16239A = Press ~INPUT_CONTEXT_SECONDARY~ to spin the Arena War Wheel using a free spin.~n~Press ~INPUT_CONTEXT~ to leave the table.
 	0xCB45960F = Finally America has some heroes who know there are bigger issues than fretting about baby seals or endangered lizards or so called global warming.
-	0xCB62468B = Business
+	0xCB62468B = Bisnis
 	0xCB65278F = Cargo crate destroyed.
 	0xCB77158E = The guests and staff at the front of the hotel will call the Cops if you act suspiciously or you are seen with a weapon equipped.
 	0xCB82642E = Choose to hide or show the staff in your Spa.~n~~n~Please note: your barber and tattoo parlor will be unavailable when your staff are hidden.
@@ -45909,7 +45909,7 @@
 	0xCD023EB7 = Whistleblower
 	0xCD0255B0 = Small Ornament
 	0xCD029A73 = Pistols blazing took him down gangster style!  Let's call it $~1~, homie!
-	0xCD036A21 = FAILED
+	0xCD036A21 = GAGAL
 	0xCD051870 = Pacific Standard Bank
 	0xCD05DF20 = Acquire Higgins Helitours
 	0xCD066248 = You dropped Cargo.
@@ -46258,7 +46258,7 @@
 	0xCE74304F = Visit Record A Studios
 	0xCE79543D = This time trial requires the RC Bandito. You can purchase one from southernsanandreassuperautos.com.
 	0xCE84663C = the ~HUD_COLOUR_BLUE~Jester.
-	0xCE142409 = SHOES
+	0xCE142409 = SEPATU
 	0xCE304455 = Truck Cab
 	0xCE317181 = Tornado (Mariachi)
 	0xCE358777 = Install a new tuning setup that's suitable for drifting.
@@ -46588,7 +46588,7 @@
 	0xD0174FD3 = Edit your spawn location, favorites, and other preferences.
 	0xD01ACE3D = You are already carrying Goods.
 	0xD01C428C = Deliver the supplies to the ~HUD_COLOUR_YELLOW~Nightclub Garage.~s~
-	0xD01C1579 = Business
+	0xD01C1579 = Bisnis
 	0xD01E3C2B = Beat the target score to win the challenge. Complete all weapon challenges in a tier to unlock rewards.
 	0xD01E4828 = GROPE
 	0xD01EA362 = Gerald
@@ -46752,7 +46752,7 @@
 	0xD0D56C5E = Drift Race Series
 	0xD0D281A4 = Alpha-Z1
 	0xD0D798F6 = Target was not assassinated
-	0xD0D984C8 = MISSION PASSED
+	0xD0D984C8 = MISI BERHASIL
 	0xD0DB8F17 = Penthouse
 	0xD0DEB905 = Dust Devils Hockey
 	0xD0DF1A1D = The Romero Hearse ~HUD_COLOUR_BLUE~~BLIP_GANG_VEHICLE~~s~ contains the funeral director outfits you need to gain entry to the LS County Coroners.
@@ -46779,7 +46779,7 @@
 	0xD0F4CC93 = The Ballistic Equipment is already equipped.
 	0xD0F8DC32 = DUGGAN ROBBERY MASKS
 	0xD0F9A0A3 = Hack the ~HUD_COLOUR_GREEN~CCTV network.~s~
-	0xD0F9BA7E = MISSION PASSED
+	0xD0F9BA7E = MISI BERHASIL
 	0xD0F18D23 = Light Wave
 	0xD0F42F52 = Roy Lowenstein Blvd
 	0xD0F82AC2 = Multi-Disciplined
@@ -49220,7 +49220,7 @@
 	0xDB323E00 = You collected the stun guns.
 	0xDB360BDA = ~nrt~ <img src='img://SCLUB_1/THE_VICEROY_HOTEL_1_10' vspace='0' width='252' height='252'/> ~nrt~~a~ ~a~. ~a~
 	0xDB373E87 = Wheels Up
-	0xDB510D4D = FAILED
+	0xDB510D4D = GAGAL
 	0xDB563A2E = You have not created any King of the Hill.
 	0xDB635A35 = This Reward Vehicle ~BLIP_PRIZE_CAR~ can be claimed for free. Other vehicles available here can be purchased at a discount.
 	0xDB667B9B = Speed Up Rotation
@@ -49345,7 +49345,7 @@
 	0xDBFD6637 = Buyer's Associate
 	0xDBFEEE6A = Unconventional Warfare
 	0xDC00B6D0 = You cannot inspect this vehicle while on a mission.
-	0xDC0119CA = MISSION PASSED
+	0xDC0119CA = MISI BERHASIL
 	0xDC02953B = Davis Mega Mall
 	0xDC02E328 = ~a~ ~a~ ~a~ (Impounded)
 	0xDC03030E = LS Triads Nightclub
@@ -49715,7 +49715,7 @@
 	0xDD727340 = Help recover the ~HUD_COLOUR_BLUE~~a~.~s~
 	0xDDA04434 = Exit the Arena Workshop and access the Manage Vehicles section of the Interaction Menu to play with your RC Bandito.
 	0xDDA06437 = Discount Retail Unit
-	0xDDA067BF = Masks
+	0xDDA067BF = Topeng
 	0xDDA4EABF = Your Kosatka ~BLIP_SUB2~ has been destroyed.
 	0xDDA5A61B = Mini Impotent Rage
 	0xDDA8A851 = Assassinate all targets before the time runs out.
@@ -49811,7 +49811,7 @@
 	0xDDF799AF = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_83/IE_TEXTVECH_83' vspace='0' width='252' height='150'/> ~nrt~
 	0xDDF3309D = Weapon Loadout
 	0xDDFB4E57 = Casino Glasses
-	0xDDFB1606 = Business
+	0xDDFB1606 = Bisnis
 	0xDDFC1AC7 = Make 15 deliveries for Gruppe Sechs or Bobcat Security.
 	0xDDFCCDBF = Olive Sports Shoes
 	0xDDFE20B8 = Photograph the agent's ~HUD_COLOUR_BLUE~body.~s~
@@ -49973,7 +49973,7 @@
 	0xDEA17168 = Artwork by Butcher
 	0xDEA44531 = Your Acid Lab ~BLIP_ACID_LAB~ has been moved to a more suitable location.
 	0xDEAB0981 = You secured the target.
-	0xDEADC53C = HATS
+	0xDEADC53C = TOPI
 	0xDEB2B4EB = Cockpit is unavailable at this time.
 	0xDEB7CB85 = ~a~~s~ won Stand Your Ground
 	0xDEB8BCA4 = A waypoint to Higgins Helitours has been added to your GPS.
@@ -50659,7 +50659,7 @@
 	0xE3B269E1 = You destroyed the ~a~.
 	0xE3B410F8 = Select your Mom's Father.
 	0xE3B497C5 = Go to your new Hangar ~BLIP_SM_HANGAR~ to gain access to the Air-Freight Business, allowing you to steal and stockpile various Cargo types to sell on for profit.
-	0xE3B40589 = MISSION PASSED
+	0xE3B40589 = MISI BERHASIL
 	0xE3B83394 = TRUST
 	0xE3BA38CB = Paper Route
 	0xE3BCE8C8 = Counterfeit Cash
@@ -51421,7 +51421,7 @@
 	0xE48A7E87 = Endo v.1
 	0xE48AE721 = ~a~ located the black box.
 	0xE48BB5B9 = Eliminate the corrupt cop ~HUD_COLOUR_RED~~BLIP_SPORTS_CAR~~s~ by using the Buzzard's weaponry.
-	0xE48C87E0 = WINNER
+	0xE48C87E0 = PEMENANG
 	0xE48E7065 = Shit, what happened? Someone got to the contact first! Grab the data and get the fuck outta there!
 	0xE48F9743 = Hey Mr. Philips,~n~Hope you don't mind me contacting you like this.  I'm the manager at Pitchers so thought it was only right that I introduce myself.  Never a dull moment at that place let me tell you!  There's a reason we keep the windows blacked out :)~n~Just wanted to say congrats and let you know I'm here if you need me.~n~Speak soon,~n~Luke
 	0xE49AB4B0 = Senjata
@@ -51919,7 +51919,7 @@
 	0xE757B80B = DOWNTOWN VINEWOOD CLUBHOUSE
 	0xE757C2F3 = 4 new items
 	0xE759E157 = Fertilizer Can
-	0xE761CD32 = Lose the Cops.
+	0xE761CD32 = Lolos dari kejaran Polisi.
 	0xE762A61F = Plushie
 	0xE763B3CE = Join a Series Mode.
 	0xE764A553 = 2 Diamonds! ~n~You win ~1~ Chips.
@@ -52117,7 +52117,7 @@
 	0xE6386D76 = Press ~INPUT_VEH_CIN_CAM~ to toggle the hook camera.
 	0xE6391E58 = Complete Most Wanted - Lieberman as leader to earn $25,000.
 	0xE6392A26 = Press ~INPUT_FRONTEND_ACCEPT~ to play "Don't Cross The Line", or wait for more players to join.~n~Press ~INPUT_CONTEXT~ to watch TV.~n~Use ~INPUT_SCRIPT_LEFT_AXIS_X~ to change pose.~n~Press ~INPUT_FRONTEND_CANCEL~ to stand up.
-	0xE6450DF8 = Casual
+	0xE6450DF8 = Santai
 	0xE6467CDA = Wait for your Motorcycle Club to leave the area.
 	0xE6549DBA = Slow and Low
 	0xE6559A27 = Daily Challenges
@@ -52275,7 +52275,7 @@
 	0xE77715BF = You no longer have access to the McKenzie Field Hangar as the owner has left the game.
 	0xE78248B6 = ~BLIP_WEAPON_SHOTGUN~
 	0xE78354D2 = Controller Speaker
-	0xE80126C6 = FAILED
+	0xE80126C6 = GAGAL
 	0xE80551B4 = Hold ~INPUT_CONTEXT~ to enter the Nerve Center.~n~Press ~INPUT_CONTEXT~ to use the Signal Scanner.~n~Press ~INPUT_FRONTEND_RS~ to toggle the Collectible Scanner.
 	0xE80872B4 = Cocaine Lockup
 	0xE81133AE = Light Orange
@@ -52816,7 +52816,7 @@
 	0xEB84F0B8 = ~a~~HUD_COLOUR_WHITE~ murdered you.
 	0xEB88A76C = Pouce Gris
 	0xEB96FE41 = TIME
-	0xEB97F01F = Lose the Cops.
+	0xEB97F01F = Lolos dari kejaran Polisi.
 	0xEB174CA4 = Leave the rental car with the Altruists and exit their camp before you overstay your welcome.
 	0xEB227BEB = Thrax
 	0xEB228D97 = To purchase and store the Terrorbyte, purchase the Garment Factory or Nightclub from foreclosures.maze-bank.com.
@@ -52899,7 +52899,7 @@
 	0xEBB55183 = ~a~ scoped out the sewer tunnel entrance.
 	0xEBB60218 = The Vinewood Car Club
 	0xEBB66932 = Blue Two-Tone Sports Shoes
-	0xEBBAAE4D = MISSION PASSED
+	0xEBBAAE4D = MISI BERHASIL
 	0xEBBDE6AC = Skull Cross
 	0xEBBFE3EE = Are you sure you want to remove the Armor Plating?
 	0xEBC1B16D = South Gate
@@ -53939,7 +53939,7 @@
 	0xF0577DC2 = READY?
 	0xF057EB3D = Your ~a~ safe is empty.
 	0xF058B0F3 = Lamp
-	0xF05AE896 = MASKS
+	0xF05AE896 = TOPENG
 	0xF05BD54B = Defender of the Faith
 	0xF05DC63C = Technical Custom Brute-bar
 	0xF05E2BB3 = This exit is currently unavailable. Please log on to The Open Road Admin site using the laptop ~BLIP_LAPTOP~ and select the Set Up option to get the business started.
@@ -54120,7 +54120,7 @@
 	0xF1C481E8 = Recover the body ~HUD_COLOUR_WHITE~~BLIP_BOUNTY_TARGET~~s~ and take it to the LS County Coroners.
 	0xF1CA3D35 = Find a way to infiltrate the gathering at the Richman mansion.
 	0xF1CA4611 = Complete all Criminal Mastermind challenges.
-	0xF1CB3277 = Business
+	0xF1CB3277 = Bisnis
 	0xF1CC81CA = Yeti Hunt
 	0xF1CCE545 = You do not have enough money. It costs $~1~ to use Spectator Cam.
 	0xF1CD4A0F = Car Service
@@ -54978,7 +54978,7 @@
 	0xF37C05D8 = Garage: 140 Zancudo Ave
 	0xF37C13C0 = Hunted Brown 2
 	0xF37C1504 = After Party
-	0xF37DC051 = Lose the Cops.
+	0xF37DC051 = Lolos dari kejaran Polisi.
 	0xF37DD095 = Black Peace Lily Vase
 	0xF37E84C2 = Send to Everyone
 	0xF38C6F82 = Like a driver for a ride share company whose lawyers insist they are definitely not employees, get across the whole city from LSIA like your star rating, future income, and whole self-worth depended on it.
@@ -55088,7 +55088,7 @@
 	0xF58DC792 = It's A Stick Up
 	0xF58E23A4 = Lowrider Wheels Set
 	0xF58E741A = Complete Vehicle Enthusiast Tier 4 in Career Progress to unlock this.
-	0xF58F6090 = Engine
+	0xF58F6090 = Mesin
 	0xF59A9F67 = 10 VEHICLE GARAGE
 	0xF59B1520 = Black Shrewsbury Hoodie
 	0xF59D092E = 1893 Grapeseed Ave
@@ -56118,7 +56118,7 @@
 	0xFA035E0C = Madrazo Dispatch Services Plaque
 	0xFA041B7B = @mouskatear "Actor found unconscious in trailer on movie set" since when was that news?
 	0xFA05DFF5 = Locate the EMP charges.
-	0xFA068150 = Armor Upgrade 60%
+	0xFA068150 = Peningkatan Pelindung 60%
 	0xFA07631F = The Eagle
 	0xFA09EA4B = Press ~INPUT_CONTEXT~ to toggle off and on your Score.
 	0xFA0A33F8 = Eclipse Blvd Garage B2
@@ -56175,7 +56175,7 @@
 	0xFA10AF80 = 42 CRATES
 	0xFA12DAB6 = Corrupt Judge's Car
 	0xFA18DD8F = VAULT DOOR KEYPAD
-	0xFA20ED42 = Masks
+	0xFA20ED42 = Topeng
 	0xFA20F938 = HARD DRIVES
 	0xFA26F208 = Next Page
 	0xFA27D4FF = The CEO
@@ -57854,7 +57854,7 @@
 	AMCH_VEH =  vehicles
 	AMCH_WARN = The ~a~ Challenge will begin shortly. ~a~ The top 3 players will win cash and RP.
 	AMCH_WHEELIE = Only wheelies performed on motorcycles will count towards this challenge.
-	AMCH_WIN = WINNER
+	AMCH_WIN = PEMENANG
 	AMCH_WINNER = You won the ~a~ Challenge with a score of ~1~~a~
 	AMCH_WINNER_T = You won the ~a~ Challenge with a time of ~a~
 	AMDO_ALL_CMP = All Daily Challenges complete!~n~Reward:~n~$~1~~n~~1~ ~BLIP_RP~
@@ -58560,7 +58560,7 @@
 	BM_OOO_WON = You Won
 	BM_OO_BOUNDS = Out of Area
 	BM_OVER_V = Mission Over
-	BM_PASS = MISSION PASSED
+	BM_PASS = MISI BERHASIL
 	BM_PB = Personal Best: ~a~
 	BM_PBI = Personal Best: ~1~
 	BM_PL_F_V = ~a~ won the Playlist
@@ -58576,10 +58576,10 @@
 	BM_PPLAY_TUN = ~1~x RP for killing ~a~
 	BM_QDAMAGE = Quad Damage
 	BM_Q_XP = Quadruple RP
-	BM_R2P_LOSS = LOSER
-	BM_R2P_LOSS_V = Loser
-	BM_R2P_WIN = WINNER
-	BM_R2P_WIN_V = Winner
+	BM_R2P_LOSS = KALAH
+	BM_R2P_LOSS_V = Kalah
+	BM_R2P_WIN = PEMENANG
+	BM_R2P_WIN_V = Pemenang
 	BM_RANKUP_F = Rank Up
 	BM_RB = Time: ~a~
 	BM_REVENGE_V = Revenge Kill
@@ -59293,7 +59293,7 @@
 	CELEB_EL_NVEHDM = TAKE NO VEHICLE DAMAGE
 	CELEB_EL_RCHDM = RASHKOVSKY DAMAGE ~a~ OR LESS
 	CELEB_EL_VEHDM = VEHICLE DAMAGE ~a~ OR LESS
-	CELEB_FAILED = FAILED
+	CELEB_FAILED = GAGAL
 	CELEB_FB_1_TM = FIRST TIME BONUS
 	CELEB_FB_1_TM2 = COMPLETE EACH HEIST FINALE FOR THE FIRST TIME
 	CELEB_FB_ORD2 = COMPLETE ALL HEIST SETUPS AND FINALES IN ORDER
@@ -59316,7 +59316,7 @@
 	CELEB_LESSON = LESSON
 	CELEB_LIST = Players
 	CELEB_LIST_TTL = Toggle Player List
-	CELEB_LOSER = Loser
+	CELEB_LOSER = Kalah
 	CELEB_LOSERS = LOSERS
 	CELEB_MATCH = MATCH
 	CELEB_MEDAL = MEDAL
@@ -59354,7 +59354,7 @@
 	CELEB_TOTAL_TIME = TOTAL TIME
 	CELEB_TOURN_WINNER = TOURNAMENT
 	CELEB_WAVE_NUMBER = WAVE ~a~
-	CELEB_WINNER = Winner
+	CELEB_WINNER = Pemenang
 	CELEB_WINNERS = WINNERS
 	CELEB_WPLYRS = Waiting for players
 	CELEB_YOU_TIED = YOU TIED
@@ -59517,7 +59517,7 @@
 	CELL_221 = Enter number:
 	CELL_222 = Cancel Activity
 	CELL_225 = NEXT
-	CELL_226 = Accept?
+	CELL_226 = Terima?
 	CELL_227 = SORT
 	CELL_228 = Repeat mission?
 	CELL_229 = On Active Mission
@@ -59550,7 +59550,7 @@
 	CELL_268_HEIST = Heist : ~a~
 	CELL_268_HEIST_DETAIL = Heist : ~a~
 	CELL_268_PREP_DETAIL = Continue Heist : Setup
-	CELL_269 = Cancel?
+	CELL_269 = Batal?
 	CELL_270 = Ya
 	CELL_271 = Tidak
 	CELL_277 = Hapus
@@ -60519,7 +60519,7 @@
 	CMN_ALEFT = ~s~Amanda was left behind.
 	CMN_FARRE = ~s~Franklin was arrested.
 	CMN_FDEST = ~s~Franklin's car was destroyed.
-	CMN_FDIED = ~s~Franklin died.
+	CMN_FDIED = ~s~Franklin tewas.
 	CMN_FLEAVE = ~s~Return to ~b~Franklin.~s~
 	CMN_FLEFT = ~s~Franklin was left behind.
 	CMN_FPSHELP = ~s~To play GTAV in first-person mode cycle the camera using ~INPUT_NEXT_CAMERA~
@@ -60536,16 +60536,16 @@
 	CMN_GENGETINHE = ~s~Get in the ~b~helicopter.
 	CMN_GENGETINPL = ~s~Get in the ~b~plane.
 	CMN_GENGETINY = ~s~Get in your ~b~car.
-	CMN_GENSTCK = ~s~The car got stuck.
+	CMN_GENSTCK = ~s~Mobil tersangkut.
 	CMN_HINT = ~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the target.
-	CMN_JDIED = ~s~Jimmy died.
+	CMN_JDIED = ~s~Jimmy tewas.
 	CMN_JLEAVE = ~s~Return to ~b~Jimmy.~s~
 	CMN_JLEFT = ~s~Jimmy was left behind.
-	CMN_LDIED = ~s~Lester died.
+	CMN_LDIED = ~s~Lester tewas.
 	CMN_LLEAVE = ~s~Return to ~b~Lamar.~s~
 	CMN_MARRE = ~s~Michael was arrested.
 	CMN_MDEST = ~s~Michael's car was destroyed.
-	CMN_MDIED = ~s~Michael died.
+	CMN_MDIED = ~s~Michael tewas.
 	CMN_MGETBCK = ~s~Get back in ~b~Michael's car.~s~
 	CMN_MGETIN = ~s~Get in ~b~Michael's car.~s~
 	CMN_MLEAVE = ~s~Return to ~b~Michael.~s~
@@ -60554,21 +60554,21 @@
 	CMN_TABIL_RET_KM = ~s~Try using Trevor's special ability to help you during combat. Press ~INPUT_SPECIAL_ABILITY_PC~ when the special ability bar has some charge.
 	CMN_TAKE = TAKE
 	CMN_TARRE = ~s~Trevor was arrested.
-	CMN_TCDIED = ~s~Tracey died.
+	CMN_TCDIED = ~s~Tracey tewas.
 	CMN_TCLEAVE = ~s~Return to ~b~Tracey.~s~
 	CMN_TCLEFT = ~s~Tracey was left behind.
 	CMN_TDEST = ~s~Trevor's truck was destroyed.
-	CMN_TDIED = ~s~Trevor died.
+	CMN_TDIED = ~s~Trevor tewas.
 	CMN_TGETBCK = ~s~Get back in ~b~Trevor's truck.~s~
 	CMN_TGETIN = ~s~Get in ~b~Trevor's truck.~s~
 	CMN_TLEAVE = ~s~Return to ~b~Trevor.~s~
 	CMN_TLEFT = ~s~Trevor was left behind.
 	CMN_VEHSUIT = ~s~Vehicle is not suitable.
-	CMOD_ARM_1 = Armor Upgrade 20%
-	CMOD_ARM_2 = Armor Upgrade 40%
-	CMOD_ARM_3 = Armor Upgrade 60%
-	CMOD_ARM_4 = Armor Upgrade 80%
-	CMOD_ARM_5 = Armor Upgrade 100%
+	CMOD_ARM_1 = Peningkatan Pelindung 20%
+	CMOD_ARM_2 = Peningkatan Pelindung 40%
+	CMOD_ARM_3 = Peningkatan Pelindung 60%
+	CMOD_ARM_4 = Peningkatan Pelindung 80%
+	CMOD_ARM_5 = Peningkatan Pelindung 100%
 	CMOD_BCUT = Please wait for the driver to finish the Benny's Original Motor Works introduction.
 	CMOD_BON_0 = Stock Hood
 	CMOD_BON_1 = Custom Hood
@@ -60804,7 +60804,7 @@
 	CMOD_WNG_5 = Custom Right Fender ~1~
 	CMRC_AVAIL = AVAILABLE
 	CMRC_BACK = Kembali
-	CMRC_CATEGS = CATEGORIES
+	CMRC_CATEGS = KATEGORI
 	CMRC_CODE = Redeem Code
 	CMRC_CONT = Lanjutkan
 	CMRC_CONTENT = CONTENT
@@ -61299,7 +61299,7 @@
 	DD_BMS5 = You helped deliver the package
 	DD_BMT0 = PACKAGE COLLECTED
 	DD_BMT1 = DEAD DROP
-	DD_BMT2 = WINNER
+	DD_BMT2 = PEMENANG
 	DD_BMT3 = EVENT OVER
 	DD_EVENTEND_R = ~HUD_COLOUR_RED~EVENT END~s~
 	DD_GT0 = Pick up the ~HUD_COLOUR_GREEN~package~s~ and deliver it to its destination.
@@ -62081,7 +62081,7 @@
 	FACE_F_WIDE_E = Wide
 	FACE_F_WIDE_J = Wide
 	FACE_F_WIDE_N = Wide
-	FACE_GLS = Glasses
+	FACE_GLS = Kacamata
 	FACE_HAIR = Hair
 	FACE_HAT = Hat
 	FACE_HERI = Heritage
@@ -63042,7 +63042,7 @@
 	FMMC_VHL_1 = Coupes
 	FMMC_VHL_2 = Sedans
 	FMMC_VHL_3 = Muscle
-	FMMC_VHL_4 = Sports
+	FMMC_VHL_4 = Olahraga
 	FMMC_VHL_5 = Sports Classics
 	FMMC_VHL_6 = Super
 	FMMC_VHL_7 = SUVs
@@ -63250,7 +63250,7 @@
 	FM_IHELP_IWN = Your Wanted Level will increase to match the Wanted Level of any players you share a vehicle with.
 	FM_IHELP_JBP = You will earn Job Points for each Job you complete. Press ~INPUT_MULTIPLAYER_INFO~ to see how many points you have earned in this session. Job Points are used to determine winners in Playlists.
 	FM_IHELP_LBU = Call Al Carter to request some backup from The Lost MC.
-	FM_IHELP_LCP = Lose the Cops.
+	FM_IHELP_LCP = Lolos dari kejaran Polisi.
 	FM_IHELP_LRA = Give Lester a call if you need an airplane.
 	FM_IHELP_LRB = Give Lester a call if you need a boat.
 	FM_IHELP_LRC = Lester has access to most vehicle types. If you need access to a heli, plane or other kind of vehicle, give him a call.
@@ -63403,7 +63403,7 @@
 	FM_NXT_TEXI = Keluar
 	FM_NXT_TREF = Refresh
 	FM_NXT_TREFN = Refresh(~1~)
-	FM_NXT_TREP = Replay
+	FM_NXT_TREP = Putar Ulang
 	FM_NXT_TYP = Type
 	FM_NXT_VCNT = ~1~/~1~ Votes
 	FM_NXT_VOTED = VOTED
@@ -63617,7 +63617,7 @@
 	GB_BB_BSTART = You have started Asset Recovery. Steal the vehicles and deliver them to the drop-off to earn cash and RP.
 	GB_BB_BSTART1 = You have started Asset Recovery. Steal the vehicle and deliver it to the drop-off to earn cash and RP.
 	GB_BB_B_VEH = Vehicle
-	GB_BB_COPS = Lose the Cops.
+	GB_BB_COPS = Lolos dari kejaran Polisi.
 	GB_BB_DES = A vehicle has been destroyed. Your maximum potential reward has been reduced.
 	GB_BB_DESF = A vehicle has been destroyed. Destroying a vehicle will earn you cash at the end of the VIP Work.
 	GB_BB_DESR = A vehicle has been destroyed. Destroying a vehicle will earn your VIP cash at the end of the VIP Work.
@@ -63935,7 +63935,7 @@
 	GB_TXT_CUT = Well, that wasn't supposed to happen. We've cut the wages for your Protection Detail. Every time VIP Protection fails to do their job, we fail to give them their whole paycheck. Dismiss anyone who isn't up to standard, or turn your trusted Protection against them.
 	GB_UBECOME = ~a~ ~s~has registered as a VIP.
 	GB_VEH_BLIP = ~BLIP_GANG_VEHICLE~
-	GB_WINNER = WINNER
+	GB_WINNER = PEMENANG
 	GB_WORK_DRAW = DRAW
 	GB_WORK_END = VIP WORK END
 	GB_WORK_OVER = VIP WORK OVER
@@ -64936,7 +64936,7 @@
 	HPT_STRAP3 = Collect the briefcase
 	HPT_TKCOLL = ~a~ ~s~collected the briefcase
 	HPT_TKDROP = ~a~ ~s~dropped the briefcase
-	HPT_WIN = Winner
+	HPT_WIN = Pemenang
 	HPV_MTARG = Moving Target
 	HPV_MTARG2 = Moving Targets
 	HPV_PERMHLDR = <C>~a~</C> ~s~is the ~HUD_COLOUR_RED~Moving Target.~s~ Take them out.
@@ -65044,7 +65044,7 @@
 	HT_BMS16 = The Moving Target has been eliminated
 	HT_BMT0 = MOVING TARGET
 	HT_BMT1 = MOVING TARGET
-	HT_BMT2 = WINNER
+	HT_BMT2 = PEMENANG
 	HT_BMT3 = EVENT OVER
 	HT_FMF_0_0 = Red Ear Defenders
 	HT_FMF_0_1 = Magenta Ear Defenders
@@ -65862,8 +65862,8 @@
 	IBI_HELP_1 = While holding the package you will run faster, but are unable to use weapons.
 	IBI_HELP_2 = Hold ~INPUT_ENTER~ ~s~to run past the package without picking it up.
 	IBI_HELP_3 = If scores are even Sudden Death will continue as long as the package is held. If the package is dropped and not scored, the team with the best performance wins.
-	IBI_ST_LOSE = LOSER
-	IBI_ST_WIN = WINNER
+	IBI_ST_LOSE = KALAH
+	IBI_ST_WIN = PEMENANG
 	IBI_S_DEATHS = ~a~ ~s~won on least deaths
 	IBI_S_HSHOTS = ~a~ ~s~won on most headshots
 	IBI_S_KILLS = ~a~ ~s~won on kills
@@ -66505,7 +66505,7 @@
 	KOTC_STRAP2 = ~HUD_COLOUR_WHITE~<C>~a~</C> ~s~is the King. Take them out.
 	KOTC_STRAP2GN = ~HUD_COLOUR_WHITE~<C>~a~</C> ~s~is the King. Help them win.
 	KOTC_STRAP3 = Enter the Castle area.
-	KOTC_WIN1 = Winner
+	KOTC_WIN1 = Pemenang
 	KOTC_YOUKNG = You are the King of the Castle. Earn points by staying in the Castle area. Earn extra points by killing other players while you are in the Castle area.
 	KRP_P_RF_H = Directions confusing for Krapea.
 	KRP_P_SF_H = Krapea particle board furniture falling out of favour.
@@ -66926,7 +66926,7 @@
 	LONGEST_STOPPIE_DIST = Farthest stoppie
 	LONGEST_SURVIVED_FREEFALL = Farthest free-fall survived
 	LONGEST_WHEELIE_DIST = Farthest wheelie
-	LOSE_WANTED = Lose the Cops.
+	LOSE_WANTED = Lolos dari kejaran Polisi.
 	LOSPFY = La Puerta Fwy
 	LOSPUER = La Puerta
 	LOSSF = Los Santos Freeway
@@ -67889,7 +67889,7 @@
 	M_FB4P2 = Tow Truck
 	M_FB4P3 = Getaway Vehicle
 	M_FB4P3_P = ~y~Misi Berhasil
-	M_FB4P4 = Masks
+	M_FB4P4 = Topeng
 	M_FB4P5 = Boiler Suits
 	M_FH1 = Surveying the Score
 	M_FH2A = The Big Score
@@ -68449,7 +68449,7 @@
 	PEN_VALVEH = This vehicle is not eligible to participate in Penned In.
 	PEN_VEH = ~s~You need a vehicle to take part in Penned In.
 	PEN_VEHG = Get back in your ~b~vehicle.
-	PEN_WIN = WINNER
+	PEN_WIN = PEMENANG
 	PEN_WON = You won Penned In
 	PEN_WON2P = ~a~ and ~a~ won Penned In
 	PEN_WONP = <C>~a~</C> ~s~won Penned In
@@ -69006,7 +69006,7 @@
 	PIM_PERC = ~1~%
 	PIM_PLNM = ~a~
 	PIM_PVEO = Vehicle Remote Functions
-	PIM_PVEO_001 = Engine
+	PIM_PVEO_001 = Mesin
 	PIM_PVEO_002 = Radio
 	PIM_PVEO_003 = Headlights
 	PIM_PVEO_004 = Neon Lights
@@ -69051,7 +69051,7 @@
 	PIM_TAAHLM = Auto Equip Aircraft Helmet
 	PIM_TAALL = All Activities
 	PIM_TAARM = Auto Equip Armor
-	PIM_TACCE = Accessories
+	PIM_TACCE = Aksesori
 	PIM_TAHLM = Auto Equip Bike Helmet
 	PIM_TANIMF = Action
 	PIM_TANIMP = Action
@@ -69082,10 +69082,10 @@
 	PIM_TFWTY = Type
 	PIM_TGEAR = Heist Gear
 	PIM_TGEAR2 = Gear
-	PIM_TGLAS = Glasses
+	PIM_TGLAS = Kacamata
 	PIM_TGLOVE = Gloves
 	PIM_THAMB = Events
-	PIM_THELM = Hats
+	PIM_THELM = Topi
 	PIM_THELM1 = Helmets
 	PIM_THELP = Ringkasan
 	PIM_THHELP = Select to view the latest help text.
@@ -69125,7 +69125,7 @@
 	PIM_TLPVD = Sets your Personal Vehicle's lights on or off.
 	PIM_TM18 = Freemode Work
 	PIM_TMALL = All Other
-	PIM_TMASK = Masks
+	PIM_TMASK = Topeng
 	PIM_TMOODD = Expression (Deathmatch)
 	PIM_TMOODN = Expression
 	PIM_TMOODR = Expression (Race)
@@ -69150,7 +69150,7 @@
 	PIM_TSPL = Spawn Location
 	PIM_TWALKN = Walk Style
 	PIM_TYACHTS = GALAXY SUPER YACHT
-	PIM_UACCE = ACCESSORIES
+	PIM_UACCE = AKSESORI
 	PIM_UARMOR = ROMPI ANTI PELURU
 	PIM_UFIREW = FIREWORKS
 	PIM_USNAC = SNACKS
@@ -69267,7 +69267,7 @@
 	PM_CHOOSE_CHAR = Choose Character
 	PM_CHT_BET = Cash Bet
 	PM_CHT_BSCO = Best Score
-	PM_CHT_BTIM = Best Time
+	PM_CHT_BTIM = Waktu Terbaik
 	PM_CHT_CLAN = Crew Name
 	PM_CHT_FAIL = Total Fails
 	PM_CHT_FAIL_U = Total Unique Fails
@@ -69766,9 +69766,9 @@
 	PM_RP_HELP1 = There are currently no Missions available to replay. Once you have played some Missions you will be able to try them again and aim to reach the Gold standard in each.~n~~n~If you have a Rockstar Games account, Mission stats are recorded on the leaderboards on rockstargames.com where you can see how you stack up against friends and Crewmates. Visit ~HUD_COLOUR_SOCIAL_CLUB~rockstargames.com~s~ to view leaderboards and in-depth career stats.
 	PM_RP_HELP3 = Select an encounter with Strangers and Freaks to replay.~n~~n~If you have a Rockstar Games account, you can see which Strangers and Freaks you are yet to meet and see how you stack up against your friends and Crewmates. Visit ~HUD_COLOUR_SOCIAL_CLUB~rockstargames.com~s~ for more information and to view in-depth career stats.
 	PM_RP_HELP4 = There are currently no encounters with Strangers and Freaks available to replay.~n~~n~If you have a Rockstar Games account, you can see which Strangers and Freaks you are yet to meet and see how you stack up against your friends and Crewmates. Visit ~HUD_COLOUR_SOCIAL_CLUB~rockstargames.com~s~ for more information and to view in-depth career stats.
-	PM_RP_HELPT = Replay
-	PM_RP_HELPT1 = Replay
-	PM_RP_HELPT3 = Replay
+	PM_RP_HELPT = Putar Ulang
+	PM_RP_HELPT1 = Putar Ulang
+	PM_RP_HELPT3 = Putar Ulang
 	PM_RP_STATD = ~a~~n~~a~
 	PM_R_CREATED = Rockstar Created
 	PM_R_PLIST = Rockstar Playlists
@@ -70704,7 +70704,7 @@
 	REPLAY_SKIP_M = Skip Mission
 	REPLAY_SKIP_S = Lewati
 	REPLAY_T = ~r~MISSION FAILED~s~
-	REPLAY_TMG = ~r~FAILED~s~
+	REPLAY_TMG = ~r~GAGAL~s~
 	REPLAY_YES = Ya
 	RESERVE_FAIL = An error occurred accepting this invitation. Please try again.
 	RESPAWN_B = ~b~TERTANGKAP~s~
@@ -71436,7 +71436,7 @@
 	SHOP_CONTENT_18 = Executives and Other Criminals
 	SHOP_CONTENT_19 = Festive Surprise 2015
 	SHOP_CONTENT_21 = Be My Valentine
-	SHOP_COPS = Lose the Cops.
+	SHOP_COPS = Lolos dari kejaran Polisi.
 	SHOP_DLC_PACK = Part of the ~a~ Pack.
 	SHOP_DLC_PACK2 = Part of The ~a~.
 	SHOP_DLC_PACK3 = Part of the ~a~ Special.
@@ -72039,9 +72039,9 @@
 	TIME_SWIMMING = Time swimming
 	TIME_UNDERWATER = Time underwater
 	TIME_WALKING = Time walking
-	TIM_CHECKPOIN = CHECKPOINT
+	TIM_CHECKPOIN = TITIK PEMERIKSAAN
 	TIM_DAMAGE = DAMAGE
-	TIM_DISTANCE = CHECKPOINT
+	TIM_DISTANCE = TITIK PEMERIKSAAN
 	TIM_LAP = LAP
 	TIM_POSIT = POSITION
 	TIM_TIMER = TIME
@@ -73027,8 +73027,8 @@
 	UW_ABTSC = ~HUD_COLOUR_NET_PLAYER2~Kill List Competitive ~s~is about to start.
 	UW_ATTK = Destroy the ~r~Merryweather patrols.
 	UW_BIGE = ELIMINATED
-	UW_BIGF = LOSER
-	UW_BIGM = WINNER
+	UW_BIGF = KALAH
+	UW_BIGM = PEMENANG
 	UW_BIGO = EVENT OVER
 	UW_BIG_BMEXP = You destroyed all the Merryweather patrols
 	UW_BLIP = Kill List

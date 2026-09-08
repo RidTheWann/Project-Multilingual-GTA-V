@@ -20,7 +20,7 @@
 	EXT1_21 = Get on a ~b~bike.
 	EXT1_22 = Go to ~b~Dom.
 	EXT1_F1 = ~s~The dog died.
-	EXT1_F2 = ~s~Dom died.
+	EXT1_F2 = ~s~Dom tewas.
 	EXT1_F3 = ~s~Franklin landed too far outside the target zone.
 	EXT1_F4 = ~s~The helicopter was destroyed.
 	EXT1_F5 = ~s~Franklin didn't help Dom.
@@ -31,7 +31,7 @@
 	EXT1_F10 = ~s~Franklin didn't get into the helicopter.
 	EXT1_F11 = ~s~Franklin left the area.
 	EXT1_F12 = ~s~The pilot was spooked.
-	EXT1_F13 = ~s~Dom was spooked.
+	EXT1_F13 = ~s~Dom ketakutan.
 	EXT1_F14 = ~s~The dog was spooked.
 	EXT1_F15 = ~s~One of the bikes was destroyed.
 	EXT1_F17 = ~s~Franklin abandoned the race.

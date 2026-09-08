@@ -2,8 +2,8 @@
   "summary": {
     "files_processed": 610,
     "total_entries": 284927,
-    "translated_entries": 1581,
-    "unchanged_entries": 283346,
+    "translated_entries": 2470,
+    "unchanged_entries": 282457,
     "dry_run": false
   },
   "results": [
@@ -38,8 +38,8 @@
     {
       "filename": "ah3baud.oxt",
       "total_entries": 3037,
-      "translated_entries": 0,
-      "unchanged_entries": 3037,
+      "translated_entries": 7,
+      "unchanged_entries": 3030,
       "status": "PROCESSED"
     },
     {
@@ -52,15 +52,15 @@
     {
       "filename": "ahprep1.oxt",
       "total_entries": 6,
-      "translated_entries": 2,
-      "unchanged_entries": 4,
+      "translated_entries": 3,
+      "unchanged_entries": 3,
       "status": "PROCESSED"
     },
     {
       "filename": "ambht.oxt",
       "total_entries": 193,
-      "translated_entries": 12,
-      "unchanged_entries": 181,
+      "translated_entries": 14,
+      "unchanged_entries": 179,
       "status": "PROCESSED"
     },
     {
@@ -80,8 +80,8 @@
     {
       "filename": "animlau.oxt",
       "total_entries": 7803,
-      "translated_entries": 0,
-      "unchanged_entries": 7803,
+      "translated_entries": 11,
+      "unchanged_entries": 7792,
       "status": "PROCESSED"
     },
     {
@@ -101,29 +101,29 @@
     {
       "filename": "arm1.oxt",
       "total_entries": 67,
-      "translated_entries": 3,
-      "unchanged_entries": 64,
+      "translated_entries": 10,
+      "unchanged_entries": 57,
       "status": "PROCESSED"
     },
     {
       "filename": "arm1aud.oxt",
       "total_entries": 1000,
-      "translated_entries": 0,
-      "unchanged_entries": 1000,
+      "translated_entries": 1,
+      "unchanged_entries": 999,
       "status": "PROCESSED"
     },
     {
       "filename": "arm2.oxt",
       "total_entries": 71,
-      "translated_entries": 5,
-      "unchanged_entries": 66,
+      "translated_entries": 8,
+      "unchanged_entries": 63,
       "status": "PROCESSED"
     },
     {
       "filename": "arm3.oxt",
       "total_entries": 46,
-      "translated_entries": 2,
-      "unchanged_entries": 44,
+      "translated_entries": 3,
+      "unchanged_entries": 43,
       "status": "PROCESSED"
     },
     {
@@ -136,8 +136,8 @@
     {
       "filename": "arm_mp.oxt",
       "total_entries": 40,
-      "translated_entries": 1,
-      "unchanged_entries": 39,
+      "translated_entries": 4,
+      "unchanged_entries": 36,
       "status": "PROCESSED"
     },
     {
@@ -171,50 +171,50 @@
     {
       "filename": "ass_bs.oxt",
       "total_entries": 37,
-      "translated_entries": 3,
-      "unchanged_entries": 34,
+      "translated_entries": 5,
+      "unchanged_entries": 32,
       "status": "PROCESSED"
     },
     {
       "filename": "ass_cs.oxt",
       "total_entries": 28,
-      "translated_entries": 3,
-      "unchanged_entries": 25,
+      "translated_entries": 4,
+      "unchanged_entries": 24,
       "status": "PROCESSED"
     },
     {
       "filename": "ass_hk.oxt",
       "total_entries": 25,
-      "translated_entries": 3,
-      "unchanged_entries": 22,
+      "translated_entries": 5,
+      "unchanged_entries": 20,
       "status": "PROCESSED"
     },
     {
       "filename": "ass_ml.oxt",
       "total_entries": 21,
-      "translated_entries": 3,
-      "unchanged_entries": 18,
+      "translated_entries": 5,
+      "unchanged_entries": 16,
       "status": "PROCESSED"
     },
     {
       "filename": "ass_va.oxt",
       "total_entries": 33,
-      "translated_entries": 3,
-      "unchanged_entries": 30,
+      "translated_entries": 5,
+      "unchanged_entries": 28,
       "status": "PROCESSED"
     },
     {
       "filename": "bankh1.oxt",
       "total_entries": 48,
-      "translated_entries": 0,
-      "unchanged_entries": 48,
+      "translated_entries": 5,
+      "unchanged_entries": 43,
       "status": "PROCESSED"
     },
     {
       "filename": "banks1.oxt",
       "total_entries": 46,
-      "translated_entries": 1,
-      "unchanged_entries": 45,
+      "translated_entries": 6,
+      "unchanged_entries": 40,
       "status": "PROCESSED"
     },
     {
@@ -234,8 +234,8 @@
     {
       "filename": "barr3a.oxt",
       "total_entries": 12,
-      "translated_entries": 3,
-      "unchanged_entries": 9,
+      "translated_entries": 5,
+      "unchanged_entries": 7,
       "status": "PROCESSED"
     },
     {
@@ -248,8 +248,8 @@
     {
       "filename": "barr3c.oxt",
       "total_entries": 17,
-      "translated_entries": 3,
-      "unchanged_entries": 14,
+      "translated_entries": 4,
+      "unchanged_entries": 13,
       "status": "PROCESSED"
     },
     {
@@ -290,8 +290,8 @@
     {
       "filename": "bary3.oxt",
       "total_entries": 5,
-      "translated_entries": 1,
-      "unchanged_entries": 4,
+      "translated_entries": 2,
+      "unchanged_entries": 3,
       "status": "PROCESSED"
     },
     {
@@ -332,8 +332,8 @@
     {
       "filename": "bbonds.oxt",
       "total_entries": 18,
-      "translated_entries": 1,
-      "unchanged_entries": 17,
+      "translated_entries": 2,
+      "unchanged_entries": 16,
       "status": "PROCESSED"
     },
     {
@@ -346,8 +346,8 @@
     {
       "filename": "bfinjec.oxt",
       "total_entries": 35,
-      "translated_entries": 4,
-      "unchanged_entries": 31,
+      "translated_entries": 7,
+      "unchanged_entries": 28,
       "status": "PROCESSED"
     },
     {
@@ -367,8 +367,8 @@
     {
       "filename": "bjump.oxt",
       "total_entries": 32,
-      "translated_entries": 4,
-      "unchanged_entries": 28,
+      "translated_entries": 8,
+      "unchanged_entries": 24,
       "status": "PROCESSED"
     },
     {
@@ -451,8 +451,8 @@
     {
       "filename": "bs2baud.oxt",
       "total_entries": 3212,
-      "translated_entries": 0,
-      "unchanged_entries": 3212,
+      "translated_entries": 9,
+      "unchanged_entries": 3203,
       "status": "PROCESSED"
     },
     {
@@ -465,8 +465,8 @@
     {
       "filename": "bsprep.oxt",
       "total_entries": 25,
-      "translated_entries": 0,
-      "unchanged_entries": 25,
+      "translated_entries": 3,
+      "unchanged_entries": 22,
       "status": "PROCESSED"
     },
     {
@@ -493,8 +493,8 @@
     {
       "filename": "c_race.oxt",
       "total_entries": 38,
-      "translated_entries": 4,
-      "unchanged_entries": 34,
+      "translated_entries": 15,
+      "unchanged_entries": 23,
       "status": "PROCESSED"
     },
     {
@@ -507,8 +507,8 @@
     {
       "filename": "car4.oxt",
       "total_entries": 19,
-      "translated_entries": 2,
-      "unchanged_entries": 17,
+      "translated_entries": 3,
+      "unchanged_entries": 16,
       "status": "PROCESSED"
     },
     {
@@ -542,15 +542,15 @@
     {
       "filename": "chheist.oxt",
       "total_entries": 106,
-      "translated_entries": 2,
-      "unchanged_entries": 104,
+      "translated_entries": 8,
+      "unchanged_entries": 98,
       "status": "PROCESSED"
     },
     {
       "filename": "chi2aud.oxt",
       "total_entries": 566,
-      "translated_entries": 0,
-      "unchanged_entries": 566,
+      "translated_entries": 4,
+      "unchanged_entries": 562,
       "status": "PROCESSED"
     },
     {
@@ -570,8 +570,8 @@
     {
       "filename": "clo_mnu.oxt",
       "total_entries": 1022,
-      "translated_entries": 4,
-      "unchanged_entries": 1018,
+      "translated_entries": 84,
+      "unchanged_entries": 938,
       "status": "PROCESSED"
     },
     {
@@ -584,8 +584,8 @@
     {
       "filename": "cntry1.oxt",
       "total_entries": 76,
-      "translated_entries": 9,
-      "unchanged_entries": 67,
+      "translated_entries": 19,
+      "unchanged_entries": 57,
       "status": "PROCESSED"
     },
     {
@@ -605,8 +605,8 @@
     {
       "filename": "crstl3.oxt",
       "total_entries": 34,
-      "translated_entries": 3,
-      "unchanged_entries": 31,
+      "translated_entries": 5,
+      "unchanged_entries": 29,
       "status": "PROCESSED"
     },
     {
@@ -626,22 +626,22 @@
     {
       "filename": "cst2aud.oxt",
       "total_entries": 1398,
-      "translated_entries": 0,
-      "unchanged_entries": 1398,
+      "translated_entries": 1,
+      "unchanged_entries": 1397,
       "status": "PROCESSED"
     },
     {
       "filename": "cst3aud.oxt",
       "total_entries": 897,
-      "translated_entries": 0,
-      "unchanged_entries": 897,
+      "translated_entries": 2,
+      "unchanged_entries": 895,
       "status": "PROCESSED"
     },
     {
       "filename": "cst4aud.oxt",
       "total_entries": 778,
-      "translated_entries": 0,
-      "unchanged_entries": 778,
+      "translated_entries": 1,
+      "unchanged_entries": 777,
       "status": "PROCESSED"
     },
     {
@@ -661,8 +661,8 @@
     {
       "filename": "ct_aud.oxt",
       "total_entries": 3224,
-      "translated_entries": 2,
-      "unchanged_entries": 3222,
+      "translated_entries": 3,
+      "unchanged_entries": 3221,
       "status": "PROCESSED"
     },
     {
@@ -682,8 +682,8 @@
     {
       "filename": "d2aaud.oxt",
       "total_entries": 1364,
-      "translated_entries": 0,
-      "unchanged_entries": 1364,
+      "translated_entries": 1,
+      "unchanged_entries": 1363,
       "status": "PROCESSED"
     },
     {
@@ -703,15 +703,15 @@
     {
       "filename": "darts.oxt",
       "total_entries": 87,
-      "translated_entries": 6,
-      "unchanged_entries": 81,
+      "translated_entries": 14,
+      "unchanged_entries": 73,
       "status": "PROCESSED"
     },
     {
       "filename": "dctl.oxt",
       "total_entries": 14,
-      "translated_entries": 0,
-      "unchanged_entries": 14,
+      "translated_entries": 1,
+      "unchanged_entries": 13,
       "status": "PROCESSED"
     },
     {
@@ -738,8 +738,8 @@
     {
       "filename": "dir_mnu.oxt",
       "total_entries": 653,
-      "translated_entries": 17,
-      "unchanged_entries": 636,
+      "translated_entries": 26,
+      "unchanged_entries": 627,
       "status": "PROCESSED"
     },
     {
@@ -752,15 +752,15 @@
     {
       "filename": "dockh1.oxt",
       "total_entries": 102,
-      "translated_entries": 6,
-      "unchanged_entries": 96,
+      "translated_entries": 12,
+      "unchanged_entries": 90,
       "status": "PROCESSED"
     },
     {
       "filename": "dockh2b.oxt",
       "total_entries": 84,
-      "translated_entries": 6,
-      "unchanged_entries": 78,
+      "translated_entries": 20,
+      "unchanged_entries": 64,
       "status": "PROCESSED"
     },
     {
@@ -836,8 +836,8 @@
     {
       "filename": "dtrshrd.oxt",
       "total_entries": 35,
-      "translated_entries": 4,
-      "unchanged_entries": 31,
+      "translated_entries": 5,
+      "unchanged_entries": 30,
       "status": "PROCESSED"
     },
     {
@@ -927,8 +927,8 @@
     {
       "filename": "eps6.oxt",
       "total_entries": 19,
-      "translated_entries": 0,
-      "unchanged_entries": 19,
+      "translated_entries": 1,
+      "unchanged_entries": 18,
       "status": "PROCESSED"
     },
     {
@@ -948,8 +948,8 @@
     {
       "filename": "eps8.oxt",
       "total_entries": 20,
-      "translated_entries": 1,
-      "unchanged_entries": 19,
+      "translated_entries": 2,
+      "unchanged_entries": 18,
       "status": "PROCESSED"
     },
     {
@@ -962,8 +962,8 @@
     {
       "filename": "epsdaud.oxt",
       "total_entries": 156,
-      "translated_entries": 0,
-      "unchanged_entries": 156,
+      "translated_entries": 1,
+      "unchanged_entries": 155,
       "status": "PROCESSED"
     },
     {
@@ -990,8 +990,8 @@
     {
       "filename": "exl1aud.oxt",
       "total_entries": 973,
-      "translated_entries": 0,
-      "unchanged_entries": 973,
+      "translated_entries": 2,
+      "unchanged_entries": 971,
       "status": "PROCESSED"
     },
     {
@@ -1004,22 +1004,22 @@
     {
       "filename": "ext1.oxt",
       "total_entries": 37,
-      "translated_entries": 1,
-      "unchanged_entries": 36,
+      "translated_entries": 3,
+      "unchanged_entries": 34,
       "status": "PROCESSED"
     },
     {
       "filename": "ext1au.oxt",
       "total_entries": 714,
-      "translated_entries": 0,
-      "unchanged_entries": 714,
+      "translated_entries": 3,
+      "unchanged_entries": 711,
       "status": "PROCESSED"
     },
     {
       "filename": "ext2.oxt",
       "total_entries": 25,
-      "translated_entries": 0,
-      "unchanged_entries": 25,
+      "translated_entries": 2,
+      "unchanged_entries": 23,
       "status": "PROCESSED"
     },
     {
@@ -1032,8 +1032,8 @@
     {
       "filename": "ext3.oxt",
       "total_entries": 11,
-      "translated_entries": 0,
-      "unchanged_entries": 11,
+      "translated_entries": 3,
+      "unchanged_entries": 8,
       "status": "PROCESSED"
     },
     {
@@ -1046,8 +1046,8 @@
     {
       "filename": "ext4.oxt",
       "total_entries": 4,
-      "translated_entries": 0,
-      "unchanged_entries": 4,
+      "translated_entries": 1,
+      "unchanged_entries": 3,
       "status": "PROCESSED"
     },
     {
@@ -1088,50 +1088,50 @@
     {
       "filename": "fam1aud.oxt",
       "total_entries": 1588,
-      "translated_entries": 0,
-      "unchanged_entries": 1588,
+      "translated_entries": 1,
+      "unchanged_entries": 1587,
       "status": "PROCESSED"
     },
     {
       "filename": "fam2aud.oxt",
       "total_entries": 1188,
-      "translated_entries": 0,
-      "unchanged_entries": 1188,
+      "translated_entries": 2,
+      "unchanged_entries": 1186,
       "status": "PROCESSED"
     },
     {
       "filename": "fam3.oxt",
       "total_entries": 20,
-      "translated_entries": 1,
-      "unchanged_entries": 19,
+      "translated_entries": 2,
+      "unchanged_entries": 18,
       "status": "PROCESSED"
     },
     {
       "filename": "fam3aud.oxt",
       "total_entries": 1195,
-      "translated_entries": 0,
-      "unchanged_entries": 1195,
+      "translated_entries": 1,
+      "unchanged_entries": 1194,
       "status": "PROCESSED"
     },
     {
       "filename": "fam4aud.oxt",
       "total_entries": 1216,
-      "translated_entries": 0,
-      "unchanged_entries": 1216,
+      "translated_entries": 4,
+      "unchanged_entries": 1212,
       "status": "PROCESSED"
     },
     {
       "filename": "fam5.oxt",
       "total_entries": 12,
-      "translated_entries": 1,
-      "unchanged_entries": 11,
+      "translated_entries": 2,
+      "unchanged_entries": 10,
       "status": "PROCESSED"
     },
     {
       "filename": "fam5aud.oxt",
       "total_entries": 1324,
-      "translated_entries": 0,
-      "unchanged_entries": 1324,
+      "translated_entries": 1,
+      "unchanged_entries": 1323,
       "status": "PROCESSED"
     },
     {
@@ -1144,8 +1144,8 @@
     {
       "filename": "fam6aud.oxt",
       "total_entries": 1558,
-      "translated_entries": 0,
-      "unchanged_entries": 1558,
+      "translated_entries": 2,
+      "unchanged_entries": 1556,
       "status": "PROCESSED"
     },
     {
@@ -1165,22 +1165,22 @@
     {
       "filename": "family1.oxt",
       "total_entries": 30,
-      "translated_entries": 0,
-      "unchanged_entries": 30,
+      "translated_entries": 1,
+      "unchanged_entries": 29,
       "status": "PROCESSED"
     },
     {
       "filename": "family2.oxt",
       "total_entries": 74,
-      "translated_entries": 8,
-      "unchanged_entries": 66,
+      "translated_entries": 13,
+      "unchanged_entries": 61,
       "status": "PROCESSED"
     },
     {
       "filename": "family4.oxt",
       "total_entries": 36,
-      "translated_entries": 4,
-      "unchanged_entries": 32,
+      "translated_entries": 11,
+      "unchanged_entries": 25,
       "status": "PROCESSED"
     },
     {
@@ -1228,22 +1228,22 @@
     {
       "filename": "fatic1.oxt",
       "total_entries": 11,
-      "translated_entries": 0,
-      "unchanged_entries": 11,
+      "translated_entries": 5,
+      "unchanged_entries": 6,
       "status": "PROCESSED"
     },
     {
       "filename": "fatic2.oxt",
       "total_entries": 13,
-      "translated_entries": 0,
-      "unchanged_entries": 13,
+      "translated_entries": 5,
+      "unchanged_entries": 8,
       "status": "PROCESSED"
     },
     {
       "filename": "fatic3.oxt",
       "total_entries": 17,
-      "translated_entries": 0,
-      "unchanged_entries": 17,
+      "translated_entries": 6,
+      "unchanged_entries": 11,
       "status": "PROCESSED"
     },
     {
@@ -1277,8 +1277,8 @@
     {
       "filename": "fb3aud.oxt",
       "total_entries": 2003,
-      "translated_entries": 0,
-      "unchanged_entries": 2003,
+      "translated_entries": 7,
+      "unchanged_entries": 1996,
       "status": "PROCESSED"
     },
     {
@@ -1291,36 +1291,36 @@
     {
       "filename": "fbi1.oxt",
       "total_entries": 27,
-      "translated_entries": 2,
-      "unchanged_entries": 25,
+      "translated_entries": 5,
+      "unchanged_entries": 22,
       "status": "PROCESSED"
     },
     {
       "filename": "fbi1aud.oxt",
       "total_entries": 849,
-      "translated_entries": 0,
-      "unchanged_entries": 849,
+      "translated_entries": 4,
+      "unchanged_entries": 845,
       "status": "PROCESSED"
     },
     {
       "filename": "fbi2aud.oxt",
       "total_entries": 1273,
-      "translated_entries": 0,
-      "unchanged_entries": 1273,
+      "translated_entries": 1,
+      "unchanged_entries": 1272,
       "status": "PROCESSED"
     },
     {
       "filename": "fbi3.oxt",
       "total_entries": 40,
-      "translated_entries": 0,
-      "unchanged_entries": 40,
+      "translated_entries": 4,
+      "unchanged_entries": 36,
       "status": "PROCESSED"
     },
     {
       "filename": "fbi5aau.oxt",
       "total_entries": 2044,
-      "translated_entries": 0,
-      "unchanged_entries": 2044,
+      "translated_entries": 3,
+      "unchanged_entries": 2041,
       "status": "PROCESSED"
     },
     {
@@ -1354,22 +1354,22 @@
     {
       "filename": "fbiprd.oxt",
       "total_entries": 12,
-      "translated_entries": 0,
-      "unchanged_entries": 12,
+      "translated_entries": 2,
+      "unchanged_entries": 10,
       "status": "PROCESSED"
     },
     {
       "filename": "fbipre.oxt",
       "total_entries": 13,
-      "translated_entries": 0,
-      "unchanged_entries": 13,
+      "translated_entries": 1,
+      "unchanged_entries": 12,
       "status": "PROCESSED"
     },
     {
       "filename": "fbis4au.oxt",
       "total_entries": 2134,
-      "translated_entries": 0,
-      "unchanged_entries": 2134,
+      "translated_entries": 3,
+      "unchanged_entries": 2131,
       "status": "PROCESSED"
     },
     {
@@ -1403,15 +1403,15 @@
     {
       "filename": "fcftlau.oxt",
       "total_entries": 487,
-      "translated_entries": 0,
-      "unchanged_entries": 487,
+      "translated_entries": 1,
+      "unchanged_entries": 486,
       "status": "PROCESSED"
     },
     {
       "filename": "fchase.oxt",
       "total_entries": 37,
-      "translated_entries": 1,
-      "unchanged_entries": 36,
+      "translated_entries": 6,
+      "unchanged_entries": 31,
       "status": "PROCESSED"
     },
     {
@@ -1473,8 +1473,8 @@
     {
       "filename": "fh3aaud.oxt",
       "total_entries": 2561,
-      "translated_entries": 0,
-      "unchanged_entries": 2561,
+      "translated_entries": 2,
+      "unchanged_entries": 2559,
       "status": "PROCESSED"
     },
     {
@@ -1508,8 +1508,8 @@
     {
       "filename": "fin1aud.oxt",
       "total_entries": 334,
-      "translated_entries": 0,
-      "unchanged_entries": 334,
+      "translated_entries": 1,
+      "unchanged_entries": 333,
       "status": "PROCESSED"
     },
     {
@@ -1522,15 +1522,15 @@
     {
       "filename": "final3a.oxt",
       "total_entries": 78,
-      "translated_entries": 1,
-      "unchanged_entries": 77,
+      "translated_entries": 15,
+      "unchanged_entries": 63,
       "status": "PROCESSED"
     },
     {
       "filename": "final3b.oxt",
       "total_entries": 55,
-      "translated_entries": 2,
-      "unchanged_entries": 53,
+      "translated_entries": 12,
+      "unchanged_entries": 43,
       "status": "PROCESSED"
     },
     {
@@ -1550,15 +1550,15 @@
     {
       "filename": "finc.oxt",
       "total_entries": 91,
-      "translated_entries": 1,
-      "unchanged_entries": 90,
+      "translated_entries": 8,
+      "unchanged_entries": 83,
       "status": "PROCESSED"
     },
     {
       "filename": "finc1au.oxt",
       "total_entries": 2226,
-      "translated_entries": 0,
-      "unchanged_entries": 2226,
+      "translated_entries": 1,
+      "unchanged_entries": 2225,
       "status": "PROCESSED"
     },
     {
@@ -1571,8 +1571,8 @@
     {
       "filename": "finh1.oxt",
       "total_entries": 41,
-      "translated_entries": 3,
-      "unchanged_entries": 38,
+      "translated_entries": 6,
+      "unchanged_entries": 35,
       "status": "PROCESSED"
     },
     {
@@ -1585,8 +1585,8 @@
     {
       "filename": "finprb.oxt",
       "total_entries": 20,
-      "translated_entries": 0,
-      "unchanged_entries": 20,
+      "translated_entries": 2,
+      "unchanged_entries": 18,
       "status": "PROCESSED"
     },
     {
@@ -1599,15 +1599,15 @@
     {
       "filename": "fkn0aud.oxt",
       "total_entries": 1320,
-      "translated_entries": 0,
-      "unchanged_entries": 1320,
+      "translated_entries": 2,
+      "unchanged_entries": 1318,
       "status": "PROCESSED"
     },
     {
       "filename": "fkn1aud.oxt",
       "total_entries": 1514,
-      "translated_entries": 0,
-      "unchanged_entries": 1514,
+      "translated_entries": 2,
+      "unchanged_entries": 1512,
       "status": "PROCESSED"
     },
     {
@@ -1627,8 +1627,8 @@
     {
       "filename": "fmambau.oxt",
       "total_entries": 191,
-      "translated_entries": 0,
-      "unchanged_entries": 191,
+      "translated_entries": 1,
+      "unchanged_entries": 190,
       "status": "PROCESSED"
     },
     {
@@ -1655,8 +1655,8 @@
     {
       "filename": "fmint.oxt",
       "total_entries": 16,
-      "translated_entries": 0,
-      "unchanged_entries": 16,
+      "translated_entries": 1,
+      "unchanged_entries": 15,
       "status": "PROCESSED"
     },
     {
@@ -1669,8 +1669,8 @@
     {
       "filename": "fmmc.oxt",
       "total_entries": 10721,
-      "translated_entries": 200,
-      "unchanged_entries": 10521,
+      "translated_entries": 219,
+      "unchanged_entries": 10502,
       "status": "PROCESSED"
     },
     {
@@ -1711,15 +1711,15 @@
     {
       "filename": "forsnip.oxt",
       "total_entries": 50,
-      "translated_entries": 9,
-      "unchanged_entries": 41,
+      "translated_entries": 18,
+      "unchanged_entries": 32,
       "status": "PROCESSED"
     },
     {
       "filename": "fos1aud.oxt",
       "total_entries": 741,
-      "translated_entries": 0,
-      "unchanged_entries": 741,
+      "translated_entries": 2,
+      "unchanged_entries": 739,
       "status": "PROCESSED"
     },
     {
@@ -1816,15 +1816,15 @@
     {
       "filename": "fran1.oxt",
       "total_entries": 35,
-      "translated_entries": 1,
-      "unchanged_entries": 34,
+      "translated_entries": 4,
+      "unchanged_entries": 31,
       "status": "PROCESSED"
     },
     {
       "filename": "fran2.oxt",
       "total_entries": 43,
-      "translated_entries": 0,
-      "unchanged_entries": 43,
+      "translated_entries": 3,
+      "unchanged_entries": 40,
       "status": "PROCESSED"
     },
     {
@@ -1844,15 +1844,15 @@
     {
       "filename": "frmchse.oxt",
       "total_entries": 35,
-      "translated_entries": 1,
-      "unchanged_entries": 34,
+      "translated_entries": 3,
+      "unchanged_entries": 32,
       "status": "PROCESSED"
     },
     {
       "filename": "getawy.oxt",
       "total_entries": 58,
-      "translated_entries": 0,
-      "unchanged_entries": 58,
+      "translated_entries": 1,
+      "unchanged_entries": 57,
       "status": "PROCESSED"
     },
     {
@@ -1865,15 +1865,15 @@
     {
       "filename": "global.oxt",
       "total_entries": 74140,
-      "translated_entries": 797,
-      "unchanged_entries": 73343,
+      "translated_entries": 977,
+      "unchanged_entries": 73163,
       "status": "PROCESSED"
     },
     {
       "filename": "gun_mnu.oxt",
       "total_entries": 108,
-      "translated_entries": 35,
-      "unchanged_entries": 73,
+      "translated_entries": 39,
+      "unchanged_entries": 69,
       "status": "PROCESSED"
     },
     {
@@ -1893,22 +1893,22 @@
     {
       "filename": "h1heist.oxt",
       "total_entries": 27,
-      "translated_entries": 1,
-      "unchanged_entries": 26,
+      "translated_entries": 3,
+      "unchanged_entries": 24,
       "status": "PROCESSED"
     },
     {
       "filename": "h1set1.oxt",
       "total_entries": 22,
-      "translated_entries": 0,
-      "unchanged_entries": 22,
+      "translated_entries": 3,
+      "unchanged_entries": 19,
       "status": "PROCESSED"
     },
     {
       "filename": "h1set3a.oxt",
       "total_entries": 15,
-      "translated_entries": 0,
-      "unchanged_entries": 15,
+      "translated_entries": 1,
+      "unchanged_entries": 14,
       "status": "PROCESSED"
     },
     {
@@ -1928,50 +1928,50 @@
     {
       "filename": "h1set4.oxt",
       "total_entries": 93,
-      "translated_entries": 12,
-      "unchanged_entries": 81,
+      "translated_entries": 19,
+      "unchanged_entries": 74,
       "status": "PROCESSED"
     },
     {
       "filename": "h2part3.oxt",
       "total_entries": 88,
-      "translated_entries": 0,
-      "unchanged_entries": 88,
+      "translated_entries": 9,
+      "unchanged_entries": 79,
       "status": "PROCESSED"
     },
     {
       "filename": "h3heist.oxt",
       "total_entries": 60,
-      "translated_entries": 2,
-      "unchanged_entries": 58,
+      "translated_entries": 12,
+      "unchanged_entries": 48,
       "status": "PROCESSED"
     },
     {
       "filename": "h3set1.oxt",
       "total_entries": 36,
-      "translated_entries": 0,
-      "unchanged_entries": 36,
+      "translated_entries": 3,
+      "unchanged_entries": 33,
       "status": "PROCESSED"
     },
     {
       "filename": "h4heist.oxt",
       "total_entries": 54,
-      "translated_entries": 1,
-      "unchanged_entries": 53,
+      "translated_entries": 10,
+      "unchanged_entries": 44,
       "status": "PROCESSED"
     },
     {
       "filename": "h5heist.oxt",
       "total_entries": 60,
-      "translated_entries": 3,
-      "unchanged_entries": 57,
+      "translated_entries": 4,
+      "unchanged_entries": 56,
       "status": "PROCESSED"
     },
     {
       "filename": "hack.oxt",
       "total_entries": 166,
-      "translated_entries": 2,
-      "unchanged_entries": 164,
+      "translated_entries": 3,
+      "unchanged_entries": 163,
       "status": "PROCESSED"
     },
     {
@@ -1984,36 +1984,36 @@
     {
       "filename": "hao1.oxt",
       "total_entries": 20,
-      "translated_entries": 0,
-      "unchanged_entries": 20,
+      "translated_entries": 1,
+      "unchanged_entries": 19,
       "status": "PROCESSED"
     },
     {
       "filename": "hao1au.oxt",
       "total_entries": 89,
-      "translated_entries": 0,
-      "unchanged_entries": 89,
+      "translated_entries": 2,
+      "unchanged_entries": 87,
       "status": "PROCESSED"
     },
     {
       "filename": "har_mnu.oxt",
       "total_entries": 127,
-      "translated_entries": 3,
-      "unchanged_entries": 124,
+      "translated_entries": 7,
+      "unchanged_entries": 120,
       "status": "PROCESSED"
     },
     {
       "filename": "heataud.oxt",
       "total_entries": 1285,
-      "translated_entries": 0,
-      "unchanged_entries": 1285,
+      "translated_entries": 3,
+      "unchanged_entries": 1282,
       "status": "PROCESSED"
     },
     {
       "filename": "ht2aud.oxt",
       "total_entries": 593,
-      "translated_entries": 0,
-      "unchanged_entries": 593,
+      "translated_entries": 1,
+      "unchanged_entries": 592,
       "status": "PROCESSED"
     },
     {
@@ -2082,8 +2082,8 @@
     {
       "filename": "jhaud.oxt",
       "total_entries": 2813,
-      "translated_entries": 0,
-      "unchanged_entries": 2813,
+      "translated_entries": 1,
+      "unchanged_entries": 2812,
       "status": "PROCESSED"
     },
     {
@@ -2110,8 +2110,8 @@
     {
       "filename": "jhp1b.oxt",
       "total_entries": 13,
-      "translated_entries": 0,
-      "unchanged_entries": 13,
+      "translated_entries": 1,
+      "unchanged_entries": 12,
       "status": "PROCESSED"
     },
     {
@@ -2152,15 +2152,15 @@
     {
       "filename": "josh2au.oxt",
       "total_entries": 360,
-      "translated_entries": 0,
-      "unchanged_entries": 360,
+      "translated_entries": 1,
+      "unchanged_entries": 359,
       "status": "PROCESSED"
     },
     {
       "filename": "josh3.oxt",
       "total_entries": 22,
-      "translated_entries": 1,
-      "unchanged_entries": 21,
+      "translated_entries": 3,
+      "unchanged_entries": 19,
       "status": "PROCESSED"
     },
     {
@@ -2173,8 +2173,8 @@
     {
       "filename": "josh4.oxt",
       "total_entries": 1,
-      "translated_entries": 0,
-      "unchanged_entries": 1,
+      "translated_entries": 1,
+      "unchanged_entries": 0,
       "status": "PROCESSED"
     },
     {
@@ -2215,15 +2215,15 @@
     {
       "filename": "lem1.oxt",
       "total_entries": 43,
-      "translated_entries": 0,
-      "unchanged_entries": 43,
+      "translated_entries": 2,
+      "unchanged_entries": 41,
       "status": "PROCESSED"
     },
     {
       "filename": "lem1aud.oxt",
       "total_entries": 1422,
-      "translated_entries": 0,
-      "unchanged_entries": 1422,
+      "translated_entries": 2,
+      "unchanged_entries": 1420,
       "status": "PROCESSED"
     },
     {
@@ -2236,8 +2236,8 @@
     {
       "filename": "lest1.oxt",
       "total_entries": 46,
-      "translated_entries": 1,
-      "unchanged_entries": 45,
+      "translated_entries": 3,
+      "unchanged_entries": 43,
       "status": "PROCESSED"
     },
     {
@@ -2292,8 +2292,8 @@
     {
       "filename": "ls1aaud.oxt",
       "total_entries": 1024,
-      "translated_entries": 0,
-      "unchanged_entries": 1024,
+      "translated_entries": 1,
+      "unchanged_entries": 1023,
       "status": "PROCESSED"
     },
     {
@@ -2334,29 +2334,29 @@
     {
       "filename": "mc_play.oxt",
       "total_entries": 3331,
-      "translated_entries": 8,
-      "unchanged_entries": 3323,
+      "translated_entries": 9,
+      "unchanged_entries": 3322,
       "status": "PROCESSED"
     },
     {
       "filename": "mch1.oxt",
       "total_entries": 38,
-      "translated_entries": 2,
-      "unchanged_entries": 36,
+      "translated_entries": 3,
+      "unchanged_entries": 35,
       "status": "PROCESSED"
     },
     {
       "filename": "mch1aud.oxt",
       "total_entries": 937,
-      "translated_entries": 0,
-      "unchanged_entries": 937,
+      "translated_entries": 1,
+      "unchanged_entries": 936,
       "status": "PROCESSED"
     },
     {
       "filename": "mch2.oxt",
       "total_entries": 31,
-      "translated_entries": 2,
-      "unchanged_entries": 29,
+      "translated_entries": 5,
+      "unchanged_entries": 26,
       "status": "PROCESSED"
     },
     {
@@ -2369,8 +2369,8 @@
     {
       "filename": "mea1.oxt",
       "total_entries": 14,
-      "translated_entries": 0,
-      "unchanged_entries": 14,
+      "translated_entries": 1,
+      "unchanged_entries": 13,
       "status": "PROCESSED"
     },
     {
@@ -2390,8 +2390,8 @@
     {
       "filename": "mej1.oxt",
       "total_entries": 15,
-      "translated_entries": 0,
-      "unchanged_entries": 15,
+      "translated_entries": 3,
+      "unchanged_entries": 12,
       "status": "PROCESSED"
     },
     {
@@ -2411,8 +2411,8 @@
     {
       "filename": "met1.oxt",
       "total_entries": 22,
-      "translated_entries": 3,
-      "unchanged_entries": 19,
+      "translated_entries": 5,
+      "unchanged_entries": 17,
       "status": "PROCESSED"
     },
     {
@@ -2425,15 +2425,15 @@
     {
       "filename": "meth.oxt",
       "total_entries": 20,
-      "translated_entries": 0,
-      "unchanged_entries": 20,
+      "translated_entries": 1,
+      "unchanged_entries": 19,
       "status": "PROCESSED"
     },
     {
       "filename": "methaud.oxt",
       "total_entries": 582,
-      "translated_entries": 0,
-      "unchanged_entries": 582,
+      "translated_entries": 1,
+      "unchanged_entries": 581,
       "status": "PROCESSED"
     },
     {
@@ -2453,8 +2453,8 @@
     {
       "filename": "mgtnaud.oxt",
       "total_entries": 565,
-      "translated_entries": 0,
-      "unchanged_entries": 565,
+      "translated_entries": 1,
+      "unchanged_entries": 564,
       "status": "PROCESSED"
     },
     {
@@ -2467,8 +2467,8 @@
     {
       "filename": "mic3.oxt",
       "total_entries": 21,
-      "translated_entries": 6,
-      "unchanged_entries": 15,
+      "translated_entries": 10,
+      "unchanged_entries": 11,
       "status": "PROCESSED"
     },
     {
@@ -2481,29 +2481,29 @@
     {
       "filename": "min1.oxt",
       "total_entries": 21,
-      "translated_entries": 0,
-      "unchanged_entries": 21,
+      "translated_entries": 1,
+      "unchanged_entries": 20,
       "status": "PROCESSED"
     },
     {
       "filename": "min1aud.oxt",
       "total_entries": 680,
-      "translated_entries": 0,
-      "unchanged_entries": 680,
+      "translated_entries": 2,
+      "unchanged_entries": 678,
       "status": "PROCESSED"
     },
     {
       "filename": "min2.oxt",
       "total_entries": 24,
-      "translated_entries": 1,
-      "unchanged_entries": 23,
+      "translated_entries": 2,
+      "unchanged_entries": 22,
       "status": "PROCESSED"
     },
     {
       "filename": "min2au.oxt",
       "total_entries": 616,
-      "translated_entries": 0,
-      "unchanged_entries": 616,
+      "translated_entries": 2,
+      "unchanged_entries": 614,
       "status": "PROCESSED"
     },
     {
@@ -2516,29 +2516,29 @@
     {
       "filename": "min3aud.oxt",
       "total_entries": 269,
-      "translated_entries": 0,
-      "unchanged_entries": 269,
+      "translated_entries": 1,
+      "unchanged_entries": 268,
       "status": "PROCESSED"
     },
     {
       "filename": "mishsta.oxt",
       "total_entries": 506,
-      "translated_entries": 8,
-      "unchanged_entries": 498,
+      "translated_entries": 9,
+      "unchanged_entries": 497,
       "status": "PROCESSED"
     },
     {
       "filename": "mod_mnu.oxt",
       "total_entries": 786,
-      "translated_entries": 19,
-      "unchanged_entries": 767,
+      "translated_entries": 50,
+      "unchanged_entries": 736,
       "status": "PROCESSED"
     },
     {
       "filename": "mooreau.oxt",
       "total_entries": 781,
-      "translated_entries": 0,
-      "unchanged_entries": 781,
+      "translated_entries": 1,
+      "unchanged_entries": 780,
       "status": "PROCESSED"
     },
     {
@@ -2565,8 +2565,8 @@
     {
       "filename": "mpgcsau.oxt",
       "total_entries": 321,
-      "translated_entries": 0,
-      "unchanged_entries": 321,
+      "translated_entries": 3,
+      "unchanged_entries": 318,
       "status": "PROCESSED"
     },
     {
@@ -2656,36 +2656,36 @@
     {
       "filename": "nig1dau.oxt",
       "total_entries": 262,
-      "translated_entries": 0,
-      "unchanged_entries": 262,
+      "translated_entries": 3,
+      "unchanged_entries": 259,
       "status": "PROCESSED"
     },
     {
       "filename": "nig2aud.oxt",
       "total_entries": 461,
-      "translated_entries": 0,
-      "unchanged_entries": 461,
+      "translated_entries": 2,
+      "unchanged_entries": 459,
       "status": "PROCESSED"
     },
     {
       "filename": "nige3au.oxt",
       "total_entries": 347,
-      "translated_entries": 0,
-      "unchanged_entries": 347,
+      "translated_entries": 3,
+      "unchanged_entries": 344,
       "status": "PROCESSED"
     },
     {
       "filename": "nigel1a.oxt",
       "total_entries": 7,
-      "translated_entries": 1,
-      "unchanged_entries": 6,
+      "translated_entries": 2,
+      "unchanged_entries": 5,
       "status": "PROCESSED"
     },
     {
       "filename": "nigel1b.oxt",
       "total_entries": 4,
-      "translated_entries": 1,
-      "unchanged_entries": 3,
+      "translated_entries": 2,
+      "unchanged_entries": 2,
       "status": "PROCESSED"
     },
     {
@@ -2698,8 +2698,8 @@
     {
       "filename": "nigel1d.oxt",
       "total_entries": 12,
-      "translated_entries": 0,
-      "unchanged_entries": 12,
+      "translated_entries": 1,
+      "unchanged_entries": 11,
       "status": "PROCESSED"
     },
     {
@@ -2712,29 +2712,29 @@
     {
       "filename": "nigel3.oxt",
       "total_entries": 24,
-      "translated_entries": 4,
-      "unchanged_entries": 20,
+      "translated_entries": 6,
+      "unchanged_entries": 18,
       "status": "PROCESSED"
     },
     {
       "filename": "nws_agh.oxt",
       "total_entries": 12,
-      "translated_entries": 0,
-      "unchanged_entries": 12,
+      "translated_entries": 5,
+      "unchanged_entries": 7,
       "status": "PROCESSED"
     },
     {
       "filename": "nws_ar2.oxt",
       "total_entries": 10,
-      "translated_entries": 0,
-      "unchanged_entries": 10,
+      "translated_entries": 5,
+      "unchanged_entries": 5,
       "status": "PROCESSED"
     },
     {
       "filename": "nws_ar3.oxt",
       "total_entries": 8,
-      "translated_entries": 0,
-      "unchanged_entries": 8,
+      "translated_entries": 2,
+      "unchanged_entries": 6,
       "status": "PROCESSED"
     },
     {
@@ -3104,8 +3104,8 @@
     {
       "filename": "ojasaud.oxt",
       "total_entries": 1553,
-      "translated_entries": 0,
-      "unchanged_entries": 1553,
+      "translated_entries": 2,
+      "unchanged_entries": 1551,
       "status": "PROCESSED"
     },
     {
@@ -3160,36 +3160,36 @@
     {
       "filename": "pap1.oxt",
       "total_entries": 18,
-      "translated_entries": 1,
-      "unchanged_entries": 17,
+      "translated_entries": 5,
+      "unchanged_entries": 13,
       "status": "PROCESSED"
     },
     {
       "filename": "pap1aud.oxt",
       "total_entries": 632,
-      "translated_entries": 0,
-      "unchanged_entries": 632,
+      "translated_entries": 5,
+      "unchanged_entries": 627,
       "status": "PROCESSED"
     },
     {
       "filename": "pap2.oxt",
       "total_entries": 41,
-      "translated_entries": 0,
-      "unchanged_entries": 41,
+      "translated_entries": 3,
+      "unchanged_entries": 38,
       "status": "PROCESSED"
     },
     {
       "filename": "pap2aud.oxt",
       "total_entries": 467,
-      "translated_entries": 0,
-      "unchanged_entries": 467,
+      "translated_entries": 1,
+      "unchanged_entries": 466,
       "status": "PROCESSED"
     },
     {
       "filename": "pap3.oxt",
       "total_entries": 24,
-      "translated_entries": 0,
-      "unchanged_entries": 24,
+      "translated_entries": 3,
+      "unchanged_entries": 21,
       "status": "PROCESSED"
     },
     {
@@ -3216,8 +3216,8 @@
     {
       "filename": "pap4.oxt",
       "total_entries": 3,
-      "translated_entries": 0,
-      "unchanged_entries": 3,
+      "translated_entries": 1,
+      "unchanged_entries": 2,
       "status": "PROCESSED"
     },
     {
@@ -3412,15 +3412,15 @@
     {
       "filename": "prinaud.oxt",
       "total_entries": 656,
-      "translated_entries": 0,
-      "unchanged_entries": 656,
+      "translated_entries": 2,
+      "unchanged_entries": 654,
       "status": "PROCESSED"
     },
     {
       "filename": "proaud.oxt",
       "total_entries": 1017,
-      "translated_entries": 4,
-      "unchanged_entries": 1013,
+      "translated_entries": 11,
+      "unchanged_entries": 1006,
       "status": "PROCESSED"
     },
     {
@@ -3461,22 +3461,22 @@
     {
       "filename": "pschool.oxt",
       "total_entries": 155,
-      "translated_entries": 12,
-      "unchanged_entries": 143,
+      "translated_entries": 14,
+      "unchanged_entries": 141,
       "status": "PROCESSED"
     },
     {
       "filename": "pubc.oxt",
       "total_entries": 4552,
-      "translated_entries": 102,
-      "unchanged_entries": 4450,
+      "translated_entries": 107,
+      "unchanged_entries": 4445,
       "status": "PROCESSED"
     },
     {
       "filename": "races.oxt",
       "total_entries": 122,
-      "translated_entries": 0,
-      "unchanged_entries": 122,
+      "translated_entries": 2,
+      "unchanged_entries": 120,
       "status": "PROCESSED"
     },
     {
@@ -3496,8 +3496,8 @@
     {
       "filename": "ramp2au.oxt",
       "total_entries": 143,
-      "translated_entries": 0,
-      "unchanged_entries": 143,
+      "translated_entries": 1,
+      "unchanged_entries": 142,
       "status": "PROCESSED"
     },
     {
@@ -3524,8 +3524,8 @@
     {
       "filename": "rangeau.oxt",
       "total_entries": 741,
-      "translated_entries": 0,
-      "unchanged_entries": 741,
+      "translated_entries": 1,
+      "unchanged_entries": 740,
       "status": "PROCESSED"
     },
     {
@@ -3545,15 +3545,15 @@
     {
       "filename": "rbh2aud.oxt",
       "total_entries": 3026,
-      "translated_entries": 0,
-      "unchanged_entries": 3026,
+      "translated_entries": 5,
+      "unchanged_entries": 3021,
       "status": "PROCESSED"
     },
     {
       "filename": "rbs1aud.oxt",
       "total_entries": 1217,
-      "translated_entries": 0,
-      "unchanged_entries": 1217,
+      "translated_entries": 1,
+      "unchanged_entries": 1216,
       "status": "PROCESSED"
     },
     {
@@ -3643,8 +3643,8 @@
     {
       "filename": "recraau.oxt",
       "total_entries": 469,
-      "translated_entries": 0,
-      "unchanged_entries": 469,
+      "translated_entries": 2,
+      "unchanged_entries": 467,
       "status": "PROCESSED"
     },
     {
@@ -3664,8 +3664,8 @@
     {
       "filename": "rect1au.oxt",
       "total_entries": 48,
-      "translated_entries": 0,
-      "unchanged_entries": 48,
+      "translated_entries": 1,
+      "unchanged_entries": 47,
       "status": "PROCESSED"
     },
     {
@@ -3692,8 +3692,8 @@
     {
       "filename": "redr1au.oxt",
       "total_entries": 418,
-      "translated_entries": 0,
-      "unchanged_entries": 418,
+      "translated_entries": 1,
+      "unchanged_entries": 417,
       "status": "PROCESSED"
     },
     {
@@ -3720,8 +3720,8 @@
     {
       "filename": "rehh1au.oxt",
       "total_entries": 442,
-      "translated_entries": 0,
-      "unchanged_entries": 442,
+      "translated_entries": 1,
+      "unchanged_entries": 441,
       "status": "PROCESSED"
     },
     {
@@ -3804,8 +3804,8 @@
     {
       "filename": "resecau.oxt",
       "total_entries": 141,
-      "translated_entries": 0,
-      "unchanged_entries": 141,
+      "translated_entries": 1,
+      "unchanged_entries": 140,
       "status": "PROCESSED"
     },
     {
@@ -3818,8 +3818,8 @@
     {
       "filename": "reye_au.oxt",
       "total_entries": 36,
-      "translated_entries": 0,
-      "unchanged_entries": 36,
+      "translated_entries": 1,
+      "unchanged_entries": 35,
       "status": "PROCESSED"
     },
     {
@@ -3853,8 +3853,8 @@
     {
       "filename": "sagrab.oxt",
       "total_entries": 55,
-      "translated_entries": 0,
-      "unchanged_entries": 55,
+      "translated_entries": 1,
+      "unchanged_entries": 54,
       "status": "PROCESSED"
     },
     {
@@ -3923,8 +3923,8 @@
     {
       "filename": "slm1aud.oxt",
       "total_entries": 600,
-      "translated_entries": 0,
-      "unchanged_entries": 600,
+      "translated_entries": 1,
+      "unchanged_entries": 599,
       "status": "PROCESSED"
     },
     {
@@ -3944,8 +3944,8 @@
     {
       "filename": "sol1aud.oxt",
       "total_entries": 1375,
-      "translated_entries": 0,
-      "unchanged_entries": 1375,
+      "translated_entries": 1,
+      "unchanged_entries": 1374,
       "status": "PROCESSED"
     },
     {
@@ -3958,22 +3958,22 @@
     {
       "filename": "sol2aud.oxt",
       "total_entries": 222,
-      "translated_entries": 0,
-      "unchanged_entries": 222,
+      "translated_entries": 2,
+      "unchanged_entries": 220,
       "status": "PROCESSED"
     },
     {
       "filename": "sol5.oxt",
       "total_entries": 32,
-      "translated_entries": 0,
-      "unchanged_entries": 32,
+      "translated_entries": 2,
+      "unchanged_entries": 30,
       "status": "PROCESSED"
     },
     {
       "filename": "sol5aud.oxt",
       "total_entries": 889,
-      "translated_entries": 0,
-      "unchanged_entries": 889,
+      "translated_entries": 2,
+      "unchanged_entries": 887,
       "status": "PROCESSED"
     },
     {
@@ -3986,15 +3986,15 @@
     {
       "filename": "sp_golf.oxt",
       "total_entries": 234,
-      "translated_entries": 13,
-      "unchanged_entries": 221,
+      "translated_entries": 25,
+      "unchanged_entries": 209,
       "status": "PROCESSED"
     },
     {
       "filename": "sp_spr.oxt",
       "total_entries": 198,
-      "translated_entries": 22,
-      "unchanged_entries": 176,
+      "translated_entries": 42,
+      "unchanged_entries": 156,
       "status": "PROCESSED"
     },
     {
@@ -4014,15 +4014,15 @@
     {
       "filename": "stagdau.oxt",
       "total_entries": 663,
-      "translated_entries": 0,
-      "unchanged_entries": 663,
+      "translated_entries": 1,
+      "unchanged_entries": 662,
       "status": "PROCESSED"
     },
     {
       "filename": "str1aud.oxt",
       "total_entries": 28,
-      "translated_entries": 0,
-      "unchanged_entries": 28,
+      "translated_entries": 1,
+      "unchanged_entries": 27,
       "status": "PROCESSED"
     },
     {
@@ -4049,22 +4049,22 @@
     {
       "filename": "t1m4aud.oxt",
       "total_entries": 434,
-      "translated_entries": 0,
-      "unchanged_entries": 434,
+      "translated_entries": 1,
+      "unchanged_entries": 433,
       "status": "PROCESSED"
     },
     {
       "filename": "t2aud.oxt",
       "total_entries": 1626,
-      "translated_entries": 0,
-      "unchanged_entries": 1626,
+      "translated_entries": 2,
+      "unchanged_entries": 1624,
       "status": "PROCESSED"
     },
     {
       "filename": "tat_mnu.oxt",
       "total_entries": 224,
-      "translated_entries": 2,
-      "unchanged_entries": 222,
+      "translated_entries": 4,
+      "unchanged_entries": 220,
       "status": "PROCESSED"
     },
     {
@@ -4077,8 +4077,8 @@
     {
       "filename": "taxi.oxt",
       "total_entries": 64,
-      "translated_entries": 0,
-      "unchanged_entries": 64,
+      "translated_entries": 2,
+      "unchanged_entries": 62,
       "status": "PROCESSED"
     },
     {
@@ -4091,15 +4091,15 @@
     {
       "filename": "tcrash.oxt",
       "total_entries": 50,
-      "translated_entries": 0,
-      "unchanged_entries": 50,
+      "translated_entries": 3,
+      "unchanged_entries": 47,
       "status": "PROCESSED"
     },
     {
       "filename": "tennis.oxt",
       "total_entries": 134,
-      "translated_entries": 6,
-      "unchanged_entries": 128,
+      "translated_entries": 16,
+      "unchanged_entries": 118,
       "status": "PROCESSED"
     },
     {
@@ -4126,15 +4126,15 @@
     {
       "filename": "tow.oxt",
       "total_entries": 79,
-      "translated_entries": 3,
-      "unchanged_entries": 76,
+      "translated_entries": 6,
+      "unchanged_entries": 73,
       "status": "PROCESSED"
     },
     {
       "filename": "towaud.oxt",
       "total_entries": 2543,
-      "translated_entries": 0,
-      "unchanged_entries": 2543,
+      "translated_entries": 1,
+      "unchanged_entries": 2542,
       "status": "PROCESSED"
     },
     {
@@ -4147,36 +4147,36 @@
     {
       "filename": "trev1.oxt",
       "total_entries": 56,
-      "translated_entries": 1,
-      "unchanged_entries": 55,
+      "translated_entries": 3,
+      "unchanged_entries": 53,
       "status": "PROCESSED"
     },
     {
       "filename": "trev3.oxt",
       "total_entries": 25,
-      "translated_entries": 0,
-      "unchanged_entries": 25,
+      "translated_entries": 3,
+      "unchanged_entries": 22,
       "status": "PROCESSED"
     },
     {
       "filename": "trev4.oxt",
       "total_entries": 26,
-      "translated_entries": 0,
-      "unchanged_entries": 26,
+      "translated_entries": 2,
+      "unchanged_entries": 24,
       "status": "PROCESSED"
     },
     {
       "filename": "trv3aud.oxt",
       "total_entries": 1330,
-      "translated_entries": 0,
-      "unchanged_entries": 1330,
+      "translated_entries": 1,
+      "unchanged_entries": 1329,
       "status": "PROCESSED"
     },
     {
       "filename": "trv5.oxt",
       "total_entries": 4,
-      "translated_entries": 0,
-      "unchanged_entries": 4,
+      "translated_entries": 2,
+      "unchanged_entries": 2,
       "status": "PROCESSED"
     },
     {
@@ -4196,8 +4196,8 @@
     {
       "filename": "txm10au.oxt",
       "total_entries": 380,
-      "translated_entries": 0,
-      "unchanged_entries": 380,
+      "translated_entries": 1,
+      "unchanged_entries": 379,
       "status": "PROCESSED"
     },
     {
@@ -4210,8 +4210,8 @@
     {
       "filename": "txm1aud.oxt",
       "total_entries": 517,
-      "translated_entries": 0,
-      "unchanged_entries": 517,
+      "translated_entries": 1,
+      "unchanged_entries": 516,
       "status": "PROCESSED"
     },
     {
@@ -4238,15 +4238,15 @@
     {
       "filename": "txm6aud.oxt",
       "total_entries": 411,
-      "translated_entries": 0,
-      "unchanged_entries": 411,
+      "translated_entries": 1,
+      "unchanged_entries": 410,
       "status": "PROCESSED"
     },
     {
       "filename": "txm8aud.oxt",
       "total_entries": 453,
-      "translated_entries": 0,
-      "unchanged_entries": 453,
+      "translated_entries": 1,
+      "unchanged_entries": 452,
       "status": "PROCESSED"
     },
     {

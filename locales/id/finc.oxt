@@ -3,9 +3,9 @@
 	0x00A47387 = Protect ~y~Trevor.
 	0xA9597DBD = Take a stealthy approach, or shoot your way in.
 	FC1_AMBUSH = Ambush the ~r~FIB team~s~ when ready.
-	FC1_FAIL1 = Lamar died.
+	FC1_FAIL1 = Lamar tewas.
 	FC1_FAIL3 = The fight was abandoned.
-	FC1_FAIL4 = Lamar was abandoned.
+	FC1_FAIL4 = Lamar ditinggalkan.
 	FC1_FAIL6 = Michael and Trevor were abandoned.
 	FC1_FAIL7 = Police attention was attracted to the foundry.
 	FC1_GODOOR = Go outside.
@@ -20,8 +20,8 @@
 	FC1_KILL = Take out the ~r~attackers.
 	FC1_LELAM = Return to ~b~Lamar.
 	FC1_PROLAM = Take out the ~r~attackers.
-	FC1_SWF = SWITCH to Franklin.
-	FC1_SWMT = SWITCH to Michael.
+	FC1_SWF = BERALIH ke Franklin.
+	FC1_SWMT = BERALIH ke Michael.
 	FC1_TAKE2 = Take out the ~r~attackers.
 	FC1_WAITLAM = Wait for ~b~Lamar.
 	FC2_ESCHOOD = Escape the ~r~Ballas.
@@ -84,11 +84,11 @@
 	FC2_SUB25 = I don't care that she's an intern.
 	FC2_SUB26 = Now, just get this thing goin', alright? I wanna get out of here.
 	FC2_SUB27 = Boom! Vinewood...
-	FC2_SWF = SWITCH to Franklin.
-	FC2_SWM = SWITCH to Michael.
+	FC2_SWF = BERALIH ke Franklin.
+	FC2_SWM = BERALIH ke Michael.
 	FC2_SWMF = SWITCH to Franklin or Michael.
 	FC2_SWMT = SWITCH to Michael or Trevor.
-	FC2_SWT = SWITCH to Trevor.
+	FC2_SWT = BERALIH ke Trevor.
 	FC2_SWTF = SWITCH to Franklin or Trevor.
 	FC2_WHLHLP = Press ~INPUT_VEH_CIN_CAM~ to toggle view of Haines on the Ferris wheel.
 }

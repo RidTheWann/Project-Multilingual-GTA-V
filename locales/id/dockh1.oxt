@@ -27,7 +27,7 @@
 	0xBF4D9590 = The crates were badly damaged.~s~
 	0xE3EB532D = Enter the ~y~military docking area.~s~
 	0xE6A485DD = ~s~Pick up a ~g~container.~s~
-	0xE11FC654 = Mission Passed.
+	0xE11FC654 = Misi Berhasil.
 	0xFAFB2EC6 = Return to Pier 400.~s~
 	0xFE1B4363 = Photograph this guard.
 	AW_BACK_IN_HAND = Masuklah kembali ke dalam ~b~handler.~s~.
@@ -41,7 +41,7 @@
 	AW_DONT_LEAVE_W = ~s~Return to ~b~Wade.~s~
 	AW_DRIVE_TO_CRA = ~s~Go to the ~y~crane.~s~
 	AW_DRI_SUB = Berkendaralah ke ~y~docking area.~s~.
-	AW_FAILED = Mission Failed.
+	AW_FAILED = Misi Gagal.
 	AW_FAILED_AD = Trevor abandoned Pier 400.~s~
 	AW_FAILED_CBL = Trevor's cover was blown.~s~
 	AW_FAILED_DC = The container was badly damaged.~s~
@@ -54,12 +54,12 @@
 	AW_FAILED_HCD = The handler container was damaged.~s~
 	AW_FAILED_HD = The handler was destroyed.~s~
 	AW_FAILED_HS = The handler is stuck.~s~
-	AW_FAILED_TRD = The truck was destroyed.~s~
+	AW_FAILED_TRD = Truk hancur.~s~
 	AW_FAILED_TRS = The truck is stuck.~s~
-	AW_FAILED_TTD = The truck was destroyed.~s~
+	AW_FAILED_TTD = Truk hancur.~s~
 	AW_FAILED_TTS = The truck is stuck.~s~
-	AW_FAILED_WD = Wade died.~s~
-	AW_FAILED_WL = Wade was abandoned.~s~
+	AW_FAILED_WD = Wade tewas.~s~
+	AW_FAILED_WL = Wade ditinggalkan.~s~
 	AW_FLOW_FLO = ~s~Follow ~b~Floyd.~s~
 	AW_GETBACK_IN = Get back in your ~b~truck.~s~
 	AW_GETBACK_INT = Masuklah kembali ke dalam ~b~truck.~s~.

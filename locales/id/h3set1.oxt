@@ -3,10 +3,10 @@
 	ENTER_STORE = ~s~Go to ~y~Rockford Hills.
 	FAIL_ASS = The shop assistant died.
 	FAIL_BBWAN = Michael entered the store with a Wanted Level.
-	FAIL_CAR = The car is stuck.
+	FAIL_CAR = Mobil tersangkut.
 	FAIL_DIST = Lester was abandoned.
 	FAIL_GUARD = The shop guard died.
-	FAIL_LEST = Lester died.
+	FAIL_LEST = Lester tewas.
 	FAIL_ROOF1 = ~s~Michael failed to check out the roof.
 	FAIL_ROOF2 = ~s~Michael's cover was blown.
 	FAIL_SHOP2 = Michael blew his cover.
@@ -35,5 +35,5 @@
 	HELP2 = ~s~Press ~INPUT_CONTEXT~ to enter glasses' hidden camera.
 	JH_HELP1 = ~s~Walk into ladders to use them.
 	WAIT_PED = ~s~Wait for ~b~Lester.
-	WANTED = ~s~Lose the Cops.
+	WANTED = ~s~Lolos dari kejaran Polisi.
 }

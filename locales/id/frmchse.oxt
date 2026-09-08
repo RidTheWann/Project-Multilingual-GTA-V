@@ -1,6 +1,6 @@
 ﻿Version 2 30
 {
-	0x0C6E2CD2 = MISSION PASSED
+	0x0C6E2CD2 = MISI BERHASIL
 	0x6A1C0935 = Out of gasoline.
 	0xA2FAF85F = Out of gasoline. Ignite the gasoline in the meth lab and get clear of the building.
 	0xBA73C597 = Choose to go in with stealth or brute force.
@@ -20,7 +20,7 @@
 	FRMFRG = Return to the farm house to complete the gasoline trail.
 	FRMFRH = Get the gasoline trail to burn in to the house before leaving.
 	FRMGASF = The gasoline was destroyed.
-	FRMIGN = Shoot the gasoline trail to ignite it.
+	FRMIGN = Tembak jejak bensin untuk menyulutnya.
 	FRMLEAVE = Get away from the farm house.
 	FRMLK = The ~r~guards~s~ are looking for you.
 	FRMMISS = If the gasoline trail is incomplete, any missing sections will still be marked on the Radar.

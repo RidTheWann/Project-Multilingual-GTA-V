@@ -18,13 +18,13 @@
 	BFHELPTXT4 = Aim for the red target calculated to compensate for the distance.
 	M1_FAIL1 = ~s~The remote sniper was destroyed.
 	M1_FAIL2 = ~s~Michael abandoned the van.
-	M1_FAIL3 = ~s~Trevor died.
-	M1_FAIL4 = ~s~Michael died.
+	M1_FAIL3 = ~s~Trevor tewas.
+	M1_FAIL4 = ~s~Michael tewas.
 	M1_FAIL5 = ~s~Trevor's car was destroyed.
 	M1_FAIL6 = ~s~Michael destroyed the van too close to the observatory.
 	M1_GOD1 = ~s~Go inside the ~b~plane.
 	M1_GOD2 = ~s~Silence ~r~Javier.
-	M1_GOD3 = ~s~Lose the Cops.
+	M1_GOD3 = ~s~Lolos dari kejaran Polisi.
 	M1_GOD4 = ~s~Destroy the ~r~van.
 	M1_GOD5 = ~s~Tinggalkan area ini.
 	M1_HELP1 = ~s~Zoom in and out with ~INPUT_SNIPER_ZOOM~

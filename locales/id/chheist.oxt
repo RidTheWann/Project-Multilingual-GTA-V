@@ -16,7 +16,7 @@
 	0x23ED046E = Chad escaped.
 	0x56A969EA = The officer lost patience.
 	0x1653E977 = Meet up with ~b~Trevor~s~ at the chopper.
-	0x3690D77E = Franklin died.
+	0x3690D77E = Franklin tewas.
 	0x67170AF8 = Aim the spotlight over the ~b~vehicle~s~ to make it stop.
 	0xB9B83039 = Drive to the ~b~car.
 	0xB22D9982 = Go to ~y~location~s~ and wait for Trevor.
@@ -37,7 +37,7 @@
 	CH_COPS = Get back to the ~y~airport ~s~before the Cops are alerted.
 	CH_COPS2 = Keep the vehicle in good condition.
 	CH_F01 = The chopper was destroyed.
-	CH_F02 = Trevor died.
+	CH_F02 = Trevor tewas.
 	CH_F04 = The Z-Type was destroyed.
 	CH_F05 = The pilot died.
 	CH_F06 = The chopper was damaged.
@@ -47,7 +47,7 @@
 	CH_F10 = Trevor was abandoned.
 	CH_F11 = The chopper left the city.
 	CH_F12 = The Z-Type got stuck.
-	CH_F13 = The Cops were alerted.
+	CH_F13 = Polisi disiagakan.
 	CH_F14 = Trevor abandoned the police department.
 	CH_F15 = Trevor drew his weapon in the police department.
 	CH_F18 = The pilot flew away.
@@ -82,11 +82,11 @@
 	CH_INS32B = Zoom in on a heat source that could be Chad in the Z-Type.
 	CH_INS32C = Look for another heat source.
 	CH_INS38 = Drive into the ~y~garage.
-	CH_INS39 = SWITCH to Franklin.
-	CH_INS40 = SWITCH to Trevor.
+	CH_INS39 = BERALIH ke Franklin.
+	CH_INS40 = BERALIH ke Trevor.
 	CH_INS41 = If the target is hidden the camera will not lock on to him until he comes back in to view.
 	CH_INS42 = Aim at the ~y~yellow target~s~ on the HUD to fly there now.
-	CH_INS50 = Return to Trevor.
+	CH_INS50 = Kembalilah ke Trevor.
 	CH_INS51 = Get to the ~y~airport exit.
 	CH_INS52 = Return the Z-Type to the ~y~hangar.~s~
 	CH_INS53 = Get the car to the ~y~airport ~s~in good condition.

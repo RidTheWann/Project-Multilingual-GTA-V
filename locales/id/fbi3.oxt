@@ -7,16 +7,16 @@
 	F_COPS = The Cops discovered the warehouse.
 	F_DDEAD = Dave died.
 	F_KDEAD = Mr. K died.
-	F_MDEAD = Michael died.
+	F_MDEAD = Michael tewas.
 	F_PHOTO_INN = A innocent person was killed.
 	F_PHOTO_SPOOK = The target was spooked before an ID was made.
 	F_PRTY_INN = An innocent party guest was killed.
 	F_PRTY_INN_ID = A party guest was killed before an ID was made.
 	F_PRTY_SEEN = Michael was seen at the party.
 	F_PRTY_SPOOK = The party was spooked and the target escaped.
-	F_TDEAD = Trevor died.
+	F_TDEAD = Trevor tewas.
 	F_TRUCKDEAD_M = Trevor's truck is undriveable.
-	F_TRUCKDEAD_T = The truck was destroyed.
+	F_TRUCKDEAD_T = Truk hancur.
 	F_TRUCKSTUCK_M = Trevor's truck got stuck.
 	F_TRUCKSTUCK_T = Your truck got stuck.
 	HLP_BATTERY = Hold ~INPUT_SCRIPT_LT~ to grip with the left clip and ~INPUT_SCRIPT_RT~ to grip with the right clip. Press ~INPUT_SCRIPT_RDOWN~ to spark the clips.
@@ -37,7 +37,7 @@
 	TFT_DRIVE2 = ~s~Go to ~y~Chumash.~s~
 	TFT_DRIVE3 = ~s~Go to the ~y~airport.~s~
 	TFT_GOTOW = ~s~Go to the ~y~warehouse.~s~
-	TFT_HTSWPTREV = ~s~SWITCH to Trevor.~s~
+	TFT_HTSWPTREV = ~s~BERALIH ke Trevor.~s~
 	TFT_RTNDAV = ~s~Return to ~b~Dave.~s~
 	TFT_SHOOT = ~s~Find the target.~s~
 }

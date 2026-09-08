@@ -3,7 +3,7 @@
 	0x5FFF0BC6 = ~s~Back the van up to the ~y~bank entrance.
 	0x6FBA4EDF = ~s~Press ~INPUT_SCRIPT_PAD_RIGHT~ to kick the vault gate.
 	0x8A21EB83 = ~s~Go to the ~y~bank.~s~
-	0x8E9A98BB = SWITCH to Franklin.
+	0x8E9A98BB = BERALIH ke Franklin.
 	0x8FE6B15C = ~s~Escape the tank.
 	0x9F1679FF = ~s~Follow ~b~Michael~s~ and ~b~~a~.
 	0x62AE4533 = ~s~Go to the ~y~drop-off point.
@@ -13,7 +13,7 @@
 	0xF75D9DFB = ~s~Return to ~b~Trevor~s~ and ~b~~a~.
 	0xFC7294EE = ~s~~a~ was abandoned.
 	ABANDONHEIST = You abandoned the heist.
-	ALLCREWLEFT = ~s~The crew was abandoned.
+	ALLCREWLEFT = ~s~Kru ditinggalkan.
 	ARMY1 = ~s~Hold off the ~r~military.~s~
 	BLEWHEIST = ~s~The heist was blown.
 	CHOPPER3 = ~s~Take out the ~r~helicopter.
@@ -41,11 +41,11 @@
 	LEFTREVOR = ~s~Return to ~b~Trevor.~s~
 	LOSINGB = ~s~Return to ~b~Michael~s~ and ~b~~a~.
 	LOSTMT = ~s~Michael and Trevor were abandoned.
-	MIKELEFT = ~s~Michael was abandoned.
+	MIKELEFT = ~s~Michael ditinggalkan.
 	PARKVAN = ~s~Park the van near the ~y~bank entrance.
 	RBH_SCOOP = ~s~Use ~INPUT_VEH_MOVE_UD~ to raise or lower the blade.
 	RBH_TRNFAIL = ~s~The crew missed the train.~s~
-	SWTMCH = SWITCH to Michael.
+	SWTMCH = BERALIH ke Michael.
 	TREVORLEFT = ~s~Trevor was abandoned.
-	VANDIED = ~s~The vehicle was destroyed.
+	VANDIED = ~s~Kendaraan hancur.
 }

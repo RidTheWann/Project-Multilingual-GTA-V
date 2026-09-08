@@ -1,8 +1,8 @@
 ﻿Version 2 30
 {
 	0x1FB7490F = Capailah ~y~helipad.~s~.
-	0x4A3E3A61 = SWITCH to Trevor.
-	0x7CD31F96 = SWITCH to Michael.
+	0x4A3E3A61 = BERALIH ke Trevor.
+	0x7CD31F96 = BERALIH ke Michael.
 	0xE933345D = Misi Gagal
 	0xF68713A6 = Capailah ~y~exit.~s~.
 	M3_02 = Get downstairs to the ~y~courtyard~s~.
@@ -12,8 +12,8 @@
 	M3_DVABDN = Dave was abandoned.
 	M3_DVDEAD = Dave died.
 	M3_DVWARN = Kembalilah ke ~b~Dave.~s~.
-	M3_FMDEAD = Michael died.
-	M3_FTDEAD = Trevor died.
+	M3_FMDEAD = Michael tewas.
+	M3_FTDEAD = Trevor tewas.
 	M3_OBJCYKIL = Defend ~b~Dave.~s~
 	M3_OBJFRSTA = Escape the Kortz Center via the ~y~balcony.~s~
 	M3_OBJHELI = Tembak ~r~pilot.~s~.

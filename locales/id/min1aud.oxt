@@ -41,7 +41,7 @@
 	0x0EB8BB8F = MIN1_CGAE
 	0x0F9D9B6B = MIN1_AJAA
 	0x0FB00015 = SFX_PAUSE_200
-	0x0FC576BB = ~t~Come on!
+	0x0FC576BB = ~t~Ayo!
 	0x1A6D54E9 = ~t~You don't understand English? What the fuck is wrong with you?
 	0x1AB595EA = ~z~
 	0x1ADA0290 = 1004000
@@ -127,7 +127,7 @@
 	0x6E74D0BD = MIN1_CTAB
 	0x6ECBF428 = ~z~My brother showed some, uh, well,
 	0x6ED101B6 = MIN1_CKAP
-	0x6EDAFE1E = ~z~Come on!
+	0x6EDAFE1E = ~z~Ayo!
 	0x6EF7FAE6 = ~z~Hey, that belongs to the great state of San Andreas!
 	0x6F8F4D4F = SFX_PAUSE_140
 	0x6F9F4D79 = 100

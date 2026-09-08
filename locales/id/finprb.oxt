@@ -5,7 +5,7 @@
 	0x0EB7E2D9 = ~s~Trevor abandoned the truck.
 	0xE5188F9B = ~s~Michael abandoned the truck.
 	FPB_FAIL1 = ~s~The driller was destroyed.
-	FPB_FAIL2 = ~s~The truck was destroyed.
+	FPB_FAIL2 = ~s~Truk hancur.
 	FPB_FAIL3 = ~s~The trailer was destroyed.
 	FPB_FAIL7 = ~s~Michael abandoned the driller.
 	FPB_FAIL8 = ~s~Trevor abandoned the Driller.
@@ -14,7 +14,7 @@
 	FPB_FAIL11 = ~s~Lester's contact was killed.
 	GOD_1 = ~s~Steal the ~b~driller.~s~
 	GOD_2 = ~s~Go to the ~y~parking lot.~s~
-	GOD_4 = ~s~Lose the Cops.~s~
+	GOD_4 = ~s~Lolos dari kejaran Polisi.~s~
 	GOD_5 = ~s~Get back in the ~b~truck.
 	GOD_6 = ~s~Re-attach the ~b~trailer.
 	GOD_7 = ~s~Get the driller out of the yard.

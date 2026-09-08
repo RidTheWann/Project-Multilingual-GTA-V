@@ -28,7 +28,7 @@
 	TAXI_OBJ_GYN_GF = ~s~Drive to her friend's ~y~place ~s~on Palomino Ave.
 	TAXI_OBJ_GYN_TG = ~s~Talk to his ~b~ex-girlfriend.~s~
 	TAXI_OBJ_PICKUP = ~s~Pick up the ~b~passenger.~s~
-	TAXI_OBJ_POL = ~s~Lose the Cops.~s~
+	TAXI_OBJ_POL = ~s~Lolos dari kejaran Polisi.~s~
 	TAXI_OBJ_RETURN = ~s~Get back in the ~b~taxi.~s~
 	TAXI_OBJ_RUNOUT = ~s~Make the ~r~passenger~s~ pay.~s~
 	TAXI_SC_BN_01 = No Puke Bonus
@@ -49,7 +49,7 @@
 	TAXI_SC_N_NE = Need Excitement
 	TAXI_SC_N_TB = Take To The Best
 	TAXI_SC_N_TE = Take It Easy
-	TAXI_VIEW = Press ~INPUT_VEH_CIN_CAM~ to toggle cinematic camera.
+	TAXI_VIEW = Tekan ~INPUT_VEH_CIN_CAM~ untuk beralih ke kamera sinematik.
 	TAXI_VIP_RETURN = ~s~Get back in the ~b~vehicle.~s~
 	TX_BLIP_GYN_GF = Friend's Place
 	TX_BLIP_GYN_TG = Liz

@@ -10,7 +10,7 @@
 	JHP1B_RTNVAN = ~s~Go to the ~y~garment factory.~s~
 	JHP1B_STAT = ~w~The truck reached the station.
 	JHP1B_STEAL_VAN = ~s~Steal the ~b~LSPD tactical team truck.~s~
-	JHP1B_VAN_DEAD = ~w~The truck was destroyed.~s~
+	JHP1B_VAN_DEAD = ~w~Truk hancur.~s~
 	JHP1B_WARN_ESC = ~s~Don't let the ~b~truck~s~ escape.
 	JHP1B_WARN_LVE = ~s~Don't leave the ~b~truck~s~ behind.
 }

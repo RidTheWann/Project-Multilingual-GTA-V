@@ -1,8 +1,8 @@
 ﻿Version 2 30
 {
-	0x050692C1 = ~INPUT_SCRIPT_RDOWN~ Pick up a container.~s~
+	0x050692C1 = ~INPUT_SCRIPT_RDOWN~ Ambil kontainer.~s~
 	0x0A039C7D = ~s~Return to your ~b~buddies.~s~
-	0x0DC8DFFC = ~s~SWITCH to Trevor.~s~
+	0x0DC8DFFC = ~s~BERALIH ke Trevor.~s~
 	0x8FFCDCB9 = ~s~The trailer got stuck.~s~
 	0x36A33098 = ~s~Get into one of the ~b~cars.~s~
 	0x65DAE1E8 = ~s~Hold ~INPUT_VEH_HORN~ to drop spikes.
@@ -16,9 +16,9 @@
 	0xF5ADF1C5 = ~s~Follow the ~b~truck ~s~to the docks.
 	0xF6DF594B = ~s~Return to ~b~Lamar~s~ and ~b~Franklin.~s~
 	CH_CARABAN = ~s~Mobil ditinggalkan.~s~
-	CH_CARDEAD = ~s~One of the cars was destroyed.~s~
-	CH_CARSDEAD = ~s~The cars were destroyed.~s~
-	CH_CARSDEAD2 = ~s~Some of the cars were destroyed.~s~
+	CH_CARDEAD = ~s~Salah satu mobil hancur.~s~
+	CH_CARSDEAD = ~s~Mobil-mobil hancur.~s~
+	CH_CARSDEAD2 = ~s~Beberapa mobil hancur.~s~
 	CH_CHOPSHOP = ~s~Take the car to the ~b~garage.~s~
 	CH_COLLECT = ~s~Collect the ~b~car.~s~
 	CH_COPFAIL2 = ~s~The cops were led to the car.~s~
@@ -34,8 +34,8 @@
 	CH_GETINCAR = ~s~Get into the ~b~car.~s~
 	CH_GETIN_TRUCK = ~s~Get into the ~b~truck.~s~
 	CH_GOTODROP = ~s~Go to the ~y~drop-off point.~s~
-	CH_LAMDEAD = ~s~Lamar died.~s~
-	CH_LAMLEFT = ~s~Lamar was abandoned.~s~
+	CH_LAMDEAD = ~s~Lamar tewas.~s~
+	CH_LAMLEFT = ~s~Lamar ditinggalkan.~s~
 	CH_LEAVEFRAN = ~s~Return to ~b~Franklin.~s~
 	CH_LEAVELAM = ~s~Return to ~b~Lamar.~s~
 	CH_MEETMOL = ~s~Meet with ~b~Molly.~s~
@@ -47,9 +47,9 @@
 	CH_SHOTHELP = ~s~Press ~INPUT_VEH_AIM~ to fire the mounted guns.~n~Press ~INPUT_SCRIPT_LS~ to drop spikes.~s~
 	CH_SHOTHELP_KM = ~s~Press ~INPUT_VEH_ATTACK~ to fire the mounted guns.~n~Press ~INPUT_SCRIPT_LS~ to drop spikes.~s~
 	CH_STEADY = ~s~Keep the truck steady for ~b~Franklin.
-	CH_STUCK = ~s~The car got stuck.~s~
+	CH_STUCK = ~s~Mobil tersangkut.~s~
 	CH_STUCK2 = ~s~The truck got stuck.~s~
-	CH_SWFRAN = ~s~SWITCH to Franklin.~s~
+	CH_SWFRAN = ~s~BERALIH ke Franklin.~s~
 	CH_TLLEFT = ~s~Trevor and Lamar were abandoned.~s~
 	CH_TRABAN = ~s~The trailer was abandoned.~s~
 	CH_TRAILFAIL = ~s~The trailer fell off the truck.~s~

@@ -7,9 +7,9 @@
 	BSD_GETINCHOP = ~s~Get in the ~b~Skylift.
 	BSPD_ABANDON = The train was not stolen.
 	BSPD_CREWDEAD = One of the crew was killed.
-	BSPD_SW_M = SWITCH to Michael.
-	BSPD_SW_T = SWITCH to Trevor.
-	BSPD_TRUCKDEAD = The truck was destroyed.
+	BSPD_SW_M = BERALIH ke Michael.
+	BSPD_SW_T = BERALIH ke Trevor.
+	BSPD_TRUCKDEAD = Truk hancur.
 	BSPD_WAIT = Wait for a train to stop in the sidings.
 	FAILGUARD = ~s~The cops were alerted.
 	FAILHELI = ~s~The helicopter was destroyed.

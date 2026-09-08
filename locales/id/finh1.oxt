@@ -1,11 +1,11 @@
 ﻿Version 2 30
 {
 	0x1DCF4F9C = Scope out the ~y~front entrance.~s~
-	0x5A4142F6 = SWITCH to Michael.
+	0x5A4142F6 = BERALIH ke Michael.
 	0x6A1688F3 = Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the construction entrance.
 	0x18B26152 = ~w~Trevor's truck destroyed.
 	0x6964CF28 = Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the security trucks.
-	0x618714FD = SWITCH to Trevor.
+	0x618714FD = BERALIH ke Trevor.
 	0xA63E1F24 = Move to the next search ~y~location.~s~
 	0xB2C1FC90 = ~w~Michael's car was destroyed.
 	FH1_AIR = ~s~Drive to the ~y~airfield.~s~
@@ -21,7 +21,7 @@
 	FH1_FAILBK = ~w~The bank was alerted.
 	FH1_FAILDF = ~r~Bawaan
 	FH1_FAILHD = ~w~The helicopter was destroyed.
-	FH1_FAILLD = ~w~Lester died.
+	FH1_FAILLD = ~w~Lester tewas.
 	FH1_FAILLES = ~w~Lester was abandoned.
 	FH1_FAILLT = ~w~The convoy was lost.
 	FH1_FAILTC = ~w~The security convoy was alerted.

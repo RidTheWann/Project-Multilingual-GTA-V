@@ -3,7 +3,7 @@
 	0x03C99886 = ~s~Return to the ~y~hotel.~s~
 	0x49AEF5F4 = Hotel Assassination
 	0xC68B1167 = ~s~Lose wanted level.~s~
-	0xD65A7B0E = ~s~Franklin died.~s~
+	0xD65A7B0E = ~s~Franklin tewas.~s~
 	ASS_VA_ABAND = ~s~The mission was abandoned.~s~
 	ASS_VA_BASE = Base Reward
 	ASS_VA_BDESC = Sniper Kill Bonus
@@ -22,7 +22,7 @@
 	ASS_VA_GOHOTEL = ~s~Go to the ~y~hotel.~s~
 	ASS_VA_KILL = ~s~Assassinate the ~r~target.~s~
 	ASS_VA_LATTACK = ~s~Lester was attacked.~s~
-	ASS_VA_LOSECOPS = ~s~Lose the Cops.~s~
+	ASS_VA_LOSECOPS = ~s~Lolos dari kejaran Polisi.~s~
 	ASS_VA_PASSED = Misi Berhasil
 	ASS_VA_PLANT = ~s~Assassinate the target.~s~
 	ASS_VA_RHOTEL = ~s~Return to the ~y~hotel.~s~

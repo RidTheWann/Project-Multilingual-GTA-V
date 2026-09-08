@@ -13,7 +13,7 @@
 	EXT2_12 = Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the cargo plane.
 	EXT2_15 = Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the landing zone.
 	EXT2_16 = Press ~INPUT_VEH_EXIT~ to jump off your ATV.
-	EXT2_F1 = ~s~Dom died.
+	EXT2_F1 = ~s~Dom tewas.
 	EXT2_F2 = ~s~Franklin abandoned Dom.
 	EXT2_F3 = ~s~Franklin's ATV was destroyed.
 	EXT2_F4 = ~s~Franklin didn't attempt the skydive.
@@ -22,7 +22,7 @@
 	EXT2_F8 = ~s~Dom's ATV was damaged.
 	EXT2_F9 = ~s~The security guard was injured.
 	EXT2_F10 = ~s~Franklin didn't ride the ATV onto the plane.
-	EXT2_F11 = ~s~Dom was spooked.
+	EXT2_F11 = ~s~Dom ketakutan.
 	EXT2_F12 = ~s~Franklin landed too far outside the target zone.
 	EXT2_F13 = ~s~Skydive failed.
 }

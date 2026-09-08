@@ -8,7 +8,7 @@
 	PRC_CLOSESAFE_T = The getaway vehicle cannot be placed here, this location is too close to Trevor's house.
 	PRC_CLSAGNT = The getaway vehicle cannot be placed here, this location is too close to the Agency building.
 	PRC_DROPOFF = Place the getaway vehicle in the ~y~underground parking lot.
-	PRC_GETOUT = Leave the vehicle.
+	PRC_GETOUT = Tinggalkan kendaraan.
 	PRC_HEALTH = This vehicle is unsuitable to use for the getaway. The vehicle is too damaged.
 	PRC_INACC = The getaway vehicle cannot be placed here, the location is inaccessible to a garbage truck.
 	PRC_INACCF = The getaway vehicle cannot be placed here, the location is inaccessible to a fire truck.

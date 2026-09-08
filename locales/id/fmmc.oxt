@@ -1639,7 +1639,7 @@
 	0x6E658FB0 = Gunrunning 1
 	0x6E701F2D = 1.40 minutes
 	0x6E8626BE = Places the King of the Hill Trigger location, where players will gather in GTA Online to play your King of the Hill mode.
-	0x6E192946 = Winner
+	0x6E192946 = Pemenang
 	0x6E696136 = Block 1x5
 	0x6E716360 = Christmas Lights Extra Large
 	0x6EA7F427 = Stand 3
@@ -3710,7 +3710,7 @@
 	0x668FA230 = 2 seconds
 	0x674B3025 = The ~a~~s~ is empty. Get inside it to continue earning points.
 	0x674C1065 = Movement Speed
-	0x679A63C1 = Loser
+	0x679A63C1 = Kalah
 	0x684A3AEC = 6:30 Minutes
 	0x684CD7BA = Blue Coats
 	0x686C3F94 = No Limit
@@ -4460,7 +4460,7 @@
 	0x41182AC0 = Drivers
 	0x41785C66 = ~s~Death Match Creation
 	0x41857E71 = Movie Trailer
-	0x41928B61 = 2nd Place
+	0x41928B61 = Juara 2
 	0x41959C1F = The team that collects the most checkpoints on their turn will win the round. Use Power-Ups to slow down or kill your opponents:~n~Press ~INPUT_SCRIPT_RDOWN~ to fly a Battle Drone.~n~Press ~INPUT_SCRIPT_RRIGHT~ to drive an RC Bandito.~n~Press ~INPUT_SCRIPT_RLEFT~ to use the Trap Cam.~n~Press ~INPUT_SCRIPT_RUP~ to use a Turret.~n~Press ~INPUT_SCRIPT_PAD_RIGHT~ to stand up.
 	0x42314DE2 = Meth Setup
 	0x43007BAB = Enable on All Waves
@@ -5043,7 +5043,7 @@
 	0x67830953 = 540 Spin
 	0x68320213 = Setting this option will prevent players with this Modifier Set applied to them from climbing over objects. This option does not affect jumping or performing a combat roll.
 	0x68831179 = This dynamic prop has Override Rotation turned on. Use the Override Rotation submenu to edit the prop's rotation or to turn this option off and return to the regular control scheme.
-	0x69017007 = 3rd Place
+	0x69017007 = Juara 3
 	0x69104663 = An Open Wheel Race uses the best of the high performance racing cars to give a true racing experience.
 	0x69714495 = Track Straight Large w/ Pit Stop
 	0x69966815 = Stunt Track Wide to Track Link
@@ -5378,7 +5378,7 @@
 	0xA2741FC1 = ~s~ARENA KING OF THE HILL CREATOR
 	0xA2962EAD = Change Race Type
 	0xA3859E7B = 3 Stars
-	0xA3937C31 = ~s~CHECKPOINT ~1~
+	0xA3937C31 = ~s~TITIK PEMERIKSAAN ~1~
 	0xA3982E6C = Gravestone Large
 	0xA4076A6E = Deliver Upgrades
 	0xA4233B89 = You will win if the Deathmatch timer expires.
@@ -5718,7 +5718,7 @@
 	0xB4F5920F = Biker 1
 	0xB4FC73B3 = Set the kill multiplier to change how many kills each team needs to progress to the next round.
 	0xB5A0EA01 = Tire Wall Wide 12
-	0xB5A86001 = Winner
+	0xB5A86001 = Pemenang
 	0xB5AD44F7 = Carbine Rifle
 	0xB5B365FF = TEAM 3 RESPAWN POINTS
 	0xB5B55844 = Vehicle set 1
@@ -6046,7 +6046,7 @@
 	0xBC09CB13 = Defend the terminals from the attackers and prevent them from stealing the Raiju from the USS Luxington.
 	0xBC0A4A51 = Yellow
 	0xBC2C3A33 = Tube Large
-	0xBC4ED2A1 = CLASSIC
+	0xBC4ED2A1 = KLASIK
 	0xBC6A4397 = Unit Vehicle ~1~
 	0xBC6F634B = 25 Clips
 	0xBC8A903D = 19 Bullets
@@ -7059,7 +7059,7 @@
 	0xDB39D3F5 = Lanjutkan
 	0xDB61DBCE = Activate On Touch
 	0xDB80E05F = Set how you'd like the Arena to be lit.
-	0xDB91E232 = Sports
+	0xDB91E232 = Olahraga
 	0xDB93F02B = Object set 3
 	0xDB272CA3 = Stunt Plane Runway
 	0xDB791497 = ~s~Choose the default type for this Deathmatch. Every Deathmatch created must be playable as a Team Deathmatch and as a Free-for-all Deathmatch, unless locked to a single type using the option below.
@@ -7798,7 +7798,7 @@
 	0xF8D75351 = 100
 	0xF8EE70F5 = PRIMARY RANDOM TRANSFORMS
 	0xF8FC4ADC = Attackers
-	0xF8FEA8C3 = 1st Place
+	0xF8FEA8C3 = Juara 1
 	0xF9A86BB5 = Enable Artificial Lights
 	0xF9B14E64 = ~INPUT_FRONTEND_ACCEPT~ Load
 	0xF9BE7D83 = Set the Tertiary Objective Text
@@ -8455,8 +8455,8 @@
 	FMMCCMENU_10T = ~s~PROPS
 	FMMCCMENU_11 = ~s~Locations
 	FMMCCMENU_11T = ~s~LOCATIONS
-	FMMCCMENU_12 = ~s~Doors
-	FMMCCMENU_12T = ~s~DOORS
+	FMMCCMENU_12 = ~s~Pintu
+	FMMCCMENU_12T = ~s~PINTU
 	FMMCCMENU_13 = ~s~Team Start Points
 	FMMCCMENU_13T = ~s~TEAM START POINTS
 	FMMCCMENU_14 = ~s~Player Rule
@@ -8815,8 +8815,8 @@
 	FMMC_DOORS_1 = Open
 	FMMC_DOORS_2 = Tidak
 	FMMC_DOORS_3 = Ya
-	FMMC_DOORS_M = Doors
-	FMMC_DOORS_T = DOORS
+	FMMC_DOORS_M = Pintu
+	FMMC_DOORS_T = PINTU
 	FMMC_DOTDOT = ~a~...
 	FMMC_DPR_AMOCRT = Ammunition Crate
 	FMMC_DPR_BARREL = Barrel
@@ -9143,7 +9143,7 @@
 	FMMC_PD_29 = Street Punk
 	FMMC_PD_32 = Professional
 	FMMC_PD_33 = Hipster
-	FMMC_PD_34 = Business
+	FMMC_PD_34 = Bisnis
 	FMMC_PD_35 = Beach
 	FMMC_PD_36 = Bodybuilder
 	FMMC_PD_37 = Fitness
@@ -9157,7 +9157,7 @@
 	FMMC_PD_45 = Hipster
 	FMMC_PD_46 = Gay
 	FMMC_PD_47 = Cross-Dresser
-	FMMC_PD_48 = Business
+	FMMC_PD_48 = Bisnis
 	FMMC_PD_49 = Beach
 	FMMC_PD_50 = Bodybuilder
 	FMMC_PD_51 = Fitness
@@ -9191,7 +9191,7 @@
 	FMMC_PD_BE = Balla East
 	FMMC_PD_BON = Black Ops 2 (Night Vision)
 	FMMC_PD_BS = Balla South
-	FMMC_PD_BSC = Business Casual
+	FMMC_PD_BSC = Bisnis Santai
 	FMMC_PD_CCR = Carrier Crew
 	FMMC_PD_DUMMY = Dummy Model for Script
 	FMMC_PD_FIBSEC = FIB
@@ -10323,7 +10323,7 @@
 	MASK_FIENDS = Fiends
 	MASK_GAS = Apparatus
 	MASK_HLM = Helmets
-	MASK_HOOD = Hoodies
+	MASK_HOOD = Hoodie
 	MASK_HRH = Horror Hockey
 	MASK_INCO = Incognito
 	MASK_PBG = Paper Bags
@@ -10405,7 +10405,7 @@
 	MULTIPLAY_VS3 = You are on this team with ~a~~s~, ~a~ ~s~and ~a~
 	OF_STYLE_1 = Street
 	OF_STYLE_2 = Police
-	OF_STYLE_3 = Casual
+	OF_STYLE_3 = Santai
 	OF_STYLE_4 = Rebel
 	OF_STYLE_5 = Shady
 	OF_STYLE_6 = Pilot
@@ -10419,7 +10419,7 @@
 	OF_STYLE_14 = Refuse Collector
 	OF_STYLE_15 = Rider
 	OF_STYLE_16 = Tourist
-	OF_STYLE_17 = Business
+	OF_STYLE_17 = Bisnis
 	OF_STYLE_18 = Sloppy
 	OF_STYLE_19 = Sharp
 	OF_STYLE_20 = Minimalist

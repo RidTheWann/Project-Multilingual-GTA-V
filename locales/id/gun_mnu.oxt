@@ -75,7 +75,7 @@
 	GSM_AFFORD = You can't afford this item.
 	GSM_ARMOR = You already have superior armor.
 	GSM_BLOCK_MP = This item is not available.
-	GSM_EQUIP = Item equipped.
+	GSM_EQUIP = Item terpasang.
 	GSM_FULL = You can't carry any more of this item.
 	GSM_HAVE = You already have this item.
 	GSM_LOCK = This item is currently unavailable.
@@ -86,15 +86,15 @@
 	GSM_LOCK_SCLUB = Sign up to Rockstar Games to unlock this item.
 	GSM_LOCK_XP = You need to increase your Crew RP to unlock this item.
 	GSM_NOTOGGLE = This item can't be removed.
-	GSM_OWN_EQUIP = Item owned and equipped.
+	GSM_OWN_EQUIP = Item dimiliki dan terpasang.
 	GSM_PURCHASE = Item telah dibeli.
 	GSM_PURCHASE_A = Item purchased - Armor visibility can be toggled on and off in the Interaction Menu inventory. You can also set armor to auto show when it is purchased.
 	GSM_REMOVE = Item removed.
-	GSM_TICK = Item owned but not equipped.
+	GSM_TICK = Item dimiliki tetapi belum dipasang.
 	GSM_TINT_AWARD = Reach Rank 100 to unlock this tint.
 	GSM_TINT_KILL = Kill ~1~ players with ~a~ to unlock this tint.
 	GSM_TINT_RANK = Reach Rank ~1~ to unlock this tint.
-	GSM_UNLOCK_N = This item has just been unlocked.
+	GSM_UNLOCK_N = Item ini baru saja terbuka.
 	GS_BUY_A = ~a~ x ~1~
 	GS_BUY_AF = Full ammo
 	GS_COST = $~1~

@@ -4,7 +4,7 @@
 	CAR4_CDOOR = Get inside.
 	CAR4_CGAR = ~s~The Cops learned the location of the garage.
 	CAR4_CLEFT = ~s~Mobil ditinggalkan.
-	CAR4_CUND = ~s~The car got stuck.
+	CAR4_CUND = ~s~Mobil tersangkut.
 	CAR4_DATTA = ~s~Devin was attacked.
 	CAR4_DCAR = Deliver the car to the ~y~garage.
 	CAR4_DDEAD = ~s~Devin died.

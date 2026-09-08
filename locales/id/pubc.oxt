@@ -521,7 +521,7 @@
 	0x3B27F5F5 = ~s~Warm Up by Fire
 	0x3B69F609 = Prop Snapping
 	0x3B87BF58 = Cutscene ~1~ Start Warp Position is not assigned.
-	0x3B740FC1 = Lights
+	0x3B740FC1 = Lampu
 	0x3B40870A = Free Aim - No Lock-On
 	0x3B83802E = Start on Objective
 	0x3BA2A2A7 = Mission Flag
@@ -645,7 +645,7 @@
 	0x4C3ACB19 = Morning
 	0x4C3D7DA4 = Toggle the Lifeinvader office in north Los Santos. The doors to the building are locked by default, use the Door selector in Entities to get inside.
 	0x4C8D0330 = No other Zones of this type placed yet.
-	0x4C9CD534 = Windows
+	0x4C9CD534 = Kaca
 	0x4C41A46E = Enables the Invisibility ability for Beasts.
 	0x4C485F70 = An Activation Zone must be assigned to this Task.
 	0x4C555F47 = Increased Damage Objective Overrides
@@ -956,7 +956,7 @@
 	0x7CB9EB1F = Quick Select Fixture
 	0x7CBFB113 = Finland
 	0x7CC962A0 = CCTV cameras will play a sound both when the player is spotted and when the player has caused an alert.
-	0x7CE03881 = Result
+	0x7CE03881 = Hasil
 	0x7CE4D2EC = Information about Chase Units.
 	0x7CE8785C = Interact With
 	0x7CE48103 = Select the word(s) that represent the ~d~Vehicle(s)~s~ to deliver.
@@ -1859,7 +1859,7 @@
 	0x293B1722 = Using this flag will allow the driver to deliberately go off-road when trying to avoid something.
 	0x293FC232 = Set this Interactable to trigger consequences if it is destroyed, the same as if it was completed in the usual way.
 	0x294F2869 = ~s~Law Idle 4
-	0x297F832B = Doors
+	0x297F832B = Pintu
 	0x307F60D0 = Players will not be able to purchase ammo via the Interaction Menu in this mission.
 	0x310C9EB4 = Other Team Progress Limit
 	0x312AFD4A = Assigned Vehicle ~1~ to to Team ~1~ Objective ~1~.
@@ -2617,7 +2617,7 @@
 	0x680256E8 = This objective text is shown when the player is within range of an Object.~n~Default: "~a~"
 	0x685239AF = Open
 	0x697162EE = Heist - Business
-	0x700422A0 = Shot ~1~
+	0x700422A0 = Pukulan ~1~
 	0x705066F8 = Area Type
 	0x715869FE = Airstrike
 	0x732225BD = Enter 2nd Objective Text (MAX 50 characters):

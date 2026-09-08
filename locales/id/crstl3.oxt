@@ -25,12 +25,12 @@
 	S3_FSHOTRACER = ~s~The racer was injured.
 	S3_FSHOTTREVOR = ~s~Trevor was injured.
 	S3_FSPKDRACER = ~s~The racers were spooked.
-	S3_FSTUCKCAR = ~s~The car got stuck.
+	S3_FSTUCKCAR = ~s~Mobil tersangkut.
 	S3_GOTO = ~s~Go to the ~y~gas station.~s~
 	S3_HELP1 = ~s~Hold ~INPUT_VEH_CIN_CAM~ for chase camera.~s~
 	S3_HELP2 = ~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the racers.~s~
 	S3_OVER = ~s~Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to activate Franklin's special ability.~s~
-	S3_OVER_KM = ~s~Press ~INPUT_SPECIAL_ABILITY_PC~ to activate Franklin's special ability.~s~
+	S3_OVER_KM = ~s~Tekan ~INPUT_SPECIAL_ABILITY_PC~ untuk mengaktifkan kemampuan khusus Franklin.~s~
 	S3_RACE = ~s~Race the ~b~cars.~s~
 	S3_RACEHOME = ~s~Use SWITCH to pick who to race back as.~s~
 	S3_STOP = ~s~Stop at the roadside behind the ~b~cars.~s~

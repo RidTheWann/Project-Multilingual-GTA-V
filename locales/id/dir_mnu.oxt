@@ -18,7 +18,7 @@
 	0x0C579DDA = Hate Player
 	0x0D894668 = Thunder
 	0x0E94A254 = Fear Player
-	0x0EAC9B8B = Business Casual
+	0x0EAC9B8B = Bisnis Santai
 	0x0F9BF9CA = Category Medium
 	0x1A99C0F7 = Mob Enforcer
 	0x1B1B0857 = Dusk
@@ -31,7 +31,7 @@
 	0x2F12B548 = Ya
 	0x3D1E2585 = Clear
 	0x3D4D51BD = Tidak
-	0x3E9E7A11 = Business Casual
+	0x3E9E7A11 = Bisnis Santai
 	0x3E2089A9 = LSPD
 	0x3E932571 = East LS Balla
 	0x3EB5A958 = Tinggi
@@ -66,7 +66,7 @@
 	0x18F45820 = Slow-mo
 	0x19B35549 = Combat Marine
 	0x20CEF5FB = Office Drone
-	0x23FAD3B1 = Business Casual
+	0x23FAD3B1 = Bisnis Santai
 	0x24AB74A0 = Hazy
 	0x24F9A8C5 = Frightened (strong)
 	0x29D38740 = Female
@@ -76,10 +76,10 @@
 	0x38A19E10 = Merryweather Commander
 	0x47EAFE1B = View shortlisted actors.
 	0x49D852D6 = Bolingbroke Yard
-	0x55B853A9 = Casual
+	0x55B853A9 = Santai
 	0x55F1E451 = Gruppe Sechs Driver
 	0x64A35EEE = Meth Light
-	0x66D2EAAC = Business Casual
+	0x66D2EAAC = Bisnis Santai
 	0x66E0732C = Ramp Agent
 	0x69FB32C7 = Curse (mild)
 	0x74B14883 = Cheer
@@ -303,7 +303,7 @@
 	CM_DMO = Director Mode
 	CM_DOWCO2 = Relaxed
 	CM_DOWCOL = Youthful
-	CM_DOWCOU = Casual
+	CM_DOWCOU = Santai
 	CM_DOWDAD = Street
 	CM_DOWDAV = Street
 	CM_DOWEL1 = Sports Casual
@@ -438,7 +438,7 @@
 	CM_LISONL = Online Characters
 	CM_LISPRO = Professionals
 	CM_LISSPE = Special Characters
-	CM_LISSPO = Sports
+	CM_LISSPO = Olahraga
 	CM_LISSTO = Story Characters
 	CM_LISTRA = Transport
 	CM_LISUPT = Uptown
@@ -499,9 +499,9 @@
 	CM_PROSCI = Scientist
 	CM_PROSTR = Streetwalker
 	CM_PROSTY = Media Type
-	CM_PROTEA = Business Casual
+	CM_PROTEA = Bisnis Santai
 	CM_PROVAL = Valet
-	CM_PROVEN = Business Casual
+	CM_PROVEN = Bisnis Santai
 	CM_PROWAI = Waiter
 	CM_QUE = ?????
 	CM_REMO = Remove

@@ -9,7 +9,7 @@
 	YB_BLEWCOV = ~s~Franklin's cover was blown.
 	YB_BLEWSHOP = ~s~You failed to fix the car.
 	YB_FAIL = ~s~Michael didn't save everyone in time.
-	YB_FAIL1 = ~s~Jimmy died.
+	YB_FAIL1 = ~s~Jimmy tewas.
 	YB_FAIL2 = ~s~Amanda's car was abandoned.
 	YB_FAIL3 = ~s~The yacht was lost.
 	YB_FOCUS = ~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the yacht.

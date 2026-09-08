@@ -3,7 +3,7 @@
 	0x07BF1B30 = ~s~Press ~INPUT_VEH_LOOK_BEHIND~ to look behind.~s~
 	0xA0DD144A = ~s~Press ~INPUT_FRONTEND_ACCEPT~ to purchase mods and ammo.
 	LEM1_ABBOTH = ~s~Lamar and Stretch were abandoned.~s~
-	LEM1_ABLAMAR = ~s~Lamar was abandoned.~s~
+	LEM1_ABLAMAR = ~s~Lamar ditinggalkan.~s~
 	LEM1_ABSTRETCH = ~s~Stretch was abandoned.~s~
 	LEM1_ACCSTAT1 = ~s~Weapon accuracy, max ammo capacity, reload speed and crosshair movement will improve as the Shooting Stat increases.
 	LEM1_ACCSTAT2 = ~s~The Shooting Stat will increase with successful hits on enemies. Increase this quicker by going to the Shooting Range or performing headshots.
@@ -31,7 +31,7 @@
 	LEM1_LEFTLEMAR = ~s~Return to ~b~Lamar. ~s~
 	LEM1_LEFTMEET = ~s~Don't abandon the deal.~s~
 	LEM1_LEFTSTRET = ~s~Return to ~b~Stretch. ~s~
-	LEM1_LEMDEAD = ~s~Lamar died.~s~
+	LEM1_LEMDEAD = ~s~Lamar tewas.~s~
 	LEM1_MISSDEAL = ~s~The deal was missed.~s~
 	LEM1_NOMON = ~s~Franklin did not have enough money to buy the Pump Shotgun and flashlight mod.~s~
 	LEM1_SHOPOPEN = ~s~Ammu-Nation stores are now available at ~BLIP_GUN_SHOP~

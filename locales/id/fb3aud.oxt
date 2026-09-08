@@ -47,7 +47,7 @@
 	0x07CE4DD4 = FBI3_EEAK
 	0x07DFEDD5 = FBI3_COAA
 	0x07F4BC95 = FBI3_DHAO
-	0x0818B7A3 = ~z~Come on.
+	0x0818B7A3 = ~z~Ayo.
 	0x086FB6A3 = SFX_PAUSE_460
 	0x088D42A7 = 100
 	0x09059A9D = 100
@@ -727,7 +727,7 @@
 	0x68B0E6F8 = FBI3_DJBB
 	0x68BFDE1F = FBI3_FXAA
 	0x68D94967 = ~z~I take speed mostly, and look at me.
-	0x68EEC974 = ~z~Come on!
+	0x68EEC974 = ~z~Ayo!
 	0x68F660B6 = ~z~I know Azerbaijanis, Kyrgyzstanis, Tajikistanis... whatever you want, eh!
 	0x69C6E5C8 = FBI3_CHAF
 	0x69E8CA26 = ~z~Hey, fuck you!
@@ -994,7 +994,7 @@
 	0x971C550E = ~z~The Los Santos reboot.
 	0x985CE022 = ~z~That's it.
 	0x991FF151 = FBI3_ELAO
-	0x996D8F62 = ~z~Come on.
+	0x996D8F62 = ~z~Ayo.
 	0x997ABBB2 = 290
 	0x1331C1EC = FBI3_FLAA
 	0x1409BA8C = 250
@@ -1358,7 +1358,7 @@
 	0xAC52F118 = ~z~I can breathe!
 	0xAC83EE94 = ~z~The blackness is terrible!
 	0xACF2A214 = ~z~I don't have anything else.
-	0xAD98C63B = ~z~Come on.
+	0xAD98C63B = ~z~Ayo.
 	0xAD35401D = FBI3_FYAA
 	0xADC39991 = ~z~I'll take care of it.
 	0xADCB9CF4 = SFX_PAUSE_050
@@ -1415,7 +1415,7 @@
 	0xB9E6464E = ~z~But it did happen.
 	0xB9F8C5DF = ~z~You torture for the good times - we should all admit that. It's useless as a means of getting information!
 	0xB9FD175E = FBI3_DXCD
-	0xB14AB4CF = ~z~Shut up!
+	0xB14AB4CF = ~z~Diam!
 	0xB22DBF78 = ~z~He's not a problem at all. We're monitoring him. Has he said anything about Brad?
 	0xB26AAF44 = FBI3_DOAC
 	0xB36D2CF0 = FBI3_DXBR
@@ -1702,7 +1702,7 @@
 	0xD89507AB = ~z~How many volts you think they got running through these things?
 	0xD92322AD = ~z~Not the jumpers. My heart.
 	0xD484114F = FBI3_DHBF
-	0xD646825B = ~z~Come on!
+	0xD646825B = ~z~Ayo!
 	0xD732407D = 110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
 	0xD884980E = 300230240630230320240420240420240030300530350450350420540350530350530350530350530320300030200320
 	0xD1905154 = ~z~I'm not here.
@@ -1963,7 +1963,7 @@
 	0xFAC188EC = 100
 	0xFAD768FC = FBI3_AWAA
 	0xFAE186C9 = FBI3_DGAA
-	0xFAF2BDCC = ~z~Come on.
+	0xFAF2BDCC = ~z~Ayo.
 	0xFB0ED9A0 = ~z~I don't, I already told you.
 	0xFB764B02 = ~z~Why didn't you ask me?
 	0xFB163425 = FBI3_DXBV

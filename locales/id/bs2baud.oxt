@@ -88,7 +88,7 @@
 	0x073F0063 = ~z~Get that drill going.
 	0x07A345E8 = ~z~I'm using my toolset!
 	0x07D4BA31 = BS2B_OHAA
-	0x07EAA3DC = ~z~Come on.
+	0x07EAA3DC = ~z~Ayo.
 	0x07F905E4 = 100
 	0x07FDDE23 = ~z~Where you going? It's back here.
 	0x081ECB78 = 1102100
@@ -99,7 +99,7 @@
 	0x08D87EFC = ~z~Bring me round, so I can get the shot!
 	0x08EC9400 = ~z~It's important that I'm not killed while doing this.
 	0x08F28BA1 = BS2B_NYAA
-	0x0913FD86 = ~z~Come on!
+	0x0913FD86 = ~z~Ayo!
 	0x091CCFB8 = ~z~Down these stairs!
 	0x093DE8EB = BS2B_QRAB
 	0x0940B4BF = ~z~More dudes flying in! Take down the chopper!
@@ -1503,7 +1503,7 @@
 	0x737D0B95 = BS2B_AMAA
 	0x739FC409 = BS2B_DGAJ
 	0x754CD275 = ~z~Look out!
-	0x756FB2BB = ~z~Come on.
+	0x756FB2BB = ~z~Ayo.
 	0x757E90D0 = 100
 	0x765B0422 = ~z~Dammit!
 	0x766CDA29 = ~z~Keep them away from me, I'll get this where it needs to be!
@@ -1823,7 +1823,7 @@
 	0x73351D1A = ~z~Utilizing!
 	0x73584AA0 = 100
 	0x74015B75 = BS2B_BYAA
-	0x74817B1F = ~z~Come on.
+	0x74817B1F = ~z~Ayo.
 	0x75530BDC = ~z~Use your cerebral technology and step aside.
 	0x75926A08 = 100
 	0x76061FB4 = 1102100
@@ -2032,7 +2032,7 @@
 	0xA1B5C807 = ~z~LSPD in the tunnel behind me!
 	0xA1DCCDDF = ~z~but you don't have to worry about anyone coming from inside the bank right now.
 	0xA1F90CB1 = BS2B_DKAV
-	0xA2A345EF = ~z~Come on.
+	0xA2A345EF = ~z~Ayo.
 	0xA2A2662A = ~z~we have two options,
 	0xA2C48881 = ~z~Yeah, baby!
 	0xA2D6FEE0 = ~z~Look left! Another chopper!
@@ -2296,8 +2296,8 @@
 	0xB40F71CF = ~z~Now's our time! Across the bridge!
 	0xB45F863E = BS2B_OBAG
 	0xB47C239E = 1000100
-	0xB51A1BD0 = ~z~Come on.
-	0xB55C236F = ~z~Come on!
+	0xB51A1BD0 = ~z~Ayo.
+	0xB55C236F = ~z~Ayo!
 	0xB57A2DEC = ~z~Franklin, come get it! ~c~~n~ Wassup, Les?
 	0xB57AFE7E = 100
 	0xB64E73DF = BS2B_ELAC
@@ -2864,7 +2864,7 @@
 	0xE4A36B1F = ~z~Well, don't worry,
 	0xE4D5A82A = 1100000
 	0xE4F55417 = ~z~I know the way!
-	0xE4FD1D72 = ~z~Come on.
+	0xE4FD1D72 = ~z~Ayo.
 	0xE5D4C25E = 100
 	0xE5D7E26D = 100
 	0xE6F43472 = ~z~'Cause if I go down, Trevor's ass gets my share!
@@ -2930,7 +2930,7 @@
 	0xE4265AE4 = 490
 	0xE5504F62 = 1100000
 	0xE6753DA9 = 1100000
-	0xE6766E63 = ~z~Come on.
+	0xE6766E63 = ~z~Ayo.
 	0xE8069A60 = ~z~More cops on the other side of the tunnel!
 	0xE8330D3C = BS2B_ERAA
 	0xE8416FB4 = ~z~Nice! More friendly officers!

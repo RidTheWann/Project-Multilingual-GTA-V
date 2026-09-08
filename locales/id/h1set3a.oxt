@@ -10,7 +10,7 @@
 	S3A_KILL = ~s~Get the ~r~architect ~s~to give up the briefcase.
 	S3A_LFTCASE = The blueprints were lost. ~s~
 	S3A_LFTHLP = ~s~Press ~INPUT_CONTEXT~ to activate the elevator. ~s~
-	S3A_LOSECOPS = ~s~Lose the Cops. ~s~
+	S3A_LOSECOPS = ~s~Lolos dari kejaran Polisi. ~s~
 	S3A_LOST = You lost the architect. ~s~
 	S3A_MUGHLP = Aim at the target to threaten him.
 	S3A_PARK = Park up in the ~y~parking space ~s~to avoid suspicion.

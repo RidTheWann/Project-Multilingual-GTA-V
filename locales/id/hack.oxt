@@ -152,7 +152,7 @@
 	MYCOMPUTER = My Computer
 	PASSWORD = DEADLOCK
 	PETSNAME = SENTINEL
-	RETRY = Retry?
+	RETRY = Coba Lagi?
 	TRACKIFY_DRI = Your Navigator will guide you towards the vans using voice chat or using directional arrows that will display for you. They will need to be sat in the front passenger seat to do this.
 	TRACKIFY_OPE = Direct the driver using voice chat or use ~INPUTGROUP_FRONTEND_DPAD_ALL~ to show the driver directional arrows. Sit in the front passenger seat to use directional arrows.
 	TRACKIFY_PHO = Launch Trackify from the bottom right of the phone app menu. Direct the driver using voice chat or use ~INPUTGROUP_FRONTEND_DPAD_ALL~ to show the driver directional arrows. Sit in the front passenger seat to use directional arrows.

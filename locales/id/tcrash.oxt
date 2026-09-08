@@ -26,7 +26,7 @@
 	TC_FAIL10 = The dinghy was grounded.
 	TC_FAIL11 = Trevor was abandoned.
 	TC_FAIL12 = A getaway vehicle was destroyed.
-	TC_FAIL13 = Michael was abandoned.
+	TC_FAIL13 = Michael ditinggalkan.
 	TC_FAIL14 = The container was abandoned.
 	TC_FAIL15 = The getaway vehicles were abandoned.
 	TC_FAIL16 = The bike was abandoned.
@@ -46,8 +46,8 @@
 	TC_PATHLP = Trevor can still get onto the train further down the ~y~elevated path.
 	TC_SNPHLP = Use your sniper rifle's thermal scope to locate the Merryweather snipers.
 	TC_SNPHLP2 = Press ~INPUT_WEAPON_SPECIAL_TWO~ while aiming to toggle the thermal scope.
-	TC_SWCHM = SWITCH to Michael.
-	TC_SWCHT = SWITCH to Trevor.
+	TC_SWCHM = BERALIH ke Michael.
+	TC_SWCHT = BERALIH ke Trevor.
 	TC_TRNHLP = Use ~INPUTGROUP_LOOK~ to look around.~n~Hold ~INPUT_VEH_ACCELERATE~ to accelerate.~n~Hold ~INPUT_VEH_BRAKE~ to brake.
 	TC_WAITT = Wait for ~b~Trevor.
 }

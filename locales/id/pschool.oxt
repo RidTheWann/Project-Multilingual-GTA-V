@@ -93,7 +93,7 @@
 	PSM_AWARDS_SUB = Highest Medal
 	PSM_AWARD_TITLE = RESULTS
 	PSM_BDIST = Best Distance
-	PSM_BTIME = Best Time
+	PSM_BTIME = Waktu Terbaik
 	PSM_INFO = INFORMATION
 	PSM_RDIST = Recent Distance
 	PSM_RTIME = Recent Time
@@ -119,7 +119,7 @@
 	PS_FAIL_6 = Formation broken.
 	PS_FAIL_7 = Early landing.
 	PS_FAIL_7A = Landing gear was not deployed.
-	PS_FAIL_8 = The vehicle was destroyed.
+	PS_FAIL_8 = Kendaraan hancur.
 	PS_FAIL_9 = Too many checkpoints missed.
 	PS_FAIL_9A = First checkpoint missed.
 	PS_FAIL_10 = Runway abandoned.

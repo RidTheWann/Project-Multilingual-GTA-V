@@ -2,7 +2,7 @@
 {
 	0x00057900 = ~z~I can't stop shivering. This ain't good.
 	0x0008DA3D = ~z~Come inside and we'll fix you up.
-	0x01ECAD85 = ~z~Are you crazy?
+	0x01ECAD85 = ~z~Kamu gila ya?
 	0x026BAC33 = 030
 	0x02858DB0 = SFX_PAUSE_330
 	0x03CD5870 = ~z~Arrgh
@@ -401,7 +401,7 @@
 	0xDB1A27C6 = 090
 	0xDB49D0F2 = ~z~Come on, I'm bleeding out here.
 	0xDB398749 = ~z~ohh
-	0xDBA1F854 = ~z~Are you crazy?
+	0xDBA1F854 = ~z~Kamu gila ya?
 	0xDC8EBEDC = 390010390
 	0xDCB3D5CF = 1100000
 	0xDD62B3BB = ~z~That bastard stuck me good.

@@ -1,6 +1,6 @@
 ﻿Version 2 30
 {
-	0x0A7EF786 = ~s~MISSION PASSED~s~
+	0x0A7EF786 = ~s~MISI BERHASIL~s~
 	0x6BBF4504 = The yellow bar indicates Trevor's special ability level. Press ~INPUT_SPECIAL_ABILITY_PC~ to put Trevor into a rage which will greatly reduce the damage he takes and allow him to inflict more damage on enemies.
 	0x58F69F5C = Mo Cap Cutscene of Trevor, Cheng, The Translator and Chef inside the meth lab.
 	METH_FAIL_0 = Cheng died.~s~

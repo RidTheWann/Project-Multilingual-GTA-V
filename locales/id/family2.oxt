@@ -9,7 +9,7 @@
 	0x108A7AB8 = Masuklah kembali ke dalam ~b~car. ~s~.
 	0x829A7C69 = Michael fell off the Seashark.
 	0xA03EC78A = The Seashark was flipped.
-	0xA8369AE7 = Jimmy was abandoned. ~s~
+	0xA8369AE7 = Jimmy ditinggalkan. ~s~
 	0xABF42902 = Swim to ~y~shore. ~s~
 	0xB0BD59B6 = The car was destroyed, find another vehicle.
 	0xB104E3DE = Misi Berhasil
@@ -36,15 +36,15 @@
 	FM2_CHASE1 = ~s~Head for the ~y~outlet. ~s~
 	FM2_CHASE3 = ~s~Lose the ~r~pursuers. ~s~
 	FM2_CHSEBIKE = Select a bike.
-	FM2_COPS = ~s~Lose the Cops. ~s~
+	FM2_COPS = ~s~Lolos dari kejaran Polisi. ~s~
 	FM2_DIVE = Press ~INPUT_DIVE~ to dive beneath the surface.
 	FM2_DIVOFF = Run towards the edge of the pier and press ~INPUT_JUMP~ to dive into the water.
 	FM2_DRIVE = Pergilah ke ~y~shore. ~s~.
 	FM2_DROWN = If you stay underwater for too long you will start to drown.
 	FM2_GETON = Get back on the ~b~bike. ~s~
 	FM2_GOTOL = Race Jimmy to the ~y~pier. ~s~
-	FM2_JIMAB = Jimmy was abandoned. ~s~
-	FM2_JIMDED = Jimmy died. ~s~
+	FM2_JIMAB = Jimmy ditinggalkan. ~s~
+	FM2_JIMDED = Jimmy tewas. ~s~
 	FM2_JIMGB = ~s~Return to ~b~Jimmy. ~s~
 	FM2_JIMHIT = Jimmy was injured. ~s~
 	FM2_JSHLP1 = ~s~Tahan ~INPUT_VEH_ACCELERATE~ untuk menambah kecepatan.~s~
@@ -62,7 +62,7 @@
 	FM2_SWIM_FP = Hold ~INPUTGROUP_MOVE~ to swim.~n~Use ~INPUTGROUP_LOOK~ to change direction.~n~Hold ~INPUT_SPRINT~ to swim faster.
 	FM2_SWIM_KM = Press ~INPUT_SPRINT~ to start/stop swimming, and use ~INPUTGROUP_MOVE~ to control direction.~n~Hold ~INPUT_SPRINT~ to swim faster.
 	FM2_TRAAB = Tracey was abandoned. ~s~
-	FM2_TRADED = Tracey died. ~s~
+	FM2_TRADED = Tracey tewas. ~s~
 	FM2_TRAFELL = Tracey fell off the Seashark.
 	FM2_TRAGB = ~s~Go back to ~b~Tracey. ~s~
 	FM2_TRAHIT = Tracey was injured. ~s~

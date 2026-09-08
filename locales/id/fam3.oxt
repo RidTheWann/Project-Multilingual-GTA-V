@@ -18,6 +18,6 @@
 	FAM3_HSTAT2 = The Shooting Stat will increase with successful hits on enemies. Increase this quicker by going to the Shooting Range or performing headshots.~s~
 	FAM3_HSWITCH = SWITCH available between Michael and Franklin.~s~
 	FAM3_LGOONS = Lose ~r~Madrazo's men.
-	FAM3_TDEST = ~s~The truck was destroyed.
+	FAM3_TDEST = ~s~Truk hancur.
 	FAM3_TUND = ~s~The truck got stuck.
 }

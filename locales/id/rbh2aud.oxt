@@ -1241,7 +1241,7 @@
 	0x91BA0E0A = ~z~Watch it!
 	0x91D99060 = ~z~Let's do it!
 	0x91E267F9 = RBH2A_NPAC
-	0x91F6255E = ~z~Come on!
+	0x91F6255E = ~z~Ayo!
 	0x92B54F89 = 210
 	0x92C290C5 = ~z~Homies, I'm holding them, where you at?
 	0x92C85963 = RBH2A_NOAB
@@ -1252,7 +1252,7 @@
 	0x93BC98F0 = ~z~On me.
 	0x93E88968 = 1000000
 	0x93EC68C4 = 100
-	0x94AA19A1 = ~z~Come on!
+	0x94AA19A1 = ~z~Ayo!
 	0x94C6995E = ~z~You want some more of me! Huh? Huh?
 	0x94CA795A = RBH2A_KIAG
 	0x94EBF32B = RBH2A_KTAI
@@ -1461,7 +1461,7 @@
 	0x759D61FD = RBH2A_LPAA
 	0x760E2314 = 490
 	0x768BA76F = RBH2A_NBAA
-	0x770B7B03 = ~z~Come on!
+	0x770B7B03 = ~z~Ayo!
 	0x776E057A = 1100000
 	0x778AB014 = SFX_PAUSE_160
 	0x778EDDBF = 301
@@ -1658,7 +1658,7 @@
 	0x8514A10B = 100
 	0x8579BDC6 = RBH2A_JOCH
 	0x8698E6DA = ~z~Shit happens. Move on. Drive the fucking digger.
-	0x8706FF85 = ~z~Come on.
+	0x8706FF85 = ~z~Ayo.
 	0x8819E825 = ~z~If I ever meet this alarm guy
 	0x8876DC3C = 191
 	0x8916D90F = RBH2A_NGAA
@@ -2584,7 +2584,7 @@
 	0xD7552840 = ~z~Shit! Minigun!
 	0xD8443108 = 090090190090290290090190190
 	0xDA40A37C = ~z~This ain't nothing to do with you!
-	0xDA54F7C6 = ~z~Come on.
+	0xDA54F7C6 = ~z~Ayo.
 	0xDA66A1AA = ~z~Cops on the left here!
 	0xDA72ED9A = 311131311311111
 	0xDA738DB7 = 100

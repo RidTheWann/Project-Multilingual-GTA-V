@@ -5,11 +5,11 @@
 	TRV4_CAR1 = ~s~Get in a vehicle.
 	TRV4_CHASE1 = ~s~Chase after ~b~Molly.
 	TRV4_CHASE2 = ~s~Chase after ~b~Molly.
-	TRV4_END1 = ~s~Lose the Cops.
+	TRV4_END1 = ~s~Lolos dari kejaran Polisi.
 	TRV4_FAIL1 = Molly escaped.
 	TRV4_FAIL2 = Michael flew into a restricted airspace.
 	TRV4_FAIL3 = Molly died.
-	TRV4_FAIL4 = Wade died.
+	TRV4_FAIL4 = Wade tewas.
 	TRV4_FAIL5 = Floyd died.
 	TRV4_FAIL6 = Michael abandoned the film reel.
 	TRV4_GO1 = ~s~Go to the ~y~airport ~s~and find Molly.

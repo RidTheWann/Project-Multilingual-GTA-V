@@ -29,10 +29,10 @@
 	0xF13EEE00 = The Driving Ability will increase each time a wheelie is performed.
 	0xFE370504 = Walk up to a garage door to open it.
 	ARM2_F01 = The neighborhood was alerted.~s~
-	ARM2_F02 = Lamar died.~s~
+	ARM2_F02 = Lamar tewas.~s~
 	ARM2_F03 = The bike was destroyed.~s~
-	ARM2_F04 = The Cops were alerted.~s~
-	ARM2_F05 = Lamar was abandoned.~s~
+	ARM2_F04 = Polisi disiagakan.~s~
+	ARM2_F05 = Lamar ditinggalkan.~s~
 	ARM2_F06 = The biker escaped.~s~
 	ARM2_F07 = There was a disturbance at the showroom.
 	ARM2_F09 = The bike was abandoned.~s~

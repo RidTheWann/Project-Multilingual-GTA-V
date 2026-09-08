@@ -9,13 +9,13 @@
 	0x555CB5BA = ~s~The elevator is out of service.~s~
 	0x975EE052 = ~s~Collect your possessions from the ~y~bag.~s~
 	0x253503E7 = ~s~Take down the ~r~IAA officers.~s~
-	0xA4758266 = ~s~Leave the vehicle.~s~
+	0xA4758266 = ~s~Tinggalkan kendaraan.~s~
 	0xB43721E9 = ~s~Escape from the ~y~building.~s~
 	0xE94C1343 = ~s~The yellow bar indicates Michael's special ability level. Press ~INPUT_SPECIAL_ABILITY_PC~ to slow down time.~s~
-	FBI1_FAIL_0 = ~s~Franklin died.~s~
+	FBI1_FAIL_0 = ~s~Franklin tewas.~s~
 	FBI1_FAIL_1 = Too much heat to carry out the job.~s~
 	FBI1_FAIL_2 = ~s~Michael's cover was blown.~s~
-	FBI1_FAIL_3 = ~s~Michael died.~s~
+	FBI1_FAIL_3 = ~s~Michael tewas.~s~
 	FBI1_GOD_1 = ~s~Search the morgue for the ~g~body.~s~
 	FBI1_GOD_4 = ~s~Escape through the ~y~window.~s~
 	FBI1_GOD_6 = ~s~Go to the ~y~oil derricks.~s~

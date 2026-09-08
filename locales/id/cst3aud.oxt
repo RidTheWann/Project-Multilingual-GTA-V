@@ -508,7 +508,7 @@
 	0x497014F9 = 1100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
 	0x536195A5 = SFX_PAUSE_080
 	0x665059A0 = ~z~The fool wants to race us.
-	0x779857F8 = ~z~Come on.
+	0x779857F8 = ~z~Ayo.
 	0x825325E3 = ~z~Okay.
 	0x903461B7 = CST3_CPAA
 	0x908633F7 = ~z~including the car,
@@ -744,7 +744,7 @@
 	0xD571AA58 = ~z~Find a safe place to stop, and pull over!
 	0xD681B3BE = ~z~Gentleman, move the vehicles.
 	0xD2481B6F = 292
-	0xD4194E6A = ~z~Come on.
+	0xD4194E6A = ~z~Ayo.
 	0xD4469F32 = ~z~Silly me - you're a rat... not a turd.
 	0xD5003D4B = 192
 	0xD9555AFE = CST3_BBAQ

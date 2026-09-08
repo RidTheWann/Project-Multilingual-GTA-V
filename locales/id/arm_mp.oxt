@@ -17,13 +17,13 @@
 	ARMMP_QUITUI_D = Are you sure you want to quit Arm Wrestling?
 	ARMMP_REGAME = Welcome back to Arm Wrestling, versus ~a~.
 	ARMMP_REGAME2 = Welcome back to Arm Wrestling.
-	ARMMP_REMATCH = Rematch
+	ARMMP_REMATCH = Tanding Ulang
 	ARMMP_REQ_RM = ~a~ has requested a rematch.
 	ARMMP_REQ_RM2 = Rematch requested.
-	ARMMP_SC_LOSE = LOSER
+	ARMMP_SC_LOSE = KALAH
 	ARMMP_SC_TSCORE = Their Wins
 	ARMMP_SC_USCORE = Your Wins
-	ARMMP_SC_WIN = WINNER
+	ARMMP_SC_WIN = PEMENANG
 	ARMMP_TABLE1 = VINEWOOD ARM WRESTLING
 	ARMMP_TABLE2 = EL BURRO ARM WRESTLING
 	ARMMP_TABLE3 = SAN ANDREAS ARM WRESTLING

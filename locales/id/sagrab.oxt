@@ -51,7 +51,7 @@
 	SG_SUB11 = What the hell is that?
 	SG_SUB12 = That is not a window cleaner!
 	SG_SUB13 = Security? Yes security, get up here right now.
-	SG_SWITCH = SWITCH to Franklin.
+	SG_SWITCH = BERALIH ke Franklin.
 	SG_TROHLP2 = When a character is in trouble, their section on the SWITCH menu will flash red.
 	SG_WAIT = Wait for ~b~Michael.
 	SG_WAITD = Wait for ~b~Dave.

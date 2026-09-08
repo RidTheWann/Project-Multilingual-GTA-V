@@ -3,9 +3,12 @@
     "total_files": 610,
     "passed": 610,
     "failed": 0,
+    "missing_in_target": 0,
+    "unexpected_in_target": 0,
     "total_entries": 284927,
-    "translated_entries": 1581,
-    "identical_entries": 283346
+    "translated_entries": 2470,
+    "identical_entries": 282457,
+    "total_qa_warnings": 0
   },
   "results": [
     {
@@ -13,6 +16,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2,
       "translated_entries": 2,
       "identical_entries": 0
@@ -22,6 +26,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 281,
       "translated_entries": 0,
       "identical_entries": 281
@@ -31,6 +36,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -40,6 +46,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 70,
       "translated_entries": 2,
       "identical_entries": 68
@@ -49,15 +56,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 3037,
-      "translated_entries": 0,
-      "identical_entries": 3037
+      "translated_entries": 7,
+      "identical_entries": 3030
     },
     {
       "filename": "ahfaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 307,
       "translated_entries": 0,
       "identical_entries": 307
@@ -67,24 +76,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
-      "translated_entries": 2,
-      "identical_entries": 4
+      "translated_entries": 3,
+      "identical_entries": 3
     },
     {
       "filename": "ambht.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 193,
-      "translated_entries": 12,
-      "identical_entries": 181
+      "translated_entries": 14,
+      "identical_entries": 179
     },
     {
       "filename": "amsolau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 14,
       "translated_entries": 0,
       "identical_entries": 14
@@ -94,6 +106,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 558,
       "translated_entries": 0,
       "identical_entries": 558
@@ -103,15 +116,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 7803,
-      "translated_entries": 0,
-      "identical_entries": 7803
+      "translated_entries": 11,
+      "identical_entries": 7792
     },
     {
       "filename": "ar2aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1539,
       "translated_entries": 0,
       "identical_entries": 1539
@@ -121,6 +136,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 46,
       "translated_entries": 0,
       "identical_entries": 46
@@ -130,42 +146,47 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 67,
-      "translated_entries": 3,
-      "identical_entries": 64
+      "translated_entries": 10,
+      "identical_entries": 57
     },
     {
       "filename": "arm1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1000,
-      "translated_entries": 0,
-      "identical_entries": 1000
+      "translated_entries": 1,
+      "identical_entries": 999
     },
     {
       "filename": "arm2.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 71,
-      "translated_entries": 5,
-      "identical_entries": 66
+      "translated_entries": 8,
+      "identical_entries": 63
     },
     {
       "filename": "arm3.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 46,
-      "translated_entries": 2,
-      "identical_entries": 44
+      "translated_entries": 3,
+      "identical_entries": 43
     },
     {
       "filename": "arm3aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 872,
       "translated_entries": 0,
       "identical_entries": 872
@@ -175,15 +196,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 40,
-      "translated_entries": 1,
-      "identical_entries": 39
+      "translated_entries": 4,
+      "identical_entries": 36
     },
     {
       "filename": "armsaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1609,
       "translated_entries": 0,
       "identical_entries": 1609
@@ -193,6 +216,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 30,
       "translated_entries": 0,
       "identical_entries": 30
@@ -202,6 +226,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 256,
       "translated_entries": 0,
       "identical_entries": 256
@@ -211,6 +236,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 61,
       "translated_entries": 0,
       "identical_entries": 61
@@ -220,69 +246,77 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 37,
-      "translated_entries": 3,
-      "identical_entries": 34
+      "translated_entries": 5,
+      "identical_entries": 32
     },
     {
       "filename": "ass_cs.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 28,
-      "translated_entries": 3,
-      "identical_entries": 25
+      "translated_entries": 4,
+      "identical_entries": 24
     },
     {
       "filename": "ass_hk.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 25,
-      "translated_entries": 3,
-      "identical_entries": 22
+      "translated_entries": 5,
+      "identical_entries": 20
     },
     {
       "filename": "ass_ml.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 21,
-      "translated_entries": 3,
-      "identical_entries": 18
+      "translated_entries": 5,
+      "identical_entries": 16
     },
     {
       "filename": "ass_va.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 33,
-      "translated_entries": 3,
-      "identical_entries": 30
+      "translated_entries": 5,
+      "identical_entries": 28
     },
     {
       "filename": "bankh1.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 48,
-      "translated_entries": 0,
-      "identical_entries": 48
+      "translated_entries": 5,
+      "identical_entries": 43
     },
     {
       "filename": "banks1.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 46,
-      "translated_entries": 1,
-      "identical_entries": 45
+      "translated_entries": 6,
+      "identical_entries": 40
     },
     {
       "filename": "bar3aau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 116,
       "translated_entries": 0,
       "identical_entries": 116
@@ -292,6 +326,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 126,
       "translated_entries": 0,
       "identical_entries": 126
@@ -301,15 +336,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 12,
-      "translated_entries": 3,
-      "identical_entries": 9
+      "translated_entries": 5,
+      "identical_entries": 7
     },
     {
       "filename": "barr3au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 135,
       "translated_entries": 0,
       "identical_entries": 135
@@ -319,15 +356,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 17,
-      "translated_entries": 3,
-      "identical_entries": 14
+      "translated_entries": 4,
+      "identical_entries": 13
     },
     {
       "filename": "barr4au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 34,
       "translated_entries": 0,
       "identical_entries": 34
@@ -337,6 +376,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 5,
       "translated_entries": 1,
       "identical_entries": 4
@@ -346,6 +386,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 205,
       "translated_entries": 0,
       "identical_entries": 205
@@ -355,6 +396,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 1,
       "identical_entries": 3
@@ -364,6 +406,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 155,
       "translated_entries": 0,
       "identical_entries": 155
@@ -373,15 +416,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 5,
-      "translated_entries": 1,
-      "identical_entries": 4
+      "translated_entries": 2,
+      "identical_entries": 3
     },
     {
       "filename": "bb1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 284,
       "translated_entries": 0,
       "identical_entries": 284
@@ -391,6 +436,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 312,
       "translated_entries": 0,
       "identical_entries": 312
@@ -400,6 +446,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 281,
       "translated_entries": 0,
       "identical_entries": 281
@@ -409,6 +456,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 322,
       "translated_entries": 0,
       "identical_entries": 322
@@ -418,6 +466,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 118,
       "translated_entries": 0,
       "identical_entries": 118
@@ -427,15 +476,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 18,
-      "translated_entries": 1,
-      "identical_entries": 17
+      "translated_entries": 2,
+      "identical_entries": 16
     },
     {
       "filename": "bcaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 325,
       "translated_entries": 0,
       "identical_entries": 325
@@ -445,15 +496,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 35,
-      "translated_entries": 4,
-      "identical_entries": 31
+      "translated_entries": 7,
+      "identical_entries": 28
     },
     {
       "filename": "binkaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 831,
       "translated_entries": 0,
       "identical_entries": 831
@@ -463,6 +516,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -472,15 +526,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 32,
-      "translated_entries": 4,
-      "identical_entries": 28
+      "translated_entries": 8,
+      "identical_entries": 24
     },
     {
       "filename": "blimpau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 62,
       "translated_entries": 0,
       "identical_entries": 62
@@ -490,6 +546,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2,
       "translated_entries": 0,
       "identical_entries": 2
@@ -499,6 +556,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -508,6 +566,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -517,6 +576,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -526,6 +586,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -535,6 +596,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -544,6 +606,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -553,6 +616,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -562,6 +626,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -571,6 +636,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -580,15 +646,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 3212,
-      "translated_entries": 0,
-      "identical_entries": 3212
+      "translated_entries": 9,
+      "identical_entries": 3203
     },
     {
       "filename": "bspraau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 275,
       "translated_entries": 0,
       "identical_entries": 275
@@ -598,15 +666,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 25,
-      "translated_entries": 0,
-      "identical_entries": 25
+      "translated_entries": 3,
+      "identical_entries": 22
     },
     {
       "filename": "bsprp.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 220,
       "translated_entries": 0,
       "identical_entries": 220
@@ -616,6 +686,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 325,
       "translated_entries": 0,
       "identical_entries": 325
@@ -625,6 +696,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 3,
       "translated_entries": 0,
       "identical_entries": 3
@@ -634,15 +706,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 38,
-      "translated_entries": 4,
-      "identical_entries": 34
+      "translated_entries": 15,
+      "identical_entries": 23
     },
     {
       "filename": "cacci.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1,
       "translated_entries": 0,
       "identical_entries": 1
@@ -652,15 +726,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 19,
-      "translated_entries": 2,
-      "identical_entries": 17
+      "translated_entries": 3,
+      "identical_entries": 16
     },
     {
       "filename": "carmoau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 40,
       "translated_entries": 0,
       "identical_entries": 40
@@ -670,6 +746,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1404,
       "translated_entries": 0,
       "identical_entries": 1404
@@ -679,6 +756,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1348,
       "translated_entries": 0,
       "identical_entries": 1348
@@ -688,6 +766,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 37,
       "translated_entries": 0,
       "identical_entries": 37
@@ -697,24 +776,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 106,
-      "translated_entries": 2,
-      "identical_entries": 104
+      "translated_entries": 8,
+      "identical_entries": 98
     },
     {
       "filename": "chi2aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 566,
-      "translated_entries": 0,
-      "identical_entries": 566
+      "translated_entries": 4,
+      "identical_entries": 562
     },
     {
       "filename": "chop_au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 189,
       "translated_entries": 0,
       "identical_entries": 189
@@ -724,6 +806,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 11,
       "translated_entries": 0,
       "identical_entries": 11
@@ -733,15 +816,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1022,
-      "translated_entries": 4,
-      "identical_entries": 1018
+      "translated_entries": 84,
+      "identical_entries": 938
     },
     {
       "filename": "clothau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 297,
       "translated_entries": 0,
       "identical_entries": 297
@@ -751,15 +836,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 76,
-      "translated_entries": 9,
-      "identical_entries": 67
+      "translated_entries": 19,
+      "identical_entries": 57
     },
     {
       "filename": "conacau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 61,
       "translated_entries": 0,
       "identical_entries": 61
@@ -769,6 +856,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2818,
       "translated_entries": 0,
       "identical_entries": 2818
@@ -778,15 +866,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 34,
-      "translated_entries": 3,
-      "identical_entries": 31
+      "translated_entries": 5,
+      "identical_entries": 29
     },
     {
       "filename": "crwaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 80,
       "translated_entries": 0,
       "identical_entries": 80
@@ -796,6 +886,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 95,
       "translated_entries": 0,
       "identical_entries": 95
@@ -805,33 +896,37 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1398,
-      "translated_entries": 0,
-      "identical_entries": 1398
+      "translated_entries": 1,
+      "identical_entries": 1397
     },
     {
       "filename": "cst3aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 897,
-      "translated_entries": 0,
-      "identical_entries": 897
+      "translated_entries": 2,
+      "identical_entries": 895
     },
     {
       "filename": "cst4aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 778,
-      "translated_entries": 0,
-      "identical_entries": 778
+      "translated_entries": 1,
+      "identical_entries": 777
     },
     {
       "filename": "cst7aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1136,
       "translated_entries": 0,
       "identical_entries": 1136
@@ -841,6 +936,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -850,15 +946,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 3224,
-      "translated_entries": 2,
-      "identical_entries": 3222
+      "translated_entries": 3,
+      "identical_entries": 3221
     },
     {
       "filename": "cultres.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -868,6 +966,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1435,
       "translated_entries": 0,
       "identical_entries": 1435
@@ -877,15 +976,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1364,
-      "translated_entries": 0,
-      "identical_entries": 1364
+      "translated_entries": 1,
+      "identical_entries": 1363
     },
     {
       "filename": "d2baud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1062,
       "translated_entries": 0,
       "identical_entries": 1062
@@ -895,6 +996,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 12,
       "translated_entries": 0,
       "identical_entries": 12
@@ -904,24 +1006,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 87,
-      "translated_entries": 6,
-      "identical_entries": 81
+      "translated_entries": 14,
+      "identical_entries": 73
     },
     {
       "filename": "dctl.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 14,
-      "translated_entries": 0,
-      "identical_entries": 14
+      "translated_entries": 1,
+      "identical_entries": 13
     },
     {
       "filename": "ddeal.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -931,6 +1036,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 201,
       "translated_entries": 0,
       "identical_entries": 201
@@ -940,6 +1046,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 185,
       "translated_entries": 0,
       "identical_entries": 185
@@ -949,15 +1056,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 653,
-      "translated_entries": 17,
-      "identical_entries": 636
+      "translated_entries": 26,
+      "identical_entries": 627
     },
     {
       "filename": "dmatch.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 104,
       "translated_entries": 0,
       "identical_entries": 104
@@ -967,24 +1076,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 102,
-      "translated_entries": 6,
-      "identical_entries": 96
+      "translated_entries": 12,
+      "identical_entries": 90
     },
     {
       "filename": "dockh2b.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 84,
-      "translated_entries": 6,
-      "identical_entries": 78
+      "translated_entries": 20,
+      "identical_entries": 64
     },
     {
       "filename": "dockp1.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 27,
       "translated_entries": 0,
       "identical_entries": 27
@@ -994,6 +1106,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 9,
       "translated_entries": 0,
       "identical_entries": 9
@@ -1003,6 +1116,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 64,
       "translated_entries": 0,
       "identical_entries": 64
@@ -1012,6 +1126,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1,
       "translated_entries": 0,
       "identical_entries": 1
@@ -1021,6 +1136,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 293,
       "translated_entries": 0,
       "identical_entries": 293
@@ -1030,6 +1146,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2529,
       "translated_entries": 0,
       "identical_entries": 2529
@@ -1039,6 +1156,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 49,
       "translated_entries": 2,
       "identical_entries": 47
@@ -1048,6 +1166,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -1057,6 +1176,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 40,
       "translated_entries": 0,
       "identical_entries": 40
@@ -1066,6 +1186,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -1075,15 +1196,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 35,
-      "translated_entries": 4,
-      "identical_entries": 31
+      "translated_entries": 5,
+      "identical_entries": 30
     },
     {
       "filename": "email.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2,
       "translated_entries": 2,
       "identical_entries": 0
@@ -1093,6 +1216,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 20,
       "translated_entries": 0,
       "identical_entries": 20
@@ -1102,6 +1226,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 9,
       "translated_entries": 0,
       "identical_entries": 9
@@ -1111,6 +1236,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -1120,6 +1246,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 33,
       "translated_entries": 0,
       "identical_entries": 33
@@ -1129,6 +1256,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1,
       "translated_entries": 0,
       "identical_entries": 1
@@ -1138,6 +1266,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 79,
       "translated_entries": 0,
       "identical_entries": 79
@@ -1147,6 +1276,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 1,
       "identical_entries": 3
@@ -1156,6 +1286,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 143,
       "translated_entries": 0,
       "identical_entries": 143
@@ -1165,6 +1296,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 14,
       "translated_entries": 0,
       "identical_entries": 14
@@ -1174,6 +1306,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 472,
       "translated_entries": 0,
       "identical_entries": 472
@@ -1183,6 +1316,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 103,
       "translated_entries": 0,
       "identical_entries": 103
@@ -1192,15 +1326,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 19,
-      "translated_entries": 0,
-      "identical_entries": 19
+      "translated_entries": 1,
+      "identical_entries": 18
     },
     {
       "filename": "eps6aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 204,
       "translated_entries": 0,
       "identical_entries": 204
@@ -1210,6 +1346,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2,
       "translated_entries": 0,
       "identical_entries": 2
@@ -1219,15 +1356,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 20,
-      "translated_entries": 1,
-      "identical_entries": 19
+      "translated_entries": 2,
+      "identical_entries": 18
     },
     {
       "filename": "eps8au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 351,
       "translated_entries": 0,
       "identical_entries": 351
@@ -1237,15 +1376,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 156,
-      "translated_entries": 0,
-      "identical_entries": 156
+      "translated_entries": 1,
+      "identical_entries": 155
     },
     {
       "filename": "epswaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 142,
       "translated_entries": 0,
       "identical_entries": 142
@@ -1255,6 +1396,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -1264,6 +1406,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 170,
       "translated_entries": 0,
       "identical_entries": 170
@@ -1273,15 +1416,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 973,
-      "translated_entries": 0,
-      "identical_entries": 973
+      "translated_entries": 2,
+      "identical_entries": 971
     },
     {
       "filename": "exl3aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 838,
       "translated_entries": 0,
       "identical_entries": 838
@@ -1291,33 +1436,37 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 37,
-      "translated_entries": 1,
-      "identical_entries": 36
+      "translated_entries": 3,
+      "identical_entries": 34
     },
     {
       "filename": "ext1au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 714,
-      "translated_entries": 0,
-      "identical_entries": 714
+      "translated_entries": 3,
+      "identical_entries": 711
     },
     {
       "filename": "ext2.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 25,
-      "translated_entries": 0,
-      "identical_entries": 25
+      "translated_entries": 2,
+      "identical_entries": 23
     },
     {
       "filename": "ext2au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 279,
       "translated_entries": 0,
       "identical_entries": 279
@@ -1327,15 +1476,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 11,
-      "translated_entries": 0,
-      "identical_entries": 11
+      "translated_entries": 3,
+      "identical_entries": 8
     },
     {
       "filename": "ext3aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 181,
       "translated_entries": 0,
       "identical_entries": 181
@@ -1345,15 +1496,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
-      "translated_entries": 0,
-      "identical_entries": 4
+      "translated_entries": 1,
+      "identical_entries": 3
     },
     {
       "filename": "ext4aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 136,
       "translated_entries": 0,
       "identical_entries": 136
@@ -1363,6 +1516,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 259,
       "translated_entries": 0,
       "identical_entries": 259
@@ -1372,6 +1526,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 305,
       "translated_entries": 0,
       "identical_entries": 305
@@ -1381,6 +1536,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 417,
       "translated_entries": 0,
       "identical_entries": 417
@@ -1390,6 +1546,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 423,
       "translated_entries": 0,
       "identical_entries": 423
@@ -1399,69 +1556,77 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1588,
-      "translated_entries": 0,
-      "identical_entries": 1588
+      "translated_entries": 1,
+      "identical_entries": 1587
     },
     {
       "filename": "fam2aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1188,
-      "translated_entries": 0,
-      "identical_entries": 1188
+      "translated_entries": 2,
+      "identical_entries": 1186
     },
     {
       "filename": "fam3.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 20,
-      "translated_entries": 1,
-      "identical_entries": 19
+      "translated_entries": 2,
+      "identical_entries": 18
     },
     {
       "filename": "fam3aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1195,
-      "translated_entries": 0,
-      "identical_entries": 1195
+      "translated_entries": 1,
+      "identical_entries": 1194
     },
     {
       "filename": "fam4aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1216,
-      "translated_entries": 0,
-      "identical_entries": 1216
+      "translated_entries": 4,
+      "identical_entries": 1212
     },
     {
       "filename": "fam5.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 12,
-      "translated_entries": 1,
-      "identical_entries": 11
+      "translated_entries": 2,
+      "identical_entries": 10
     },
     {
       "filename": "fam5aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1324,
-      "translated_entries": 0,
-      "identical_entries": 1324
+      "translated_entries": 1,
+      "identical_entries": 1323
     },
     {
       "filename": "fam6.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 22,
       "translated_entries": 0,
       "identical_entries": 22
@@ -1471,15 +1636,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1558,
-      "translated_entries": 0,
-      "identical_entries": 1558
+      "translated_entries": 2,
+      "identical_entries": 1556
     },
     {
       "filename": "famaau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 219,
       "translated_entries": 0,
       "identical_entries": 219
@@ -1489,6 +1656,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 409,
       "translated_entries": 0,
       "identical_entries": 409
@@ -1498,33 +1666,37 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 30,
-      "translated_entries": 0,
-      "identical_entries": 30
+      "translated_entries": 1,
+      "identical_entries": 29
     },
     {
       "filename": "family2.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 74,
-      "translated_entries": 8,
-      "identical_entries": 66
+      "translated_entries": 13,
+      "identical_entries": 61
     },
     {
       "filename": "family4.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 36,
-      "translated_entries": 4,
-      "identical_entries": 32
+      "translated_entries": 11,
+      "identical_entries": 25
     },
     {
       "filename": "famjau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 220,
       "translated_entries": 0,
       "identical_entries": 220
@@ -1534,6 +1706,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 496,
       "translated_entries": 0,
       "identical_entries": 496
@@ -1543,6 +1716,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 335,
       "translated_entries": 0,
       "identical_entries": 335
@@ -1552,6 +1726,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 318,
       "translated_entries": 0,
       "identical_entries": 318
@@ -1561,6 +1736,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 406,
       "translated_entries": 0,
       "identical_entries": 406
@@ -1570,6 +1746,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 416,
       "translated_entries": 0,
       "identical_entries": 416
@@ -1579,33 +1756,37 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 11,
-      "translated_entries": 0,
-      "identical_entries": 11
+      "translated_entries": 5,
+      "identical_entries": 6
     },
     {
       "filename": "fatic2.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 13,
-      "translated_entries": 0,
-      "identical_entries": 13
+      "translated_entries": 5,
+      "identical_entries": 8
     },
     {
       "filename": "fatic3.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 17,
-      "translated_entries": 0,
-      "identical_entries": 17
+      "translated_entries": 6,
+      "identical_entries": 11
     },
     {
       "filename": "fatjau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 226,
       "translated_entries": 0,
       "identical_entries": 226
@@ -1615,6 +1796,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 284,
       "translated_entries": 0,
       "identical_entries": 284
@@ -1624,6 +1806,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 469,
       "translated_entries": 0,
       "identical_entries": 469
@@ -1633,6 +1816,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 187,
       "translated_entries": 0,
       "identical_entries": 187
@@ -1642,15 +1826,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2003,
-      "translated_entries": 0,
-      "identical_entries": 2003
+      "translated_entries": 7,
+      "identical_entries": 1996
     },
     {
       "filename": "fbch.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -1660,51 +1846,57 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 27,
-      "translated_entries": 2,
-      "identical_entries": 25
+      "translated_entries": 5,
+      "identical_entries": 22
     },
     {
       "filename": "fbi1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 849,
-      "translated_entries": 0,
-      "identical_entries": 849
+      "translated_entries": 4,
+      "identical_entries": 845
     },
     {
       "filename": "fbi2aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1273,
-      "translated_entries": 0,
-      "identical_entries": 1273
+      "translated_entries": 1,
+      "identical_entries": 1272
     },
     {
       "filename": "fbi3.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 40,
-      "translated_entries": 0,
-      "identical_entries": 40
+      "translated_entries": 4,
+      "identical_entries": 36
     },
     {
       "filename": "fbi5aau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2044,
-      "translated_entries": 0,
-      "identical_entries": 2044
+      "translated_entries": 3,
+      "identical_entries": 2041
     },
     {
       "filename": "fbiint.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2,
       "translated_entries": 1,
       "identical_entries": 1
@@ -1714,6 +1906,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 1,
       "identical_entries": 7
@@ -1723,6 +1916,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 198,
       "translated_entries": 0,
       "identical_entries": 198
@@ -1732,6 +1926,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 9,
       "translated_entries": 1,
       "identical_entries": 8
@@ -1741,33 +1936,37 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 12,
-      "translated_entries": 0,
-      "identical_entries": 12
+      "translated_entries": 2,
+      "identical_entries": 10
     },
     {
       "filename": "fbipre.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 13,
-      "translated_entries": 0,
-      "identical_entries": 13
+      "translated_entries": 1,
+      "identical_entries": 12
     },
     {
       "filename": "fbis4au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2134,
-      "translated_entries": 0,
-      "identical_entries": 2134
+      "translated_entries": 3,
+      "identical_entries": 2131
     },
     {
       "filename": "fbs1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 593,
       "translated_entries": 0,
       "identical_entries": 593
@@ -1777,6 +1976,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 840,
       "translated_entries": 0,
       "identical_entries": 840
@@ -1786,6 +1986,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1496,
       "translated_entries": 0,
       "identical_entries": 1496
@@ -1795,6 +1996,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1232,
       "translated_entries": 0,
       "identical_entries": 1232
@@ -1804,24 +2006,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 487,
-      "translated_entries": 0,
-      "identical_entries": 487
+      "translated_entries": 1,
+      "identical_entries": 486
     },
     {
       "filename": "fchase.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 37,
-      "translated_entries": 1,
-      "identical_entries": 36
+      "translated_entries": 6,
+      "identical_entries": 31
     },
     {
       "filename": "fcmaau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1049,
       "translated_entries": 0,
       "identical_entries": 1049
@@ -1831,6 +2036,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1214,
       "translated_entries": 0,
       "identical_entries": 1214
@@ -1840,6 +2046,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 773,
       "translated_entries": 0,
       "identical_entries": 773
@@ -1849,6 +2056,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 815,
       "translated_entries": 0,
       "identical_entries": 815
@@ -1858,6 +2066,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 898,
       "translated_entries": 0,
       "identical_entries": 898
@@ -1867,6 +2076,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 673,
       "translated_entries": 0,
       "identical_entries": 673
@@ -1876,6 +2086,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 756,
       "translated_entries": 0,
       "identical_entries": 756
@@ -1885,6 +2096,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1127,
       "translated_entries": 0,
       "identical_entries": 1127
@@ -1894,15 +2106,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2561,
-      "translated_entries": 0,
-      "identical_entries": 2561
+      "translated_entries": 2,
+      "identical_entries": 2559
     },
     {
       "filename": "fhfaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 487,
       "translated_entries": 0,
       "identical_entries": 487
@@ -1912,6 +2126,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 65,
       "translated_entries": 0,
       "identical_entries": 65
@@ -1921,6 +2136,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 105,
       "translated_entries": 0,
       "identical_entries": 105
@@ -1930,6 +2146,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 85,
       "translated_entries": 0,
       "identical_entries": 85
@@ -1939,15 +2156,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 334,
-      "translated_entries": 0,
-      "identical_entries": 334
+      "translated_entries": 1,
+      "identical_entries": 333
     },
     {
       "filename": "fin2aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 351,
       "translated_entries": 0,
       "identical_entries": 351
@@ -1957,24 +2176,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 78,
-      "translated_entries": 1,
-      "identical_entries": 77
+      "translated_entries": 15,
+      "identical_entries": 63
     },
     {
       "filename": "final3b.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 55,
-      "translated_entries": 2,
-      "identical_entries": 53
+      "translated_entries": 12,
+      "identical_entries": 43
     },
     {
       "filename": "finale1.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 9,
       "translated_entries": 1,
       "identical_entries": 8
@@ -1984,6 +2206,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 12,
       "translated_entries": 2,
       "identical_entries": 10
@@ -1993,24 +2216,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 91,
-      "translated_entries": 1,
-      "identical_entries": 90
+      "translated_entries": 8,
+      "identical_entries": 83
     },
     {
       "filename": "finc1au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2226,
-      "translated_entries": 0,
-      "identical_entries": 2226
+      "translated_entries": 1,
+      "identical_entries": 2225
     },
     {
       "filename": "fincuau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 113,
       "translated_entries": 0,
       "identical_entries": 113
@@ -2020,15 +2246,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 41,
-      "translated_entries": 3,
-      "identical_entries": 38
+      "translated_entries": 6,
+      "identical_entries": 35
     },
     {
       "filename": "finpra.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 11,
       "translated_entries": 0,
       "identical_entries": 11
@@ -2038,15 +2266,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 20,
-      "translated_entries": 0,
-      "identical_entries": 20
+      "translated_entries": 2,
+      "identical_entries": 18
     },
     {
       "filename": "finprc.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 11,
       "translated_entries": 0,
       "identical_entries": 11
@@ -2056,24 +2286,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1320,
-      "translated_entries": 0,
-      "identical_entries": 1320
+      "translated_entries": 2,
+      "identical_entries": 1318
     },
     {
       "filename": "fkn1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1514,
-      "translated_entries": 0,
-      "identical_entries": 1514
+      "translated_entries": 2,
+      "identical_entries": 1512
     },
     {
       "filename": "flwstrt.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -2083,6 +2316,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1777,
       "translated_entries": 0,
       "identical_entries": 1777
@@ -2092,15 +2326,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 191,
-      "translated_entries": 0,
-      "identical_entries": 191
+      "translated_entries": 1,
+      "identical_entries": 190
     },
     {
       "filename": "fmfaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 398,
       "translated_entries": 0,
       "identical_entries": 398
@@ -2110,6 +2346,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 213,
       "translated_entries": 0,
       "identical_entries": 213
@@ -2119,6 +2356,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 107,
       "translated_entries": 0,
       "identical_entries": 107
@@ -2128,15 +2366,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 16,
-      "translated_entries": 0,
-      "identical_entries": 16
+      "translated_entries": 1,
+      "identical_entries": 15
     },
     {
       "filename": "fmmaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2256,
       "translated_entries": 0,
       "identical_entries": 2256
@@ -2146,15 +2386,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 10721,
-      "translated_entries": 200,
-      "identical_entries": 10521
+      "translated_entries": 219,
+      "identical_entries": 10502
     },
     {
       "filename": "fmram.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -2164,6 +2406,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 676,
       "translated_entries": 0,
       "identical_entries": 676
@@ -2173,6 +2416,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2,
       "translated_entries": 0,
       "identical_entries": 2
@@ -2182,6 +2426,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 389,
       "translated_entries": 0,
       "identical_entries": 389
@@ -2191,6 +2436,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 129,
       "translated_entries": 0,
       "identical_entries": 129
@@ -2200,24 +2446,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 50,
-      "translated_entries": 9,
-      "identical_entries": 41
+      "translated_entries": 18,
+      "identical_entries": 32
     },
     {
       "filename": "fos1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 741,
-      "translated_entries": 0,
-      "identical_entries": 741
+      "translated_entries": 2,
+      "identical_entries": 739
     },
     {
       "filename": "fos2aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 488,
       "translated_entries": 0,
       "identical_entries": 488
@@ -2227,6 +2476,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 125,
       "translated_entries": 0,
       "identical_entries": 125
@@ -2236,6 +2486,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 187,
       "translated_entries": 0,
       "identical_entries": 187
@@ -2245,6 +2496,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 133,
       "translated_entries": 0,
       "identical_entries": 133
@@ -2254,6 +2506,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 136,
       "translated_entries": 0,
       "identical_entries": 136
@@ -2263,6 +2516,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 125,
       "translated_entries": 0,
       "identical_entries": 125
@@ -2272,6 +2526,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 131,
       "translated_entries": 0,
       "identical_entries": 131
@@ -2281,6 +2536,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 125,
       "translated_entries": 0,
       "identical_entries": 125
@@ -2290,6 +2546,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 130,
       "translated_entries": 0,
       "identical_entries": 130
@@ -2299,6 +2556,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 137,
       "translated_entries": 0,
       "identical_entries": 137
@@ -2308,6 +2566,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 125,
       "translated_entries": 0,
       "identical_entries": 125
@@ -2317,6 +2576,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 131,
       "translated_entries": 0,
       "identical_entries": 131
@@ -2326,6 +2586,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 130,
       "translated_entries": 0,
       "identical_entries": 130
@@ -2335,24 +2596,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 35,
-      "translated_entries": 1,
-      "identical_entries": 34
+      "translated_entries": 4,
+      "identical_entries": 31
     },
     {
       "filename": "fran2.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 43,
-      "translated_entries": 0,
-      "identical_entries": 43
+      "translated_entries": 3,
+      "identical_entries": 40
     },
     {
       "filename": "frflaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 20,
       "translated_entries": 0,
       "identical_entries": 20
@@ -2362,6 +2626,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 26,
       "translated_entries": 4,
       "identical_entries": 22
@@ -2371,24 +2636,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 35,
-      "translated_entries": 1,
-      "identical_entries": 34
+      "translated_entries": 3,
+      "identical_entries": 32
     },
     {
       "filename": "getawy.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 58,
-      "translated_entries": 0,
-      "identical_entries": 58
+      "translated_entries": 1,
+      "identical_entries": 57
     },
     {
       "filename": "ggsm.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 47,
       "translated_entries": 0,
       "identical_entries": 47
@@ -2398,24 +2666,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 74140,
-      "translated_entries": 797,
-      "identical_entries": 73343
+      "translated_entries": 977,
+      "identical_entries": 73163
     },
     {
       "filename": "gun_mnu.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 108,
-      "translated_entries": 35,
-      "identical_entries": 73
+      "translated_entries": 39,
+      "identical_entries": 69
     },
     {
       "filename": "guncar.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -2425,6 +2696,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 460,
       "translated_entries": 0,
       "identical_entries": 460
@@ -2434,33 +2706,37 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 27,
-      "translated_entries": 1,
-      "identical_entries": 26
+      "translated_entries": 3,
+      "identical_entries": 24
     },
     {
       "filename": "h1set1.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 22,
-      "translated_entries": 0,
-      "identical_entries": 22
+      "translated_entries": 3,
+      "identical_entries": 19
     },
     {
       "filename": "h1set3a.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 15,
-      "translated_entries": 0,
-      "identical_entries": 15
+      "translated_entries": 1,
+      "identical_entries": 14
     },
     {
       "filename": "h1set3b.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -2470,6 +2746,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -2479,69 +2756,77 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 93,
-      "translated_entries": 12,
-      "identical_entries": 81
+      "translated_entries": 19,
+      "identical_entries": 74
     },
     {
       "filename": "h2part3.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 88,
-      "translated_entries": 0,
-      "identical_entries": 88
+      "translated_entries": 9,
+      "identical_entries": 79
     },
     {
       "filename": "h3heist.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 60,
-      "translated_entries": 2,
-      "identical_entries": 58
+      "translated_entries": 12,
+      "identical_entries": 48
     },
     {
       "filename": "h3set1.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 36,
-      "translated_entries": 0,
-      "identical_entries": 36
+      "translated_entries": 3,
+      "identical_entries": 33
     },
     {
       "filename": "h4heist.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 54,
-      "translated_entries": 1,
-      "identical_entries": 53
+      "translated_entries": 10,
+      "identical_entries": 44
     },
     {
       "filename": "h5heist.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 60,
-      "translated_entries": 3,
-      "identical_entries": 57
+      "translated_entries": 4,
+      "identical_entries": 56
     },
     {
       "filename": "hack.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 166,
-      "translated_entries": 2,
-      "identical_entries": 164
+      "translated_entries": 3,
+      "identical_entries": 163
     },
     {
       "filename": "hairdau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 35,
       "translated_entries": 0,
       "identical_entries": 35
@@ -2551,51 +2836,57 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 20,
-      "translated_entries": 0,
-      "identical_entries": 20
+      "translated_entries": 1,
+      "identical_entries": 19
     },
     {
       "filename": "hao1au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 89,
-      "translated_entries": 0,
-      "identical_entries": 89
+      "translated_entries": 2,
+      "identical_entries": 87
     },
     {
       "filename": "har_mnu.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 127,
-      "translated_entries": 3,
-      "identical_entries": 124
+      "translated_entries": 7,
+      "identical_entries": 120
     },
     {
       "filename": "heataud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1285,
-      "translated_entries": 0,
-      "identical_entries": 1285
+      "translated_entries": 3,
+      "identical_entries": 1282
     },
     {
       "filename": "ht2aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 593,
-      "translated_entries": 0,
-      "identical_entries": 593
+      "translated_entries": 1,
+      "identical_entries": 592
     },
     {
       "filename": "ht3aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 25,
       "translated_entries": 0,
       "identical_entries": 25
@@ -2605,6 +2896,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 97,
       "translated_entries": 0,
       "identical_entries": 97
@@ -2614,6 +2906,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 14,
       "translated_entries": 0,
       "identical_entries": 14
@@ -2623,6 +2916,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 530,
       "translated_entries": 0,
       "identical_entries": 530
@@ -2632,6 +2926,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 35,
       "translated_entries": 0,
       "identical_entries": 35
@@ -2641,6 +2936,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 58,
       "translated_entries": 0,
       "identical_entries": 58
@@ -2650,6 +2946,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -2659,6 +2956,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 435,
       "translated_entries": 0,
       "identical_entries": 435
@@ -2668,6 +2966,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1,
       "translated_entries": 0,
       "identical_entries": 1
@@ -2677,15 +2976,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2813,
-      "translated_entries": 0,
-      "identical_entries": 2813
+      "translated_entries": 1,
+      "identical_entries": 2812
     },
     {
       "filename": "jhfaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 274,
       "translated_entries": 0,
       "identical_entries": 274
@@ -2695,6 +2996,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -2704,6 +3006,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 558,
       "translated_entries": 0,
       "identical_entries": 558
@@ -2713,15 +3016,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 13,
-      "translated_entries": 0,
-      "identical_entries": 13
+      "translated_entries": 1,
+      "identical_entries": 12
     },
     {
       "filename": "jhp2a.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 12,
       "translated_entries": 0,
       "identical_entries": 12
@@ -2731,6 +3036,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 26,
       "translated_entries": 0,
       "identical_entries": 26
@@ -2740,6 +3046,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 900,
       "translated_entries": 0,
       "identical_entries": 900
@@ -2749,6 +3056,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 125,
       "translated_entries": 0,
       "identical_entries": 125
@@ -2758,6 +3066,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 9,
       "translated_entries": 0,
       "identical_entries": 9
@@ -2767,24 +3076,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 360,
-      "translated_entries": 0,
-      "identical_entries": 360
+      "translated_entries": 1,
+      "identical_entries": 359
     },
     {
       "filename": "josh3.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 22,
-      "translated_entries": 1,
-      "identical_entries": 21
+      "translated_entries": 3,
+      "identical_entries": 19
     },
     {
       "filename": "josh3au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 200,
       "translated_entries": 0,
       "identical_entries": 200
@@ -2794,15 +3106,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1,
-      "translated_entries": 0,
-      "identical_entries": 1
+      "translated_entries": 1,
+      "identical_entries": 0
     },
     {
       "filename": "josh4au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 156,
       "translated_entries": 0,
       "identical_entries": 156
@@ -2812,6 +3126,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1,
       "translated_entries": 0,
       "identical_entries": 1
@@ -2821,6 +3136,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 9,
       "translated_entries": 0,
       "identical_entries": 9
@@ -2830,6 +3146,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -2839,6 +3156,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 705,
       "translated_entries": 0,
       "identical_entries": 705
@@ -2848,24 +3166,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 43,
-      "translated_entries": 0,
-      "identical_entries": 43
+      "translated_entries": 2,
+      "identical_entries": 41
     },
     {
       "filename": "lem1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1422,
-      "translated_entries": 0,
-      "identical_entries": 1422
+      "translated_entries": 2,
+      "identical_entries": 1420
     },
     {
       "filename": "lem2aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2022,
       "translated_entries": 0,
       "identical_entries": 2022
@@ -2875,15 +3196,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 46,
-      "translated_entries": 1,
-      "identical_entries": 45
+      "translated_entries": 3,
+      "identical_entries": 43
     },
     {
       "filename": "lfi_f.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 637,
       "translated_entries": 0,
       "identical_entries": 637
@@ -2893,6 +3216,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 461,
       "translated_entries": 0,
       "identical_entries": 461
@@ -2902,6 +3226,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 51,
       "translated_entries": 0,
       "identical_entries": 51
@@ -2911,6 +3236,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1535,
       "translated_entries": 0,
       "identical_entries": 1535
@@ -2920,6 +3246,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -2929,6 +3256,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 290,
       "translated_entries": 0,
       "identical_entries": 290
@@ -2938,6 +3266,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -2947,15 +3276,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1024,
-      "translated_entries": 0,
-      "identical_entries": 1024
+      "translated_entries": 1,
+      "identical_entries": 1023
     },
     {
       "filename": "lsflaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 72,
       "translated_entries": 0,
       "identical_entries": 72
@@ -2965,6 +3296,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 82,
       "translated_entries": 0,
       "identical_entries": 82
@@ -2974,6 +3306,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 908,
       "translated_entries": 0,
       "identical_entries": 908
@@ -2983,6 +3316,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 3,
       "translated_entries": 1,
       "identical_entries": 2
@@ -2992,6 +3326,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 55,
       "translated_entries": 0,
       "identical_entries": 55
@@ -3001,42 +3336,47 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 3331,
-      "translated_entries": 8,
-      "identical_entries": 3323
+      "translated_entries": 9,
+      "identical_entries": 3322
     },
     {
       "filename": "mch1.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 38,
-      "translated_entries": 2,
-      "identical_entries": 36
+      "translated_entries": 3,
+      "identical_entries": 35
     },
     {
       "filename": "mch1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 937,
-      "translated_entries": 0,
-      "identical_entries": 937
+      "translated_entries": 1,
+      "identical_entries": 936
     },
     {
       "filename": "mch2.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 31,
-      "translated_entries": 2,
-      "identical_entries": 29
+      "translated_entries": 5,
+      "identical_entries": 26
     },
     {
       "filename": "mch2aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1137,
       "translated_entries": 0,
       "identical_entries": 1137
@@ -3046,15 +3386,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 14,
-      "translated_entries": 0,
-      "identical_entries": 14
+      "translated_entries": 1,
+      "identical_entries": 13
     },
     {
       "filename": "mea1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 313,
       "translated_entries": 1,
       "identical_entries": 312
@@ -3064,6 +3406,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 102,
       "translated_entries": 0,
       "identical_entries": 102
@@ -3073,15 +3416,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 15,
-      "translated_entries": 0,
-      "identical_entries": 15
+      "translated_entries": 3,
+      "identical_entries": 12
     },
     {
       "filename": "mej1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 349,
       "translated_entries": 0,
       "identical_entries": 349
@@ -3091,6 +3436,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 545,
       "translated_entries": 0,
       "identical_entries": 545
@@ -3100,15 +3446,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 22,
-      "translated_entries": 3,
-      "identical_entries": 19
+      "translated_entries": 5,
+      "identical_entries": 17
     },
     {
       "filename": "met1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 632,
       "translated_entries": 0,
       "identical_entries": 632
@@ -3118,24 +3466,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 20,
-      "translated_entries": 0,
-      "identical_entries": 20
+      "translated_entries": 1,
+      "identical_entries": 19
     },
     {
       "filename": "methaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 582,
-      "translated_entries": 0,
-      "identical_entries": 582
+      "translated_entries": 1,
+      "identical_entries": 581
     },
     {
       "filename": "mgheli.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -3145,6 +3496,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 561,
       "translated_entries": 0,
       "identical_entries": 561
@@ -3154,15 +3506,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 565,
-      "translated_entries": 0,
-      "identical_entries": 565
+      "translated_entries": 1,
+      "identical_entries": 564
     },
     {
       "filename": "mgtraud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 338,
       "translated_entries": 0,
       "identical_entries": 338
@@ -3172,15 +3526,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 21,
-      "translated_entries": 6,
-      "identical_entries": 15
+      "translated_entries": 10,
+      "identical_entries": 11
     },
     {
       "filename": "miflaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 144,
       "translated_entries": 0,
       "identical_entries": 144
@@ -3190,42 +3546,47 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 21,
-      "translated_entries": 0,
-      "identical_entries": 21
+      "translated_entries": 1,
+      "identical_entries": 20
     },
     {
       "filename": "min1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 680,
-      "translated_entries": 0,
-      "identical_entries": 680
+      "translated_entries": 2,
+      "identical_entries": 678
     },
     {
       "filename": "min2.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 24,
-      "translated_entries": 1,
-      "identical_entries": 23
+      "translated_entries": 2,
+      "identical_entries": 22
     },
     {
       "filename": "min2au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 616,
-      "translated_entries": 0,
-      "identical_entries": 616
+      "translated_entries": 2,
+      "identical_entries": 614
     },
     {
       "filename": "min3.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 7,
       "translated_entries": 0,
       "identical_entries": 7
@@ -3235,42 +3596,47 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 269,
-      "translated_entries": 0,
-      "identical_entries": 269
+      "translated_entries": 1,
+      "identical_entries": 268
     },
     {
       "filename": "mishsta.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 506,
-      "translated_entries": 8,
-      "identical_entries": 498
+      "translated_entries": 9,
+      "identical_entries": 497
     },
     {
       "filename": "mod_mnu.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 786,
-      "translated_entries": 19,
-      "identical_entries": 767
+      "translated_entries": 50,
+      "identical_entries": 736
     },
     {
       "filename": "mooreau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 781,
-      "translated_entries": 0,
-      "identical_entries": 781
+      "translated_entries": 1,
+      "identical_entries": 780
     },
     {
       "filename": "mp_rng.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 58,
       "translated_entries": 1,
       "identical_entries": 57
@@ -3280,6 +3646,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 476,
       "translated_entries": 0,
       "identical_entries": 476
@@ -3289,6 +3656,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 284,
       "translated_entries": 0,
       "identical_entries": 284
@@ -3298,15 +3666,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 321,
-      "translated_entries": 0,
-      "identical_entries": 321
+      "translated_entries": 3,
+      "identical_entries": 318
     },
     {
       "filename": "mpsvaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 16,
       "translated_entries": 0,
       "identical_entries": 16
@@ -3316,6 +3686,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 258,
       "translated_entries": 0,
       "identical_entries": 258
@@ -3325,6 +3696,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -3334,6 +3706,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3343,6 +3716,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -3352,6 +3726,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 5,
       "translated_entries": 0,
       "identical_entries": 5
@@ -3361,6 +3736,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -3370,6 +3746,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -3379,6 +3756,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -3388,6 +3766,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 580,
       "translated_entries": 0,
       "identical_entries": 580
@@ -3397,6 +3776,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 419,
       "translated_entries": 0,
       "identical_entries": 419
@@ -3406,6 +3786,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 160,
       "translated_entries": 0,
       "identical_entries": 160
@@ -3415,51 +3796,57 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 262,
-      "translated_entries": 0,
-      "identical_entries": 262
+      "translated_entries": 3,
+      "identical_entries": 259
     },
     {
       "filename": "nig2aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 461,
-      "translated_entries": 0,
-      "identical_entries": 461
+      "translated_entries": 2,
+      "identical_entries": 459
     },
     {
       "filename": "nige3au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 347,
-      "translated_entries": 0,
-      "identical_entries": 347
+      "translated_entries": 3,
+      "identical_entries": 344
     },
     {
       "filename": "nigel1a.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 7,
-      "translated_entries": 1,
-      "identical_entries": 6
+      "translated_entries": 2,
+      "identical_entries": 5
     },
     {
       "filename": "nigel1b.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
-      "translated_entries": 1,
-      "identical_entries": 3
+      "translated_entries": 2,
+      "identical_entries": 2
     },
     {
       "filename": "nigel1c.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 11,
       "translated_entries": 2,
       "identical_entries": 9
@@ -3469,15 +3856,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 12,
-      "translated_entries": 0,
-      "identical_entries": 12
+      "translated_entries": 1,
+      "identical_entries": 11
     },
     {
       "filename": "nigel2.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 16,
       "translated_entries": 2,
       "identical_entries": 14
@@ -3487,42 +3876,47 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 24,
-      "translated_entries": 4,
-      "identical_entries": 20
+      "translated_entries": 6,
+      "identical_entries": 18
     },
     {
       "filename": "nws_agh.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 12,
-      "translated_entries": 0,
-      "identical_entries": 12
+      "translated_entries": 5,
+      "identical_entries": 7
     },
     {
       "filename": "nws_ar2.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 10,
-      "translated_entries": 0,
-      "identical_entries": 10
+      "translated_entries": 5,
+      "identical_entries": 5
     },
     {
       "filename": "nws_ar3.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
-      "translated_entries": 0,
-      "identical_entries": 8
+      "translated_entries": 2,
+      "identical_entries": 6
     },
     {
       "filename": "nws_ass1.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3532,6 +3926,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3541,6 +3936,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2,
       "translated_entries": 0,
       "identical_entries": 2
@@ -3550,6 +3946,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3559,6 +3956,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3568,6 +3966,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 12,
       "translated_entries": 0,
       "identical_entries": 12
@@ -3577,6 +3976,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 16,
       "translated_entries": 0,
       "identical_entries": 16
@@ -3586,6 +3986,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
       "translated_entries": 0,
       "identical_entries": 6
@@ -3595,6 +3996,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -3604,6 +4006,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -3613,6 +4016,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2,
       "translated_entries": 0,
       "identical_entries": 2
@@ -3622,6 +4026,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -3631,6 +4036,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3640,6 +4046,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3649,6 +4056,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
       "translated_entries": 0,
       "identical_entries": 6
@@ -3658,6 +4066,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
       "translated_entries": 0,
       "identical_entries": 6
@@ -3667,6 +4076,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3676,6 +4086,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 10,
       "translated_entries": 0,
       "identical_entries": 10
@@ -3685,6 +4096,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -3694,6 +4106,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -3703,6 +4116,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3712,6 +4126,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -3721,6 +4136,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -3730,6 +4146,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -3739,6 +4156,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
       "translated_entries": 0,
       "identical_entries": 6
@@ -3748,6 +4166,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 10,
       "translated_entries": 0,
       "identical_entries": 10
@@ -3757,6 +4176,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
       "translated_entries": 0,
       "identical_entries": 6
@@ -3766,6 +4186,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 12,
       "translated_entries": 0,
       "identical_entries": 12
@@ -3775,6 +4196,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -3784,6 +4206,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -3793,6 +4216,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
       "translated_entries": 0,
       "identical_entries": 6
@@ -3802,6 +4226,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3811,6 +4236,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
       "translated_entries": 0,
       "identical_entries": 6
@@ -3820,6 +4246,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
       "translated_entries": 0,
       "identical_entries": 6
@@ -3829,6 +4256,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3838,6 +4266,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3847,6 +4276,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3856,6 +4286,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3865,6 +4296,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3874,6 +4306,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -3883,6 +4316,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2,
       "translated_entries": 0,
       "identical_entries": 2
@@ -3892,6 +4326,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3901,6 +4336,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3910,6 +4346,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3919,6 +4356,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 12,
       "translated_entries": 0,
       "identical_entries": 12
@@ -3928,6 +4366,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
       "translated_entries": 0,
       "identical_entries": 6
@@ -3937,6 +4376,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3946,6 +4386,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3955,6 +4396,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 0,
       "identical_entries": 4
@@ -3964,6 +4406,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
       "translated_entries": 0,
       "identical_entries": 6
@@ -3973,6 +4416,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -3982,6 +4426,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
       "translated_entries": 0,
       "identical_entries": 6
@@ -3991,15 +4436,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1553,
-      "translated_entries": 0,
-      "identical_entries": 1553
+      "translated_entries": 2,
+      "identical_entries": 1551
     },
     {
       "filename": "ojbjaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 233,
       "translated_entries": 0,
       "identical_entries": 233
@@ -4009,6 +4456,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 255,
       "translated_entries": 0,
       "identical_entries": 255
@@ -4018,6 +4466,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
       "translated_entries": 1,
       "identical_entries": 3
@@ -4027,6 +4476,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 3,
       "translated_entries": 0,
       "identical_entries": 3
@@ -4036,6 +4486,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 41,
       "translated_entries": 0,
       "identical_entries": 41
@@ -4045,6 +4496,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 35,
       "translated_entries": 0,
       "identical_entries": 35
@@ -4054,6 +4506,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 81,
       "translated_entries": 0,
       "identical_entries": 81
@@ -4063,51 +4516,57 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 18,
-      "translated_entries": 1,
-      "identical_entries": 17
+      "translated_entries": 5,
+      "identical_entries": 13
     },
     {
       "filename": "pap1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 632,
-      "translated_entries": 0,
-      "identical_entries": 632
+      "translated_entries": 5,
+      "identical_entries": 627
     },
     {
       "filename": "pap2.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 41,
-      "translated_entries": 0,
-      "identical_entries": 41
+      "translated_entries": 3,
+      "identical_entries": 38
     },
     {
       "filename": "pap2aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 467,
-      "translated_entries": 0,
-      "identical_entries": 467
+      "translated_entries": 1,
+      "identical_entries": 466
     },
     {
       "filename": "pap3.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 24,
-      "translated_entries": 0,
-      "identical_entries": 24
+      "translated_entries": 3,
+      "identical_entries": 21
     },
     {
       "filename": "pap3aau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 90,
       "translated_entries": 0,
       "identical_entries": 90
@@ -4117,6 +4576,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 101,
       "translated_entries": 0,
       "identical_entries": 101
@@ -4126,6 +4586,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 170,
       "translated_entries": 0,
       "identical_entries": 170
@@ -4135,15 +4596,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 3,
-      "translated_entries": 0,
-      "identical_entries": 3
+      "translated_entries": 1,
+      "identical_entries": 2
     },
     {
       "filename": "pap4aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 300,
       "translated_entries": 0,
       "identical_entries": 300
@@ -4153,6 +4616,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 289,
       "translated_entries": 0,
       "identical_entries": 289
@@ -4162,6 +4626,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 177,
       "translated_entries": 0,
       "identical_entries": 177
@@ -4171,6 +4636,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 227,
       "translated_entries": 0,
       "identical_entries": 227
@@ -4180,6 +4646,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 185,
       "translated_entries": 0,
       "identical_entries": 185
@@ -4189,6 +4656,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 214,
       "translated_entries": 0,
       "identical_entries": 214
@@ -4198,6 +4666,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 150,
       "translated_entries": 0,
       "identical_entries": 150
@@ -4207,6 +4676,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 134,
       "translated_entries": 0,
       "identical_entries": 134
@@ -4216,6 +4686,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 287,
       "translated_entries": 0,
       "identical_entries": 287
@@ -4225,6 +4696,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 12,
       "translated_entries": 0,
       "identical_entries": 12
@@ -4234,6 +4706,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 160,
       "translated_entries": 0,
       "identical_entries": 160
@@ -4243,6 +4716,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 337,
       "translated_entries": 0,
       "identical_entries": 337
@@ -4252,6 +4726,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 296,
       "translated_entries": 0,
       "identical_entries": 296
@@ -4261,6 +4736,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 172,
       "translated_entries": 0,
       "identical_entries": 172
@@ -4270,6 +4746,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 232,
       "translated_entries": 0,
       "identical_entries": 232
@@ -4279,6 +4756,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 45,
       "translated_entries": 1,
       "identical_entries": 44
@@ -4288,6 +4766,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
       "translated_entries": 0,
       "identical_entries": 6
@@ -4297,6 +4776,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 3,
       "translated_entries": 0,
       "identical_entries": 3
@@ -4306,6 +4786,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 10,
       "translated_entries": 0,
       "identical_entries": 10
@@ -4315,6 +4796,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 24,
       "translated_entries": 0,
       "identical_entries": 24
@@ -4324,6 +4806,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 172,
       "translated_entries": 0,
       "identical_entries": 172
@@ -4333,6 +4816,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 119,
       "translated_entries": 0,
       "identical_entries": 119
@@ -4342,6 +4826,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 7,
       "translated_entries": 0,
       "identical_entries": 7
@@ -4351,6 +4836,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -4360,6 +4846,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 8,
       "translated_entries": 0,
       "identical_entries": 8
@@ -4369,6 +4856,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 263,
       "translated_entries": 0,
       "identical_entries": 263
@@ -4378,6 +4866,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 57,
       "translated_entries": 0,
       "identical_entries": 57
@@ -4387,24 +4876,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 656,
-      "translated_entries": 0,
-      "identical_entries": 656
+      "translated_entries": 2,
+      "identical_entries": 654
     },
     {
       "filename": "proaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1017,
-      "translated_entries": 4,
-      "identical_entries": 1013
+      "translated_entries": 11,
+      "identical_entries": 1006
     },
     {
       "filename": "prolog.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 104,
       "translated_entries": 77,
       "identical_entries": 27
@@ -4414,6 +4906,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 72,
       "translated_entries": 0,
       "identical_entries": 72
@@ -4423,6 +4916,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 35,
       "translated_entries": 0,
       "identical_entries": 35
@@ -4432,6 +4926,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1850,
       "translated_entries": 0,
       "identical_entries": 1850
@@ -4441,6 +4936,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 57,
       "translated_entries": 0,
       "identical_entries": 57
@@ -4450,33 +4946,37 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 155,
-      "translated_entries": 12,
-      "identical_entries": 143
+      "translated_entries": 14,
+      "identical_entries": 141
     },
     {
       "filename": "pubc.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4552,
-      "translated_entries": 102,
-      "identical_entries": 4450
+      "translated_entries": 107,
+      "identical_entries": 4445
     },
     {
       "filename": "races.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 122,
-      "translated_entries": 0,
-      "identical_entries": 122
+      "translated_entries": 2,
+      "identical_entries": 120
     },
     {
       "filename": "rageaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 656,
       "translated_entries": 0,
       "identical_entries": 656
@@ -4486,6 +4986,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 81,
       "translated_entries": 0,
       "identical_entries": 81
@@ -4495,15 +4996,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 143,
-      "translated_entries": 0,
-      "identical_entries": 143
+      "translated_entries": 1,
+      "identical_entries": 142
     },
     {
       "filename": "ramp3au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 43,
       "translated_entries": 0,
       "identical_entries": 43
@@ -4513,6 +5016,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 43,
       "translated_entries": 0,
       "identical_entries": 43
@@ -4522,6 +5026,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 58,
       "translated_entries": 0,
       "identical_entries": 58
@@ -4531,15 +5036,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 741,
-      "translated_entries": 0,
-      "identical_entries": 741
+      "translated_entries": 1,
+      "identical_entries": 740
     },
     {
       "filename": "raspaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 32,
       "translated_entries": 0,
       "identical_entries": 32
@@ -4549,6 +5056,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 180,
       "translated_entries": 0,
       "identical_entries": 180
@@ -4558,24 +5066,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 3026,
-      "translated_entries": 0,
-      "identical_entries": 3026
+      "translated_entries": 5,
+      "identical_entries": 3021
     },
     {
       "filename": "rbs1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1217,
-      "translated_entries": 0,
-      "identical_entries": 1217
+      "translated_entries": 1,
+      "identical_entries": 1216
     },
     {
       "filename": "re_acau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 73,
       "translated_entries": 0,
       "identical_entries": 73
@@ -4585,6 +5096,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 89,
       "translated_entries": 0,
       "identical_entries": 89
@@ -4594,6 +5106,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 109,
       "translated_entries": 0,
       "identical_entries": 109
@@ -4603,6 +5116,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 108,
       "translated_entries": 0,
       "identical_entries": 108
@@ -4612,6 +5126,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 108,
       "translated_entries": 0,
       "identical_entries": 108
@@ -4621,6 +5136,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 110,
       "translated_entries": 0,
       "identical_entries": 110
@@ -4630,6 +5146,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 238,
       "translated_entries": 0,
       "identical_entries": 238
@@ -4639,6 +5156,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 118,
       "translated_entries": 0,
       "identical_entries": 118
@@ -4648,6 +5166,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 204,
       "translated_entries": 0,
       "identical_entries": 204
@@ -4657,6 +5176,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 557,
       "translated_entries": 0,
       "identical_entries": 557
@@ -4666,6 +5186,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 172,
       "translated_entries": 0,
       "identical_entries": 172
@@ -4675,6 +5196,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 202,
       "translated_entries": 0,
       "identical_entries": 202
@@ -4684,15 +5206,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 469,
-      "translated_entries": 0,
-      "identical_entries": 469
+      "translated_entries": 2,
+      "identical_entries": 467
     },
     {
       "filename": "recsbau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 176,
       "translated_entries": 0,
       "identical_entries": 176
@@ -4702,6 +5226,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 31,
       "translated_entries": 0,
       "identical_entries": 31
@@ -4711,15 +5236,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 48,
-      "translated_entries": 0,
-      "identical_entries": 48
+      "translated_entries": 1,
+      "identical_entries": 47
     },
     {
       "filename": "rect2au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 56,
       "translated_entries": 0,
       "identical_entries": 56
@@ -4729,6 +5256,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 45,
       "translated_entries": 0,
       "identical_entries": 45
@@ -4738,6 +5266,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 459,
       "translated_entries": 0,
       "identical_entries": 459
@@ -4747,15 +5276,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 418,
-      "translated_entries": 0,
-      "identical_entries": 418
+      "translated_entries": 1,
+      "identical_entries": 417
     },
     {
       "filename": "redr2au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 308,
       "translated_entries": 0,
       "identical_entries": 308
@@ -4765,6 +5296,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 337,
       "translated_entries": 0,
       "identical_entries": 337
@@ -4774,6 +5306,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 109,
       "translated_entries": 0,
       "identical_entries": 109
@@ -4783,15 +5316,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 442,
-      "translated_entries": 0,
-      "identical_entries": 442
+      "translated_entries": 1,
+      "identical_entries": 441
     },
     {
       "filename": "rehh2au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 378,
       "translated_entries": 0,
       "identical_entries": 378
@@ -4801,6 +5336,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 479,
       "translated_entries": 0,
       "identical_entries": 479
@@ -4810,6 +5346,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 380,
       "translated_entries": 0,
       "identical_entries": 380
@@ -4819,6 +5356,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 324,
       "translated_entries": 0,
       "identical_entries": 324
@@ -4828,6 +5366,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 75,
       "translated_entries": 0,
       "identical_entries": 75
@@ -4837,6 +5376,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 106,
       "translated_entries": 0,
       "identical_entries": 106
@@ -4846,6 +5386,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 75,
       "translated_entries": 0,
       "identical_entries": 75
@@ -4855,6 +5396,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 75,
       "translated_entries": 0,
       "identical_entries": 75
@@ -4864,6 +5406,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 822,
       "translated_entries": 0,
       "identical_entries": 822
@@ -4873,6 +5416,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 371,
       "translated_entries": 1,
       "identical_entries": 370
@@ -4882,6 +5426,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 93,
       "translated_entries": 0,
       "identical_entries": 93
@@ -4891,15 +5436,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 141,
-      "translated_entries": 0,
-      "identical_entries": 141
+      "translated_entries": 1,
+      "identical_entries": 140
     },
     {
       "filename": "resnaau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 504,
       "translated_entries": 0,
       "identical_entries": 504
@@ -4909,15 +5456,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 36,
-      "translated_entries": 0,
-      "identical_entries": 36
+      "translated_entries": 1,
+      "identical_entries": 35
     },
     {
       "filename": "rhfaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 128,
       "translated_entries": 0,
       "identical_entries": 128
@@ -4927,6 +5476,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 9,
       "translated_entries": 0,
       "identical_entries": 9
@@ -4936,6 +5486,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 11,
       "translated_entries": 0,
       "identical_entries": 11
@@ -4945,6 +5496,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 126,
       "translated_entries": 8,
       "identical_entries": 118
@@ -4954,15 +5506,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 55,
-      "translated_entries": 0,
-      "identical_entries": 55
+      "translated_entries": 1,
+      "identical_entries": 54
     },
     {
       "filename": "sas1.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 9,
       "translated_entries": 0,
       "identical_entries": 9
@@ -4972,6 +5526,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 307,
       "translated_entries": 0,
       "identical_entries": 307
@@ -4981,6 +5536,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1195,
       "translated_entries": 0,
       "identical_entries": 1195
@@ -4990,6 +5546,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 47,
       "translated_entries": 0,
       "identical_entries": 47
@@ -4999,6 +5556,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 370,
       "translated_entries": 0,
       "identical_entries": 370
@@ -5008,6 +5566,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 101,
       "translated_entries": 0,
       "identical_entries": 101
@@ -5017,6 +5576,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 5,
       "translated_entries": 0,
       "identical_entries": 5
@@ -5026,6 +5586,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 83,
       "translated_entries": 5,
       "identical_entries": 78
@@ -5035,6 +5596,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 23,
       "translated_entries": 0,
       "identical_entries": 23
@@ -5044,15 +5606,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 600,
-      "translated_entries": 0,
-      "identical_entries": 600
+      "translated_entries": 1,
+      "identical_entries": 599
     },
     {
       "filename": "snk_mnu.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 30,
       "translated_entries": 16,
       "identical_entries": 14
@@ -5062,6 +5626,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 22,
       "translated_entries": 1,
       "identical_entries": 21
@@ -5071,15 +5636,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1375,
-      "translated_entries": 0,
-      "identical_entries": 1375
+      "translated_entries": 1,
+      "identical_entries": 1374
     },
     {
       "filename": "sol2.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 6,
       "translated_entries": 1,
       "identical_entries": 5
@@ -5089,33 +5656,37 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 222,
-      "translated_entries": 0,
-      "identical_entries": 222
+      "translated_entries": 2,
+      "identical_entries": 220
     },
     {
       "filename": "sol5.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 32,
-      "translated_entries": 0,
-      "identical_entries": 32
+      "translated_entries": 2,
+      "identical_entries": 30
     },
     {
       "filename": "sol5aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 889,
-      "translated_entries": 0,
-      "identical_entries": 889
+      "translated_entries": 2,
+      "identical_entries": 887
     },
     {
       "filename": "sonarau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 243,
       "translated_entries": 0,
       "identical_entries": 243
@@ -5125,24 +5696,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 234,
-      "translated_entries": 13,
-      "identical_entries": 221
+      "translated_entries": 25,
+      "identical_entries": 209
     },
     {
       "filename": "sp_spr.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 198,
-      "translated_entries": 22,
-      "identical_entries": 176
+      "translated_entries": 42,
+      "identical_entries": 156
     },
     {
       "filename": "sp_yoga.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -5152,6 +5726,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -5161,24 +5736,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 663,
-      "translated_entries": 0,
-      "identical_entries": 663
+      "translated_entries": 1,
+      "identical_entries": 662
     },
     {
       "filename": "str1aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 28,
-      "translated_entries": 0,
-      "identical_entries": 28
+      "translated_entries": 1,
+      "identical_entries": 27
     },
     {
       "filename": "switch.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 3,
       "translated_entries": 0,
       "identical_entries": 3
@@ -5188,6 +5766,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -5197,6 +5776,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1432,
       "translated_entries": 0,
       "identical_entries": 1432
@@ -5206,33 +5786,37 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 434,
-      "translated_entries": 0,
-      "identical_entries": 434
+      "translated_entries": 1,
+      "identical_entries": 433
     },
     {
       "filename": "t2aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1626,
-      "translated_entries": 0,
-      "identical_entries": 1626
+      "translated_entries": 2,
+      "identical_entries": 1624
     },
     {
       "filename": "tat_mnu.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 224,
-      "translated_entries": 2,
-      "identical_entries": 222
+      "translated_entries": 4,
+      "identical_entries": 220
     },
     {
       "filename": "tattoau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 42,
       "translated_entries": 0,
       "identical_entries": 42
@@ -5242,15 +5826,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 64,
-      "translated_entries": 0,
-      "identical_entries": 64
+      "translated_entries": 2,
+      "identical_entries": 62
     },
     {
       "filename": "taxisau.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 84,
       "translated_entries": 0,
       "identical_entries": 84
@@ -5260,24 +5846,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 50,
-      "translated_entries": 0,
-      "identical_entries": 50
+      "translated_entries": 3,
+      "identical_entries": 47
     },
     {
       "filename": "tennis.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 134,
-      "translated_entries": 6,
-      "identical_entries": 128
+      "translated_entries": 16,
+      "identical_entries": 118
     },
     {
       "filename": "tm44aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1152,
       "translated_entries": 0,
       "identical_entries": 1152
@@ -5287,6 +5876,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 167,
       "translated_entries": 0,
       "identical_entries": 167
@@ -5296,6 +5886,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 0,
       "translated_entries": 0,
       "identical_entries": 0
@@ -5305,24 +5896,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 79,
-      "translated_entries": 3,
-      "identical_entries": 76
+      "translated_entries": 6,
+      "identical_entries": 73
     },
     {
       "filename": "towaud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2543,
-      "translated_entries": 0,
-      "identical_entries": 2543
+      "translated_entries": 1,
+      "identical_entries": 2542
     },
     {
       "filename": "trackid.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 2711,
       "translated_entries": 2,
       "identical_entries": 2709
@@ -5332,51 +5926,57 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 56,
-      "translated_entries": 1,
-      "identical_entries": 55
+      "translated_entries": 3,
+      "identical_entries": 53
     },
     {
       "filename": "trev3.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 25,
-      "translated_entries": 0,
-      "identical_entries": 25
+      "translated_entries": 3,
+      "identical_entries": 22
     },
     {
       "filename": "trev4.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 26,
-      "translated_entries": 0,
-      "identical_entries": 26
+      "translated_entries": 2,
+      "identical_entries": 24
     },
     {
       "filename": "trv3aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 1330,
-      "translated_entries": 0,
-      "identical_entries": 1330
+      "translated_entries": 1,
+      "identical_entries": 1329
     },
     {
       "filename": "trv5.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 4,
-      "translated_entries": 0,
-      "identical_entries": 4
+      "translated_entries": 2,
+      "identical_entries": 2
     },
     {
       "filename": "trv5aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 317,
       "translated_entries": 0,
       "identical_entries": 317
@@ -5386,6 +5986,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 22,
       "translated_entries": 1,
       "identical_entries": 21
@@ -5395,15 +5996,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 380,
-      "translated_entries": 0,
-      "identical_entries": 380
+      "translated_entries": 1,
+      "identical_entries": 379
     },
     {
       "filename": "txm12au.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 320,
       "translated_entries": 0,
       "identical_entries": 320
@@ -5413,15 +6016,17 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 517,
-      "translated_entries": 0,
-      "identical_entries": 517
+      "translated_entries": 1,
+      "identical_entries": 516
     },
     {
       "filename": "txm2aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 517,
       "translated_entries": 0,
       "identical_entries": 517
@@ -5431,6 +6036,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 352,
       "translated_entries": 0,
       "identical_entries": 352
@@ -5440,6 +6046,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 431,
       "translated_entries": 0,
       "identical_entries": 431
@@ -5449,24 +6056,27 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 411,
-      "translated_entries": 0,
-      "identical_entries": 411
+      "translated_entries": 1,
+      "identical_entries": 410
     },
     {
       "filename": "txm8aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 453,
-      "translated_entries": 0,
-      "identical_entries": 453
+      "translated_entries": 1,
+      "identical_entries": 452
     },
     {
       "filename": "txm9aud.oxt",
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 415,
       "translated_entries": 0,
       "identical_entries": 415
@@ -5476,6 +6086,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 341,
       "translated_entries": 0,
       "identical_entries": 341
@@ -5485,6 +6096,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 317,
       "translated_entries": 0,
       "identical_entries": 317
@@ -5494,6 +6106,7 @@
       "status": "PASS",
       "errors": [],
       "warnings": [],
+      "qa_warnings": [],
       "total_entries": 7,
       "translated_entries": 1,
       "identical_entries": 6

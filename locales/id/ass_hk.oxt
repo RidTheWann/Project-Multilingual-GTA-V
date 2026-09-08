@@ -1,6 +1,6 @@
 ﻿Version 2 30
 {
-	0x1FD5E62C = ~s~Franklin died.~s~
+	0x1FD5E62C = ~s~Franklin tewas.~s~
 	0xD9C59117 = ~s~Return to the area.
 	ASS_HK_ABAND = ~s~The mission was abandoned. ~s~
 	ASS_HK_BASE = Base Reward
@@ -12,7 +12,7 @@
 	ASS_HK_COMPN = Completion - No Medal
 	ASS_HK_COMPS = Completion - Silver
 	ASS_HK_CONT = Lanjutkan
-	ASS_HK_COPS = ~s~Lose the Cops.~s~
+	ASS_HK_COPS = ~s~Lolos dari kejaran Polisi.~s~
 	ASS_HK_COVER = ~s~Franklin's cover was blown.~s~
 	ASS_HK_DESTBLIP = Fringe Drive
 	ASS_HK_HELP1 = ~s~The target will not approach the prostitute at this distance. Move away from the girl for the target to approach.~s~

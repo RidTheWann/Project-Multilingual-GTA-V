@@ -11,8 +11,8 @@
 	TRV3_8 = Mission Passed (mocap soon)
 	TRV3_9 = ~s~Go to ~y~Los Santos.
 	TRV3_12 = Detonate the bombs before leaving the trailer park.
-	TRV3_13 = Wade was abandoned.
-	TRV3_15 = Wade died.
+	TRV3_13 = Wade ditinggalkan.
+	TRV3_15 = Wade tewas.
 	TRV3_16 = The sticky bombs were depleted.
 	TRV3_19 = Return to ~b~Wade.
 	TRV3_20 = Follow ~b~Wade.
@@ -21,7 +21,7 @@
 	TRV3_END1 = ~s~Floyd's apartment can now be used as a safehouse. You can save vehicles by parking them in the driveway.
 	TRV3_F01 = No fail reason given.
 	TRV3_F04 = The trailer park was abandoned.
-	TRV3_F05 = Wade was abandoned.
+	TRV3_F05 = Wade ditinggalkan.
 	TRV3_F06 = Not enough sticky bombs remaining.
 	TRV3_F07 = The lost were alerted too early.
 	TRV3_FAR = The trailer park was abandoned.

@@ -2,7 +2,7 @@
 {
 	0x8BAC4118 = ~s~Use ~INPUTGROUP_LOOK~ to look around, and use ~INPUTGROUP_MOVE~ to zoom in and out.
 	0x2183A3A8 = ~s~The mission was abandoned.~s~
-	0x824348C7 = ~s~Franklin died.~s~
+	0x824348C7 = ~s~Franklin tewas.~s~
 	0xC5A56E2E = Construction Site
 	ASS_CS_BASE = Base Reward
 	ASS_CS_BDESC = No Fly Zone Bonus

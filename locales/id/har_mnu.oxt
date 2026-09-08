@@ -53,7 +53,7 @@
 	HAIR_CUR_2 = Sorry - you already have this hairstyle.
 	HAIR_CUR_2_DLC = Sorry - you already have this ~a~ hairstyle.
 	HAIR_CUR_3 = Sorry - you already have this makeup.
-	HAIR_CUR_9 = Sorry - you already have this item.
+	HAIR_CUR_9 = Maaf - kamu sudah memiliki item ini.
 	HAIR_LCKPC = You cannot purchase this item at this time, please try again later.
 	HAIR_LOCK = Sorry - this item is currently unavailable.
 	HAIR_MKUP0 = No Makeup
@@ -100,7 +100,7 @@
 	HAIR_NG_O8 = Blusher
 	HAIR_NG_O9 = Eye
 	HAIR_NG_O10 = Lipstick
-	HAIR_NG_T0 = CATEGORIES
+	HAIR_NG_T0 = KATEGORI
 	HAIR_NG_T1 = HAIRSTYLES
 	HAIR_NG_T2 = BEARDS
 	HAIR_NG_T3 = EYEBROWS
@@ -114,13 +114,13 @@
 	HAIR_OPTION_0 = Beards
 	HAIR_OPTION_1 = Hairstyles
 	HAIR_OPTION_2 = Makeup and Face Paint
-	HAIR_TITLE_0 = CATEGORIES
+	HAIR_TITLE_0 = KATEGORI
 	HAIR_TITLE_1 = BEARDS
 	HAIR_TITLE_2 = HAIRSTYLES
 	HAIR_TITLE_3 = MAKEUP / FACE PAINT
 	HAIR_UNLOCK = This item will unlock when you reach Rank ~1~.
 	HAIR_UNLOCK_M = New items have been unlocked.
-	HAIR_UNLOCK_N = This item has just been unlocked.
+	HAIR_UNLOCK_N = Item ini baru saja terbuka.
 	ITEM_B_HILI = Highlight Color
 	ITEM_B_OPACITY = Opacity
 	ITEM_T_COL = Color

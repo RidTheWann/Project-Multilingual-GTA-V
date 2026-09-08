@@ -9,7 +9,7 @@
 	N3FTRUNK = Walk to the trunk to release Al Di Napoli.
 	N3GETCAR = Get in Nigel's ~b~car.~s~
 	N3LEAVECAR = Kembalilah ke ~b~car.~s~.
-	N3LOSEWANT = Lose the Cops.
+	N3LOSEWANT = Lolos dari kejaran Polisi.
 	N3MRSTDEAD = Mrs. Thornhill died.
 	N3MRSTHURT = Mrs. Thornhill was injured.
 	N3NIGEDEAD = Nigel died.
@@ -20,7 +20,7 @@
 	N3REL1 = Continue to the destination to kill Al Di Napoli, or stop the car and get out to release him.
 	N3RTCAR = Masuklah kembali ke dalam ~b~car.~s~.
 	N3SCARED = Nigel and Mrs. Thornhill were spooked.
-	N3STUCK = The car got stuck.
+	N3STUCK = Mobil tersangkut.
 	N3TRAINCAM = Press ~INPUT_VEH_CIN_CAM~ to toggle the train camera.
 	N3TRUNK = Trevor cannot release Al if there are obstructions around the car.
 	N3WONKY = Trevor cannot release Al if the car is on uneven ground.

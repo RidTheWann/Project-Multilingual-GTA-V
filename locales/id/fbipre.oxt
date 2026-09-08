@@ -6,7 +6,7 @@
 	PRE_BUYM = Buy a boiler suit for Michael.
 	PRE_BUYT = Buy a boiler suit for Trevor.
 	PRE_CASH = The required boiler suits were not purchased due to insufficient funds.
-	PRE_COPS = The Cops were alerted.
+	PRE_COPS = Polisi disiagakan.
 	PRE_FKICKOFF = Unable to purchase the required boiler suits.
 	PRE_FLEFT = Ammu-Nation was abandoned.
 	PRE_GCLOTH = Buy three ~g~boiler suits.

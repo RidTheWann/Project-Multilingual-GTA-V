@@ -16,10 +16,10 @@
 	S1_GETTOBANK = ~s~Go to the ~y~FIB building.~s~
 	S1_GOTOSH = ~s~Go to the ~y~garment factory. ~s~
 	S1_JSPOOK = The janitor was spooked. ~s~
-	S1_LESFAIL = Lester died. ~s~
-	S1_LOSECOPS = ~s~Lose the Cops. ~s~
+	S1_LESFAIL = Lester tewas. ~s~
+	S1_LOSECOPS = ~s~Lolos dari kejaran Polisi. ~s~
 	S1_SECFAIL = Security was alerted. ~s~
 	S1_UPSTAIRS = ~s~Go to the ~y~office.~s~
-	S1_VEHSTUCK = ~s~The car got stuck. ~s~
+	S1_VEHSTUCK = ~s~Mobil tersangkut. ~s~
 	S1_WAIT = ~s~Wait for the janitor's car.
 }

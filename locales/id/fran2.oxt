@@ -21,7 +21,7 @@
 	0xFE943B6A = ~s~Wait for Trevor.~s~
 	0xFF3112EC = ~s~Take out the remaining ~r~guards.~s~
 	FRAN2_DRVL = ~s~Return to ~b~Lamar.
-	FRAN2_F01 = ~s~Lamar died.
+	FRAN2_F01 = ~s~Lamar tewas.
 	FRAN2_F03 = ~s~The bulldozer was destroyed.
 	FRAN2_FCOPS = ~s~The Cops were led to the sawmill.
 	FRAN2_FEARLY = ~s~The Ballas were alerted.
@@ -30,7 +30,7 @@
 	FRAN2_GETLAMAR = ~s~Get to ~b~Lamar.~s~
 	FRAN2_GETP = ~s~Get into an assault ~y~position.~s~
 	FRAN2_GOSAW = ~s~Go to the ~y~sawmill.~s~
-	FRAN2_LABAN = ~s~Lamar was abandoned.
+	FRAN2_LABAN = ~s~Lamar ditinggalkan.
 	FRAN2_LEADL = ~s~Lead Lamar to the ~y~sawmill exit.
 	FRAN2_POSHELP = ~s~Go to any marked position to choose your assault path.~s~
 	FRAN2_PROT = ~s~Protect ~b~Franklin, ~b~Trevor~s~ and ~b~Lamar.~s~
@@ -41,6 +41,6 @@
 	FRAN2_SNIPEHELP_KM = ~s~Use ~INPUTGROUP_LOOK~ to move the reticle.~n~Use ~INPUTGROUP_SNIPER_ZOOM_SECONDARY~ to zoom in/out.~n~Press ~INPUT_ATTACK~ to fire the weapon.
 	FRAN2_SPECHELP = ~s~Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ to activate Michael's ability while sniping.
 	FRAN2_SPECHELP_KM = ~s~Press ~INPUT_SPECIAL_ABILITY_PC~ to activate Michael's ability while sniping.
-	FRAN2_SWFRANK = ~s~SWITCH to Franklin.~s~
+	FRAN2_SWFRANK = ~s~BERALIH ke Franklin.~s~
 	FRAN2_SWITCH2 = ~s~SWITCH to ~b~Franklin ~s~or ~b~Trevor.~s~
 }

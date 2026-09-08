@@ -149,7 +149,7 @@
 	0x0ACE47A1 = AH3b_GKAW
 	0x0ACF3C9B = 100
 	0x0ADBA8D3 = 100
-	0x0AEAA9C9 = ~z~Come on!
+	0x0AEAA9C9 = ~z~Ayo!
 	0x0B0390C4 = ~z~or whatever else blowback there might be.
 	0x0B4F6FB5 = 100
 	0x0B36ABB6 = ~z~We ain't got time, do something.
@@ -956,7 +956,7 @@
 	0x29C59646 = ~z~Alright, alright. Well, take care of yourself.
 	0x29DACF3B = 500
 	0x29ED45FC = 1000000
-	0x30B887B4 = ~z~Come on!
+	0x30B887B4 = ~z~Ayo!
 	0x30C44D19 = ~z~Get us outta here!
 	0x30CDBE63 = ~z~In, in, before they clock us!
 	0x30E38C04 = ~z~On the left! Coming out that room there!
@@ -1101,7 +1101,7 @@
 	0x61E5910E = AH3b_DNAA
 	0x61F2C861 = AH3b_QVAA
 	0x61F5FD50 = AH3b_AFAA
-	0x61F80C27 = ~z~Come on!
+	0x61F80C27 = ~z~Ayo!
 	0x62AF208B = ~z~The wind will tie us in a knot, we gotta keep moving.
 	0x62C7D897 = 1100100
 	0x62C54BEA = 100
@@ -1285,7 +1285,7 @@
 	0x158AF612 = 100
 	0x160BAAC5 = ~z~We've got one shot at this, pickup has to be soon.
 	0x167F6C36 = 1000000
-	0x168BC107 = ~z~Come on!
+	0x168BC107 = ~z~Ayo!
 	0x168D5CDB = ~z~The internet age?
 	0x170F7113 = AH3b_COAM
 	0x174B111F = 302
@@ -1392,7 +1392,7 @@
 	0x468F3365 = ~z~Quick!
 	0x470C8CAD = ~z~You're a good man and a great father, really.
 	0x471C9261 = ~z~Now let's get some linkage - gimme Hack Connect in this bitch.
-	0x478B89D3 = ~z~Come on!
+	0x478B89D3 = ~z~Ayo!
 	0x478D6653 = AH3b_MVAA
 	0x483ADF01 = ~z~Get on the floor!
 	0x489DF295 = 1002000
@@ -1612,7 +1612,7 @@
 	0x4754C892 = 302
 	0x4842F431 = 101
 	0x4992C9B6 = 500
-	0x5178EB29 = ~z~Come on!
+	0x5178EB29 = ~z~Ayo!
 	0x5285C0C6 = 590
 	0x5324F554 = 100
 	0x5377A2BA = 100
@@ -2144,7 +2144,7 @@
 	0xAFEDF639 = ~z~You total asshole! Now we gotta lose the cops!
 	0xB033650A = ~z~This is awkward, I didn't think I'd see you again.
 	0xB07E3573 = AH3b_GKBO
-	0xB098D25F = ~z~Come on.
+	0xB098D25F = ~z~Ayo.
 	0xB0A2675A = 1100000
 	0xB0A67718 = AH3b_BVAA
 	0xB0AD8700 = AH3b_ARAA

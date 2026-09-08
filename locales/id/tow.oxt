@@ -43,7 +43,7 @@
 	TOW_BLIP_VEH = Vehicle
 	TOW_DMG_01 = ~s~Damage to the towed vehicle has resulted in a ~r~$~1~ penalty.~s~
 	TOW_DMG_03 = ~s~Causing more damage to the vehicle will fail the towing job.~s~
-	TOW_FAIL_01 = ~s~The vehicle was destroyed.~s~
+	TOW_FAIL_01 = ~s~Kendaraan hancur.~s~
 	TOW_FAIL_02 = ~s~Franklin threatened a pedestrian.~s~
 	TOW_FAIL_02B = ~s~Franklin threatened the driver.~s~
 	TOW_FAIL_03 = ~s~Franklin broke the law.~s~
@@ -62,11 +62,11 @@
 	TOW_FAIL_13 = ~s~Tonya was attacked.~s~
 	TOW_FAIL_13A = ~s~Tonya was injured.~s~
 	TOW_FAIL_14 = ~s~Tonya was abandoned.~s~
-	TOW_FAIL_15 = ~s~Franklin died.~s~
+	TOW_FAIL_15 = ~s~Franklin tewas.~s~
 	TOW_FAIL_16 = ~s~The driver got his car back.~s~
 	TOW_FAIL_18 = ~s~Tonya was spooked.~s~
 	TOW_OBJ_05 = ~s~Clear the ~b~stalled car~s~ before the train hits it.
-	TOW_OBJ_06 = ~s~Lose the Cops.~s~
+	TOW_OBJ_06 = ~s~Lolos dari kejaran Polisi.~s~
 	TOW_OBJ_REOWNER = ~s~Return to the ~b~car owner.~s~
 	TOW_TIME = TIME
 	TOW_TUT_01 = ~s~Cars can be hooked at the front or back end.~s~

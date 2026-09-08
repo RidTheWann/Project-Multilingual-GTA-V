@@ -37,7 +37,7 @@
 	0x206C02F9 = ~a~~HUD_COLOUR_WHITE~ and ~a~~HUD_COLOUR_WHITE~ finished in 5th place.
 	0x273AA959 = An ineligible prop was used in the creation of this Race and replaced. You might not be able to finish this Race because of this, and it will need to be recreated.
 	0x356F5F07 = ~a~ ~s~finished in 5th place.
-	0x563CE7E3 = FAILED
+	0x563CE7E3 = GAGAL
 	0x786E7B4F = ~a~~HUD_COLOUR_WHITE~ and ~a~~HUD_COLOUR_WHITE~ finished in 10th place.
 	0x837DA342 = Landed on target +~1~/15 points.
 	0x1250D2D3 = ~a~~HUD_COLOUR_WHITE~ has joined Parachuting.
@@ -92,7 +92,7 @@
 	BASEJ_LAN1 = First to land +15 points.
 	BASEJ_LAN2 = Second to land +10 points.
 	BASEJ_LAN3 = Third to land +5 points.
-	BASEJ_MISS = Checkpoint missed.
+	BASEJ_MISS = Titik pemeriksaan terlewat.
 	BASEJ_OBJ2 = Press ~INPUT_PARACHUTE_DEPLOY~ to open parachute.
 	RACE_1ST = ~a~ ~HUD_COLOUR_WHITE~entered 1st.
 	RACE_BIKE = You can buy new helmets at the Clothes Store.

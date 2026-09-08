@@ -7,7 +7,7 @@
 	FIND_NEWS = Find Weazel News.
 	F_DETONATE = Michael failed to detonate the phone.
 	F_TRACEY_FLED = Tracey fled in fear.
-	F_TRACY_DEAD = Tracey died.
+	F_TRACY_DEAD = Tracey tewas.
 	F_WANT_HOME = Too much heat to carry out the job.
 	KEYNOTE_NAME = Jay Norris
 	KEYNOTE_TITLE = CEO Lifeinvader
@@ -32,7 +32,7 @@
 	LES1A_F1 = Michael's cover was blown.
 	LES1A_F2 = Michael left before planting the bomb.
 	LES1A_F3 = Michael was unable to obtain the disguise.
-	LES1A_F4 = Lester died.
+	LES1A_F4 = Lester tewas.
 	LES1A_F5 = Michael couldn't afford the disguise.
 	LES1A_FOLD = Farmed user data
 	LES1A_H2 = That item of clothing is not suitable, try something else.
