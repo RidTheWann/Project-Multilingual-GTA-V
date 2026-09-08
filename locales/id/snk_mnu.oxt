@@ -1,0 +1,33 @@
+﻿Version 2 30
+{
+	0x07B9E0D0 = GRATIS
+	0x59BEBE1B = Intisari kehidupan dalam satu kaleng.
+	0x7917EE2A = Sprunk
+	0x23101ECF = You can't carry any more Sprunk.
+	0xC39FFD79 = Camilan ditambahkan ke inventaris kamu.
+	SNK_AFFORD = Maaf - kamu tidak mampu membeli item ini.
+	SNK_BOUGHT = Item telah dibeli.
+	SNK_DRK1FU = You can't carry any more eCola.
+	SNK_DRK2FU = You can't carry any more Pisswasser.
+	SNK_FULL = PENUH
+	SNK_ITEM = ITEM
+	SNK_ITEM1 = P's & Q's
+	SNK_ITEM1_D = Permen yang disukai anak-anak dan pemabuk.
+	SNK_ITEM2 = EgoChaser
+	SNK_ITEM2_D = Batang energi yang mengutamakan DIRIMU.
+	SNK_ITEM3 = Meteorite
+	SNK_ITEM3_D = Cokelat hitam dengan isian LUMER.
+	SNK_ITEM4 = Pack of Redwood
+	SNK_ITEM4_D = Rokok yang membangun Amerika.
+	SNK_ITEM5 = eCola
+	SNK_ITEM5_D = Soda nikmat yang memikat.
+	SNK_ITEM6 = Pisswasser
+	SNK_ITEM6_D = Bir pertarungan Bavaria.
+	SNK_LIFT = Mengutil
+	SNK_NEEDED = Kesehatan sudah penuh.
+	SNK_SMOKFU = You can't carry any more smokes.
+	SNK_SNK1FU = You can't carry any more P's & Q's.
+	SNK_SNK2FU = You can't carry any more EgoChasers.
+	SNK_SNK3FU = You can't carry any more Meteorites.
+	SNK_SOUT = Item ini sudah habis terjual.
+}
