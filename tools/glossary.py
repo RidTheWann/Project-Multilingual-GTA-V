@@ -1,12 +1,20 @@
 """
 GTA V English to Indonesian Gaming Glossary & Proper Nouns Registry.
 Follows professional gaming localization standards for UI, HUD, missions, and gameplay.
-Contains comprehensive terminology for UI, Menus, Heists, Dialogue, Activities, and News.
+Cleanly separates:
+1. PROTECTED_PROPER_NOUNS
+2. UI_TERMINOLOGY
+3. GAMEPLAY_TERMINOLOGY
+4. COMMON_NOUNS_AND_LOCATIONS
+5. EXACT_PHRASES
+6. MISSION_DIRECTIVE_PATTERNS
 """
 
 from typing import Dict, Set, List, Tuple
 
-# Protected proper nouns that should NOT be translated
+# ==============================================================================
+# 1. PROTECTED PROPER NOUNS (Characters, Places, Brands, Factions, Radios)
+# ==============================================================================
 PROTECTED_PROPER_NOUNS: Set[str] = {
     # Characters
     "Michael", "Trevor", "Franklin", "Lamar", "Lester", "Brad", "Ron", "Wade",
@@ -17,6 +25,7 @@ PROTECTED_PROPER_NOUNS: Set[str] = {
     "Martin Madrazo", "Lazlow", "Tony Prince", "English Dave", "Moodymann", "KDJ",
     "Sessanta", "Pavel", "El Rubio", "Agent 14", "Avon Hertz", "Cliffford",
     "Sabrina Gray", "Billy Wiener", "Tao Cheng", "Chef", "Simeon Yetarian", "Jay Norris",
+    "Kerry", "Dave",
 
     # Locations & Districts
     "Los Santos", "Blaine County", "San Andreas", "Sandy Shores", "Paleto Bay",
@@ -31,7 +40,8 @@ PROTECTED_PROPER_NOUNS: Set[str] = {
     "Tongva Valley", "Banham Canyon", "Chumash", "Lago Zancudo", "Fort Zancudo",
     "Mount Josiah", "Mount Chiliad", "Mount Gordo", "Raton Canyon", "Cassidy Creek",
     "Alamo Sea", "Grand Senora Desert", "San Chianski Mountain Range", "Cayo Perico",
-    "North Yankton", "Ludendorff",
+    "North Yankton", "Ludendorff", "Sandy Shores Airfield", "Del Perro Pier", "Paleto Cove",
+    "Maze Bank Arena", "Sanders Motorcycles",
 
     # Factions, Agencies & Corporations
     "Rockstar Games", "Rockstar", "GTA Online", "FIB", "IAA", "Merryweather",
@@ -53,7 +63,7 @@ PROTECTED_PROPER_NOUNS: Set[str] = {
     "Principe", "Progen", "Rune", "Schyster", "Shitzu", "Stanley", "Truffade",
     "Ubermacht", "Vapid", "Vulcar", "Weeny", "Western Company", "Western Motorcycle Company",
     "Zirconium", "Buckingham", "Manchez", "Chimera", "Terrorbyte", "Velum", "Scarab",
-    "Seashark",
+    "Seashark", "Cargobob",
 
     # In-game Brands, Food & Fictional Goods
     "Sprunk", "eCola", "Pisswasser", "PiSS.WASS.ER", "EgoChaser", "Meteorite",
@@ -68,9 +78,10 @@ PROTECTED_PROPER_NOUNS: Set[str] = {
     "The Music Locker Underground", "K.U.L.T. 99.1 FM", "Weazel News", "CNT",
 }
 
-# Curated, professional UI, menu, HUD, and system phrase glossary
-EXACT_PHRASE_GLOSSARY: Dict[str, str] = {
-    # System & UI Menus
+# ==============================================================================
+# 2. UI TERMINOLOGY (Settings, Menus, Options, Buttons)
+# ==============================================================================
+UI_TERMINOLOGY: Dict[str, str] = {
     "Resume Game": "Lanjutkan Permainan",
     "Resume": "Lanjutkan",
     "Settings": "Pengaturan",
@@ -138,6 +149,177 @@ EXACT_PHRASE_GLOSSARY: Dict[str, str] = {
     "Save Successful": "Penyimpanan Berhasil",
     "Save Failed": "Penyimpanan Gagal",
     "Autosave": "Simpan Otomatis",
+}
+
+# ==============================================================================
+# 3. GAMEPLAY TERMINOLOGY (Missions, Weapons, Combat, Wanted)
+# ==============================================================================
+GAMEPLAY_TERMINOLOGY: Dict[str, str] = {
+    # Status & Outcomes
+    "Mission Passed": "Misi Berhasil",
+    "MISSION PASSED": "MISI BERHASIL",
+    "Mission Failed": "Misi Gagal",
+    "Passed": "Berhasil",
+    "Failed": "Gagal",
+    "FAILED": "GAGAL",
+    "Bronze": "Perunggu",
+    "Silver": "Perak",
+    "Gold": "Emas",
+    "Total": "Total",
+    "Checklist": "Daftar Sasaran",
+    "Objective": "Tujuan",
+    "Objectives": "Tujuan",
+    "Accuracy": "Akurasi",
+    "Time": "Waktu",
+    "Headshots": "Tembakan Kepala",
+    "Damage": "Kerusakan",
+    "Restart": "Mulai Ulang",
+    "Retry": "Coba Lagi",
+    "Continue": "Lanjutkan",
+    "Skip": "Lewati",
+    "Skip Trip": "Lewati Perjalanan",
+
+    # Wanted & Police
+    "Lose the cops.": "Lolos dari kejaran polisi.",
+    "Lose the cops": "Lolos dari kejaran polisi",
+    "Lose the Cops.": "Lolos dari kejaran Polisi.",
+    "Lose the Cops": "Lolos dari kejaran Polisi",
+    "Lose your Wanted Level.": "Hilangkan Status Buronanmu.",
+    "Lose your Wanted Level": "Hilangkan Status Buronanmu",
+    "Wanted Level": "Status Buronan",
+    "WANTED": "BURONAN",
+    "BUSTED": "TERTANGKAP",
+    "WASTED": "TEWAS",
+    "DEAD": "TEWAS",
+    "KIA!": "TEWAS!",
+    "The Cops were alerted.": "Polisi disiagakan.",
+
+    # Weapons & Store
+    "ARMORY": "PERSENJATAAN",
+    "PISTOLS": "PISTOL",
+    "Pistols": "Pistol",
+    "EXPLOSIVES": "BAHAN PELEDAK",
+    "Explosives": "Bahan Peledak",
+    "HEAVY WEAPONS": "SENJATA BERAT",
+    "Heavy Weapons": "Senjata Berat",
+    "THROWABLES": "SENJATA LEMPAR",
+    "Throwables": "Senjata Lempar",
+    "BODY ARMOR": "ROMPI ANTI PELURU",
+    "ARMOR": "ROMPI",
+    "Armor": "Rompi",
+    "MACHINE GUNS": "SENJATA MESIN",
+    "Machine Guns": "Senjata Mesin",
+    "SNIPER RIFLES": "SENAPAN PENEMBAK JITU",
+    "Sniper Rifles": "Senapan Penembak Jitu",
+    "MELEE WEAPONS": "SENJATA JARAK DEKAT",
+    "Melee Weapons": "Senjata Jarak Dekat",
+    "Parachutes": "Parasut",
+    "EQUIPPED": "TERPASANG",
+    "UPGRADE": "TINGKATKAN",
+    "Upgrade": "Tingkatkan",
+    "Charge": "Peledak",
+    "Round": "Peluru",
+    "Grenade": "Granat",
+    "Rocket": "Roket",
+    "Default Weapon": "Senjata Bawaan",
+    "Default Component": "Komponen Bawaan",
+    "Purchase Weapon Ammo.": "Beli Amunisi Senjata.",
+    "GUN VAN": "VAN SENJATA",
+    "REQUISITIONS OFFICER": "PETUGAS LOGISTIK",
+}
+
+# ==============================================================================
+# 4. COMMON NOUNS & OBJECTS (Used for resolving colored tokens ~y~...~s~)
+# ==============================================================================
+COMMON_NOUNS_AND_LOCATIONS: Dict[str, str] = {
+    "exit": "pintu keluar",
+    "security room": "ruang keamanan",
+    "security": "keamanan",
+    "vault": "brankas",
+    "garment factory": "pabrik garmen",
+    "server room": "ruang server",
+    "roof": "atap",
+    "elevator": "lift",
+    "stairs": "tangga",
+    "getaway vehicle": "kendaraan pelarian",
+    "getaway location": "lokasi pelarian",
+    "helicopter pick up point": "titik penjemputan helikopter",
+    "car": "mobil",
+    "fire truck": "truk pemadam kebakaran",
+    "police car": "mobil polisi",
+    "cop cars": "mobil polisi",
+    "truck": "truk",
+    "van": "mobil van",
+    "bike": "sepeda motor",
+    "bicycle": "sepeda",
+    "boat": "perahu",
+    "crew": "kru",
+    "hostages": "para sandera",
+    "hostage": "sandera",
+    "guard": "penjaga",
+    "guards": "para penjaga",
+    "monitors": "monitor",
+    "cops": "Polisi",
+    "Cops": "Polisi",
+    "enemies": "Musuh",
+    "friends": "Kawan",
+    "cash": "uang",
+    "woman": "wanita itu",
+    "destination": "tujuan",
+    "lobby": "lobi",
+    "shutter door": "pintu rana",
+    "target": "target",
+    "snipers": "penembak jitu",
+    "sniper": "penembak jitu",
+    "pilot": "pilot",
+    "helicopter": "helikopter",
+    "cargobob": "cargobob",
+    "tow truck": "truk derek",
+    "garbage truck": "truk sampah",
+    "handler": "handler",
+    "forklift": "forklift",
+    "delivery bike": "motor pengantar",
+    "vehicle": "kendaraan",
+    "train tracks": "rel kereta api",
+    "docking area": "area dok",
+    "drop-off area": "area penurunan",
+    "device": "perangkat",
+    "airstrip": "landasan udara",
+    "viewpoint": "titik pandang",
+    "battle": "pertempuran",
+    "alleyway": "gang",
+    "forest": "hutan",
+    "bridge": "jembatan",
+    "engine room": "ruang mesin",
+    "sealed door": "pintu tersegel",
+    "security team": "tim keamanan",
+    "landing pad": "landasan helikopter",
+    "helipad": "helipad",
+    "office floor": "lantai kantor",
+    "elevator shaft": "lorong lift",
+    "top floor": "lantai paling atas",
+    "computer terminal": "terminal komputer",
+    "public access terminal": "terminal akses publik",
+    "stores": "gudang penyimpanan",
+    "drop zone": "zona pendaratan",
+    "course": "jalur lintasan",
+    "treatment works": "instalasi pengolahan",
+    "farm": "ladang",
+    "weapon deal": "lokasi transaksi senjata",
+    "oil derricks": "menara bor minyak",
+    "biker": "pengendara motor",
+    "bail jumper": "buronan uang jaminan",
+    "O'Neil": "O'Neil",
+    "O'Neil brothers": "O'Neil bersaudara",
+    "Merryweather helicopters": "helikopter Merryweather",
+}
+
+# ==============================================================================
+# 5. EXACT PHRASES (Combined Master Dictionary)
+# ==============================================================================
+EXACT_PHRASES: Dict[str, str] = {
+    **UI_TERMINOLOGY,
+    **GAMEPLAY_TERMINOLOGY,
 
     # Minigames & Activities
     "Start Game": "Mulai Permainan",
@@ -272,39 +454,6 @@ EXACT_PHRASE_GLOSSARY: Dict[str, str] = {
     "Armor Upgrade 80%": "Peningkatan Pelindung 80%",
     "Armor Upgrade 100%": "Peningkatan Pelindung 100%",
 
-    # Weapons & Ammu-Nation
-    "ARMORY": "PERSENJATAAN",
-    "PISTOLS": "PISTOL",
-    "Pistols": "Pistol",
-    "EXPLOSIVES": "BAHAN PELEDAK",
-    "Explosives": "Bahan Peledak",
-    "HEAVY WEAPONS": "SENJATA BERAT",
-    "Heavy Weapons": "Senjata Berat",
-    "THROWABLES": "SENJATA LEMPAR",
-    "Throwables": "Senjata Lempar",
-    "BODY ARMOR": "ROMPI ANTI PELURU",
-    "ARMOR": "ROMPI",
-    "Armor": "Rompi",
-    "MACHINE GUNS": "SENJATA MESIN",
-    "Machine Guns": "Senjata Mesin",
-    "SNIPER RIFLES": "SENAPAN PENEMBAK JITU",
-    "Sniper Rifles": "Senapan Penembak Jitu",
-    "MELEE WEAPONS": "SENJATA JARAK DEKAT",
-    "Melee Weapons": "Senjata Jarak Dekat",
-    "Parachutes": "Parasut",
-    "EQUIPPED": "TERPASANG",
-    "UPGRADE": "TINGKATKAN",
-    "Upgrade": "Tingkatkan",
-    "Charge": "Peledak",
-    "Round": "Peluru",
-    "Grenade": "Granat",
-    "Rocket": "Roket",
-    "Default Weapon": "Senjata Bawaan",
-    "Default Component": "Komponen Bawaan",
-    "Purchase Weapon Ammo.": "Beli Amunisi Senjata.",
-    "GUN VAN": "VAN SENJATA",
-    "REQUISITIONS OFFICER": "PETUGAS LOGISTIK",
-
     # Phone & Communication
     "Inbox": "Kotak Masuk",
     "Pick a response": "Pilih tanggapan",
@@ -314,45 +463,6 @@ EXACT_PHRASE_GLOSSARY: Dict[str, str] = {
     "Photos": "Foto",
     "Job List": "Daftar Pekerjaan",
     "Quick Save": "Simpan Cepat",
-
-    # Mission Outcomes & Status
-    "Mission Passed": "Misi Berhasil",
-    "MISSION PASSED": "MISI BERHASIL",
-    "Mission Failed": "Misi Gagal",
-    "Passed": "Berhasil",
-    "Failed": "Gagal",
-    "FAILED": "GAGAL",
-    "Bronze": "Perunggu",
-    "Silver": "Perak",
-    "Gold": "Emas",
-    "Total": "Total",
-    "Checklist": "Daftar Sasaran",
-    "Objective": "Tujuan",
-    "Objectives": "Tujuan",
-    "Accuracy": "Akurasi",
-    "Time": "Waktu",
-    "Headshots": "Tembakan Kepala",
-    "Damage": "Kerusakan",
-    "Restart": "Mulai Ulang",
-    "Retry": "Coba Lagi",
-    "Continue": "Lanjutkan",
-    "Skip": "Lewati",
-    "Skip Trip": "Lewati Perjalanan",
-
-    # Wanted & Cops
-    "Lose the cops.": "Lolos dari kejaran polisi.",
-    "Lose the cops": "Lolos dari kejaran polisi",
-    "Lose the Cops.": "Lolos dari kejaran Polisi.",
-    "Lose the Cops": "Lolos dari kejaran Polisi",
-    "Lose your Wanted Level.": "Hilangkan Status Buronanmu.",
-    "Lose your Wanted Level": "Hilangkan Status Buronanmu",
-    "Wanted Level": "Status Buronan",
-    "WANTED": "BURONAN",
-    "BUSTED": "TERTANGKAP",
-    "WASTED": "TEWAS",
-    "DEAD": "TEWAS",
-    "KIA!": "TEWAS!",
-    "The Cops were alerted.": "Polisi disiagakan.",
 
     # Heist & Casualties
     "The crew was abandoned.": "Kru ditinggalkan.",
@@ -413,6 +523,7 @@ EXACT_PHRASE_GLOSSARY: Dict[str, str] = {
     "Return to Michael.": "Kembalilah ke Michael.",
     "Return to the crew.": "Kembalilah ke kru.",
     "Follow Lamar.": "Ikuti Lamar.",
+    "Follow Trevor.": "Ikuti Trevor.",
     "Wait for Dom.": "Tunggu Dom.",
     "Get back in the truck.": "Masuklah kembali ke truk.",
     "Get in the truck.": "Masuklah ke dalam truk.",
@@ -474,7 +585,11 @@ EXACT_PHRASE_GLOSSARY: Dict[str, str] = {
     "Big Brother in your bathroom?": "Mata-mata di dalam kamar mandimu?",
 }
 
-# Regex patterns for mission directives, tutorials, radar blips, and character switching
+EXACT_PHRASE_GLOSSARY = EXACT_PHRASES
+
+# ==============================================================================
+# 6. MISSION DIRECTIVE PATTERNS & REGEX RESOLVERS
+# ==============================================================================
 MISSION_DIRECTIVE_PATTERNS: List[Tuple[str, str]] = [
     # Character Switching
     (r"^SWITCH to Franklin\.$", r"BERALIH ke Franklin."),
@@ -488,42 +603,6 @@ MISSION_DIRECTIVE_PATTERNS: List[Tuple[str, str]] = [
     (r"^To SWITCH hold (~INPUT[^~]+~) to show the available characters\.$", r"Untuk BERALIH tahan \1 untuk menampilkan karakter yang tersedia."),
     (r"^While holding (~INPUT[^~]+~) use (~INPUTGROUP_WHEEL~) to select a character, then release (~INPUT_CHARACTER_WHEEL~) to SWITCH\.$", r"Sambil menahan \1 gunakan \2 untuk memilih karakter, lalu lepaskan \3 untuk BERALIH."),
     (r"^Quick SWITCH to the most relevant character by tapping (~INPUT[^~]+~)$", r"BERALIH cepat ke karakter yang paling relevan dengan mengetuk \1"),
-
-    # Navigation / Movement
-    (r"^Go to the (~y~[^~]+~s~)\.?$", r"Pergilah ke \1."),
-    (r"^Go to the (~y~[^~]+~s~) room\.?$", r"Pergilah ke ruang \1."),
-    (r"^Go to (~[byr]~[^~]+~s~)\.?$", r"Pergilah ke \1."),
-    (r"^Wait for (~[byr]~[^~]+~s~) to get to the car\.?$", r"Tunggu \1 sampai di mobil."),
-    (r"^Wait for (~[byr]~[^~]+~s~) to get in the car\.?$", r"Tunggu \1 masuk ke dalam mobil."),
-    (r"^Wait for the (~[byr]~[^~]+~s~) to get in the car\.?$", r"Tunggu \1 masuk ke dalam mobil."),
-    (r"^Wait for the (~[byr]~[^~]+~s~)\.?$", r"Tunggu \1."),
-    (r"^Wait for (~[byr]~[^~]+~s~)\.?$", r"Tunggu \1."),
-    (r"^Follow (~[byr]~[^~]+~s~)\.?$", r"Ikuti \1."),
-    (r"^Return to the (~[byr]~[^~]+~s~)\.?$", r"Kembalilah ke \1."),
-    (r"^Return to (~[byr]~[^~]+~s~)\.?$", r"Kembalilah ke \1."),
-    (r"^Return to your (~[byr]~[^~]+~s~)\.?$", r"Kembalilah ke \1mu."),
-    (r"^Get in the car\.?$", r"Masuklah ke dalam mobil."),
-    (r"^Get back in the (~[byr]~[^~]+~s~)\.?$", r"Masuklah kembali ke dalam \1."),
-    (r"^Get to the (~[byr]~[^~]+~s~)\.?$", r"Capailah \1."),
-    (r"^Get to (~y~[^~]+~s~)\.?$", r"Pergilah ke \1."),
-    (r"^Drive to the (~y~[^~]+~s~)\.?$", r"Berkendaralah ke \1."),
-
-    # Combat & Action Directives
-    (r"^Grab the (~[byr]~[^~]+~s~)\.?$", r"Tangkap \1."),
-    (r"^Shoot the (~[byr]~[^~]+~s~)\.?$", r"Tembak \1."),
-    (r"^Aim at the (~[byr]~[^~]+~s~) to make them move\.?$", r"Bidik \1 agar mereka bergerak."),
-    (r"^Take out the (~[byr]~[^~]+~s~)\.?$", r"Lumpuhkan \1."),
-    (r"^Quietly take out the (~[byr]~[^~]+~s~)\.?$", r"Lumpuhkan \1 secara diam-diam."),
-    (r"^Escape the (~[byr]~[^~]+~s~)\.?$", r"Loloslah dari \1."),
-    (r"^Hold off the (~[byr]~[^~]+~s~)\.?$", r"Tahan serangan \1."),
-    (r"^Open the (~[byr]~[^~]+~s~)\.?$", r"Bukalah \1."),
-    (r"^Collect the (~[byr]~[^~]+~s~)\.?$", r"Ambil \1."),
-    (r"^Collect (~[byr]~[^~]+~s~)\.?$", r"Kumpulkan \1."),
-    (r"^Protect (~[byr]~[^~]+~s~)\.?$", r"Lindungi \1."),
-    (r"^Take (~y~cover~s~) by the Cop cars\.?$", r"Ambillah \1 di dekat mobil Polisi."),
-    (r"^Stay in the (~y~[^~]+~s~) and watch over the hostages\.?$", r"Tetaplah di \1 dan awasi para sandera."),
-    (r"^Stay in the (~y~[^~]+~s~) to safely detonate the explosives\.?$", r"Tetaplah di \1 untuk meledakkan bahan peledak dengan aman."),
-    (r"^Use the phone to trigger the explosive charge\.?$", r"Gunakan ponsel untuk memicu muatan peledak."),
 
     # Radar Blips
     (
@@ -544,7 +623,7 @@ MISSION_DIRECTIVE_PATTERNS: List[Tuple[str, str]] = [
     ),
     (
         r"^Your (~y~destination~s~) is marked with a (~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~~s~) on the Radar\.$",
-        r"\1mu ditandai dengan \2 di Radar.",
+        r"~y~Tujuanmu~s~ ditandai dengan \2 di Radar.",
     ),
     (
         r"^The Radar shows your position within the world\.$",
