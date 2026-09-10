@@ -1,0 +1,606 @@
+{
+  "chunk": 7,
+  "total": 100,
+  "items": [
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x7FF8AC7F",
+      "source": "~z~Do not discharge your weapons - we want them to think we're a legitimate paramedic crew.",
+      "clean_text": "Do not discharge your weapons - we want them to think we're a legitimate paramedic crew."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8A51A47A",
+      "source": "AH3b_RNAA",
+      "clean_text": "AH3b_RNAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8A52C9C6",
+      "source": "~z~I should know this, bro! I thought I had it all down!",
+      "clean_text": "I should know this, bro! I thought I had it all down!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8A703C75",
+      "source": "~z~Eyes up!",
+      "clean_text": "Eyes up!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8A5379F6",
+      "source": "~z~Okay. I need my engineer stationed outside the building, calling in updates.",
+      "clean_text": "Okay. I need my engineer stationed outside the building, calling in updates."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8A6366A9",
+      "source": "AH3b_SHAD",
+      "clean_text": "AH3b_SHAD"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8ABB43FA",
+      "source": "~z~HackConnect's the first program you need - it'll start the connection.",
+      "clean_text": "HackConnect's the first program you need - it'll start the connection."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8AE65463",
+      "source": "AH3b_QNAA",
+      "clean_text": "AH3b_QNAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8B2A6EF0",
+      "source": "~z~Keep driving! They'll get bored!",
+      "clean_text": "Keep driving! They'll get bored!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8B524C66",
+      "source": "~z~Nah, no. I'd probably better do this alone.",
+      "clean_text": "Nah, no. I'd probably better do this alone."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8B55150B",
+      "source": "AH3b_NYAA",
+      "clean_text": "AH3b_NYAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8B217847",
+      "source": "~z~Can't... get it... round...",
+      "clean_text": "Can't... get it... round..."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8BCE460A",
+      "source": "~z~Uhhh... uhh... okay, of course.",
+      "clean_text": "Uhhh... uhh... okay, of course."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8BE246DD",
+      "source": "AH3b_PWAA",
+      "clean_text": "AH3b_PWAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8C1A7F5A",
+      "source": "AH3b_CSAF",
+      "clean_text": "AH3b_CSAF"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8C391C0F",
+      "source": "~z~Guhh!",
+      "clean_text": "Guhh!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8C51075D",
+      "source": "AH3b_HXBI",
+      "clean_text": "AH3b_HXBI"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8CB6075B",
+      "source": "~z~Get in here, dog!",
+      "clean_text": "Get in here, dog!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8D0D0620",
+      "source": "AH3b_SPAA",
+      "clean_text": "AH3b_SPAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8D1DC997",
+      "source": "~z~Stop right there!",
+      "clean_text": "Stop right there!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8D15E236",
+      "source": "~z~That's more like it.",
+      "clean_text": "That's more like it."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8D515D5C",
+      "source": "~z~Then it's Trevor and I'm out...",
+      "clean_text": "Then it's Trevor and I'm out..."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8DE0C388",
+      "source": "AH3b_IHAA",
+      "clean_text": "AH3b_IHAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8E63EC0E",
+      "source": "AH3b_DOAA",
+      "clean_text": "AH3b_DOAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8E86B5C6",
+      "source": "~z~Excellent planning work!",
+      "clean_text": "Excellent planning work!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8EA9FCFC",
+      "source": "AH3b_REAA",
+      "clean_text": "AH3b_REAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8EC9700A",
+      "source": "~z~Take the gun. Man, you really bring that piece to a raid on a Federal building?",
+      "clean_text": "Take the gun. Man, you really bring that piece to a raid on a Federal building?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8F3C5BE5",
+      "source": "~z~It's a common trick. If the crew don't get jumpy, it usually works.",
+      "clean_text": "It's a common trick. If the crew don't get jumpy, it usually works."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8F18785B",
+      "source": "~z~They got mad dudes arriving in un momentito.",
+      "clean_text": "They got mad dudes arriving in un momentito."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8FE8A8E9",
+      "source": "~z~If we're caught, I assume you'll do the honorable thing, and take the heat for this.",
+      "clean_text": "If we're caught, I assume you'll do the honorable thing, and take the heat for this."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8FEF9AD2",
+      "source": "~z~Whoa! Now we're clear, I can probably say, I never expected to make it out of there.",
+      "clean_text": "Whoa! Now we're clear, I can probably say, I never expected to make it out of there."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8FEFA191",
+      "source": "~z~Ooof!",
+      "clean_text": "Ooof!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x8FF549E1",
+      "source": "~z~Up there, left side of the roof!",
+      "clean_text": "Up there, left side of the roof!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9A1CA10C",
+      "source": "AH3b_GNAC",
+      "clean_text": "AH3b_GNAC"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9A56E3A9",
+      "source": "AH3b_CTAA",
+      "clean_text": "AH3b_CTAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9A71665D",
+      "source": "~z~Hit me.",
+      "clean_text": "Hit me."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9B0C7665",
+      "source": "AH3b_JJAA",
+      "clean_text": "AH3b_JJAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9B0E94E4",
+      "source": "~z~Thinning 'em out!",
+      "clean_text": "Thinning 'em out!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9B8EF9D7",
+      "source": "~z~Ah, well, we're gonna need Trevor,",
+      "clean_text": "Ah, well, we're gonna need Trevor,"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9B825CEA",
+      "source": "~z~Are you fucking kidding me?",
+      "clean_text": "Are you fucking kidding me?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9B8354A8",
+      "source": "AH3b_GQAP",
+      "clean_text": "AH3b_GQAP"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9BAC05EA",
+      "source": "AH3b_ONAA",
+      "clean_text": "AH3b_ONAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9BAE6D01",
+      "source": "~z~Jumping out, and climbing in through the Bureau skylight.",
+      "clean_text": "Jumping out, and climbing in through the Bureau skylight."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9BE3E9F3",
+      "source": "~z~You going, or what?",
+      "clean_text": "You going, or what?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9BE5E228",
+      "source": "AH3b_SNAB",
+      "clean_text": "AH3b_SNAB"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9BF2AA03",
+      "source": "AH3b_HUAC",
+      "clean_text": "AH3b_HUAC"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9C5E8E63",
+      "source": "~z~B-be careful, people. Heard some chatter from the air unit. I think they've seen you.",
+      "clean_text": "B-be careful, people. Heard some chatter from the air unit. I think they've seen you."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9C45CAFF",
+      "source": "AH3b_EGAA",
+      "clean_text": "AH3b_EGAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9C3829C5",
+      "source": "~z~Sorry?",
+      "clean_text": "Sorry?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9C5844E0",
+      "source": "~z~Bullshit! I say we start shooting!",
+      "clean_text": "Bullshit! I say we start shooting!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9CC56A21",
+      "source": "~z~I'm cool. Are you cool? I'm completely cool.",
+      "clean_text": "I'm cool. Are you cool? I'm completely cool."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9CD7BE53",
+      "source": "~z~The crew's waiting for you.",
+      "clean_text": "The crew's waiting for you."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9D2D9673",
+      "source": "~z~C'mon, Franklin.",
+      "clean_text": "C'mon, Franklin."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9D9B10C2",
+      "source": "~z~What's our ETD?",
+      "clean_text": "What's our ETD?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9D29E6A6",
+      "source": "AH3b_GKAX",
+      "clean_text": "AH3b_GKAX"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9D68B5BF",
+      "source": "~z~I appreciate it.",
+      "clean_text": "I appreciate it."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9D72A7CD",
+      "source": "AH3b_RJAA",
+      "clean_text": "AH3b_RJAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9D13641D",
+      "source": "~z~Look out! Guys on the roof - your left!",
+      "clean_text": "Look out! Guys on the roof - your left!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9D25381B",
+      "source": "AH3b_FFAA",
+      "clean_text": "AH3b_FFAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9DC57C89",
+      "source": "AH3b_CSAH",
+      "clean_text": "AH3b_CSAH"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9DF9C097",
+      "source": "~z~There's no getting out of this, I'm afraid.",
+      "clean_text": "There's no getting out of this, I'm afraid."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9E3A5192",
+      "source": "AH3b_GKBG",
+      "clean_text": "AH3b_GKBG"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9E7AF149",
+      "source": "~z~Good people bring the right tools for an occasion. Let's get ready for the security team.",
+      "clean_text": "Good people bring the right tools for an occasion. Let's get ready for the security team."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9E278AF8",
+      "source": "AH3b_HXBB",
+      "clean_text": "AH3b_HXBB"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9E45157D",
+      "source": "~z~Eh, where the driver at?",
+      "clean_text": "Eh, where the driver at?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9E953093",
+      "source": "~z~They goin' rendition us or some shit, if we get caught.",
+      "clean_text": "They goin' rendition us or some shit, if we get caught."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9EC76CEA",
+      "source": "~z~Hey! Hey! Hey!",
+      "clean_text": "Hey! Hey! Hey!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9EED1DA4",
+      "source": "~z~Alright, Karim - good work getting the ambulance.",
+      "clean_text": "Alright, Karim - good work getting the ambulance."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9F0B495F",
+      "source": "~z~Yeah, I done did my homework this time - access My Computer.",
+      "clean_text": "Yeah, I done did my homework this time - access My Computer."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9F2A8016",
+      "source": "AH3b_QSAA",
+      "clean_text": "AH3b_QSAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9F3CA0FD",
+      "source": "~z~My lungs.",
+      "clean_text": "My lungs."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9F655783",
+      "source": "~z~You happy with this, team leader!?",
+      "clean_text": "You happy with this, team leader!?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9FB31DFF",
+      "source": "AH3b_NNAA",
+      "clean_text": "AH3b_NNAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x9FF1D69A",
+      "source": "~z~It's expensive, and there ain't much else for me in sunny Los Santos, so... you know, I need that money.",
+      "clean_text": "It's expensive, and there ain't much else for me in sunny Los Santos, so... you know, I need that money."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x10B6A602",
+      "source": "~z~The driver's meeting us out front, right?",
+      "clean_text": "The driver's meeting us out front, right?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x11A024B3",
+      "source": "~z~This is never going to work.",
+      "clean_text": "This is never going to work."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x11AB26A5",
+      "source": "~z~So what if my cell phone tells the time - having a cell phone ain't the same as wearing twelve grand on your wrist.",
+      "clean_text": "So what if my cell phone tells the time - having a cell phone ain't the same as wearing twelve grand on your wrist."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x11B1599E",
+      "source": "AH3b_HXAB",
+      "clean_text": "AH3b_HXAB"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x11BC2A62",
+      "source": "AH3b_PLAA",
+      "clean_text": "AH3b_PLAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x11E482E1",
+      "source": "AH3b_JFAA",
+      "clean_text": "AH3b_JFAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x12C3B2A8",
+      "source": "AH3b_PRAA",
+      "clean_text": "AH3b_PRAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x12EB5239",
+      "source": "AH3b_SNAA",
+      "clean_text": "AH3b_SNAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x12F1D5B0",
+      "source": "~z~If we are going to do this thing,",
+      "clean_text": "If we are going to do this thing,"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x13D0A143",
+      "source": "AH3b_CBAA",
+      "clean_text": "AH3b_CBAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x13D8D846",
+      "source": "AH3b_SUAA",
+      "clean_text": "AH3b_SUAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x13F79F2D",
+      "source": "~z~Eh, set up the rope there, and we'll drop to the street.",
+      "clean_text": "Eh, set up the rope there, and we'll drop to the street."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x14A9240F",
+      "source": "~z~Let's go!",
+      "clean_text": "Let's go!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x14AED828",
+      "source": "AH3b_JRAA",
+      "clean_text": "AH3b_JRAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x14CCB39C",
+      "source": "AH3b_GKAH",
+      "clean_text": "AH3b_GKAH"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x14D27E2E",
+      "source": "AH3b_TDAA",
+      "clean_text": "AH3b_TDAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x14F81B20",
+      "source": "~z~Move.",
+      "clean_text": "Move."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x15B9E4E6",
+      "source": "~z~The heli crash caused extensive damage. Explosion went through a couple of floors.",
+      "clean_text": "The heli crash caused extensive damage. Explosion went through a couple of floors."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x15C387A7",
+      "source": "AH3b_PPAA",
+      "clean_text": "AH3b_PPAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x15F23B3F",
+      "source": "AH3b_IGAA",
+      "clean_text": "AH3b_IGAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x17AFB7BA",
+      "source": "~z~Keep going.",
+      "clean_text": "Keep going."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x17BB7E82",
+      "source": "AH3b_AZAA",
+      "clean_text": "AH3b_AZAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x17BBFCAA",
+      "source": "~z~Yo! Leave us be, man!",
+      "clean_text": "Yo! Leave us be, man!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x17D5C291",
+      "source": "AH3b_IAAF",
+      "clean_text": "AH3b_IAAF"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x17E39510",
+      "source": "~z~Alright, I need IT outside the FIB building, ready for the cyber part of this op.",
+      "clean_text": "Alright, I need IT outside the FIB building, ready for the cyber part of this op."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x17F49CB2",
+      "source": "AH3b_HQAA",
+      "clean_text": "AH3b_HQAA"
+    }
+  ]
+}

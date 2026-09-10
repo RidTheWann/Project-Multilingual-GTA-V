@@ -1,0 +1,606 @@
+{
+  "chunk": 1,
+  "total": 100,
+  "items": [
+    {
+      "file": "acultau.oxt",
+      "key": "0x036FBC93",
+      "source": "~z~So you keep saying.",
+      "clean_text": "So you keep saying."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x08799FBC",
+      "source": "~z~Come, my children! Come! Come this way! Gather round!",
+      "clean_text": "Come, my children! Come! Come this way! Gather round!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x087E087D",
+      "source": "~z~Ban clothes!",
+      "clean_text": "Ban clothes!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x0B6DBD74",
+      "source": "~z~Drink his youth!",
+      "clean_text": "Drink his youth!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x0FF6D54D",
+      "source": "~z~Come on! Move... move! Come on! Come on!",
+      "clean_text": "Come on! Move... move! Come on! Come on!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x1A9E4405",
+      "source": "~z~A sign, a sign! Someone has been brought!",
+      "clean_text": "A sign, a sign! Someone has been brought!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x1A60D856",
+      "source": "~z~We will leave you with nothing!",
+      "clean_text": "We will leave you with nothing!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x1D910673",
+      "source": "~z~Come on! Move! Move! Move! Move it! Move! Move!",
+      "clean_text": "Come on! Move! Move! Move! Move it! Move! Move!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x1E41696F",
+      "source": "~z~Someone has been brought! It is a sign!",
+      "clean_text": "Someone has been brought! It is a sign!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x1EB234E5",
+      "source": "~z~Ban lies!",
+      "clean_text": "Ban lies!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x2B8F1278",
+      "source": "~z~Ban deceit!",
+      "clean_text": "Ban deceit!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x2FCF3639",
+      "source": "~z~I'm doing history a favor!",
+      "clean_text": "I'm doing history a favor!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3A87AD76",
+      "source": "~z~I'm closing this pervert camp down!",
+      "clean_text": "I'm closing this pervert camp down!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3AF4639C",
+      "source": "~z~We prostrate our continuing youth and vigor...",
+      "clean_text": "We prostrate our continuing youth and vigor..."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3E1F6D32",
+      "source": "~z~Pure blood! ~c~~n~Pure blood!",
+      "clean_text": "Pure blood! Pure blood!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3F8F0DEA",
+      "source": "~z~Come this way! Gather round!",
+      "clean_text": "Come this way! Gather round!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4AD64E13",
+      "source": "~z~I brought you all those millennials!",
+      "clean_text": "I brought you all those millennials!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4C0D4502",
+      "source": "~z~I come bearing gifts once more -",
+      "clean_text": "I come bearing gifts once more -"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4CEF917F",
+      "source": "~z~Altruism.",
+      "clean_text": "Altruism."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4DBBBF23",
+      "source": "~z~Bleed him dry! That is our legacy!",
+      "clean_text": "Bleed him dry! That is our legacy!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4EE65926",
+      "source": "~z~Ban clothes!",
+      "clean_text": "Ban clothes!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4FC4F02E",
+      "source": "~z~Drink of the blood! ~c~~n~Drink of the blood!",
+      "clean_text": "Drink of the blood! Drink of the blood!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x5B4C053D",
+      "source": "~z~I hear you, child... go and collect.",
+      "clean_text": "I hear you, child... go and collect."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x5E54F25C",
+      "source": "~z~You're good to us, fellow.",
+      "clean_text": "You're good to us, fellow."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x5EAC3A9A",
+      "source": "~z~The greatest good, for the greatest generation!",
+      "clean_text": "The greatest good, for the greatest generation!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x6A2EF409",
+      "source": "~z~We shall boom again.",
+      "clean_text": "We shall boom again."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x6D352B12",
+      "source": "~z~We shall be free once more! ~c~~n~We shall be free once more!",
+      "clean_text": "We shall be free once more! We shall be free once more!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x6FC10C69",
+      "source": "~z~this time, two gifts!",
+      "clean_text": "this time, two gifts!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7B15F36D",
+      "source": "~z~We shall be free once more!",
+      "clean_text": "We shall be free once more!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7B446E0C",
+      "source": "~z~Ban deceit!",
+      "clean_text": "Ban deceit!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7E746EC9",
+      "source": "~z~Someone has been brought! It is a sign!",
+      "clean_text": "Someone has been brought! It is a sign!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7EAACBFA",
+      "source": "~z~Master! Master! Master!",
+      "clean_text": "Master! Master! Master!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x8E4D524C",
+      "source": "~z~Move! Come on... move! Move!",
+      "clean_text": "Move! Come on... move! Move!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9ABD275E",
+      "source": "~z~Come this way, everyone, come here! It is a sign that someone has been brought!",
+      "clean_text": "Come this way, everyone, come here! It is a sign that someone has been brought!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9B992ED1",
+      "source": "~z~The greatest good, for the greatest generation.",
+      "clean_text": "The greatest good, for the greatest generation."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9B2286EC",
+      "source": "~z~For the greatest generation! ~c~~n~For the greatest generation!",
+      "clean_text": "For the greatest generation! For the greatest generation!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9D971E55",
+      "source": "~z~The new boom will not be televised!",
+      "clean_text": "The new boom will not be televised!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9ECD1433",
+      "source": "~z~I'll kill all of you freaks!",
+      "clean_text": "I'll kill all of you freaks!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x10A12987",
+      "source": "~z~Just a couple more lonely hitchhikers for you to...",
+      "clean_text": "Just a couple more lonely hitchhikers for you to..."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x17C42080",
+      "source": "~z~and make him pure!",
+      "clean_text": "and make him pure!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x18EA1F84",
+      "source": "~z~Hello, finder! ~c~~n~Hello, finder!",
+      "clean_text": "Hello, finder! Hello, finder!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x32DE1B7B",
+      "source": "~z~Someone has been brought! It is a sign!",
+      "clean_text": "Someone has been brought! It is a sign!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x45BCDC1E",
+      "source": "~z~The greatest good! ~c~~n~The greatest good!",
+      "clean_text": "The greatest good! The greatest good!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x47E75E74",
+      "source": "~z~Someone has been brought! It is a sign!",
+      "clean_text": "Someone has been brought! It is a sign!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x52A7087A",
+      "source": "~z~We are too many! You cannot retire us all!",
+      "clean_text": "We are too many! You cannot retire us all!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x58DCEA20",
+      "source": "~z~Your generation ruined everything for everyone!",
+      "clean_text": "Your generation ruined everything for everyone!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x61C7BB2F",
+      "source": "~z~Eat of the flesh. Drink of the blood.",
+      "clean_text": "Eat of the flesh. Drink of the blood."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x63F4AB15",
+      "source": "~z~We will not cede to the young!",
+      "clean_text": "We will not cede to the young!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x89E1EA49",
+      "source": "~z~Stop trying to relive the sixties! It's over!",
+      "clean_text": "Stop trying to relive the sixties! It's over!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x203B78DE",
+      "source": "~z~All you do is take, take, take! Typical baby boomers.",
+      "clean_text": "All you do is take, take, take! Typical baby boomers."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x347A3999",
+      "source": "~z~Altruism! ~c~~n~Altruism!",
+      "clean_text": "Altruism! Altruism!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x352CF29E",
+      "source": "~z~What have you got? What have you got?",
+      "clean_text": "What have you got? What have you got?"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x423A8CB9",
+      "source": "~z~Come on... move!",
+      "clean_text": "Come on... move!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x519B10E9",
+      "source": "~z~At this altar that has been sent to us.",
+      "clean_text": "At this altar that has been sent to us."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x560B3ADE",
+      "source": "~z~We shall boom again!",
+      "clean_text": "We shall boom again!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x647FAC27",
+      "source": "~z~Make him pure!",
+      "clean_text": "Make him pure!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x792B557E",
+      "source": "~z~His generation has betrayed us again!",
+      "clean_text": "His generation has betrayed us again!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x821BF1EA",
+      "source": "~z~Purity is everything! ~c~~n~Purity is everything!",
+      "clean_text": "Purity is everything! Purity is everything!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x839F057E",
+      "source": "~z~Yes, master.",
+      "clean_text": "Yes, master."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x872DF183",
+      "source": "~z~See, he understands nothing of sacrifice!",
+      "clean_text": "See, he understands nothing of sacrifice!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x878F8C60",
+      "source": "~z~Because we know!",
+      "clean_text": "Because we know!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x971E6995",
+      "source": "~z~Ban youth!",
+      "clean_text": "Ban youth!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4628FA01",
+      "source": "~z~Hello, seeker!",
+      "clean_text": "Hello, seeker!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x5283FBA2",
+      "source": "~z~Careful, don't give yourself a hernia!",
+      "clean_text": "Careful, don't give yourself a hernia!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x6350B454",
+      "source": "~z~Hello, finder! ~c~~n~Hello, finder!",
+      "clean_text": "Hello, finder! Hello, finder!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7761DC76",
+      "source": "~z~Prepare to be made pure!",
+      "clean_text": "Prepare to be made pure!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x26799D98",
+      "source": "~z~Youth! ~c~~n~Youth!",
+      "clean_text": "Youth! Youth!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x30264E00",
+      "source": "~z~We kneel before you.",
+      "clean_text": "We kneel before you."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x44435F21",
+      "source": "~z~You're the worst cult I've ever seen!",
+      "clean_text": "You're the worst cult I've ever seen!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x123359C2",
+      "source": "~z~Hail, fellow, what have you got? What have you got?",
+      "clean_text": "Hail, fellow, what have you got? What have you got?"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x323861B3",
+      "source": "~z~Altruism!",
+      "clean_text": "Altruism!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x661743B2",
+      "source": "~z~Ban youth!",
+      "clean_text": "Ban youth!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x791548B0",
+      "source": "~z~Put some clothes on, you old creeps!",
+      "clean_text": "Put some clothes on, you old creeps!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x2452974B",
+      "source": "~z~Someone has been brought! The tide is turning. Come this way!",
+      "clean_text": "Someone has been brought! The tide is turning. Come this way!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9515925B",
+      "source": "~z~He's back... our friend is back.",
+      "clean_text": "He's back... our friend is back."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x66562332",
+      "source": "~z~You're the worst generation in history!",
+      "clean_text": "You're the worst generation in history!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x70725884",
+      "source": "~z~We shall be free once more.",
+      "clean_text": "We shall be free once more."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xA2B36915",
+      "source": "~z~He is on the cusp! The boom is weak in him!",
+      "clean_text": "He is on the cusp! The boom is weak in him!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xA369E004",
+      "source": "~z~What is this? Come on...",
+      "clean_text": "What is this? Come on..."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xABD0BAC8",
+      "source": "~z~He wants our positions of power!",
+      "clean_text": "He wants our positions of power!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xAC880EC1",
+      "source": "~z~I come bearing more gifts.",
+      "clean_text": "I come bearing more gifts."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xAE9CC060",
+      "source": "~z~The internet has driven him crazy!",
+      "clean_text": "The internet has driven him crazy!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xB2EE8973",
+      "source": "~z~We will boom again! You cannot stop us!",
+      "clean_text": "We will boom again! You cannot stop us!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xB45EB964",
+      "source": "~z~We shall boom again! ~c~~n~We shall boom again!",
+      "clean_text": "We shall boom again! We shall boom again!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xB207B2B7",
+      "source": "~z~Someone has been brought! Someone has been brought!",
+      "clean_text": "Someone has been brought! Someone has been brought!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xBB82E4B3",
+      "source": "~z~Pure flesh! ~c~~n~Pure flesh!",
+      "clean_text": "Pure flesh! Pure flesh!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xBDA8F955",
+      "source": "~z~He's come again! Our friend is back! Our true friend!",
+      "clean_text": "He's come again! Our friend is back! Our true friend!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xBE23FA87",
+      "source": "~z~Well, then it is time to be true to ourselves, my child.",
+      "clean_text": "Well, then it is time to be true to ourselves, my child."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xBE34F408",
+      "source": "~z~Because we know.",
+      "clean_text": "Because we know."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xC04363AD",
+      "source": "~z~This is how they repay us?",
+      "clean_text": "This is how they repay us?"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xC8B3B4FD",
+      "source": "~z~We won't die until the young are old themselves!",
+      "clean_text": "We won't die until the young are old themselves!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xC3373350",
+      "source": "~z~You're too good to us!",
+      "clean_text": "You're too good to us!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xCC48FD04",
+      "source": "~z~Drink his youth!",
+      "clean_text": "Drink his youth!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xD0A2A98B",
+      "source": "~z~Maybe you should, friend.",
+      "clean_text": "Maybe you should, friend."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xD6B60408",
+      "source": "~z~Don't try and out-weird me, granddad!",
+      "clean_text": "Don't try and out-weird me, granddad!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xD569CE69",
+      "source": "~z~Our greatest success will be their failure!",
+      "clean_text": "Our greatest success will be their failure!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xD1221F88",
+      "source": "~z~We shall boom again.",
+      "clean_text": "We shall boom again."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xDAFD7142",
+      "source": "~z~Eat of the flesh! Drink of the blood!",
+      "clean_text": "Eat of the flesh! Drink of the blood!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xDB75EC48",
+      "source": "~z~And so it is... and so it is... leave the body, take the gold...",
+      "clean_text": "And so it is... and so it is... leave the body, take the gold..."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xE9A023E6",
+      "source": "~z~Ban deceit! ~c~~n~Ban deceit!",
+      "clean_text": "Ban deceit! Ban deceit!"
+    }
+  ]
+}

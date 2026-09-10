@@ -1,0 +1,606 @@
+{
+  "chunk": 10,
+  "total": 100,
+  "items": [
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x99F07D17",
+      "source": "~z~and the thefts,",
+      "clean_text": "and the thefts,"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x103F20C1",
+      "source": "AH3b_DAAA",
+      "clean_text": "AH3b_DAAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x104BDB14",
+      "source": "AH3b_STAA",
+      "clean_text": "AH3b_STAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x109ED6E8",
+      "source": "~z~Hey! That was real simple, wasn't it? I'm informed now, dog.",
+      "clean_text": "Hey! That was real simple, wasn't it? I'm informed now, dog."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x110A9663",
+      "source": "~z~Quick - run BruteForce.exe.",
+      "clean_text": "Quick - run BruteForce.exe."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x114ADFEB",
+      "source": "AH3b_RDAB",
+      "clean_text": "AH3b_RDAB"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x125A98AE",
+      "source": "~z~Let's blow this joint!",
+      "clean_text": "Let's blow this joint!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x126F7141",
+      "source": "~z~Fuck. He out.",
+      "clean_text": "Fuck. He out."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x144FEC30",
+      "source": "~z~There's a dude in there.",
+      "clean_text": "There's a dude in there."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x149F5D77",
+      "source": "AH3b_SYAB",
+      "clean_text": "AH3b_SYAB"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x160BAAC5",
+      "source": "~z~We've got one shot at this, pickup has to be soon.",
+      "clean_text": "We've got one shot at this, pickup has to be soon."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x168D5CDB",
+      "source": "~z~The internet age?",
+      "clean_text": "The internet age?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x170F7113",
+      "source": "AH3b_COAM",
+      "clean_text": "AH3b_COAM"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x174E16E7",
+      "source": "AH3b_JKAA",
+      "clean_text": "AH3b_JKAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x175F69FE",
+      "source": "AH3b_NKAA",
+      "clean_text": "AH3b_NKAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x183A07AB",
+      "source": "~z~Don't push me!",
+      "clean_text": "Don't push me!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x186C7F4B",
+      "source": "~z~I got it. It's right here...",
+      "clean_text": "I got it. It's right here..."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x188B7D96",
+      "source": "~z~I haven't looked forward to killing this much since the academy.",
+      "clean_text": "I haven't looked forward to killing this much since the academy."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x194E824A",
+      "source": "~z~Of all the ways for a midlife crisis to manifest itself.",
+      "clean_text": "Of all the ways for a midlife crisis to manifest itself."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x198BC74F",
+      "source": "AH3b_GKBF",
+      "clean_text": "AH3b_GKBF"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x199C02D5",
+      "source": "~z~I'll grab the files when this heat dies down! Get me an opening!",
+      "clean_text": "I'll grab the files when this heat dies down! Get me an opening!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x201C3AD9",
+      "source": "~z~Alright, we're coming up here. The chopper pilot, gunman, driver and hacker should be ready. I'll radio in.",
+      "clean_text": "Alright, we're coming up here. The chopper pilot, gunman, driver and hacker should be ready. I'll radio in."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x206A1CF6",
+      "source": "~z~Maybe they're in, like, My Computer.",
+      "clean_text": "Maybe they're in, like, My Computer."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x208A6D89",
+      "source": "AH3b_AQAA",
+      "clean_text": "AH3b_AQAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x224DB75E",
+      "source": "AH3b_QMAA",
+      "clean_text": "AH3b_QMAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x224ED71D",
+      "source": "AH3b_SZAH",
+      "clean_text": "AH3b_SZAH"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x237E9D68",
+      "source": "~z~The IP number you n-need is at the top - look for it in the larger grid.",
+      "clean_text": "The IP number you n-need is at the top - look for it in the larger grid."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x247B3ABF",
+      "source": "AH3b_GQAN",
+      "clean_text": "AH3b_GQAN"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x250F3173",
+      "source": "AH3b_GNAE",
+      "clean_text": "AH3b_GNAE"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x254C72AD",
+      "source": "AH3b_CCAA",
+      "clean_text": "AH3b_CCAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x258ECBF1",
+      "source": "AH3b_SWAI",
+      "clean_text": "AH3b_SWAI"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x274EBFCD",
+      "source": "~z~Go.",
+      "clean_text": "Go."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x276E7F19",
+      "source": "AH3b_NXAA",
+      "clean_text": "AH3b_NXAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x295D78CA",
+      "source": "~z~Room on the left! Agents!",
+      "clean_text": "Room on the left! Agents!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x298A99FE",
+      "source": "AH3b_HXAM",
+      "clean_text": "AH3b_HXAM"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x298DBBDA",
+      "source": "AH3b_NBAG",
+      "clean_text": "AH3b_NBAG"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x302AA1B4",
+      "source": "AH3b_HXBF",
+      "clean_text": "AH3b_HXBF"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x307E6F9B",
+      "source": "~z~Guys, are we ready?",
+      "clean_text": "Guys, are we ready?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x308CDAD2",
+      "source": "~z~How'd this happen?",
+      "clean_text": "How'd this happen?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x315D926B",
+      "source": "AH3b_BZAA",
+      "clean_text": "AH3b_BZAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x317FD67A",
+      "source": "~z~Urgh. Shit, they smoking us out.",
+      "clean_text": "Urgh. Shit, they smoking us out."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x325CB08A",
+      "source": "~z~The program will expose each character of the password as it tries different encryptions.",
+      "clean_text": "The program will expose each character of the password as it tries different encryptions."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x327C581F",
+      "source": "AH3b_FZAA",
+      "clean_text": "AH3b_FZAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x334DC24D",
+      "source": "AH3b_SWAD",
+      "clean_text": "AH3b_SWAD"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x337BE102",
+      "source": "AH3b_MUAA",
+      "clean_text": "AH3b_MUAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x338F1534",
+      "source": "AH3b_COAW",
+      "clean_text": "AH3b_COAW"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x340BC78D",
+      "source": "AH3b_DTAA",
+      "clean_text": "AH3b_DTAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x341BB56D",
+      "source": "~z~Just back up a god damn minute!",
+      "clean_text": "Just back up a god damn minute!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x344DA916",
+      "source": "~z~Man, you may be a conflicted,",
+      "clean_text": "Man, you may be a conflicted,"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x346DD868",
+      "source": "AH3b_PKAA",
+      "clean_text": "AH3b_PKAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x347B47B7",
+      "source": "~z~Let's get a few of 'em off of us!",
+      "clean_text": "Let's get a few of 'em off of us!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x350E5268",
+      "source": "AH3b_IXAA",
+      "clean_text": "AH3b_IXAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x356EBB95",
+      "source": "~z~Take a yoga or meditation break if you need one, bro.",
+      "clean_text": "Take a yoga or meditation break if you need one, bro."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x361A11F5",
+      "source": "~z~Always on time, bro.",
+      "clean_text": "Always on time, bro."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x365DCEEA",
+      "source": "~z~A'ight! He out!",
+      "clean_text": "A'ight! He out!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x372B4E26",
+      "source": "~z~Remember that if I ever hire you again.",
+      "clean_text": "Remember that if I ever hire you again."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x379BF429",
+      "source": "~z~Over here! Let's go!",
+      "clean_text": "Over here! Let's go!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x387B42CA",
+      "source": "AH3b_OXAA",
+      "clean_text": "AH3b_OXAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x393AF5CE",
+      "source": "AH3b_RWAA",
+      "clean_text": "AH3b_RWAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x410EA8DF",
+      "source": "~z~Agent Steve's set up a base of operations at the Noose building off the Palomino Freeway.",
+      "clean_text": "Agent Steve's set up a base of operations at the Noose building off the Palomino Freeway."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x413AFD69",
+      "source": "~z~I guess 'cause I'm not the one who's about to die,",
+      "clean_text": "I guess 'cause I'm not the one who's about to die,"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x415ABCE7",
+      "source": "~z~Shit, that ain't what he says.",
+      "clean_text": "Shit, that ain't what he says."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x423A9D0F",
+      "source": "AH3b_GKAS",
+      "clean_text": "AH3b_GKAS"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x423ACF58",
+      "source": "~z~About time.",
+      "clean_text": "About time."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x426B8DE1",
+      "source": "AH3b_GKAY",
+      "clean_text": "AH3b_GKAY"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x426FDC16",
+      "source": "~z~We're getting outta here, one way or another!",
+      "clean_text": "We're getting outta here, one way or another!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x434D9B64",
+      "source": "AH3b_SYAE",
+      "clean_text": "AH3b_SYAE"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x438AD206",
+      "source": "~z~Landing!",
+      "clean_text": "Landing!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x441ED638",
+      "source": "~z~C'mon.",
+      "clean_text": "C'mon."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x453C536B",
+      "source": "~z~Yeah, it worked. I'm glad we stuck with you, kid.",
+      "clean_text": "Yeah, it worked. I'm glad we stuck with you, kid."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x453FAC42",
+      "source": "AH3b_GQAK",
+      "clean_text": "AH3b_GQAK"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x464B1751",
+      "source": "~z~They're on top of us! Left side of the roof!",
+      "clean_text": "They're on top of us! Left side of the roof!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x468F3365",
+      "source": "~z~Quick!",
+      "clean_text": "Quick!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x470C8CAD",
+      "source": "~z~You're a good man and a great father, really.",
+      "clean_text": "You're a good man and a great father, really."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x471C9261",
+      "source": "~z~Now let's get some linkage - gimme Hack Connect in this bitch.",
+      "clean_text": "Now let's get some linkage - gimme Hack Connect in this bitch."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x478D6653",
+      "source": "AH3b_MVAA",
+      "clean_text": "AH3b_MVAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x483ADF01",
+      "source": "~z~Get on the floor!",
+      "clean_text": "Get on the floor!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x495C4021",
+      "source": "~z~Oh, right, you mean like with your deal. Um, maybe they called the military or something?",
+      "clean_text": "Oh, right, you mean like with your deal. Um, maybe they called the military or something?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x503D4328",
+      "source": "~z~Motherfuckers... check the doors!",
+      "clean_text": "Motherfuckers... check the doors!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x511FD09E",
+      "source": "AH3b_SCAA",
+      "clean_text": "AH3b_SCAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x518D7B17",
+      "source": "AH3b_FCAA",
+      "clean_text": "AH3b_FCAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x520DA98C",
+      "source": "~z~There's a bunch of n-network spew, but you should be able to locate this terminal by its IP.",
+      "clean_text": "There's a bunch of n-network spew, but you should be able to locate this terminal by its IP."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x528F17DC",
+      "source": "AH3b_FUAA",
+      "clean_text": "AH3b_FUAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x529E34C1",
+      "source": "AH3b_IAAC",
+      "clean_text": "AH3b_IAAC"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x537DA574",
+      "source": "AH3b_SWAA",
+      "clean_text": "AH3b_SWAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x542C6712",
+      "source": "AH3b_HCAB",
+      "clean_text": "AH3b_HCAB"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x543CDE48",
+      "source": "~z~there's nothing they can really do to us.",
+      "clean_text": "there's nothing they can really do to us."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x549D1E5F",
+      "source": "~z~The ambulance! Get in, guys!",
+      "clean_text": "The ambulance! Get in, guys!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x553B485F",
+      "source": "AH3b_HZAD",
+      "clean_text": "AH3b_HZAD"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x553DDA10",
+      "source": "AH3b_SYAJ",
+      "clean_text": "AH3b_SYAJ"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x559B8841",
+      "source": "AH3b_QAAA",
+      "clean_text": "AH3b_QAAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x574A3372",
+      "source": "~z~Let's do this!",
+      "clean_text": "Let's do this!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x577AD874",
+      "source": "AH3b_JPAA",
+      "clean_text": "AH3b_JPAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x578DB5A7",
+      "source": "AH3b_SVAA",
+      "clean_text": "AH3b_SVAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x581F23A8",
+      "source": "~z~We made it outta there! They can't catch us now!",
+      "clean_text": "We made it outta there! They can't catch us now!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x584CC143",
+      "source": "AH3b_GJAB",
+      "clean_text": "AH3b_GJAB"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x600F7267",
+      "source": "~z~There been a change of plans?",
+      "clean_text": "There been a change of plans?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x605FA7F3",
+      "source": "AH3b_RVAA",
+      "clean_text": "AH3b_RVAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x608FF5A7",
+      "source": "AH3b_EBAA",
+      "clean_text": "AH3b_EBAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x610C43E9",
+      "source": "~z~Hey, uhhh, I thought this was a low risk type deal.",
+      "clean_text": "Hey, uhhh, I thought this was a low risk type deal."
+    }
+  ]
+}

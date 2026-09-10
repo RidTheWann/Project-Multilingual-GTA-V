@@ -6,8 +6,8 @@
     "missing_in_target": 0,
     "unexpected_in_target": 0,
     "total_entries": 284927,
-    "translated_entries": 2470,
-    "identical_entries": 282457,
+    "translated_entries": 3601,
+    "identical_entries": 281326,
     "total_qa_warnings": 0
   },
   "results": [
@@ -28,8 +28,8 @@
       "warnings": [],
       "qa_warnings": [],
       "total_entries": 281,
-      "translated_entries": 0,
-      "identical_entries": 281
+      "translated_entries": 116,
+      "identical_entries": 165
     },
     {
       "filename": "afterm.oxt",
@@ -48,8 +48,8 @@
       "warnings": [],
       "qa_warnings": [],
       "total_entries": 70,
-      "translated_entries": 2,
-      "identical_entries": 68
+      "translated_entries": 68,
+      "identical_entries": 2
     },
     {
       "filename": "ah3baud.oxt",
@@ -58,8 +58,8 @@
       "warnings": [],
       "qa_warnings": [],
       "total_entries": 3037,
-      "translated_entries": 7,
-      "identical_entries": 3030
+      "translated_entries": 956,
+      "identical_entries": 2081
     },
     {
       "filename": "ahfaud.oxt",

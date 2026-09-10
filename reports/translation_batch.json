@@ -2,16 +2,16 @@
   "summary": {
     "files_processed": 2,
     "total_entries": 76,
-    "translated_entries": 5,
-    "unchanged_entries": 71,
+    "translated_entries": 71,
+    "unchanged_entries": 5,
     "dry_run": false
   },
   "results": [
     {
       "filename": "ah3b.oxt",
       "total_entries": 70,
-      "translated_entries": 2,
-      "unchanged_entries": 68,
+      "translated_entries": 68,
+      "unchanged_entries": 2,
       "status": "PROCESSED"
     },
     {

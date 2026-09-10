@@ -62,106 +62,80 @@ class TranslationEngine:
         except Exception as e:
             print(f"Warning: Failed to save translation cache: {e}")
 
-    def _resolve_colored_noun(self, color_token: str, english_noun: str) -> str:
-        """Translate the noun inside ~y~noun~s~ or ~b~noun~s~ cleanly."""
-        clean = english_noun.strip().lower()
+    def _resolve_colored_noun(self, color_token: str, english_noun: str) -> Tuple[str, str]:
+        """
+        Translate noun inside ~y~noun~s~ cleanly, returning (colored_part, trailing_punc).
+        Preserves any internal period/exclamation mark within the tag or outer punctuation.
+        """
+        raw = english_noun.strip()
+        inner_punc = ""
+        if raw and raw[-1] in (".", "!", "?"):
+            inner_punc = raw[-1]
+            raw = raw[:-1].strip()
+
+        clean = raw.lower()
         if clean in COMMON_NOUNS_AND_LOCATIONS:
-            return f"{color_token}{COMMON_NOUNS_AND_LOCATIONS[clean]}~s~"
-        elif english_noun.strip() in PROTECTED_PROPER_NOUNS:
-            return f"{color_token}{english_noun.strip()}~s~"
-        return f"{color_token}{english_noun.strip()}~s~"
+            translated = COMMON_NOUNS_AND_LOCATIONS[clean]
+        elif raw in PROTECTED_PROPER_NOUNS:
+            translated = raw
+        else:
+            translated = raw
+
+        return f"{color_token}{translated}{inner_punc}~s~"
 
     def _resolve_dynamic_directive(self, text: str) -> Optional[str]:
-        """Resolves common dynamic mission directives with color tokens."""
-        # 1. "Go to the ~y~exit.~s~" / "Go to the ~y~server room.~s~"
-        m = re.match(r"^Go to the (~[byrg]~)([^~]+)(~s~)\.?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
-            return f"Pergilah ke {colored}."
-
-        # 2. "Go to ~y~exit~s~."
-        m = re.match(r"^Go to (~[byrg]~)([^~]+)(~s~)\.?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
-            return f"Pergilah ke {colored}."
-
-        # 3. "Follow ~b~Trevor.~s~" / "Follow ~b~Lamar.~s~"
-        m = re.match(r"^Follow (~[byrg]~)([^~]+)(~s~)\.?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
-            return f"Ikuti {colored}."
-
-        # 4. "Wait for ~b~Trevor~s~ to get to the car.~s~"
-        m = re.match(r"^Wait for (~[byrg]~)([^~]+)(~s~) to get to the car\.?(~s~)?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
+        """Resolves common dynamic mission directives with color tokens and punctuation safety."""
+        # 1. Complex directives with verbs and objects (e.g. "Wait for ~b~Trevor~s~ to get to the car.~s~")
+        m_complex = re.match(r"^Wait for (~[byrg]~)([^~]+)(~s~) to get to the car\.?(~s~)?$", text, re.IGNORECASE)
+        if m_complex:
+            colored = self._resolve_colored_noun(m_complex.group(1), m_complex.group(2))
             return f"Tunggu {colored} sampai di mobil."
 
-        # 5. "Wait for the ~b~crew~s~ to get in the car.~s~"
-        m = re.match(r"^Wait for (?:the )?(~[byrg]~)([^~]+)(~s~) to get in the car\.?(~s~)?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
+        m_crew_car = re.match(r"^Wait for (?:the )?(~[byrg]~)([^~]+)(~s~) to get in the car\.?(~s~)?$", text, re.IGNORECASE)
+        if m_crew_car:
+            colored = self._resolve_colored_noun(m_crew_car.group(1), m_crew_car.group(2))
             return f"Tunggu {colored} masuk ke dalam mobil."
 
-        # 6. "Wait for the ~b~crew.~s~"
-        m = re.match(r"^Wait for (?:the )?(~[byrg]~)([^~]+)(~s~)\.?$", text, re.IGNORECASE)
+        # 2. General directive patterns: <Action Verb> <Color Token><Noun><~s~><Punctuation>
+        m = re.match(
+            r"^(Go to the|Go to|Wait for the|Wait for|Follow|Grab the|Shoot the|Get back in the|Collect the|Take out the|Open the|Return to the|Return to|Get to the|Enter the) (~[byrg]~)([^~]+)(~s~)(\.?)$",
+            text,
+            re.IGNORECASE,
+        )
         if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
-            return f"Tunggu {colored}."
+            verb = m.group(1).lower()
+            color = m.group(2)
+            noun = m.group(3)
+            outer_punc = m.group(5)
 
-        # 7. "Grab the ~b~woman.~s~"
-        m = re.match(r"^Grab the (~[byrg]~)([^~]+)(~s~)\.?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
-            return f"Tangkap {colored}."
+            colored = self._resolve_colored_noun(color, noun)
+            # Add outer period if neither colored tag nor outer had one
+            final_punc = outer_punc if outer_punc and not colored.endswith(".~s~") else ""
 
-        # 8. "Shoot the ~r~monitors.~s~"
-        m = re.match(r"^Shoot the (~[byrg]~)([^~]+)(~s~)\.?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
-            return f"Tembak {colored}."
-
-        # 9. "Get back in the ~b~fire truck.~s~"
-        m = re.match(r"^Get back in the (~[byrg]~)([^~]+)(~s~)\.?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
-            return f"Masuklah kembali ke dalam {colored}."
-
-        # 10. "Collect the ~g~cash.~s~"
-        m = re.match(r"^Collect the (~[byrg]~)([^~]+)(~s~)\.?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
-            return f"Ambil {colored}."
-
-        # 11. "Take out the ~r~guard.~s~"
-        m = re.match(r"^Take out the (~[byrg]~)([^~]+)(~s~)\.?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
-            return f"Lumpuhkan {colored}."
-
-        # 12. "Open the ~g~shutter door.~s~"
-        m = re.match(r"^Open the (~[byrg]~)([^~]+)(~s~)\.?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
-            return f"Buka {colored}."
-
-        # 13. "Return to the ~b~crew.~s~"
-        m = re.match(r"^Return to (?:the )?(~[byrg]~)([^~]+)(~s~)\.?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
-            return f"Kembalilah ke {colored}."
-
-        # 14. "Get to the ~b~car.~s~"
-        m = re.match(r"^Get to the (~[byrg]~)([^~]+)(~s~)\.?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
-            return f"Capailah {colored}."
-
-        # 15. "Get back in the ~b~car.~s~"
-        m = re.match(r"^Get back in the (~[byrg]~)([^~]+)(~s~)\.?$", text, re.IGNORECASE)
-        if m:
-            colored = self._resolve_colored_noun(m.group(1), m.group(2))
-            return f"Masuklah kembali ke dalam {colored}."
+            if verb in ("go to the", "go to"):
+                return f"Pergilah ke {colored}{final_punc}"
+            elif verb in ("wait for the", "wait for"):
+                return f"Tunggu {colored}{final_punc}"
+            elif verb == "follow":
+                return f"Ikuti {colored}{final_punc}"
+            elif verb == "grab the":
+                return f"Tangkap {colored}{final_punc}"
+            elif verb == "shoot the":
+                return f"Tembak {colored}{final_punc}"
+            elif verb == "get back in the":
+                return f"Masuklah kembali ke dalam {colored}{final_punc}"
+            elif verb == "collect the":
+                return f"Ambil {colored}{final_punc}"
+            elif verb == "take out the":
+                return f"Lumpuhkan {colored}{final_punc}"
+            elif verb == "open the":
+                return f"Buka {colored}{final_punc}"
+            elif verb in ("return to the", "return to"):
+                return f"Kembalilah ke {colored}{final_punc}"
+            elif verb == "get to the":
+                return f"Capailah {colored}{final_punc}"
+            elif verb == "enter the":
+                return f"Masuklah ke dalam {colored}{final_punc}"
 
         return None
 

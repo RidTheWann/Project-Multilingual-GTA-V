@@ -1,0 +1,931 @@
+   1: ~z~ I just need to get my shit together.
+   2: ~z~'Cause he might be ali...
+   3: ~z~...then y-you need to lock it manually.
+   4: ~z~A couple more scores, they're taken care of, and I can think about getting out the game.
+   5: ~z~A couple of floors, man. Devastation.
+   6: ~z~A little? Man, just gimme the plan, okay?
+   7: ~z~A'ight! He out!
+   8: ~z~A'ight. Now let's roll on this thing.
+   9: ~z~About time.
+  10: ~z~Ach. There.
+  11: ~z~Act like a paramedic crew. If one of you unloads his weapon, I'll cut his other weapon off.
+  12: ~z~Actually. Now that you mention it...
+  13: ~z~After I take care of this shit...
+  14: ~z~After this, I'm getting one just like yours, man. Seriously.
+  15: ~z~After you, kid.
+  16: ~z~Agent Haines said the timings were tight.
+  17: ~z~Agent Steve's set up a base of operations at the Noose building off the Palomino Freeway.
+  18: ~z~Agent Stevie cleared the NOOSE building in Palomino Highlands as a base for this op.
+  19: ~z~Agents coming from the left!
+  20: ~z~Agents on the roof! Look down the middle!
+  21: ~z~Agents to our left!
+  22: ~z~Ah crap... where's our driver?
+  23: ~z~Ah, hello, my friend.
+  24: ~z~Ah, no shit. I'm a producer. You should send me your script.
+  25: ~z~Ah, security's almost on top of you.
+  26: ~z~Ah, thanks for the moral support.
+  27: ~z~Ah, well, we're gonna need Trevor,
+  28: ~z~Ahhh!
+  29: ~z~Airlift confirmed. Approaching the tower.
+  30: ~z~Airlift initiated. Flying by the building.
+  31: ~z~All I done wrong is taken a job with these fools, officer!
+  32: ~z~All we got to be is smarter than all the cops in the city combined - it ain't a big ask.
+  33: ~z~Alright with the sad goodbyes.
+  34: ~z~Alright!
+  35: ~z~Alright! Let's go!
+  36: ~z~Alright, I need IT outside the FIB building, ready for the cyber part of this op.
+  37: ~z~Alright, I'm connected. No thanks to you.
+  38: ~z~Alright, Karim - good work getting the ambulance.
+  39: ~z~Alright, alright, we're clear. Frank, I told Lest we could use your place for a postmortum.
+  40: ~z~Alright, alright. Well, take care of yourself.
+  41: ~z~Alright, come on.
+  42: ~z~Alright, got it.
+  43: ~z~Alright, man.
+  44: ~z~Alright, see you, dog.
+  45: ~z~Alright, we're coming up here. The chopper pilot, gunman, driver and hacker should be ready. I'll radio in.
+  46: ~z~Alright, with the sad goodbyes.
+  47: ~z~Alright, you terrorist pricks.
+  48: ~z~Alright, you're Haines' pilot, right? We got to wait until it's late enough, then we move in the chopper.
+  49: ~z~Alright.
+  50: ~z~Alright. Here's the shot. We're taking a chopper up to altitude.
+  51: ~z~Always moving.
+  52: ~z~Always on time, bro.
+  53: ~z~Amen to that.
+  54: ~z~And if they don't, he got a homeboy named Trevor that probably will.
+  55: ~z~And in revelation of that,
+  56: ~z~And nothing is forgotten.
+  57: ~z~And tell us if anything bad comes over the airwaves.
+  58: ~z~And then I'd, like, run the connector.
+  59: ~z~And then when the chopper crashed? Man. I thought there was no fucking way.
+  60: ~z~And... we're in. Am I done?
+  61: ~z~Any fool should be able to turn over a new leaf, right?
+  62: ~z~Any longer and I was going to torch this place too.
+  63: ~z~Are we going to get away from them?
+  64: ~z~Are you fucking kidding me?
+  65: ~z~Are you?
+  66: ~z~Aren't they meant to try and arrest us!?
+  67: ~z~Argh.
+  68: ~z~Arghh!!!
+  69: ~z~At a girl. Whatever we're paying you - you're worth it.
+  70: ~z~At least one of us is a computer expert...
+  71: ~z~Awesome, we made it there in the end.
+  72: ~z~Awkward, bros. A Bureau chopper's seen you on the side of the building.
+  73: ~z~Aww shit, man.
+  74: ~z~B-bad news. Your p-pilot's gone offline.
+  75: ~z~B-be careful, people. Heard some chatter from the air unit. I think they've seen you.
+  76: ~z~Back down, assholes.
+  77: ~z~Back off!
+  78: ~z~Back off, assholes!
+  79: ~z~Back up!
+  80: ~z~Back up, dog.
+  81: ~z~Be cool... follow my lead... I've done some improv classes.
+  82: ~z~Better than an elevator.
+  83: ~z~Blast a few of these pricks.
+  84: ~z~Blast those fools!
+  85: ~z~Boy, I'm still shaking. I'm still so fucking tense.
+  86: ~z~Bring it on!
+  87: ~z~Bringing down.
+  88: ~z~Bros, I think they're coming!
+  89: ~z~Bullshit! I say we start shooting!
+  90: ~z~Bullshit! They know! Let's move!
+  91: ~z~Bureau security - on the way!
+  92: ~z~But it ain't great money for the crazy target you're drawing on your backs,
+  93: ~z~But this is where we are right now. So let's try to survive it, and achieve our objectives.
+  94: ~z~C'mon, Franklin.
+  95: ~z~C'mon, c'mon!
+  96: ~z~C'mon.
+  97: ~z~Calma. Calma, okay.
+  98: ~z~Can we just get out of here?
+  99: ~z~Can't... get it... round...
+ 100: ~z~Change of plan. Use the backup gear. Make our way down the building. Rappel off the side.
+ 101: ~z~Check me out! Right here!
+ 102: ~z~Check the entry points!
+ 103: ~z~Check the right side of the roof!
+ 104: ~z~Check the roof - right side!
+ 105: ~z~Check this out, man.
+ 106: ~z~Cheers!
+ 107: ~z~Cheers! ~n~~c~Cheers!
+ 108: ~z~Chill out.
+ 109: ~z~Chopper! Shit.
+ 110: ~z~Chopper's gone, dudes.
+ 111: ~z~Chopper's here.
+ 112: ~z~Christian Feltz, present.
+ 113: ~z~Clear for takedown.
+ 114: ~z~Clear the room, F.
+ 115: ~z~Come at me!
+ 116: ~z~Come on in, man, but, don't forget to take your shoes off.
+ 117: ~z~Come on! Come on!
+ 118: ~z~Come on, assholes!
+ 119: ~z~Come on, let's go.
+ 120: ~z~Come on, man hurry!
+ 121: ~z~Come on, so they can't see us get in!
+ 122: ~z~Come on, you asshole!
+ 123: ~z~Come on, you on point!
+ 124: ~z~Come on, you pricks!
+ 125: ~z~Come on. Come on. Don't die on me here. Come on, buddy.
+ 126: ~z~Come on. Come on. That's a good boy. Come back to me. Come on. Come on. You're not going anywhere buddy. Come on.
+ 127: ~z~Come on. Open BruteForce.
+ 128: ~z~Coming into land.
+ 129: ~z~Coming through!
+ 130: ~z~Common or not, it takes balls, and you got 'em.
+ 131: ~z~Concentrate, you gotta find this terminal's IP in the network spew.
+ 132: ~z~Consider me motivated, sir.
+ 133: ~z~Corrupt-ass bitch!
+ 134: ~z~Crap. They got a bird.
+ 135: ~z~Cut-rate asshole - if it's any longer than that, we're gonna have words.
+ 136: ~z~Damn! Franklin!
+ 137: ~z~Die, you bastards!
+ 138: ~z~Do not discharge your weapons - we want them to think we're a legitimate paramedic crew.
+ 139: ~z~Do you know how much time we'll get if we're caught right now?
+ 140: ~z~Don't die for this shit, dog!
+ 141: ~z~Don't get snarky, bro. You saw my machizzle at Lifeinvader, you knew what you were getting into.
+ 142: ~z~Don't leave me!
+ 143: ~z~Don't push me!
+ 144: ~z~Don't try and make me feel bad for accepting a reasonable payment for a hard day's work.
+ 145: ~z~Don't use your weapons, they gotta think we're a legit ambulance.
+ 146: ~z~Don't worry. We got a backup plan. Use the harnesses. Rappel from a few floors down.
+ 147: ~z~Down and Out's got a kinda like final ring to it.
+ 148: ~z~Down these stairs.
+ 149: ~z~Down! Now!
+ 150: ~z~Download complete. Get the device.
+ 151: ~z~Drive, asshole! Come on!
+ 152: ~z~Drive, man. We'll get out of this.
+ 153: ~z~Driver should be meeting us out front!
+ 154: ~z~Dude bought it, let's move.
+ 155: ~z~Dude, I would not know where to start, maybe like take a screwdriver to 'em.
+ 156: ~z~Dude, that chopper crash ripped the ass out the building.
+ 157: ~z~Dudes in that room on the left!
+ 158: ~z~Dudes on the roof - right side!
+ 159: ~z~Dudes up on the roof - right in front of us, dog!
+ 160: ~z~Eddie, the place is up here. Can you ditch the vehicle, and drop this guy where he wants to go?
+ 161: ~z~Eh! Eh! Eh!
+ 162: ~z~Eh, at least I'm getting paid for this job.
+ 163: ~z~Eh, fuck you!
+ 164: ~z~Eh, get in!
+ 165: ~z~Eh, here you go, dog, that's a nice weapon.
+ 166: ~z~Eh, it's too risky! We gotta deal with these guys before you can move for the files!
+ 167: ~z~Eh, let's move!
+ 168: ~z~Eh, set up the rope there, and we'll drop to the street.
+ 169: ~z~Eh, there's Steve Haines' chopper - crashed out in the fountain.
+ 170: ~z~Eh, where the driver at?
+ 171: ~z~Eh, you gotta see this.
+ 172: ~z~Enough of this crap, let's get out!
+ 173: ~z~Everything you do and don't do is recorded forever and used to beat you.
+ 174: ~z~Excellent planning work!
+ 175: ~z~Eyes up!
+ 176: ~z~Eyes up! Left side of the rooflight!
+ 177: ~z~F, come on. Deal with this.
+ 178: ~z~F, get in there.
+ 179: ~z~FIB chopper - he's onto us!
+ 180: ~z~FIB chopper's picked me up.
+ 181: ~z~Feds and they files! Back off!
+ 182: ~z~Feels okay to me. He might be a better pilot, but I'm less inclined to kill you in your sleep.
+ 183: ~z~Feels weird not having Trevor on the stick.
+ 184: ~z~Feltz, can you do something?
+ 185: ~z~Find somewhere quiet!
+ 186: ~z~Find that number, dude. That's all I can say.
+ 187: ~z~Fix the rope there, and we can get down to the street.
+ 188: ~z~Following you!
+ 189: ~z~Frank, hurry up.
+ 190: ~z~Frankie!
+ 191: ~z~Franklin, the debrief's happening at your place.
+ 192: ~z~Freeze, assholes!
+ 193: ~z~Fuck you!
+ 194: ~z~Fuck!
+ 195: ~z~Fuck! Fuck! Fuck! Fuck!
+ 196: ~z~Fuck.
+ 197: ~z~Fuck. He out.
+ 198: ~z~Fuckin' A!
+ 199: ~z~Get closer, asshole! Come on.
+ 200: ~z~Get in here, dog!
+ 201: ~z~Get in the ambulance! Come on!
+ 202: ~z~Get in there. Clear the room.
+ 203: ~z~Get in!
+ 204: ~z~Get me outta this place!
+ 205: ~z~Get on the floor!
+ 206: ~z~Get out a here!
+ 207: ~z~Get out of his way.
+ 208: ~z~Get out the way!
+ 209: ~z~Get outta here!
+ 210: ~z~Get over here.
+ 211: ~z~Get ready for extraction, airlift is imminent.
+ 212: ~z~Get us outta here!
+ 213: ~z~Get your head down!
+ 214: ~z~Give us a second!
+ 215: ~z~Go cash your pension!
+ 216: ~z~Go through here, M.
+ 217: ~z~Go!
+ 218: ~z~Go, go, go, go!
+ 219: ~z~Go, man!
+ 220: ~z~Go.
+ 221: ~z~Good for you, bro. I'm out here.
+ 222: ~z~Good people bring the right tools for an occasion. Let's get ready for the security team.
+ 223: ~z~Good work, start Down&Out.exe and I'll do the rest from here.
+ 224: ~z~Got it!
+ 225: ~z~Got it. Sprinklers disabled.
+ 226: ~z~Grab the stick!
+ 227: ~z~Great. Now there's something to look forward to...
+ 228: ~z~Ground units, air units, every unit in the state is on the way.
+ 229: ~z~Guhh!
+ 230: ~z~Guy in stairwell's down, let's go.
+ 231: ~z~Guys on the right side of the rooflight!
+ 232: ~z~Guys on the rooftop, in the middle, dog!
+ 233: ~z~Guys, are we ready?
+ 234: ~z~Guys, you there?
+ 235: ~z~HackConnect's the first program you need - it'll start the connection.
+ 236: ~z~Haines' guy? You gonna take us to your chopper?
+ 237: ~z~Handle this!
+ 238: ~z~Hang on, guys!
+ 239: ~z~He was only supposed to be a backup. If the chopper hadn't crashed, we wouldn't have needed him.
+ 240: ~z~He'll put two in our backs.
+ 241: ~z~He's a mean motherfucker!
+ 242: ~z~He's a scary motherfucker!
+ 243: ~z~He's gone, dog!
+ 244: ~z~Heat 'em up!
+ 245: ~z~Heavy!
+ 246: ~z~Here I come.
+ 247: ~z~Here it is, here. ~n~~c~C'mon, shit.
+ 248: ~z~Here they come! Pop these motherfuckers!
+ 249: ~z~Here we freakin' go.
+ 250: ~z~Here we go. Opening the door.
+ 251: ~z~Here's our lift.
+ 252: ~z~Here's some knowledge for your ass - this program tries lotsa different passwords
+ 253: ~z~Hey Karim,
+ 254: ~z~Hey we got a problem up here - sprinkler system - can't see anything.
+ 255: ~z~Hey where's my liquor at, dog?
+ 256: ~z~Hey! Come on.
+ 257: ~z~Hey! Get down!
+ 258: ~z~Hey! Get lost!
+ 259: ~z~Hey! Hey! Hey!
+ 260: ~z~Hey! I'm here!
+ 261: ~z~Hey! That was real simple, wasn't it? I'm informed now, dog.
+ 262: ~z~Hey! This could be our way out!
+ 263: ~z~Hey! You're good to go, man. Grab it.
+ 264: ~z~Hey, F, you're on point.
+ 265: ~z~Hey, I was semi sorta serious, but joking once you reacted like that, alright?
+ 266: ~z~Hey, Taliana, right? Great move bringing an ambulance.
+ 267: ~z~Hey, everyone. Quick pep talk. My friend Franklin here,
+ 268: ~z~Hey, good luck with that.
+ 269: ~z~Hey, that was a good call on the ambulance, Eddie.
+ 270: ~z~Hey, this is a covert op, you think about that when choosing a chute?
+ 271: ~z~Hey, uhhh, I thought this was a low risk type deal.
+ 272: ~z~Hey, wassup, y'all?
+ 273: ~z~Hey, we knew this was coming! Let's do this!
+ 274: ~z~Hey, you want to side with Trevor? Feel free.
+ 275: ~z~Hey.
+ 276: ~z~Hey. Hey, you did it!
+ 277: ~z~High speed chase... adrenaline pumping... sirens... smell of smoke...
+ 278: ~z~Hit me.
+ 279: ~z~Hold it together, man. We'll do this!
+ 280: ~z~Hold on! I hear something in the stairwell.
+ 281: ~z~Hold tight! Hold tight!
+ 282: ~z~Honest and angry. This is some of the best mental health work I've done in years.
+ 283: ~z~How much you paying me?
+ 284: ~z~How we gonna get outta this!?
+ 285: ~z~How you doing with the cop problem?
+ 286: ~z~How you got in your situation's none of my concern.
+ 287: ~z~How'd this happen?
+ 288: ~z~Huh?
+ 289: ~z~I appreciate it.
+ 290: ~z~I appreciate that. I'm trying my best for you, but...
+ 291: ~z~I brought the van - you're driving it!
+ 292: ~z~I can handle this door.
+ 293: ~z~I can't take much more of this!
+ 294: ~z~I did everything I could to make this easy - but now it's going to be difficult!
+ 295: ~z~I didn't sign up for this!
+ 296: ~z~I didn't think the FIB had shit like that!
+ 297: ~z~I do believe I took this class. It still raining gentlemen?
+ 298: ~z~I don't know if you have the firepower to hold them off. ETA is any minute.
+ 299: ~z~I don't know what they got on you dudes, but that's some heavy shit to get into for free.
+ 300: ~z~I don't know what to tell you, bro. I think everything you need's on your cell.
+ 301: ~z~I don't read scripts anyway... I'll tell you what, send me your treatment, I'll get some coverage on it.
+ 302: ~z~I don't wanna die here!
+ 303: ~z~I don't wanna wait on the chopper, bring it down to the building, be ready to go.
+ 304: ~z~I get it. I'm sorry.
+ 305: ~z~I got a lifestyle to maintain - cars, holidays, my watch collection, hormones.
+ 306: ~z~I got it. It's right here...
+ 307: ~z~I got it. Prints, DNA, whole thing will be clean.
+ 308: ~z~I got this door!
+ 309: ~z~I gotta deal with Davey and Dickwad yet, put things to bed.
+ 310: ~z~I guess 'cause I'm not the one who's about to die,
+ 311: ~z~I guess it's too late to pull out.
+ 312: ~z~I guess this has all gotta be gone.
+ 313: ~z~I guess you didn't know this was a stealth operation when you were out parachute shopping.
+ 314: ~z~I have to admit. I've been remiss. Everyone's being paid on this run, except me.
+ 315: ~z~I haven't got a script... but I'm working on a treatment.
+ 316: ~z~I haven't looked forward to killing this much since the academy.
+ 317: ~z~I just iced a guy!
+ 318: ~z~I just saved your asses, come on.
+ 319: ~z~I just wanted some sympathy, alright? I didn't mean anything by it. Nothing at all.
+ 320: ~z~I made it!
+ 321: ~z~I mean we did everything.
+ 322: ~z~I might have to go back to school again. So I can drop out again.
+ 323: ~z~I need every penny I can get...
+ 324: ~z~I noticed a bug in the jewel store system, might be here too. Did that work?
+ 325: ~z~I picked you guys out especially for this shit show, so take something from that if you will.
+ 326: ~z~I probably should have said I don't code any more, I just design and manage.
+ 327: ~z~I saw what was going on in the Bureau, man. I wasn't going to drive up in something obvious.
+ 328: ~z~I see you spending this money in a way that the authorities will notice,
+ 329: ~z~I should know this, bro! I thought I had it all down!
+ 330: ~z~I should never have signed up with you!
+ 331: ~z~I shouldn'ta asked.
+ 332: ~z~I think I can manage that.
+ 333: ~z~I think I'd better stay at least a little bit sober.
+ 334: ~z~I think I'm gonna hit it...
+ 335: ~z~I think Lester let himself in.
+ 336: ~z~I think maybe the alarm's going!
+ 337: ~z~I thought long and hard what to bring along this time.
+ 338: ~z~I thought you'd be Arabs.
+ 339: ~z~I took this job, I knew it was going to be like that.
+ 340: ~z~I was contracted to do a job and I did it... well.
+ 341: ~z~I wish we had that helicopter!
+ 342: ~z~I'd gladly give up my take for the experience of working with you, Mr. Townley. But, you know, a deal's a deal.
+ 343: ~z~I'd say that you've got off pretty lightly,
+ 344: ~z~I'll be on standby, boss.
+ 345: ~z~I'll grab the files when this heat dies down! Get me an opening!
+ 346: ~z~I'll hold here, wait on your signal for pickup.
+ 347: ~z~I'll take care of it.
+ 348: ~z~I'll take that from M, not from you, punk. Let's get ready for security.
+ 349: ~z~I'm cool. Are you cool? I'm completely cool.
+ 350: ~z~I'm down.
+ 351: ~z~I'm freaking out, we gotta go!
+ 352: ~z~I'm getting cold sweats here. Shit.
+ 353: ~z~I'm getting the hang of this heist work, Server Room's in the bottom right of my plans here.
+ 354: ~z~I'm going to miss this place...
+ 355: ~z~I'm gonna shoot you in the face!
+ 356: ~z~I'm gonna stay here and make sure this download happens!
+ 357: ~z~I'm gonna take us up to the jump spot.
+ 358: ~z~I'm good.
+ 359: ~z~I'm here! Get in! Get in!
+ 360: ~z~I'm hit! I'm hit!
+ 361: ~z~I'm in the building.
+ 362: ~z~I'm in the system - okay, shutting down fire suppression.
+ 363: ~z~I'm just here to help man, he's dying. Help me, let's go!
+ 364: ~z~I'm like more of a designer than a network programmer, you dig?
+ 365: ~z~I'm looking at the terminal.
+ 366: ~z~I'm lucky I can even breathe at this altitude.
+ 367: ~z~I'm out, Davey. From now on. Done.
+ 368: ~z~I'm sorry, okay?
+ 369: ~z~I'm sticking here, guarding the file transfer!
+ 370: ~z~I'm taking fire!
+ 371: ~z~I'm taking these pricks down!
+ 372: ~z~I'm taking us up to jump altitude.
+ 373: ~z~I'm your ride! Get in here!
+ 374: ~z~I've been blueskying and, like, process of elimination, you've only got one app left.
+ 375: ~z~Idiota - I told you what I was going to do, you sick fuck.
+ 376: ~z~If any of you discharge your weapons - the whole illusion that we're an ambulance is gonna be lost.
+ 377: ~z~If it's you dudes rappelling down the building, I think a Bureau chopper's kind of spotted you.
+ 378: ~z~If that chopper hadn't crashed, I wouldn't even need to be here!
+ 379: ~z~If we are going to do this thing,
+ 380: ~z~If we're caught, I assume you'll do the honorable thing, and take the heat for this.
+ 381: ~z~If you planned it, I'm sure it's gonna go down clean.
+ 382: ~z~If you want to pilot the first leg, I'll take over once you jump.
+ 383: ~z~If you want to renegotiate, let's go back and I'll drop you outside the FIB building.
+ 384: ~z~In that case, um...
+ 385: ~z~In, in, before someone sees!
+ 386: ~z~In, in, before they clock us!
+ 387: ~z~Incoming!
+ 388: ~z~Is this guy in charge of the operation?
+ 389: ~z~Is this like treason? Are they gonna put us in a hole?
+ 390: ~z~It ain't safe yet! We take care of these guys, then you move for the files!
+ 391: ~z~It don't look like they're for us, not yet at least!
+ 392: ~z~It wasn't my intention to begrudge you anything, pal. That said -
+ 393: ~z~It's a common trick. If the crew don't get jumpy, it usually works.
+ 394: ~z~It's done, man. Go grab your cell.
+ 395: ~z~It's expensive, and there ain't much else for me in sunny Los Santos, so... you know, I need that money.
+ 396: ~z~It's g-gonna get real nasty in there in a couple of minutes. So... err...
+ 397: ~z~It's goin' cost you, homie. Trust me, you goin' pay for that shit.
+ 398: ~z~It's just a little smoke, people.
+ 399: ~z~It's just information, assholes!
+ 400: ~z~It's locked. I'm setting a charge.
+ 401: ~z~It's still too hot for me to go for the files! Let's take care of these guys!
+ 402: ~z~It's the ambulance! Move!
+ 403: ~z~It's them or us!
+ 404: ~z~It's underway. We'll need that chopper ASAP, get her over the building!
+ 405: ~z~Jesus...
+ 406: ~z~Jumping out, and climbing in through the Bureau skylight.
+ 407: ~z~Just back up a god damn minute!
+ 408: ~z~Just be patient - they're only cops.
+ 409: ~z~Just gimme a second.
+ 410: ~z~Just want to say what an honor it is working with you, Mr. Townley... De Santa.
+ 411: ~z~Karim, Frank's place is up here. You think you can dispose of the vehicle, and drop him somewhere?
+ 412: ~z~Karim, come in. Hey, you're not at the pickup spot.
+ 413: ~z~Keep climbing, you'll only make it to the rooftop DZ if you have the altitude.
+ 414: ~z~Keep driving! They'll get bored!
+ 415: ~z~Keep going up, you'll need height if you're going to land clean on the HQ DZ.
+ 416: ~z~Keep going.
+ 417: ~z~Keep out their line of sight!
+ 418: ~z~Kid, he's yours.
+ 419: ~z~Kid, you're up. Clear the room.
+ 420: ~z~Landing!
+ 421: ~z~Lead the charge, F.
+ 422: ~z~Leave us to it, punk!
+ 423: ~z~Lemme guess - this driver came cheap.
+ 424: ~z~Lester needs a drink!
+ 425: ~z~Lester!
+ 426: ~z~Let alone calculate the odds of surviving the jump,
+ 427: ~z~Let's blow this joint!
+ 428: ~z~Let's do it!
+ 429: ~z~Let's do this!
+ 430: ~z~Let's get a few of 'em off of us!
+ 431: ~z~Let's get out!
+ 432: ~z~Let's get the fuck out of here then!
+ 433: ~z~Let's go!
+ 434: ~z~Let's go, buddy.
+ 435: ~z~Let's go.
+ 436: ~z~Let's go. Come on now, you're not going anywhere.
+ 437: ~z~Let's go. Let's go. Come on.
+ 438: ~z~Let's hit 'em!
+ 439: ~z~Let's keep it moving, dog!
+ 440: ~z~Like everything else, this is a poorly organised getaway.
+ 441: ~z~Look left, people!
+ 442: ~z~Look out! Guys on the roof - your left!
+ 443: ~z~Look out! NOOSE team!
+ 444: ~z~Look right, people!
+ 445: ~z~Look up there!
+ 446: ~z~Look, man, he was just messing with y'all. It's his great sense of humor. The FIB people who put us up to this,
+ 447: ~z~Looking at the plans, I think the Server Room's in the South East corner.
+ 448: ~z~Looking at this, maybe you should, like, run the hackconnect first?
+ 449: ~z~Looks like security is right on top of you.
+ 450: ~z~Looks like the only place I'll be retiring is a maximum security facility.
+ 451: ~z~Lukens - sprinkler system - you got any ideas?
+ 452: ~z~M can handle this! I know it!
+ 453: ~z~M, M, you see that? I smoked him.
+ 454: ~z~M, come on, we on you.
+ 455: ~z~M, man, clear the room.
+ 456: ~z~M, we following you.
+ 457: ~z~M, we going?
+ 458: ~z~M, what we goin' do?
+ 459: ~z~Makes me think he don't got faith in his own crazy plan.
+ 460: ~z~Man you want me to roll with you, dog?
+ 461: ~z~Man, I don't see the driver.
+ 462: ~z~Man, I was just fucking with you, dog. Let's do this shit.
+ 463: ~z~Man, ain't we got a highly defended Federal building to fucking rob?
+ 464: ~z~Man, can the hacker shut it off?
+ 465: ~z~Man, let's get the fuck out of here.
+ 466: ~z~Man, shit. They gassing us out.
+ 467: ~z~Man, that could be the job or it could be you thinkin' bout all the dudes who wanna clap your ass.
+ 468: ~z~Man, we going.
+ 469: ~z~Man, you may be a conflicted,
+ 470: ~z~Maybe if he was getting a bigger cut, dog, he'd have the right equipment.
+ 471: ~z~Maybe they're in, like, My Computer.
+ 472: ~z~More guys on the right side of the roof!
+ 473: ~z~Motherfuckers... check the doors!
+ 474: ~z~Move already!
+ 475: ~z~Move aside!
+ 476: ~z~Move it! Before we're seen!
+ 477: ~z~Move out the way, man.
+ 478: ~z~Move out the way.
+ 479: ~z~Move.
+ 480: ~z~Moving!
+ 481: ~z~Moving, moving!
+ 482: ~z~Must be an age thing.
+ 483: ~z~My lungs.
+ 484: ~z~N-n-not yet. The final program should get me access to the d-data.
+ 485: ~z~Nah, man, what you need is a damn drink.
+ 486: ~z~Nah, no. I'd probably better do this alone.
+ 487: ~z~No need to be aggressive, bro. I'm stretching myself.
+ 488: ~z~No one told me what to get. A good manager woulda been specific.
+ 489: ~z~No shit. Let's get crackin', man.
+ 490: ~z~No, we're too high.
+ 491: ~z~Nooooo!
+ 492: ~z~Nope, he didn't make it.
+ 493: ~z~Now I got to hack your cock off, man. You wish.
+ 494: ~z~Now lemme school you - your IP is a number, that number at the top,
+ 495: ~z~Now let's get some linkage - gimme Hack Connect in this bitch.
+ 496: ~z~Now, start Down and Out, and lemme go to work.
+ 497: ~z~Now, to take down the firewall, run BruteForce.exe.
+ 498: ~z~Of all the ways for a midlife crisis to manifest itself.
+ 499: ~z~Of course... why did I ask?
+ 500: ~z~Oh gosh, oh gosh!
+ 501: ~z~Oh my God my lungs.
+ 502: ~z~Oh shit! Shit! Incoming!
+ 503: ~z~Oh shit. It's the ambulance! Get in!
+ 504: ~z~Oh yeah.
+ 505: ~z~Oh, God!
+ 506: ~z~Oh, fuck that.
+ 507: ~z~Oh, man... fuck!
+ 508: ~z~Oh, right, you mean like with your deal. Um, maybe they called the military or something?
+ 509: ~z~Oh, shit!
+ 510: ~z~Ohh!
+ 511: ~z~Okay It's doing its thing. If I survive to take another score, I'm bringing someone competent.
+ 512: ~z~Okay, I'm connected.
+ 513: ~z~Okay, I'm in. You got anything other than a guess for this part?
+ 514: ~z~Okay, I'm less inclined to stab you in the face and then do funny things to your corpse.
+ 515: ~z~Okay, I'm opening it.
+ 516: ~z~Okay, come on.
+ 517: ~z~Okay, connection established.
+ 518: ~z~Okay, looks like we're in.
+ 519: ~z~Okay, people.
+ 520: ~z~Okay, we lost 'em, Frank. We're meeting Lester at your place for a debrief.
+ 521: ~z~Okay.
+ 522: ~z~Okay. Here we go.
+ 523: ~z~Okay. I need my engineer stationed outside the building, calling in updates.
+ 524: ~z~Okay. Okay. I can see. Maybe I've been a little caught up in myself lately.
+ 525: ~z~On it, bro. I'll get over there.
+ 526: ~z~On me!
+ 527: ~z~On me! Come on!
+ 528: ~z~On the left! Coming out that room there!
+ 529: ~z~On your knees!
+ 530: ~z~Once we're in the system, we download the files, chopper picks us up.
+ 531: ~z~Ooof!
+ 532: ~z~Open, you cock.
+ 533: ~z~Opening the door. Get ready.
+ 534: ~z~Opening. Here we go.
+ 535: ~z~Or, how about we meet halfway, and I spend some of the green on women for us - me and you - we could share one, man.
+ 536: ~z~Other guys, they got work on the side... I'm sure you've got some lucrative investments, you know...
+ 537: ~z~Out of the way.
+ 538: ~z~Over here! Let's go!
+ 539: ~z~Over here, homie!
+ 540: ~z~Over on the right! They coming!
+ 541: ~z~Over to the right, dog. Man, there's about every cop in LS County on the way.
+ 542: ~z~Poor Michael, whose homies get into shit with the FIB out of the kindness of they own heart.
+ 543: ~z~Probably a bit of both. No one's gonna clap me,
+ 544: ~z~Push, people.
+ 545: ~z~Put they necks on the line. Man, where's my get out of jail free card, motherfucker?
+ 546: ~z~Putting down!
+ 547: ~z~Quick - run BruteForce.exe.
+ 548: ~z~Quick!
+ 549: ~z~Radio when you need me.
+ 550: ~z~Really, it was covered, was it?
+ 551: ~z~Remember that if I ever hire you again.
+ 552: ~z~Rich, white Michael. Poor Michael, who robbed banks for ten years then got his slate wiped clean.
+ 553: ~z~Ride this out!
+ 554: ~z~Right ahead, on the roof, look out!
+ 555: ~z~Right here! Let's do this!
+ 556: ~z~Right here, baby!
+ 557: ~z~Right side of the roof - look out!
+ 558: ~z~Right side of the roof! Look out!
+ 559: ~z~Right, man. Look out!
+ 560: ~z~Right, right. Uhh... cellphone. Connect it. Programs are on there.
+ 561: ~z~Room on the left! Agents!
+ 562: ~z~Room on the right! Look out!
+ 563: ~z~Room sealed. Hold while I gain access.
+ 564: ~z~Run or get clapped!
+ 565: ~z~Run the BruteForce app. It should get you through the firewall.
+ 566: ~z~Same old shit, bro. Makin' bacon.
+ 567: ~z~Screw you. Screw you.
+ 568: ~z~Security team's been deployed.
+ 569: ~z~Seems like they all fell from a pretty similar tree, and second,
+ 570: ~z~Select them quickly, 'cause they won't be active for long.
+ 571: ~z~Serious bad luck, bros.
+ 572: ~z~Set up the gear there, and we'll drop to the street.
+ 573: ~z~Sh, sh, sh, sh. Shit!
+ 574: ~z~She ain't goin' bite you. Run Brute Force.
+ 575: ~z~Shh. Let's surprise these guys.
+ 576: ~z~Shit!
+ 577: ~z~Shit, go!
+ 578: ~z~Shit, let's go!
+ 579: ~z~Shit, that ain't what he says.
+ 580: ~z~Shit, they're wise to us! Let's go!
+ 581: ~z~Shit, yeah, of course. Don't think I'm ungrateful...
+ 582: ~z~Shit.
+ 583: ~z~Shit. Through here!
+ 584: ~z~Shithead!
+ 585: ~z~Shoot and move, shoot and move!
+ 586: ~z~Show me the exit!
+ 587: ~z~Show us the way, homie.
+ 588: ~z~Sit down!
+ 589: ~z~Smoke bomb. Be cool.
+ 590: ~z~Smooth operation, team leader!
+ 591: ~z~So as long as we all are not together,
+ 592: ~z~So the plan was feeling sorry for your ass, right? I missed Lester saying that shit, but sure, let's feel sorry for Michael.
+ 593: ~z~So what if my cell phone tells the time - having a cell phone ain't the same as wearing twelve grand on your wrist.
+ 594: ~z~So you wanna wallow in some more of your self pity? Get another free therapy session?
+ 595: ~z~So, I'm thinking, you, like, find that number at the top in all those numbers in the middle?
+ 596: ~z~So, M. You goin' clear this room, or what?
+ 597: ~z~So, if I were you, I'd, like, find My Hack Programs.
+ 598: ~z~So, in short. Thank you for your efforts. It means a lot to me.
+ 599: ~z~So, like, yeah, you're trying to stop those red letters in the middle.
+ 600: ~z~So, what kinda writing you do?
+ 601: ~z~So, what y'all talking about?
+ 602: ~z~So... you want another drink?
+ 603: ~z~Someone control this guy.
+ 604: ~z~Sorry?
+ 605: ~z~Speed it up!
+ 606: ~z~Sprinklers brought the fire under control, but be extremely careful.
+ 607: ~z~Stairwell - let's go!
+ 608: ~z~Stand back.
+ 609: ~z~Start the Down & Out app and l-let it run.
+ 610: ~z~Stay down!
+ 611: ~z~Stay down, Fed!
+ 612: ~z~Stay with me!
+ 613: ~z~Stoolies!
+ 614: ~z~Stop my lady scoping le browser histoire.
+ 615: ~z~Stop right there!
+ 616: ~z~Suspicious rotorcraft approaching conflict zone.
+ 617: ~z~Take a yoga or meditation break if you need one, bro.
+ 618: ~z~Take care.
+ 619: ~z~Take the gun. Man, you really bring that piece to a raid on a Federal building?
+ 620: ~z~Taliana, we're coming up on the place. Can you do me a favor - get rid of the vehicle, and drop him off somewhere?
+ 621: ~z~Thank you, boys.
+ 622: ~z~That ain't working so well for me.
+ 623: ~z~That burns.
+ 624: ~z~That guy's the mastermind!
+ 625: ~z~That sounds about right.
+ 626: ~z~That was a reflex!
+ 627: ~z~That's Trevor's thing.
+ 628: ~z~That's a good point. I ain't gonna have the time to spend it, so enjoy.
+ 629: ~z~That's a negative on the sprinklers, system's in emergency mode now. I can't break it.
+ 630: ~z~That's it. Gotta go.
+ 631: ~z~That's it. You're done. G-get the device.
+ 632: ~z~That's more like it.
+ 633: ~z~That's some serious hardware!
+ 634: ~z~That's the thinking we pay you to do.
+ 635: ~z~The IP number you n-need is at the top - look for it in the larger grid.
+ 636: ~z~The Server Room is in the South East corner of the building.
+ 637: ~z~The alarm appears to be active.
+ 638: ~z~The alarm's been tripped.
+ 639: ~z~The ambulance! Get in, guys!
+ 640: ~z~The chopper's been KO'd.
+ 641: ~z~The cops are going to spot us! They're gonna spot us!
+ 642: ~z~The crew's waiting for you.
+ 643: ~z~The d-data pull's still working. You gotta hold them off a little longer.
+ 644: ~z~The download ain't done yet, bros. Hang in there.
+ 645: ~z~The download isn't finished. Keep holding them off while the process completes.
+ 646: ~z~The driver's meant to be around front.
+ 647: ~z~The driver's meeting us out front, right?
+ 648: ~z~The dudes are through the door!
+ 649: ~z~The government don't like people stealing data.
+ 650: ~z~The great motivator... just perfect.
+ 651: ~z~The heli c-crash might cause you t-trouble. L-looks like a lot of damage. Explosion went through a couple of floors.
+ 652: ~z~The heli crash caused extensive damage. Explosion went through a couple of floors.
+ 653: ~z~The internet age...
+ 654: ~z~The internet age?
+ 655: ~z~The network ain't down yet.
+ 656: ~z~The password might reset if you lock the wrong letter, dude.
+ 657: ~z~The pilot's signal is totally dead.
+ 658: ~z~The place is up here. Chopper pilot, gunman, driver and hacker should be waiting. I'll radio in.
+ 659: ~z~The process ain't finished yet.
+ 660: ~z~The program will expose each character of the password as it tries different encryptions.
+ 661: ~z~The programs are on your cellphone. Connect it to the machine.
+ 662: ~z~The room on the left! They're coming!
+ 663: ~z~The shots are coming from up top!
+ 664: ~z~The terminal, my bad. Connect your cell, apps are on there.
+ 665: ~z~The wind will tie us in a knot, we gotta keep moving.
+ 666: ~z~Then it's Trevor and I'm out...
+ 667: ~z~Then you are ready to bring down a firewall. Brute Force, bitches. Boot it up.
+ 668: ~z~There are no new leaves.
+ 669: ~z~There been a change of plans?
+ 670: ~z~There should be a phone icon. Open it.
+ 671: ~z~There you go.
+ 672: ~z~There!
+ 673: ~z~There! That's got to be them!
+ 674: ~z~There'll be more scores down the road, maybe a big one and sunnier days ahead.
+ 675: ~z~There's a bunch of n-network spew, but you should be able to locate this terminal by its IP.
+ 676: ~z~There's a dude in there.
+ 677: ~z~There's a lot of fucking numbers, bro.
+ 678: ~z~There's a way outside!
+ 679: ~z~There's no getting out of this, I'm afraid.
+ 680: ~z~There's no one else I'd rather rob a Federal building with.
+ 681: ~z~These cops don't realise MT is running the crew!
+ 682: ~z~These guys are killers!
+ 683: ~z~They better be.
+ 684: ~z~They can't put us all on death row... can they?
+ 685: ~z~They catch us, we ain't going to no normal jailhouse, dog!
+ 686: ~z~They coming at us!
+ 687: ~z~They don't make cops smart - none I've met, at least.
+ 688: ~z~They don't wanna arrest us!
+ 689: ~z~They goin' rendition us or some shit, if we get caught.
+ 690: ~z~They got mad dudes arriving in un momentito.
+ 691: ~z~They got me!
+ 692: ~z~They got the drop on us! Check the roof! Right in front!
+ 693: ~z~They on top of us! On the left there!
+ 694: ~z~They'll get wise to us if any of you assholes let's off a shot - so don't, alright?
+ 695: ~z~They're coming at us!
+ 696: ~z~They're going to see me. They're going to shoot me down, aren't they?
+ 697: ~z~They're gonna pick us up if we hold here.
+ 698: ~z~They're just cops - they aren't that smart.
+ 699: ~z~They're on the roof! Left side!
+ 700: ~z~They're on top of us!
+ 701: ~z~They're on top of us! Dead center!
+ 702: ~z~They're on top of us! Left side of the roof!
+ 703: ~z~They're onto us! Let's go!
+ 704: ~z~They're onto us! Let's move it!
+ 705: ~z~They've been sniffing around my office. We really need to talk.
+ 706: ~z~Thinning 'em out!
+ 707: ~z~This Fed chopper's ready to take us. Let's get going.
+ 708: ~z~This Irish chump ain't dying here!
+ 709: ~z~This ain't any crew, assholes!
+ 710: ~z~This ain't working!
+ 711: ~z~This download's taking a hella long time, bros. You gotta chill.
+ 712: ~z~This escalated quickly!
+ 713: ~z~This has happened, now let's get out of it.
+ 714: ~z~This is a screwed up situation!
+ 715: ~z~This is a shit show!
+ 716: ~z~This is awkward, I didn't think I'd see you again.
+ 717: ~z~This is intense!
+ 718: ~z~This is just like improv class... except we get killed if we bomb.
+ 719: ~z~This is like, way way above my skill level.
+ 720: ~z~This is never going to work.
+ 721: ~z~This is not good, where's our getaway?
+ 722: ~z~This is self defense, right?
+ 723: ~z~This is seriously heavy!
+ 724: ~z~This is some serious heat!
+ 725: ~z~This is the age of judgment day, every day.
+ 726: ~z~This little puppy's gonna locate your IP address in the network output.
+ 727: ~z~This might be a way out!
+ 728: ~z~This might just be working.
+ 729: ~z~This place gives me the creeps, homes. Same with this Fed pilot.
+ 730: ~z~This straight talking, new, 'tell it like it is' reality guy act?
+ 731: ~z~This the way!
+ 732: ~z~This way!
+ 733: ~z~This your show? Come on.
+ 734: ~z~Through here!
+ 735: ~z~To be honest, I must have skipped this class in school.
+ 736: ~z~To be honest, the government's taking this kinda badly - like, getting emotional.
+ 737: ~z~To the right, man. Look, about every flashing light in the city.
+ 738: ~z~Touching down!
+ 739: ~z~Try and push 'em back!
+ 740: ~z~Trying to... bring it... under...
+ 741: ~z~Typical, they get us outside the building.
+ 742: ~z~Uh... uh.  I can try, but the system's in overload after what happened.
+ 743: ~z~Uhh... yeah, thanks. I'll take a rain check on that little party.
+ 744: ~z~Uhhh, yeah. Lester had the plan. It was all set up.
+ 745: ~z~Uhhh... screenwriting.
+ 746: ~z~Uhhh... uhh... okay, of course.
+ 747: ~z~Understood.
+ 748: ~z~Unidentified rotorcraft sighted in vicinity of red zone.
+ 749: ~z~Unless you feeling at home in the Fed building.
+ 750: ~z~Up and left - more guys!
+ 751: ~z~Up on the roof - down the center, man - more dudes!
+ 752: ~z~Up there! On the right!
+ 753: ~z~Up there, left side of the roof!
+ 754: ~z~Up there, right in front - guys!
+ 755: ~z~Urgh.
+ 756: ~z~Urgh. Okay.
+ 757: ~z~Urgh. Shit, they smoking us out.
+ 758: ~z~W-what you need's in My Computer.
+ 759: ~z~Waiting on you.
+ 760: ~z~Watch me hit this door.
+ 761: ~z~Watch the room on the right!
+ 762: ~z~We ain't got time, do something.
+ 763: ~z~We be done here soon!
+ 764: ~z~We can lose 'em, right?
+ 765: ~z~We can rapel to the street from over there!
+ 766: ~z~We can't move with that thing up there!
+ 767: ~z~We did it!
+ 768: ~z~We get caught, my wife will kill me before we go to trial.
+ 769: ~z~We getting outta here.
+ 770: ~z~We got agents on the level!
+ 771: ~z~We got out the building. That's the hard part done, you know what I'm saying, so just lose 'em.
+ 772: ~z~We got to hold 'em off till the driver makes it!
+ 773: ~z~We got to hold 'em off while this thing completes its process.
+ 774: ~z~We got to take out that chopper!
+ 775: ~z~We got what we came for.
+ 776: ~z~We hit the Bureau for you, Dave. I'm done.
+ 777: ~z~We hit the computer system, that might take a while, so we gotta hold off any resistance.
+ 778: ~z~We in and out!
+ 779: ~z~We just want some files!
+ 780: ~z~We know you ain't kosher!
+ 781: ~z~We know you're corrupt as shit!
+ 782: ~z~We low enough?
+ 783: ~z~We made it outta there! They can't catch us now!
+ 784: ~z~We might be getting away with this...
+ 785: ~z~We on!
+ 786: ~z~We right behind you, dog.
+ 787: ~z~We took down the Bureau - these cops can't touch us!
+ 788: ~z~We were prepared for this! Let's take 'em!
+ 789: ~z~We're all in this together, right?
+ 790: ~z~We're almost done!
+ 791: ~z~We're busy!
+ 792: ~z~We're clear. Let's get of this thing!
+ 793: ~z~We're coming through.
+ 794: ~z~We're connected. What next?
+ 795: ~z~We're getting outta here, one way or another!
+ 796: ~z~We're gonna get outta this, right M?
+ 797: ~z~We're in.
+ 798: ~z~We're meant to be a paramedic crew - that means no shooting - if you're a dick you lose your dick, okay?
+ 799: ~z~We're meeting Lester at your house, Frank.
+ 800: ~z~We're not there yet.
+ 801: ~z~We're rewriting history.
+ 802: ~z~We're robbing government secrets out of a government building in a government chopper. Great.
+ 803: ~z~We're taking fire from the left side of the roof!
+ 804: ~z~We've got one shot at this, pickup has to be soon.
+ 805: ~z~Weapons free.
+ 806: ~z~Well I...
+ 807: ~z~Well fucking organised, boys!
+ 808: ~z~Well people, we did it. A raid on the Bureau.
+ 809: ~z~Well then we better get gone before they show up.
+ 810: ~z~Well, first, your new leaves aren't so very different from your previous leaves.
+ 811: ~z~Well, he didn't make it.
+ 812: ~z~What a mess.
+ 813: ~z~What am I supposed to be doing!?
+ 814: ~z~What are you looking so cool, calm, and collected for?
+ 815: ~z~What is this? Pick on me day? Look, I know I am a miserable old prick,
+ 816: ~z~What the fuck ever happened to burying the past, huh?
+ 817: ~z~What the fuck you waiting for?
+ 818: ~z~What was I supposed to bring? You're freaking me out, when we got to get ready for the guards?
+ 819: ~z~What we doing with this guy?
+ 820: ~z~What you hiding, assholes!?
+ 821: ~z~What you think, boss? I say start shooting!
+ 822: ~z~What's going on on the outside?
+ 823: ~z~What's happening over there?
+ 824: ~z~What's our ETD?
+ 825: ~z~What's so special about your computer?
+ 826: ~z~What's the plan again, man?
+ 827: ~z~When I brought those sports bikes down the tunnel after Vangelico - man,
+ 828: ~z~When I got the call that you needed backup, I didn't need to take it.
+ 829: ~z~When I got told I was the backup escape plan, I didn't think it was gonna get this heavy!
+ 830: ~z~When that letter comes up, you gotta get it, a'ight? Real quick.
+ 831: ~z~When you say jump, I'll jump.
+ 832: ~z~Where you going?
+ 833: ~z~Where'd you find this guy?
+ 834: ~z~Whoa!
+ 835: ~z~Whoa! Now we're clear, I can probably say, I never expected to make it out of there.
+ 836: ~z~Whoever's thing it is, it's unauthorized and it's dumb.
+ 837: ~z~Why are you so chipper?
+ 838: ~z~Why don't you see what the other program does?
+ 839: ~z~Why you think Lester burned down the business? Hell, why do you think I'm doing it for nothing,
+ 840: ~z~Woah!
+ 841: ~z~Ya hear that?
+ 842: ~z~Yeah! ~n~~c~Yeah!
+ 843: ~z~Yeah, I done did my homework this time - access My Computer.
+ 844: ~z~Yeah, cool. We can joke about how screwed up your damn life is.
+ 845: ~z~Yeah, go ahead.
+ 846: ~z~Yeah, here's to that.
+ 847: ~z~Yeah, it worked. I'm glad we stuck with you, kid.
+ 848: ~z~Yeah, no shit!
+ 849: ~z~Yeah, no shit, man. Cops have the whole block locked down. It's going to be another few minutes!
+ 850: ~z~Yeah, screwing up once is understandable. Twice? Unacceptable.
+ 851: ~z~Yeah, sure, man. We had it covered.
+ 852: ~z~Yeah, this'll do.
+ 853: ~z~Yeah, we had a plan - hold off the nastiest team of crooked FIB agents in the country
+ 854: ~z~Yeah, yeah.
+ 855: ~z~Yes, we do...
+ 856: ~z~Yo! Leave us be, man!
+ 857: ~z~Yo! Watch the left side!
+ 858: ~z~Yo, check it, the chopper we used ended up in that fountain.
+ 859: ~z~You Steve's pilot? Take us to the chopper.
+ 860: ~z~You can break into people's computers, but we can't break into yours?
+ 861: ~z~You don't need to die here!
+ 862: ~z~You don't wanna follow us too close!
+ 863: ~z~You don't wanna get in our way!
+ 864: ~z~You don't wanna tail us!
+ 865: ~z~You first, F.
+ 866: ~z~You going, or what?
+ 867: ~z~You gonna step to me!
+ 868: ~z~You got a professional setup here. Chopper's ready to go.
+ 869: ~z~You got it!
+ 870: ~z~You gotta go, Fed!
+ 871: ~z~You guys are gonna make it clear that I didn't do any of that stuff inside the building?
+ 872: ~z~You happy with this, team leader!?
+ 873: ~z~You know what they'll do to the dudes who took down the Bureau? It ain't goin' be nice.
+ 874: ~z~You know what, Mike? You a real easy dude to identify with, man. Poor me. Poor me.
+ 875: ~z~You know who you're dealing with!
+ 876: ~z~You lying cowboys!
+ 877: ~z~You need to access My Computer.
+ 878: ~z~You never mentioned anything about networks, bro. Just saying.
+ 879: ~z~You plan for this, eh? Shit.
+ 880: ~z~You ready?
+ 881: ~z~You really wanna do this?
+ 882: ~z~You set off the alarm.
+ 883: ~z~You sure, man?
+ 884: ~z~You think there's enough of them?
+ 885: ~z~You total asshole! Now we gotta lose the cops!
+ 886: ~z~You want me to get out and ice some, give me the word.
+ 887: ~z~You won't make the DZ from here.
+ 888: ~z~You're a good man and a great father, really.
+ 889: ~z~You're all dirty!
+ 890: ~z~You're driving!
+ 891: ~z~You're getting paid, Packie. Don't worry.
+ 892: ~z~You're going down!
+ 893: ~z~You're looking for the IP address - that number at the top - in the mass of numbers in the middle.
+ 894: ~z~You're lucky I brought anything on my salary. Let's just get ready for the security team.
+ 895: ~z~You're not exactly filling me with confidence, team leader.
+ 896: ~z~You're not going to make it from here, keep going.
+ 897: ~z~You're screwing with me, right? I've already given you a major discount on my standard rate.
+ 898: ~z~You're the IT guy, right? You don't need me telling you what to do.
+ 899: ~z~You've gone and done it! After everything I did to make this easy!
+ 900: ~z~Your cell will show as an external device.
+ 901: ~z~Your cellular will show as an external device, okay?
+ 902: ~z~and Dave will look after me... I think.
+ 903: ~z~and maybe take that score...
+ 904: ~z~and picks off a letter at a time.
+ 905: ~z~and the thefts,
+ 906: ~z~and there's a good chance this thing won't work at all.
+ 907: ~z~and these clowns are getting paid?
+ 908: ~z~and...
+ 909: ~z~based on some inappropriate decision I made a long time ago.
+ 910: ~z~but I'm a writer... I got to get material together... it's a five... ten year plan...
+ 911: ~z~but give me a break. You and Lester. Shit.
+ 912: ~z~but you and Trevor attacking Merryweather... repeatedly... it doesn't help.
+ 913: ~z~called me out for being an ungrateful prick on the way over here.
+ 914: ~z~don't worry about it,
+ 915: ~z~everything is fine,
+ 916: ~z~fucking firefight,
+ 917: ~z~hypocritical,
+ 918: ~z~if you're ever late for a pick up again, I'm gonna leave your ass for the cops, okay? I hope you get that.
+ 919: ~z~let's get the hell out of here.
+ 920: ~z~maybe you should give him a call now.
+ 921: ~z~or the landing,
+ 922: ~z~or whatever else blowback there might be.
+ 923: ~z~self-loathing old bastard, dog, but...
+ 924: ~z~there's nothing they can really do to us.
+ 925: ~z~they probably goin' pop him anyway to clean up loose ends.
+ 926: ~z~what with all the murders,
+ 927: ~z~where I'm more creative.
+ 928: ~z~while the last of the baby boomers pretends he's a hacker? Come on, it was hopeful.
+ 929: ~z~you're a good man and a great father, really.
+ 930: ~z~you're going to wake up one morning with a gun in your mouth.
+ 931: ~z~you're looking for it in the numbers in the middle.

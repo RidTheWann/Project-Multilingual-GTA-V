@@ -1,0 +1,3006 @@
+{
+  "exported_at": "2026-09-09T02:05:20.130345+00:00",
+  "total_items": 500,
+  "items": [
+    {
+      "file": "acultau.oxt",
+      "key": "0x01455843",
+      "source": "ACULT_AMAC",
+      "clean_text": "ACULT_AMAC"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x020D1368",
+      "source": "ACULT_ALAC",
+      "clean_text": "ACULT_ALAC"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x02C4C16C",
+      "source": "1100000",
+      "clean_text": "1100000"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x036FBC93",
+      "source": "~z~So you keep saying.",
+      "clean_text": "So you keep saying."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x08006E21",
+      "source": "ACULT_AUAI",
+      "clean_text": "ACULT_AUAI"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x08799FBC",
+      "source": "~z~Come, my children! Come! Come this way! Gather round!",
+      "clean_text": "Come, my children! Come! Come this way! Gather round!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x087E087D",
+      "source": "~z~Ban clothes!",
+      "clean_text": "Ban clothes!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x0B6DBD74",
+      "source": "~z~Drink his youth!",
+      "clean_text": "Drink his youth!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x0B2263AA",
+      "source": "SFX_PAUSE_230",
+      "clean_text": "SFX_PAUSE_230"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x0C1C98DC",
+      "source": "ACULT_AWAA",
+      "clean_text": "ACULT_AWAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x0D18CC0C",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x0EE6BD86",
+      "source": "ACULT_AUAA",
+      "clean_text": "ACULT_AUAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x0FF6D54D",
+      "source": "~z~Come on! Move... move! Come on! Come on!",
+      "clean_text": "Come on! Move... move! Come on! Come on!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x1A9E4405",
+      "source": "~z~A sign, a sign! Someone has been brought!",
+      "clean_text": "A sign, a sign! Someone has been brought!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x1A60D856",
+      "source": "~z~We will leave you with nothing!",
+      "clean_text": "We will leave you with nothing!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x1D910673",
+      "source": "~z~Come on! Move! Move! Move! Move it! Move! Move!",
+      "clean_text": "Come on! Move! Move! Move! Move it! Move! Move!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x1E41696F",
+      "source": "~z~Someone has been brought! It is a sign!",
+      "clean_text": "Someone has been brought! It is a sign!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x1EB234E5",
+      "source": "~z~Ban lies!",
+      "clean_text": "Ban lies!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x2B8F1278",
+      "source": "~z~Ban deceit!",
+      "clean_text": "Ban deceit!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x2F03D387",
+      "source": "ACULT_AWAT",
+      "clean_text": "ACULT_AWAT"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x2FCF3639",
+      "source": "~z~I'm doing history a favor!",
+      "clean_text": "I'm doing history a favor!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3A87AD76",
+      "source": "~z~I'm closing this pervert camp down!",
+      "clean_text": "I'm closing this pervert camp down!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3AF4639C",
+      "source": "~z~We prostrate our continuing youth and vigor...",
+      "clean_text": "We prostrate our continuing youth and vigor..."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3BC37535",
+      "source": "ACULT_AOAB",
+      "clean_text": "ACULT_AOAB"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3C6DD3BE",
+      "source": "ACULT_ARAE",
+      "clean_text": "ACULT_ARAE"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3E1F6D32",
+      "source": "~z~Pure blood! ~c~~n~Pure blood!",
+      "clean_text": "Pure blood! Pure blood!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3E118BF3",
+      "source": "ACULT_ASAC",
+      "clean_text": "ACULT_ASAC"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3F8F0DEA",
+      "source": "~z~Come this way! Gather round!",
+      "clean_text": "Come this way! Gather round!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4AD64E13",
+      "source": "~z~I brought you all those millennials!",
+      "clean_text": "I brought you all those millennials!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4ADC7130",
+      "source": "ACULT_ALAE",
+      "clean_text": "ACULT_ALAE"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4C0D4502",
+      "source": "~z~I come bearing gifts once more -",
+      "clean_text": "I come bearing gifts once more -"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4CEF917F",
+      "source": "~z~Altruism.",
+      "clean_text": "Altruism."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4D67E062",
+      "source": "SFX_PAUSE_400",
+      "clean_text": "SFX_PAUSE_400"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4DBBBF23",
+      "source": "~z~Bleed him dry! That is our legacy!",
+      "clean_text": "Bleed him dry! That is our legacy!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4EE65926",
+      "source": "~z~Ban clothes!",
+      "clean_text": "Ban clothes!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4F13B207",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4FC4F02E",
+      "source": "~z~Drink of the blood! ~c~~n~Drink of the blood!",
+      "clean_text": "Drink of the blood! Drink of the blood!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x5B4C053D",
+      "source": "~z~I hear you, child... go and collect.",
+      "clean_text": "I hear you, child... go and collect."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x5E01371C",
+      "source": "ACULT_AOAD",
+      "clean_text": "ACULT_AOAD"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x5E54F25C",
+      "source": "~z~You're good to us, fellow.",
+      "clean_text": "You're good to us, fellow."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x5EAC3A9A",
+      "source": "~z~The greatest good, for the greatest generation!",
+      "clean_text": "The greatest good, for the greatest generation!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x5F64B902",
+      "source": "ACULT_ATAE",
+      "clean_text": "ACULT_ATAE"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x6A2EF409",
+      "source": "~z~We shall boom again.",
+      "clean_text": "We shall boom again."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x6C0A15D7",
+      "source": "SFX_PAUSE_110",
+      "clean_text": "SFX_PAUSE_110"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x6D352B12",
+      "source": "~z~We shall be free once more! ~c~~n~We shall be free once more!",
+      "clean_text": "We shall be free once more! We shall be free once more!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x6D605C58",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x6DBA349B",
+      "source": "ACULT_ALAH",
+      "clean_text": "ACULT_ALAH"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x6ED33731",
+      "source": "ACULT_AWAX",
+      "clean_text": "ACULT_AWAX"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x6FC10C69",
+      "source": "~z~this time, two gifts!",
+      "clean_text": "this time, two gifts!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7B15F36D",
+      "source": "~z~We shall be free once more!",
+      "clean_text": "We shall be free once more!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7B446E0C",
+      "source": "~z~Ban deceit!",
+      "clean_text": "Ban deceit!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7C5D516E",
+      "source": "1100000",
+      "clean_text": "1100000"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7C8C14A5",
+      "source": "SFX_PAUSE_320",
+      "clean_text": "SFX_PAUSE_320"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7C41FAA5",
+      "source": "ACULT_ANAC",
+      "clean_text": "ACULT_ANAC"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7D809BCC",
+      "source": "ACULT_AUAD",
+      "clean_text": "ACULT_AUAD"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7E746EC9",
+      "source": "~z~Someone has been brought! It is a sign!",
+      "clean_text": "Someone has been brought! It is a sign!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7EAACBFA",
+      "source": "~z~Master! Master! Master!",
+      "clean_text": "Master! Master! Master!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7F4E6BB2",
+      "source": "SFX_PAUSE_340",
+      "clean_text": "SFX_PAUSE_340"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x8BFC2518",
+      "source": "ACULT_ALAD",
+      "clean_text": "ACULT_ALAD"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x8E4D524C",
+      "source": "~z~Move! Come on... move! Move!",
+      "clean_text": "Move! Come on... move! Move!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x8F8D1923",
+      "source": "SFX_PAUSE_160",
+      "clean_text": "SFX_PAUSE_160"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x8F332F4D",
+      "source": "SFX_PAUSE_060",
+      "clean_text": "SFX_PAUSE_060"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9ABD275E",
+      "source": "~z~Come this way, everyone, come here! It is a sign that someone has been brought!",
+      "clean_text": "Come this way, everyone, come here! It is a sign that someone has been brought!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9B992ED1",
+      "source": "~z~The greatest good, for the greatest generation.",
+      "clean_text": "The greatest good, for the greatest generation."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9B2286EC",
+      "source": "~z~For the greatest generation! ~c~~n~For the greatest generation!",
+      "clean_text": "For the greatest generation! For the greatest generation!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9D807F66",
+      "source": "ACULT_APAB",
+      "clean_text": "ACULT_APAB"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9D971E55",
+      "source": "~z~The new boom will not be televised!",
+      "clean_text": "The new boom will not be televised!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9ECD1433",
+      "source": "~z~I'll kill all of you freaks!",
+      "clean_text": "I'll kill all of you freaks!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9F2D2C67",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x10A12987",
+      "source": "~z~Just a couple more lonely hitchhikers for you to...",
+      "clean_text": "Just a couple more lonely hitchhikers for you to..."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x11A6192F",
+      "source": "ACULT_ANAE",
+      "clean_text": "ACULT_ANAE"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x15B3C0D6",
+      "source": "SFX_PAUSE_050",
+      "clean_text": "SFX_PAUSE_050"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x15E9AE3B",
+      "source": "ACULT_ANAI",
+      "clean_text": "ACULT_ANAI"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x16D9D7C4",
+      "source": "ACULT_AXAA",
+      "clean_text": "ACULT_AXAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x17C87ECD",
+      "source": "ACULT_AUAF",
+      "clean_text": "ACULT_AUAF"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x17C42080",
+      "source": "~z~and make him pure!",
+      "clean_text": "and make him pure!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x18EA1F84",
+      "source": "~z~Hello, finder! ~c~~n~Hello, finder!",
+      "clean_text": "Hello, finder! Hello, finder!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x21F5CEEA",
+      "source": "ACULT_AWAI",
+      "clean_text": "ACULT_AWAI"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x28B0CE71",
+      "source": "ACULT_AUAJ",
+      "clean_text": "ACULT_AUAJ"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x28E1ED8A",
+      "source": "SFX_PAUSE_110",
+      "clean_text": "SFX_PAUSE_110"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x32DE1B7B",
+      "source": "~z~Someone has been brought! It is a sign!",
+      "clean_text": "Someone has been brought! It is a sign!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x32FBDF26",
+      "source": "ACULT_AOAC",
+      "clean_text": "ACULT_AOAC"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x33A30046",
+      "source": "ACULT_AUAC",
+      "clean_text": "ACULT_AUAC"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x42A2D8B5",
+      "source": "ACULT_AMAD",
+      "clean_text": "ACULT_AMAD"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x43EF15E8",
+      "source": "ACULT_AWAF",
+      "clean_text": "ACULT_AWAF"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x45BCDC1E",
+      "source": "~z~The greatest good! ~c~~n~The greatest good!",
+      "clean_text": "The greatest good! The greatest good!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x46B158BF",
+      "source": "ACULT_ARAA",
+      "clean_text": "ACULT_ARAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x47E75E74",
+      "source": "~z~Someone has been brought! It is a sign!",
+      "clean_text": "Someone has been brought! It is a sign!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x48B38EAD",
+      "source": "ACULT_ANAA",
+      "clean_text": "ACULT_ANAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x49DA2C4E",
+      "source": "ACULT_ATAA",
+      "clean_text": "ACULT_ATAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x52A7087A",
+      "source": "~z~We are too many! You cannot retire us all!",
+      "clean_text": "We are too many! You cannot retire us all!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x52BFC06D",
+      "source": "ACULT_ATAC",
+      "clean_text": "ACULT_ATAC"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x55F830AB",
+      "source": "ACULT_ANAF",
+      "clean_text": "ACULT_ANAF"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x56DB7C4B",
+      "source": "ACULT_ARAF",
+      "clean_text": "ACULT_ARAF"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x58DCEA20",
+      "source": "~z~Your generation ruined everything for everyone!",
+      "clean_text": "Your generation ruined everything for everyone!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x60DED998",
+      "source": "SFX_PAUSE_480",
+      "clean_text": "SFX_PAUSE_480"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x61C7BB2F",
+      "source": "~z~Eat of the flesh. Drink of the blood.",
+      "clean_text": "Eat of the flesh. Drink of the blood."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x63B01E8F",
+      "source": "ACULT_AWAN",
+      "clean_text": "ACULT_AWAN"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x63F4AB15",
+      "source": "~z~We will not cede to the young!",
+      "clean_text": "We will not cede to the young!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x65EC3D45",
+      "source": "190010390010190",
+      "clean_text": "190010390010190"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x72B7B6BD",
+      "source": "SFX_PAUSE_600",
+      "clean_text": "SFX_PAUSE_600"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x74B0F556",
+      "source": "SFX_PAUSE_400",
+      "clean_text": "SFX_PAUSE_400"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x75B13FF9",
+      "source": "SFX_PAUSE_720",
+      "clean_text": "SFX_PAUSE_720"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x75C63638",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x77A72E31",
+      "source": "ACULT_AMAB",
+      "clean_text": "ACULT_AMAB"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x79D0EBD9",
+      "source": "ACULT_ASAA",
+      "clean_text": "ACULT_ASAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x82D092F2",
+      "source": "ACULT_ANAJ",
+      "clean_text": "ACULT_ANAJ"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x86EE162D",
+      "source": "ACULT_AWAK",
+      "clean_text": "ACULT_AWAK"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x89E1EA49",
+      "source": "~z~Stop trying to relive the sixties! It's over!",
+      "clean_text": "Stop trying to relive the sixties! It's over!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x94BAC422",
+      "source": "ACULT_AOAE",
+      "clean_text": "ACULT_AOAE"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x95C2B874",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x96A19D25",
+      "source": "ACULT_AWAQ",
+      "clean_text": "ACULT_AWAQ"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x124F3228",
+      "source": "190",
+      "clean_text": "190"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x203B78DE",
+      "source": "~z~All you do is take, take, take! Typical baby boomers.",
+      "clean_text": "All you do is take, take, take! Typical baby boomers."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x227C916C",
+      "source": "SFX_PAUSE_270",
+      "clean_text": "SFX_PAUSE_270"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x332DBA72",
+      "source": "ACULT_APAA",
+      "clean_text": "ACULT_APAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x335A7613",
+      "source": "ACULT_ATAD",
+      "clean_text": "ACULT_ATAD"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x339CF0C0",
+      "source": "ACULT_AWAJ",
+      "clean_text": "ACULT_AWAJ"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x347A3999",
+      "source": "~z~Altruism! ~c~~n~Altruism!",
+      "clean_text": "Altruism! Altruism!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x352CF29E",
+      "source": "~z~What have you got? What have you got?",
+      "clean_text": "What have you got? What have you got?"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x360EC13A",
+      "source": "ACULT_ARAD",
+      "clean_text": "ACULT_ARAD"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x417F5EEE",
+      "source": "ACULT_AUAG",
+      "clean_text": "ACULT_AUAG"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x423A8CB9",
+      "source": "~z~Come on... move!",
+      "clean_text": "Come on... move!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x482EEDC4",
+      "source": "ACULT_APAE",
+      "clean_text": "ACULT_APAE"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x510D21A0",
+      "source": "ACULT_ANAB",
+      "clean_text": "ACULT_ANAB"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x519B10E9",
+      "source": "~z~At this altar that has been sent to us.",
+      "clean_text": "At this altar that has been sent to us."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x534E8268",
+      "source": "ACULT_AWAM",
+      "clean_text": "ACULT_AWAM"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x560B3ADE",
+      "source": "~z~We shall boom again!",
+      "clean_text": "We shall boom again!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x621AB538",
+      "source": "ACULT_AWAP",
+      "clean_text": "ACULT_AWAP"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x647FAC27",
+      "source": "~z~Make him pure!",
+      "clean_text": "Make him pure!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x792B557E",
+      "source": "~z~His generation has betrayed us again!",
+      "clean_text": "His generation has betrayed us again!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x821BF1EA",
+      "source": "~z~Purity is everything! ~c~~n~Purity is everything!",
+      "clean_text": "Purity is everything! Purity is everything!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x839F057E",
+      "source": "~z~Yes, master.",
+      "clean_text": "Yes, master."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x857AE53C",
+      "source": "SFX_PAUSE_270",
+      "clean_text": "SFX_PAUSE_270"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x872DF183",
+      "source": "~z~See, he understands nothing of sacrifice!",
+      "clean_text": "See, he understands nothing of sacrifice!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x878F8C60",
+      "source": "~z~Because we know!",
+      "clean_text": "Because we know!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x922C3536",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x945A1A4C",
+      "source": "ACULT_ALAA",
+      "clean_text": "ACULT_ALAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x971E6995",
+      "source": "~z~Ban youth!",
+      "clean_text": "Ban youth!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3021B010",
+      "source": "ACULT_ARAB",
+      "clean_text": "ACULT_ARAB"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3286FB5C",
+      "source": "ACULT_ATAB",
+      "clean_text": "ACULT_ATAB"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x3732DFE3",
+      "source": "SFX_PAUSE_180",
+      "clean_text": "SFX_PAUSE_180"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x4628FA01",
+      "source": "~z~Hello, seeker!",
+      "clean_text": "Hello, seeker!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x5283FBA2",
+      "source": "~z~Careful, don't give yourself a hernia!",
+      "clean_text": "Careful, don't give yourself a hernia!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x6208FCEF",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x6350B454",
+      "source": "~z~Hello, finder! ~c~~n~Hello, finder!",
+      "clean_text": "Hello, finder! Hello, finder!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7422B7B0",
+      "source": "ACULT_AWAL",
+      "clean_text": "ACULT_AWAL"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x7761DC76",
+      "source": "~z~Prepare to be made pure!",
+      "clean_text": "Prepare to be made pure!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9086A123",
+      "source": "ACULT_ANAH",
+      "clean_text": "ACULT_ANAH"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9541B904",
+      "source": "SFX_PAUSE_070",
+      "clean_text": "SFX_PAUSE_070"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9930C099",
+      "source": "SFX_PAUSE_1060",
+      "clean_text": "SFX_PAUSE_1060"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x20121B53",
+      "source": "ACULT_APAD",
+      "clean_text": "ACULT_APAD"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x26799D98",
+      "source": "~z~Youth! ~c~~n~Youth!",
+      "clean_text": "Youth! Youth!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x30264E00",
+      "source": "~z~We kneel before you.",
+      "clean_text": "We kneel before you."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x32987EB7",
+      "source": "SFX_PAUSE_150",
+      "clean_text": "SFX_PAUSE_150"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x37290CD5",
+      "source": "SFX_PAUSE_670",
+      "clean_text": "SFX_PAUSE_670"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x44435F21",
+      "source": "~z~You're the worst cult I've ever seen!",
+      "clean_text": "You're the worst cult I've ever seen!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x57789C94",
+      "source": "ACULT_AWAO",
+      "clean_text": "ACULT_AWAO"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x74162F26",
+      "source": "ACULT_APAC",
+      "clean_text": "ACULT_APAC"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x80203D0D",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x123359C2",
+      "source": "~z~Hail, fellow, what have you got? What have you got?",
+      "clean_text": "Hail, fellow, what have you got? What have you got?"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x193820D2",
+      "source": "SFX_PAUSE_700",
+      "clean_text": "SFX_PAUSE_700"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x323861B3",
+      "source": "~z~Altruism!",
+      "clean_text": "Altruism!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x661743B2",
+      "source": "~z~Ban youth!",
+      "clean_text": "Ban youth!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x791548B0",
+      "source": "~z~Put some clothes on, you old creeps!",
+      "clean_text": "Put some clothes on, you old creeps!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x932731E3",
+      "source": "SFX_PAUSE_270",
+      "clean_text": "SFX_PAUSE_270"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x934571B6",
+      "source": "SFX_PAUSE_180",
+      "clean_text": "SFX_PAUSE_180"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x2452974B",
+      "source": "~z~Someone has been brought! The tide is turning. Come this way!",
+      "clean_text": "Someone has been brought! The tide is turning. Come this way!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x9515925B",
+      "source": "~z~He's back... our friend is back.",
+      "clean_text": "He's back... our friend is back."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x59670335",
+      "source": "ACULT_AUAE",
+      "clean_text": "ACULT_AUAE"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x66562332",
+      "source": "~z~You're the worst generation in history!",
+      "clean_text": "You're the worst generation in history!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x70725884",
+      "source": "~z~We shall be free once more.",
+      "clean_text": "We shall be free once more."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x75397534",
+      "source": "ACULT_ATAF",
+      "clean_text": "ACULT_ATAF"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0x99883749",
+      "source": "ACULT_ANAD",
+      "clean_text": "ACULT_ANAD"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xA2B36915",
+      "source": "~z~He is on the cusp! The boom is weak in him!",
+      "clean_text": "He is on the cusp! The boom is weak in him!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xA50B98CA",
+      "source": "SFX_PAUSE_270",
+      "clean_text": "SFX_PAUSE_270"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xA96AF164",
+      "source": "ACULT_AUAB",
+      "clean_text": "ACULT_AUAB"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xA369E004",
+      "source": "~z~What is this? Come on...",
+      "clean_text": "What is this? Come on..."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xA752E65E",
+      "source": "SFX_PAUSE_140",
+      "clean_text": "SFX_PAUSE_140"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xA2673BBC",
+      "source": "ACULT_AWAW",
+      "clean_text": "ACULT_AWAW"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xABD0BAC8",
+      "source": "~z~He wants our positions of power!",
+      "clean_text": "He wants our positions of power!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xAC880EC1",
+      "source": "~z~I come bearing more gifts.",
+      "clean_text": "I come bearing more gifts."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xAD6A5AC5",
+      "source": "ACULT_AOAA",
+      "clean_text": "ACULT_AOAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xAE9CC060",
+      "source": "~z~The internet has driven him crazy!",
+      "clean_text": "The internet has driven him crazy!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xAE479D91",
+      "source": "ACULT_AMAA",
+      "clean_text": "ACULT_AMAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xB03F6C47",
+      "source": "ACULT_AWAH",
+      "clean_text": "ACULT_AWAH"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xB2EE8973",
+      "source": "~z~We will boom again! You cannot stop us!",
+      "clean_text": "We will boom again! You cannot stop us!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xB3DCA7F8",
+      "source": "ACULT_ARAC",
+      "clean_text": "ACULT_ARAC"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xB8CC65EE",
+      "source": "ACULT_AWAU",
+      "clean_text": "ACULT_AWAU"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xB45EB964",
+      "source": "~z~We shall boom again! ~c~~n~We shall boom again!",
+      "clean_text": "We shall boom again! We shall boom again!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xB207B2B7",
+      "source": "~z~Someone has been brought! Someone has been brought!",
+      "clean_text": "Someone has been brought! Someone has been brought!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xB815FCFC",
+      "source": "ACULT_AWAG",
+      "clean_text": "ACULT_AWAG"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xBA637343",
+      "source": "ACULT_AWAD",
+      "clean_text": "ACULT_AWAD"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xBB82E4B3",
+      "source": "~z~Pure flesh! ~c~~n~Pure flesh!",
+      "clean_text": "Pure flesh! Pure flesh!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xBCC178DF",
+      "source": "ACULT_AWAC",
+      "clean_text": "ACULT_AWAC"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xBD246990",
+      "source": "ACULT_ALAF",
+      "clean_text": "ACULT_ALAF"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xBDA8F955",
+      "source": "~z~He's come again! Our friend is back! Our true friend!",
+      "clean_text": "He's come again! Our friend is back! Our true friend!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xBE23FA87",
+      "source": "~z~Well, then it is time to be true to ourselves, my child.",
+      "clean_text": "Well, then it is time to be true to ourselves, my child."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xBE34F408",
+      "source": "~z~Because we know.",
+      "clean_text": "Because we know."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xBEC87F06",
+      "source": "SFX_PAUSE_200",
+      "clean_text": "SFX_PAUSE_200"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xC0057300",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xC0148712",
+      "source": "ACULT_ANAG",
+      "clean_text": "ACULT_ANAG"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xC04363AD",
+      "source": "~z~This is how they repay us?",
+      "clean_text": "This is how they repay us?"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xC0A87FD9",
+      "source": "SFX_PAUSE_360",
+      "clean_text": "SFX_PAUSE_360"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xC6EC5EBB",
+      "source": "SFX_PAUSE_360",
+      "clean_text": "SFX_PAUSE_360"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xC8B3B4FD",
+      "source": "~z~We won't die until the young are old themselves!",
+      "clean_text": "We won't die until the young are old themselves!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xC31EC6BE",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xC37D6684",
+      "source": "201",
+      "clean_text": "201"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xC50D8FB4",
+      "source": "SFX_PAUSE_030",
+      "clean_text": "SFX_PAUSE_030"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xC3373350",
+      "source": "~z~You're too good to us!",
+      "clean_text": "You're too good to us!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xCAC010B4",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xCBF69D84",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xCC48FD04",
+      "source": "~z~Drink his youth!",
+      "clean_text": "Drink his youth!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xCF942494",
+      "source": "SFX_PAUSE_310",
+      "clean_text": "SFX_PAUSE_310"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xD08C73DD",
+      "source": "SFX_PAUSE_250",
+      "clean_text": "SFX_PAUSE_250"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xD0A2A98B",
+      "source": "~z~Maybe you should, friend.",
+      "clean_text": "Maybe you should, friend."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xD1DA7586",
+      "source": "ACULT_AUAH",
+      "clean_text": "ACULT_AUAH"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xD6B60408",
+      "source": "~z~Don't try and out-weird me, granddad!",
+      "clean_text": "Don't try and out-weird me, granddad!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xD21F1159",
+      "source": "ACULT_ALAB",
+      "clean_text": "ACULT_ALAB"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xD22BA303",
+      "source": "SFX_PAUSE_310",
+      "clean_text": "SFX_PAUSE_310"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xD569CE69",
+      "source": "~z~Our greatest success will be their failure!",
+      "clean_text": "Our greatest success will be their failure!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xD1221F88",
+      "source": "~z~We shall boom again.",
+      "clean_text": "We shall boom again."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xD3539D81",
+      "source": "SFX_PAUSE_130",
+      "clean_text": "SFX_PAUSE_130"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xDABB8C74",
+      "source": "SFX_PAUSE_130",
+      "clean_text": "SFX_PAUSE_130"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xDAC0129D",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xDAC128C3",
+      "source": "ACULT_AWAR",
+      "clean_text": "ACULT_AWAR"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xDAFD7142",
+      "source": "~z~Eat of the flesh! Drink of the blood!",
+      "clean_text": "Eat of the flesh! Drink of the blood!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xDB75EC48",
+      "source": "~z~And so it is... and so it is... leave the body, take the gold...",
+      "clean_text": "And so it is... and so it is... leave the body, take the gold..."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xDC912DB6",
+      "source": "SFX_PAUSE_210",
+      "clean_text": "SFX_PAUSE_210"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xDE0B953E",
+      "source": "ACULT_AQAA",
+      "clean_text": "ACULT_AQAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xDEB55873",
+      "source": "091",
+      "clean_text": "091"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xDF9B7DAA",
+      "source": "SFX_PAUSE_290",
+      "clean_text": "SFX_PAUSE_290"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xE9A023E6",
+      "source": "~z~Ban deceit! ~c~~n~Ban deceit!",
+      "clean_text": "Ban deceit! Ban deceit!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xE28A006F",
+      "source": "~z~Ban lies!",
+      "clean_text": "Ban lies!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xE50DA0B7",
+      "source": "~z~It's time you all retired!",
+      "clean_text": "It's time you all retired!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xE139DE98",
+      "source": "1100000",
+      "clean_text": "1100000"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xE141E270",
+      "source": "ACULT_ALAG",
+      "clean_text": "ACULT_ALAG"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xE368D59B",
+      "source": "~z~He's back... our friend is back.",
+      "clean_text": "He's back... our friend is back."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xE694FA0B",
+      "source": "~z~Yeah, so you keep saying.",
+      "clean_text": "Yeah, so you keep saying."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xE5276DE4",
+      "source": "~z~His generation is already irrelevant!",
+      "clean_text": "His generation is already irrelevant!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xE230109A",
+      "source": "101",
+      "clean_text": "101"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xEA79E44F",
+      "source": "ACULT_AWAE",
+      "clean_text": "ACULT_AWAE"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xECBF0EDA",
+      "source": "~z~I heard you were interested in taking care of some lost travelers... for a price...",
+      "clean_text": "I heard you were interested in taking care of some lost travelers... for a price..."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xECF6046C",
+      "source": "ACULT_AJAA",
+      "clean_text": "ACULT_AJAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xED9AC738",
+      "source": "SFX_PAUSE_180",
+      "clean_text": "SFX_PAUSE_180"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xEE3FCD74",
+      "source": "~z~Kill him!",
+      "clean_text": "Kill him!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xEEC34507",
+      "source": "1100000",
+      "clean_text": "1100000"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xEEE01614",
+      "source": "~z~The boomers are finished!",
+      "clean_text": "The boomers are finished!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xEF2F16C6",
+      "source": "~z~I decide who drinks my blood!",
+      "clean_text": "I decide who drinks my blood!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xF01CD21C",
+      "source": "~z~Someone has been brought! It is a sign!",
+      "clean_text": "Someone has been brought! It is a sign!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xF2B26E2A",
+      "source": "ACULT_ASAB",
+      "clean_text": "ACULT_ASAB"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xF9DE6B79",
+      "source": "ACULT_AWAV",
+      "clean_text": "ACULT_AWAV"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xF21887C6",
+      "source": "~z~From this point on, every generation shall be poorer than the last!",
+      "clean_text": "From this point on, every generation shall be poorer than the last!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xF48156AF",
+      "source": "~z~He has come!",
+      "clean_text": "He has come!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xF55672F2",
+      "source": "~z~rehabilitate or... just give me the money, alright? I really don't give a shit...",
+      "clean_text": "rehabilitate or... just give me the money, alright? I really don't give a shit..."
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xFA451FEA",
+      "source": "ACULT_AKAA",
+      "clean_text": "ACULT_AKAA"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xFAA5F894",
+      "source": "SFX_PAUSE_110",
+      "clean_text": "SFX_PAUSE_110"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xFAD5C651",
+      "source": "~z~Eat of the flesh! ~c~~n~Eat of the flesh!",
+      "clean_text": "Eat of the flesh! Eat of the flesh!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xFAFEF20D",
+      "source": "SFX_PAUSE_060",
+      "clean_text": "SFX_PAUSE_060"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xFC4B698B",
+      "source": "~z~Purity is everything... ~c~~n~Master! Look!",
+      "clean_text": "Purity is everything... Master! Look!"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xFD3DEC7C",
+      "source": "ACULT_AWAS",
+      "clean_text": "ACULT_AWAS"
+    },
+    {
+      "file": "acultau.oxt",
+      "key": "0xFFDB234B",
+      "source": "~z~Your smartphone cannot save you now!",
+      "clean_text": "Your smartphone cannot save you now!"
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0x07EEEE0D",
+      "source": "Deleting file \"N:\\Townley M\\LifeinvaderTresspass.docu\"",
+      "clean_text": "Deleting file \"N:\\Townley M\\LifeinvaderTresspass.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0x4B1F58ED",
+      "source": "Copying file \"N:\\Townley M\\SHainesSearchHist.docu\"",
+      "clean_text": "Copying file \"N:\\Townley M\\SHainesSearchHist.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0x7B795520",
+      "source": "Deleting file \"N:\\Townley M\\IAAKidnap.docu\"",
+      "clean_text": "Deleting file \"N:\\Townley M\\IAAKidnap.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0x8FFE3341",
+      "source": "Deleting file \"N:\\Townley M\\ChumashAssassination.docu\"",
+      "clean_text": "Deleting file \"N:\\Townley M\\ChumashAssassination.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0x54AD9344",
+      "source": "Copying file \"N:\\Townley M\\PaletoBayBankJob.docu\"",
+      "clean_text": "Copying file \"N:\\Townley M\\PaletoBayBankJob.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0x56C626EE",
+      "source": "Get in the ~b~helicopter.",
+      "clean_text": "Get in the helicopter."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0x89B0F18F",
+      "source": "Deleting file \"N:\\Phillips T\\QuestioningMrK.docu\"",
+      "clean_text": "Deleting file \"N:\\Phillips T\\QuestioningMrK.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0x162F8A8E",
+      "source": "Deleting file \"N:\\Townley M\\LifeinvaderAssassination.docu\"",
+      "clean_text": "Deleting file \"N:\\Townley M\\LifeinvaderAssassination.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0x354A5482",
+      "source": "Copying file \"N:\\Townley M\\LifeinvaderAssassination.docu\"",
+      "clean_text": "Copying file \"N:\\Townley M\\LifeinvaderAssassination.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0x469FF72D",
+      "source": "Copying file \"N:\\Philips T\\BlaineCountyMethTrade.docu\"",
+      "clean_text": "Copying file \"N:\\Philips T\\BlaineCountyMethTrade.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0x19971D1C",
+      "source": "Copying file \"N:\\Townley M\\GarageCriminalDamage.docu\"",
+      "clean_text": "Copying file \"N:\\Townley M\\GarageCriminalDamage.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0x280439F6",
+      "source": "Copying file \"N:\\Townley M\\LifeinvaderTresspass.docu\"",
+      "clean_text": "Copying file \"N:\\Townley M\\LifeinvaderTresspass.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xB470C70E",
+      "source": "Deleting file \"N:\\Phillips T\\BlaineCountyMethTrade.docu\"",
+      "clean_text": "Deleting file \"N:\\Phillips T\\BlaineCountyMethTrade.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xBE2B8F9F",
+      "source": "Deleting file \"N:\\Townley M\\NorthYankton.docu\"",
+      "clean_text": "Deleting file \"N:\\Townley M\\NorthYankton.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xC1226071",
+      "source": "Deleting file \"N:\\Phillips T\\TheLostMassacres.docu\"",
+      "clean_text": "Deleting file \"N:\\Phillips T\\TheLostMassacres.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xD26C0ECB",
+      "source": "Copying file \"N:\\Phillips T\\TheLostMassacres.docu\"",
+      "clean_text": "Copying file \"N:\\Phillips T\\TheLostMassacres.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xE036AA60",
+      "source": "Copying file \"N:\\Phillips T\\USMexGunRunning.docu\"",
+      "clean_text": "Copying file \"N:\\Phillips T\\USMexGunRunning.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xE7C6923D",
+      "source": "Copying file \"N:\\Townley M\\NorthYankton.docu\"",
+      "clean_text": "Copying file \"N:\\Townley M\\NorthYankton.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xEB826A4C",
+      "source": "Deleting file \"N:\\Townley M\\SHainesSearchHist.docu\"",
+      "clean_text": "Deleting file \"N:\\Townley M\\SHainesSearchHist.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xEBFBC1E6",
+      "source": "Copying file \"N:\\Phillips T\\QuestioningMrK.docu\"",
+      "clean_text": "Copying file \"N:\\Phillips T\\QuestioningMrK.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xED92B955",
+      "source": "Deleting file \"N:\\Townley M\\PaletoBayBankJob.docu\"",
+      "clean_text": "Deleting file \"N:\\Townley M\\PaletoBayBankJob.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xEEF0C7D4",
+      "source": "Copying file \"N:\\Phillips T\\MerryweatherHeist.docu\"",
+      "clean_text": "Copying file \"N:\\Phillips T\\MerryweatherHeist.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xEEFFBC23",
+      "source": "Deleting file \"N:\\Phillips T\\USMexGunRunning.docu\"",
+      "clean_text": "Deleting file \"N:\\Phillips T\\USMexGunRunning.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xF79B31E6",
+      "source": "Copying file \"N:\\Townley M\\ChumashAssassination.docu\"",
+      "clean_text": "Copying file \"N:\\Townley M\\ChumashAssassination.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xFBD9D5E3",
+      "source": "Deleting file \"N:\\Townley M\\GarageCriminalDamage.docu\"",
+      "clean_text": "Deleting file \"N:\\Townley M\\GarageCriminalDamage.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xFCA4633B",
+      "source": "Copying file \"N:\\Townley M\\IAAKidnap.docu\"",
+      "clean_text": "Copying file \"N:\\Townley M\\IAAKidnap.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "0xFD0A5838",
+      "source": "Deleting file \"N:\\Phillips T\\MerryweatherHeist.docu\"",
+      "clean_text": "Deleting file \"N:\\Phillips T\\MerryweatherHeist.docu\""
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_ABAND1",
+      "source": "~a~ was left behind.",
+      "clean_text": "was left behind."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_ACCHLP",
+      "source": "Use explosives to blow open the locked door.",
+      "clean_text": "Use explosives to blow open the locked door."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_ATTHELI",
+      "source": "Destroy the ~r~helicopter gunship.",
+      "clean_text": "Destroy the helicopter gunship."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_BAIL",
+      "source": "Land on the ~y~FIB building rooftop.",
+      "clean_text": "Land on the FIB building rooftop."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_COMP",
+      "source": "Server terminal",
+      "clean_text": "Server terminal"
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_CREWLB",
+      "source": "Don't leave any ~b~crew members~s~ behind.",
+      "clean_text": "Don't leave any crew members behind."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_DIED",
+      "source": "~a~ died.",
+      "clean_text": "died."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_DLCOMP",
+      "source": "Data erase complete",
+      "clean_text": "Data erase complete"
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_DLTIME",
+      "source": "Time remaining",
+      "clean_text": "Time remaining"
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_ESCAMB1",
+      "source": "Get in the ~b~ambulance.",
+      "clean_text": "Get in the ambulance."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_ESCAPE",
+      "source": "~y~Escape~s~ the FIB building.",
+      "clean_text": "Escape the FIB building."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_ESCFIN",
+      "source": "Go to ~y~Franklin's house.",
+      "clean_text": "Go to Franklin's house."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_ESCPKUP",
+      "source": "Get to the ~y~pickup location.",
+      "clean_text": "Get to the pickup location."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_ESCVAN1",
+      "source": "Get in the ~b~van.",
+      "clean_text": "Get in the van."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_FAMMO",
+      "source": "Out of explosives.",
+      "clean_text": "Out of explosives."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_FDCOMP",
+      "source": "The server terminal was destroyed.",
+      "clean_text": "The server terminal was destroyed."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_FDPHONE",
+      "source": "The hack device was destroyed.",
+      "clean_text": "The hack device was destroyed."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_FLAND",
+      "source": "~a~ failed to land on the FIB building rooftop.",
+      "clean_text": "failed to land on the FIB building rooftop."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_FLATE",
+      "source": "~a~ failed to deploy the chute in time.",
+      "clean_text": "failed to deploy the chute in time."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_HACK",
+      "source": "Hack the ~g~server terminal.",
+      "clean_text": "Hack the server terminal."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_HDEST",
+      "source": "The helicopter was destroyed.",
+      "clean_text": "The helicopter was destroyed."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_HELI1",
+      "source": "Go to the ~y~government facility.",
+      "clean_text": "Go to the government facility."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_HLDOFF",
+      "source": "Hold off the ~r~FIB~s~ while the data is downloaded.",
+      "clean_text": "Hold off the FIB while the data is downloaded."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_HLPFPS",
+      "source": "Hold ~INPUT_RELOAD~ to glance at the terminal and view the progress of the download.",
+      "clean_text": "Hold  to glance at the terminal and view the progress of the download."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_HSPOT",
+      "source": "The FIB was alerted.",
+      "clean_text": "The FIB was alerted."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_HSTUCK",
+      "source": "The helicopter is undriveable.",
+      "clean_text": "The helicopter is undriveable."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_HTAKE",
+      "source": "The helicopter is unable to take off.",
+      "clean_text": "The helicopter is unable to take off."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_JHELP",
+      "source": "Press ~INPUT_SCRIPT_RLEFT~ to jump out of the helicopter.",
+      "clean_text": "Press  to jump out of the helicopter."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_JUMP",
+      "source": "Fly to the ~y~jump zone.",
+      "clean_text": "Fly to the jump zone."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_KILLFIB",
+      "source": "Take out the remaining ~r~FIB.",
+      "clean_text": "Take out the remaining FIB."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_PARAHLP2",
+      "source": "Press or hold ~INPUT_VEH_CIN_CAM~ to focus on the landing zone.",
+      "clean_text": "Press or hold  to focus on the landing zone."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_PARAHLP3",
+      "source": "Hold ~INPUT_PARACHUTE_BRAKE_LEFT~ and ~INPUT_PARACHUTE_BRAKE_RIGHT~ to slow the descent to land.",
+      "clean_text": "Hold  and  to slow the descent to land."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_PARAHLP3_KM",
+      "source": "Hold ~INPUT_PARACHUTE_PRECISION_LANDING~ to slow the descent to land.",
+      "clean_text": "Hold  to slow the descent to land."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_PILOT",
+      "source": "The pilot",
+      "clean_text": "The pilot"
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_RPLHLP",
+      "source": "Hold ~INPUT_MOVE_DOWN_ONLY~ to rappel.~n~Hold ~INPUT_MOVE_DOWN_ONLY~ + press ~INPUT_SCRIPT_RDOWN~ to jump.~n~Hold ~INPUT_SCRIPT_RLEFT~ to do larger jumps.",
+      "clean_text": "Hold  to rappel.Hold  + press  to jump.Hold  to do larger jumps."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_RPLHLP2",
+      "source": "Hold ~INPUT_SCRIPT_RDOWN~ to quick rope to the ground.",
+      "clean_text": "Hold  to quick rope to the ground."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_VDEST",
+      "source": "The getaway vehicle was destroyed.",
+      "clean_text": "The getaway vehicle was destroyed."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_VSTUCK",
+      "source": "The getaway vehicle got stuck.",
+      "clean_text": "The getaway vehicle got stuck."
+    },
+    {
+      "file": "ah3b.oxt",
+      "key": "A3B_WNTDBASE",
+      "source": "The cops discovered the crew at the NOOSE facility.",
+      "clean_text": "The cops discovered the crew at the NOOSE facility."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x00036E2E",
+      "source": "AH3b_BWAA",
+      "clean_text": "AH3b_BWAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0010E0BC",
+      "source": "AH3b_COAZ",
+      "clean_text": "AH3b_COAZ"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x00157639",
+      "source": "092",
+      "clean_text": "092"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x003A974F",
+      "source": "SFX_PAUSE_150",
+      "clean_text": "SFX_PAUSE_150"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0045A437",
+      "source": "AH3b_CUAA",
+      "clean_text": "AH3b_CUAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x006C644F",
+      "source": "500",
+      "clean_text": "500"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x007691C1",
+      "source": "~z~You can break into people's computers, but we can't break into yours?",
+      "clean_text": "You can break into people's computers, but we can't break into yours?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0077BA2D",
+      "source": "SFX_PAUSE_180",
+      "clean_text": "SFX_PAUSE_180"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x009260E6",
+      "source": "1100000",
+      "clean_text": "1100000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x00F38049",
+      "source": "~z~while the last of the baby boomers pretends he's a hacker? Come on, it was hopeful.",
+      "clean_text": "while the last of the baby boomers pretends he's a hacker? Come on, it was hopeful."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x00FEA415",
+      "source": "1000000",
+      "clean_text": "1000000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x01086A77",
+      "source": "~z~Enough of this crap, let's get out!",
+      "clean_text": "Enough of this crap, let's get out!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x014F326B",
+      "source": "~z~Yes, we do...",
+      "clean_text": "Yes, we do..."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x01642CBB",
+      "source": "392",
+      "clean_text": "392"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x017BC5DC",
+      "source": "10000001000000",
+      "clean_text": "10000001000000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x018419AF",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x018D8AB1",
+      "source": "~z~Clear for takedown.",
+      "clean_text": "Clear for takedown."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0196E26A",
+      "source": "~z~N-n-not yet. The final program should get me access to the d-data.",
+      "clean_text": "N-n-not yet. The final program should get me access to the d-data."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x01AAC0F2",
+      "source": "101",
+      "clean_text": "101"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x01B58BC6",
+      "source": "~z~Through here!",
+      "clean_text": "Through here!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x01BEEC11",
+      "source": "591",
+      "clean_text": "591"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x01E935D0",
+      "source": "1000000",
+      "clean_text": "1000000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x02035F50",
+      "source": "AH3b_COBE",
+      "clean_text": "AH3b_COBE"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x020C2F4E",
+      "source": "AH3b_SYAG",
+      "clean_text": "AH3b_SYAG"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x020C9836",
+      "source": "~z~Come on in, man, but, don't forget to take your shoes off.",
+      "clean_text": "Come on in, man, but, don't forget to take your shoes off."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x02443DFB",
+      "source": "~z~Sprinklers brought the fire under control, but be extremely careful.",
+      "clean_text": "Sprinklers brought the fire under control, but be extremely careful."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x02922558",
+      "source": "SFX_PAUSE_370",
+      "clean_text": "SFX_PAUSE_370"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x02A8818B",
+      "source": "AH3b_SWAB",
+      "clean_text": "AH3b_SWAB"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x02B2A959",
+      "source": "AH3b_QPAC",
+      "clean_text": "AH3b_QPAC"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x02CCF6C6",
+      "source": "~z~Argh.",
+      "clean_text": "Argh."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x02D5C2DB",
+      "source": "AH3b_BUAA",
+      "clean_text": "AH3b_BUAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x031A3A0B",
+      "source": "~z~The dudes are through the door!",
+      "clean_text": "The dudes are through the door!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x032133B5",
+      "source": "102012",
+      "clean_text": "102012"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0325FDB9",
+      "source": "AH3b_EZAA",
+      "clean_text": "AH3b_EZAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x03397D1E",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x03587B41",
+      "source": "11000001100100",
+      "clean_text": "11000001100100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x038FE8F9",
+      "source": "11001001100000",
+      "clean_text": "11001001100000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0397DEBF",
+      "source": "AH3b_INAA",
+      "clean_text": "AH3b_INAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x03A6957F",
+      "source": "~z~Or, how about we meet halfway, and I spend some of the green on women for us - me and you - we could share one, man.",
+      "clean_text": "Or, how about we meet halfway, and I spend some of the green on women for us - me and you - we could share one, man."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x03B640CD",
+      "source": "091",
+      "clean_text": "091"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x03BFFEEB",
+      "source": "1100100",
+      "clean_text": "1100100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x03C6819A",
+      "source": "~z~Okay It's doing its thing. If I survive to take another score, I'm bringing someone competent.",
+      "clean_text": "Okay It's doing its thing. If I survive to take another score, I'm bringing someone competent."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x03CD828F",
+      "source": "~z~based on some inappropriate decision I made a long time ago.",
+      "clean_text": "based on some inappropriate decision I made a long time ago."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x03DD00BE",
+      "source": "~z~Probably a bit of both. No one's gonna clap me,",
+      "clean_text": "Probably a bit of both. No one's gonna clap me,"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x04192C32",
+      "source": "~z~Check this out, man.",
+      "clean_text": "Check this out, man."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x042107D9",
+      "source": "AH3b_FYAA",
+      "clean_text": "AH3b_FYAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0436394B",
+      "source": "1100100",
+      "clean_text": "1100100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x043E948E",
+      "source": "AH3b_IKAA",
+      "clean_text": "AH3b_IKAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x044B285B",
+      "source": "302",
+      "clean_text": "302"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0459FE31",
+      "source": "~z~Shit.",
+      "clean_text": "Shit."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x046334C8",
+      "source": "SFX_PAUSE_130",
+      "clean_text": "SFX_PAUSE_130"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0476A035",
+      "source": "~z~The pilot's signal is totally dead.",
+      "clean_text": "The pilot's signal is totally dead."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x047AAA29",
+      "source": "292",
+      "clean_text": "292"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0485B9E8",
+      "source": "~z~Your cell will show as an external device.",
+      "clean_text": "Your cell will show as an external device."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x048802A9",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x048A5AE2",
+      "source": "~z~Alright, alright, we're clear. Frank, I told Lest we could use your place for a postmortum.",
+      "clean_text": "Alright, alright, we're clear. Frank, I told Lest we could use your place for a postmortum."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x04996622",
+      "source": "~z~Moving!",
+      "clean_text": "Moving!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x049BBB41",
+      "source": "1002000",
+      "clean_text": "1002000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x049CC054",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x04AAB7F5",
+      "source": "~z~Hey, we knew this was coming! Let's do this!",
+      "clean_text": "Hey, we knew this was coming! Let's do this!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x04B0456E",
+      "source": "AH3b_RDAC",
+      "clean_text": "AH3b_RDAC"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x04C447FA",
+      "source": "SFX_PAUSE_140",
+      "clean_text": "SFX_PAUSE_140"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x04D6B32C",
+      "source": "1000000",
+      "clean_text": "1000000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x04D9DBEB",
+      "source": "AH3b_GVAA",
+      "clean_text": "AH3b_GVAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x04F51C00",
+      "source": "AH3b_GWAA",
+      "clean_text": "AH3b_GWAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0505E027",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0512C425",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x052E2C61",
+      "source": "1000000",
+      "clean_text": "1000000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x05493D35",
+      "source": "~z~Fuck you!",
+      "clean_text": "Fuck you!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x054EAE8A",
+      "source": "SFX_PAUSE_290",
+      "clean_text": "SFX_PAUSE_290"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x05713804",
+      "source": "AH3b_SYAH",
+      "clean_text": "AH3b_SYAH"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0578454F",
+      "source": "~z~We in and out!",
+      "clean_text": "We in and out!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x057A9138",
+      "source": "392",
+      "clean_text": "392"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x057F9FB9",
+      "source": "AH3b_NZAA",
+      "clean_text": "AH3b_NZAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x05881002",
+      "source": "~z~Right here! Let's do this!",
+      "clean_text": "Right here! Let's do this!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x059E01DC",
+      "source": "AH3b_HUAA",
+      "clean_text": "AH3b_HUAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x05C4B349",
+      "source": "~z~Lead the charge, F.",
+      "clean_text": "Lead the charge, F."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x05C735A4",
+      "source": "SFX_PAUSE_200",
+      "clean_text": "SFX_PAUSE_200"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x05E89058",
+      "source": "AH3b_HLAA",
+      "clean_text": "AH3b_HLAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x05F02B2E",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x05FF6CEA",
+      "source": "~z~You want me to get out and ice some, give me the word.",
+      "clean_text": "You want me to get out and ice some, give me the word."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x06066823",
+      "source": "~z~Let's go, buddy.",
+      "clean_text": "Let's go, buddy."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x06335999",
+      "source": "~z~We be done here soon!",
+      "clean_text": "We be done here soon!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x06560B3D",
+      "source": "191",
+      "clean_text": "191"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x065B8670",
+      "source": "~z~These guys are killers!",
+      "clean_text": "These guys are killers!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x06750B98",
+      "source": "~z~Get ready for extraction, airlift is imminent.",
+      "clean_text": "Get ready for extraction, airlift is imminent."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0678CE2C",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x06BAC572",
+      "source": "~z~FIB chopper's picked me up.",
+      "clean_text": "FIB chopper's picked me up."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x06E06FA7",
+      "source": "~z~Looks like security is right on top of you.",
+      "clean_text": "Looks like security is right on top of you."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x071250E0",
+      "source": "~z~Oh, fuck that.",
+      "clean_text": "Oh, fuck that."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x072A3466",
+      "source": "1000000",
+      "clean_text": "1000000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x074E93B9",
+      "source": "501",
+      "clean_text": "501"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x075C246F",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0760EEB7",
+      "source": "1100000",
+      "clean_text": "1100000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0769132A",
+      "source": "~z~I made it!",
+      "clean_text": "I made it!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x076E67B8",
+      "source": "~z~We getting outta here.",
+      "clean_text": "We getting outta here."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x07747A4B",
+      "source": "1000000",
+      "clean_text": "1000000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0791675C",
+      "source": "~z~W-what you need's in My Computer.",
+      "clean_text": "W-what you need's in My Computer."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x07A71D5C",
+      "source": "401",
+      "clean_text": "401"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x07AC9137",
+      "source": "1100100",
+      "clean_text": "1100100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x07D6C50C",
+      "source": "SFX_PAUSE_120",
+      "clean_text": "SFX_PAUSE_120"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x07DE11DB",
+      "source": "AH3b_GKAZ",
+      "clean_text": "AH3b_GKAZ"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0802BED8",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0802FB0D",
+      "source": "~z~I'll take care of it.",
+      "clean_text": "I'll take care of it."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x080F41AC",
+      "source": "302",
+      "clean_text": "302"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x081DD9A9",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x082E144A",
+      "source": "AH3b_SGAA",
+      "clean_text": "AH3b_SGAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0839980A",
+      "source": "401",
+      "clean_text": "401"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0840B085",
+      "source": "~z~Check the right side of the roof!",
+      "clean_text": "Check the right side of the roof!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0852BC05",
+      "source": "501",
+      "clean_text": "501"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x08594027",
+      "source": "1100100",
+      "clean_text": "1100100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x08666779",
+      "source": "AH3b_QXAC",
+      "clean_text": "AH3b_QXAC"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0866E924",
+      "source": "~z~You're not going to make it from here, keep going.",
+      "clean_text": "You're not going to make it from here, keep going."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x08690E32",
+      "source": "091",
+      "clean_text": "091"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x087376EC",
+      "source": "SFX_PAUSE_210",
+      "clean_text": "SFX_PAUSE_210"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0889CDE0",
+      "source": "AH3b_QKAA",
+      "clean_text": "AH3b_QKAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x08961242",
+      "source": "1100100",
+      "clean_text": "1100100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x08AB3DBE",
+      "source": "~z~That's it. Gotta go.",
+      "clean_text": "That's it. Gotta go."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x08B83D04",
+      "source": "~z~Well fucking organised, boys!",
+      "clean_text": "Well fucking organised, boys!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x08DA6220",
+      "source": "AH3b_ACAA",
+      "clean_text": "AH3b_ACAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x08E452D8",
+      "source": "~z~Lester needs a drink!",
+      "clean_text": "Lester needs a drink!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x08F0EA40",
+      "source": "~z~Keep going.",
+      "clean_text": "Keep going."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x08FAD7B6",
+      "source": "AH3b_FLAA",
+      "clean_text": "AH3b_FLAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x08FF9AA0",
+      "source": "~z~Run the BruteForce app. It should get you through the firewall.",
+      "clean_text": "Run the BruteForce app. It should get you through the firewall."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x091262BE",
+      "source": "~z~You're not exactly filling me with confidence, team leader.",
+      "clean_text": "You're not exactly filling me with confidence, team leader."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0940413E",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x095DCCE5",
+      "source": "AH3b_GHAA",
+      "clean_text": "AH3b_GHAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x09732A97",
+      "source": "AH3b_HOAB",
+      "clean_text": "AH3b_HOAB"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x099F5EC1",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x09ADCD8E",
+      "source": "SFX_PAUSE_370",
+      "clean_text": "SFX_PAUSE_370"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x09C2BED1",
+      "source": "501",
+      "clean_text": "501"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x09D3AC1E",
+      "source": "~z~Over on the right! They coming!",
+      "clean_text": "Over on the right! They coming!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0A00F2DD",
+      "source": "1000000",
+      "clean_text": "1000000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0A7C294D",
+      "source": "SFX_PAUSE_110",
+      "clean_text": "SFX_PAUSE_110"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0A46B4DB",
+      "source": "~z~M, we going?",
+      "clean_text": "M, we going?"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0A48A2CB",
+      "source": "~z~I'd gladly give up my take for the experience of working with you, Mr. Townley. But, you know, a deal's a deal.",
+      "clean_text": "I'd gladly give up my take for the experience of working with you, Mr. Townley. But, you know, a deal's a deal."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0A88BA94",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0A590B59",
+      "source": "~z~This ain't any crew, assholes!",
+      "clean_text": "This ain't any crew, assholes!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0A607FE6",
+      "source": "1102000",
+      "clean_text": "1102000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0A920515",
+      "source": "~z~Come on, you on point!",
+      "clean_text": "Come on, you on point!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0A961288",
+      "source": "~z~Coming into land.",
+      "clean_text": "Coming into land."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0AA134AF",
+      "source": "501",
+      "clean_text": "501"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0AB8C749",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0ACE47A1",
+      "source": "AH3b_GKAW",
+      "clean_text": "AH3b_GKAW"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0ACF3C9B",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0ADBA8D3",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0B0390C4",
+      "source": "~z~or whatever else blowback there might be.",
+      "clean_text": "or whatever else blowback there might be."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0B4F6FB5",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0B36ABB6",
+      "source": "~z~We ain't got time, do something.",
+      "clean_text": "We ain't got time, do something."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0B41E631",
+      "source": "~z~Just gimme a second.",
+      "clean_text": "Just gimme a second."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0B45B604",
+      "source": "1100000",
+      "clean_text": "1100000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0B62C2EA",
+      "source": "~z~Oh, God!",
+      "clean_text": "Oh, God!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0B64D65D",
+      "source": "~z~Cut-rate asshole - if it's any longer than that, we're gonna have words.",
+      "clean_text": "Cut-rate asshole - if it's any longer than that, we're gonna have words."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0B69D225",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0B95E9F8",
+      "source": "~z~The alarm appears to be active.",
+      "clean_text": "The alarm appears to be active."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0B95579A",
+      "source": "AH3b_HXAZ",
+      "clean_text": "AH3b_HXAZ"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0B96651D",
+      "source": "AH3b_NPAA",
+      "clean_text": "AH3b_NPAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0BADD75F",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0BAE90D7",
+      "source": "~z~To the right, man. Look, about every flashing light in the city.",
+      "clean_text": "To the right, man. Look, about every flashing light in the city."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0BD8C7AC",
+      "source": "~z~There'll be more scores down the road, maybe a big one and sunnier days ahead.",
+      "clean_text": "There'll be more scores down the road, maybe a big one and sunnier days ahead."
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0BE1471F",
+      "source": "AH3b_ILAA",
+      "clean_text": "AH3b_ILAA"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0BF1E95C",
+      "source": "AH3b_GQAC",
+      "clean_text": "AH3b_GQAC"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0BF6E78D",
+      "source": "791",
+      "clean_text": "791"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0BF492A1",
+      "source": "~z~Move aside!",
+      "clean_text": "Move aside!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0C0EF460",
+      "source": "~z~Handle this!",
+      "clean_text": "Handle this!"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0C8E48CB",
+      "source": "SFX_PAUSE_180",
+      "clean_text": "SFX_PAUSE_180"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0C60D6A4",
+      "source": "AH3b_COAV",
+      "clean_text": "AH3b_COAV"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0C88F932",
+      "source": "1000000",
+      "clean_text": "1000000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0C749A12",
+      "source": "100",
+      "clean_text": "100"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0C5656A9",
+      "source": "SFX_PAUSE_040",
+      "clean_text": "SFX_PAUSE_040"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0CDEAD05",
+      "source": "10000001000000",
+      "clean_text": "10000001000000"
+    },
+    {
+      "file": "ah3baud.oxt",
+      "key": "0x0CECEF64",
+      "source": "~z~Agent Haines said the timings were tight.",
+      "clean_text": "Agent Haines said the timings were tight."
+    }
+  ]
+}
